@@ -4,7 +4,7 @@ subtitle: 'Welcome to #30DayChartChallenge 2021 day 15'
 date: '2021-04-15'
 image: 'https://raw.githubusercontent.com/Fgazzelloni/30DayChartChallenge/refs/heads/main/data/Edition_2021/images/day15_multivariate.png'
 image-alt: ''
-description: 'Networks'
+description: 'A multivariate visualization of estimated direct and indirect effects in relationship data using the medflex R package.'
 output: html_document
 execute: 
    eval: false

@@ -4,7 +4,7 @@ subtitle: 'Welcome to #30DayMapChallenge 2021 day 23'
 date: '2021-11-23'
 image: 'https://raw.githubusercontent.com/Fgazzelloni/30DayMapChallenge/master/2021/day23_ghsl_data/ghsl.png'
 image-alt: ''
-description: ''
+description: 'A 1-kilometer-resolution map of Italy showing 2015 population from the Global Human Settlement Layer.'
 output: html_document
 execute: 
    eval: false

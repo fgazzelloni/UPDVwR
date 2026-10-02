@@ -4,7 +4,7 @@ subtitle: 'Welcome to #30DayChartChallenge 2023 day 13'
 date: '2023-04-13'
 image: 'day13_popculture.png'
 image-alt: ''
-description: 'Networks'
+description: 'A pop-culture timeline of books, films, and shows addressing mental health, cancer, and opioid addiction.'
 output: html_document
 execute: 
    eval: false

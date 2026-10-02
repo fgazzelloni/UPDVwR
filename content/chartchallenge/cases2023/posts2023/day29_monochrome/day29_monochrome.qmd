@@ -4,7 +4,7 @@ subtitle: 'Welcome to #30DayChartChallenge 2023 day 29'
 date: '2023-04-29'
 image: 'https://raw.githubusercontent.com/Fgazzelloni/30DayChartChallenge/refs/heads/main/data/Edition_2023/images/day29_monochrome.png'
 image-alt: ''
-description: 'Networks'
+description: 'A monochrome map of Lyme disease data from the US Centers for Disease Control and Prevention.'
 output: html_document
 execute: 
    eval: false

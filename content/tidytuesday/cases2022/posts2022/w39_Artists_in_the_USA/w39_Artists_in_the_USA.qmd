@@ -4,7 +4,7 @@ subtitle: 'Welcome to #TidyTuesday 2022 day 39'
 date: '2022-09-27'
 image: 'https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2022/w39_us_artists/w39_us_artists.png'
 image-alt: ''
-description: 'Networks'
+description: 'A visualization of artists in the United States, exploring their locations and recorded characteristics.'
 output: html_document
 execute: 
    eval: false

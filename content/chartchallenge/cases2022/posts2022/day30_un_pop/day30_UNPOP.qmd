@@ -4,7 +4,7 @@ subtitle: 'Welcome to #30DayChartChallenge 2022 day 30'
 date: '2022-04-30'
 image: 'https://raw.githubusercontent.com/Fgazzelloni/30DayChartChallenge/refs/heads/main/data/Edition_2022/images/day30_dataday_un.png'
 image-alt: ''
-description: 'Networks'
+description: 'A time-series visualization of United Nations population estimates and projections by region from 1950 onward.'
 output: html_document
 execute: 
    eval: false

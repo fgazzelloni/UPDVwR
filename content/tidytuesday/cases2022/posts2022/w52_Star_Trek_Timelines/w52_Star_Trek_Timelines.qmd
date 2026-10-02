@@ -4,7 +4,7 @@ subtitle: 'Welcome to #TidyTuesday 2022 day 52'
 date: '2022-12-27'
 image: 'https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2022/w52_star_trek_timelines/w52_star_trek_timeline.png'
 image-alt: ''
-description: 'Networks'
+description: 'A waffle chart and data exploration of Star Trek books, stories, episodes, and series timelines.'
 output: html_document
 execute: 
    eval: false

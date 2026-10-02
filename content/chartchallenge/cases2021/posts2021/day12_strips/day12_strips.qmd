@@ -4,7 +4,7 @@ subtitle: 'Welcome to #30DayChartChallenge 2021 day 12'
 date: '2021-04-12'
 image: 'https://raw.githubusercontent.com/Fgazzelloni/30DayChartChallenge/refs/heads/main/data/Edition_2021/images/day12_strips.png'
 image-alt: ''
-description: 'Networks'
+description: 'An alluvial chart comparing COVID-19 cases, deaths, hospitalizations, intensive care, and recoveries across ten Italian regions.'
 output: html_document
 execute: 
    eval: false

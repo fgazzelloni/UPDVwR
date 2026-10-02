@@ -4,7 +4,7 @@ subtitle: 'Welcome to #30DayChartChallenge 2021 day 18'
 date: '2021-04-18'
 image: 'https://raw.githubusercontent.com/Fgazzelloni/30DayChartChallenge/refs/heads/main/data/Edition_2021/images/day18_connections.png'
 image-alt: ''
-description: 'Networks'
+description: 'A geographic network connecting world countries by distance, built from a minimum spanning tree of country-distance data.'
 output: html_document
 execute: 
    eval: false

@@ -4,7 +4,7 @@ subtitle: 'Welcome to #30DayChartChallenge 2023 day 16'
 date: '2023-04-16'
 image: 'https://raw.githubusercontent.com/Fgazzelloni/30DayChartChallenge/refs/heads/main/data/Edition_2023/images/day16_family.png'
 image-alt: ''
-description: 'Networks'
+description: 'A family-themed word cloud created for the 30DayChartChallenge.'
 output: html_document
 execute: 
    eval: false

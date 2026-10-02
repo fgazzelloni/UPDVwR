@@ -4,7 +4,7 @@ subtitle: 'Welcome to #30DayMapChallenge 2021 day 11'
 date: '2021-11-11'
 image: 'https://raw.githubusercontent.com/Fgazzelloni/30DayMapChallenge/master/2021/day11_3D/world_3D.png'
 image-alt: ''
-description: ''
+description: 'A 3D world map built from a satellite view captured at 8 a.m. on November 11, 2021, using bom.gov.au data.'
 output: html_document
 execute: 
    eval: false

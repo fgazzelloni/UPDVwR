@@ -4,7 +4,7 @@ subtitle: 'Welcome to #30DayMapChallenge 2021 day 21'
 date: '2021-11-21'
 image: 'https://raw.githubusercontent.com/Fgazzelloni/30DayMapChallenge/master/2021/day21_elevation/elevation.png'
 image-alt: ''
-description: ''
+description: 'A map of surface elevation change in Alaska using measurements from the CPOM CryoSat project.'
 output: html_document
 execute: 
    eval: false

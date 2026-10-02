@@ -4,7 +4,7 @@ subtitle: 'Welcome to TidyTuesday 2023 week 13'
 date: '2023-03-28'
 image: 'https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2023/w13_TmZn/w13_TmZn.png'
 image-alt: ''
-description: 'Networks'
+description: 'A visualization exploring time-zone locations and their geographic distribution.'
 output: html_document
 execute: 
    eval: false

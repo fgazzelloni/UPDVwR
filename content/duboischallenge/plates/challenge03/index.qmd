@@ -4,7 +4,7 @@ subtitle: 'Welcome to the #DuboisChallenge2024 week 3'
 date: '2024-02-19'
 image: 'https://raw.githubusercontent.com/Fgazzelloni/DuboisChallenge2024_FG/main/2024/challenge03/challenge03.png'
 image-alt: ''
-description: ''
+description: 'A recreation of Du Bois Plate 19 showing acres of land owned by Black Georgians alongside the original plate.'
 output: html_document
 execute: 
    eval: false

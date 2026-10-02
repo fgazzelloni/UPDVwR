@@ -4,7 +4,7 @@ subtitle: 'Welcome to #30DayChartChallenge 2021 day 21'
 date: '2021-04-21'
 image: 'https://raw.githubusercontent.com/Fgazzelloni/30DayChartChallenge/refs/heads/main/data/Edition_2021/images/day21_downwards.png'
 image-alt: ''
-description: 'Networks'
+description: 'A flipped bar chart comparing Quebec exposure-to-risk by age and sex from 1921 to 2016.'
 output: html_document
 execute: 
    eval: false

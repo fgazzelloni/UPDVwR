@@ -4,7 +4,7 @@ subtitle: 'Welcome to #30DayMapChallenge 2021 day 6'
 date: '2021-11-6'
 image: 'https://raw.githubusercontent.com/Fgazzelloni/30DayMapChallenge/master/2021/day6_red/drought_red.gif'
 image-alt: ''
-description: ''
+description: 'An animated county-level map of US drought conditions from January through July 2021 using TidyTuesday data.'
 output: html_document
 execute: 
    eval: false

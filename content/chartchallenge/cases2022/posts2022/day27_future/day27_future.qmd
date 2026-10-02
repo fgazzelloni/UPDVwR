@@ -4,7 +4,7 @@ subtitle: 'Welcome to #30DayChartChallenge 2022 day 27'
 date: '2022-04-27'
 image: 'https://raw.githubusercontent.com/Fgazzelloni/30DayChartChallenge/refs/heads/main/data/Edition_2022/images/day27_future.png'
 image-alt: ''
-description: 'Networks'
+description: 'A time-series forecast of temperatures in the Boston area from January through April 2022 using Prophet.'
 output: html_document
 execute: 
    eval: false

@@ -4,7 +4,7 @@ subtitle: 'Welcome to #30DayMapChallenge 2021 day 7'
 date: '2021-11-7'
 image: 'https://raw.githubusercontent.com/Fgazzelloni/30DayMapChallenge/master/2021/day7_green/green.png'
 image-alt: ''
-description: ''
+description: 'A map of Greater London combining cycle-hire locations with borough boundaries using TidyTuesday and spData.'
 output: html_document
 execute: 
    eval: false

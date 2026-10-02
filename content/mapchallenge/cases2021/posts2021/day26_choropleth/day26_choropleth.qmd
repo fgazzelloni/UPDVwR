@@ -4,7 +4,7 @@ subtitle: 'Welcome to #30DayMapChallenge 2021 day 26'
 date: '2021-11-26'
 image: 'https://raw.githubusercontent.com/Fgazzelloni/30DayMapChallenge/master/2021/day26_choropleth/choropleth.png'
 image-alt: ''
-description: ''
+description: 'A world choropleth mapping population density per square mile alongside the number of people vulnerable in each area.'
 output: html_document
 execute: 
    eval: false

@@ -1,6 +1,7 @@
 ---
 title: "HstM"
 author: "Federica Gazzelloni"
+description: "A dataset page for US populated places, their official names, geographic coordinates, and recorded histories."
 ---
 
 > To cite Federica's work, please use: Gazzelloni F., 2023 Data Visualization HstM

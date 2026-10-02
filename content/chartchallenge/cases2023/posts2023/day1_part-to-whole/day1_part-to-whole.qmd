@@ -4,7 +4,7 @@ subtitle: 'Welcome to #30DayChartChallenge 2023 day 1'
 date: '2023-04-01'
 image: 'day1_part-to-whole.png'
 image-alt: ''
-description: 'Networks'
+description: 'A comparison of US weather forecast accuracy, connecting annual precipitation and monthly temperature patterns using TidyTuesday data.'
 output: html_document
 execute: 
    eval: false

@@ -4,7 +4,7 @@ subtitle: 'Welcome to #30DayChartChallenge 2022 day 29'
 date: '2022-04-29'
 image: 'https://raw.githubusercontent.com/Fgazzelloni/30DayChartChallenge/refs/heads/main/data/Edition_2022/images/day29_storytelling.png'
 image-alt: ''
-description: 'Networks'
+description: 'A paired view of energy capacity and cost trends from 2014 to 2021, comparing growth in renewable and other power sources.'
 output: html_document
 execute: 
    eval: false

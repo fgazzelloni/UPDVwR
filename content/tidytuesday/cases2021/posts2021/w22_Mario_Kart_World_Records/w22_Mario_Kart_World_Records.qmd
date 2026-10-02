@@ -3,7 +3,7 @@ title: "Mario Kart World"
 subtitle: "Welcome to TidyTuesday 2021 week 22"
 date: "2021-05-25"
 image: 'https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/ab924a20bbe270bab306f4b13df0daaa6e53ffeb/data/2021/w22_mario_kart_world/w22_mario_kart_world.png'
-description: "Networks"
+description: "A comparison of Mario Kart world-record times across tracks and racing categories."
 output: html_document
 execute: 
   eval: false

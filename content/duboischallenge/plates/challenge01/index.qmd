@@ -4,7 +4,7 @@ subtitle: 'Welcome to the #DuboisChallenge2024 week 1'
 date: '2024-02-05'
 image: 'https://raw.githubusercontent.com/Fgazzelloni/DuboisChallenge2024_FG/main/2024/challenge01/challenge01.png'
 image-alt: ''
-description: ''
+description: 'A recreation of Du Bois Plate 6 comparing Black population by county in Georgia in 1870 and 1880, shown alongside the original plate.'
 output: html_document
 execute: 
    eval: false

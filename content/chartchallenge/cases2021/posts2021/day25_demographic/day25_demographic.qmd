@@ -4,7 +4,7 @@ subtitle: 'Welcome to #30DayChartChallenge 2021 day 25'
 date: '2021-04-25'
 image: 'https://raw.githubusercontent.com/Fgazzelloni/30DayChartChallenge/refs/heads/main/data/Edition_2021/images/day25_demographic.png'
 image-alt: ''
-description: 'Networks'
+description: 'An animated view of European Union population change from 2010 to 2019 using IHME demographic data.'
 output: html_document
 execute: 
    eval: false

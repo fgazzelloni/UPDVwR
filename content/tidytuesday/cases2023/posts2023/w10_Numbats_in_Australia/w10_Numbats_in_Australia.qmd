@@ -4,7 +4,7 @@ subtitle: 'Welcome to TidyTuesday 2023 week 10'
 date: '2023-03-07'
 image: 'https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2023/w10_NmiA/w10_NmiA.png'
 image-alt: ''
-description: 'Networks'
+description: 'A geographic look at numbat observations and habitat distribution in Australia.'
 output: html_document
 execute: 
    eval: false

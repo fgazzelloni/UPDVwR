@@ -1,6 +1,7 @@
 ---
 title: "USPP"
 author: "Federica Gazzelloni"
+description: "A dataset page for reported UFO sightings, including location, reported shape, duration, and time of day."
 ---
 
 > To cite Federica's work, please use: Gazzelloni F., 2023 Data Visualization USPP

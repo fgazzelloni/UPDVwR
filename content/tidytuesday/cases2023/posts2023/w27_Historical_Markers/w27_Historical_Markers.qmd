@@ -1,6 +1,7 @@
 ---
 title: "GIST"
 author: "Federica Gazzelloni"
+description: "A dataset page for US historical markers, including their topics, locations, and erection dates."
 ---
 
 > To cite Federica's work, please use: Gazzelloni F., 2023 Data Visualization GIST

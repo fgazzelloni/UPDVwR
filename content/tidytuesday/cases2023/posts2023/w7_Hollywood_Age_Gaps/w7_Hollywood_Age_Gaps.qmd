@@ -4,7 +4,7 @@ subtitle: 'Welcome to TidyTuesday 2023 week 7'
 date: '2023-02-14'
 image: 'https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2023/w7_HlAG/w7_HIAG.png'
 image-alt: ''
-description: 'Networks'
+description: 'A comparison of age differences between Hollywood actors and their on-screen romantic partners.'
 output: html_document
 execute: 
    eval: false

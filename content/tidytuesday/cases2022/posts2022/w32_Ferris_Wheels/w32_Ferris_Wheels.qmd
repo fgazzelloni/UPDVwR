@@ -4,7 +4,7 @@ subtitle: 'Welcome to #TidyTuesday 2022 day 32'
 date: '2022-08-09'
 image: 'https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2022/w32_ferriswheels/w32_ferriswheels.png'
 image-alt: ''
-description: 'Networks'
+description: 'A comparison of Ferris wheels using attributes such as location, height, and capacity.'
 output: html_document
 execute: 
    eval: false

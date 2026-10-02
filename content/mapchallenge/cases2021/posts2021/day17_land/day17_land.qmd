@@ -4,7 +4,7 @@ subtitle: 'Welcome to #30DayMapChallenge 2021 day 17'
 date: '2021-11-17'
 image: 'https://raw.githubusercontent.com/Fgazzelloni/30DayMapChallenge/master/2021/day17_land/land_smaller.png'
 image-alt: ''
-description: ''
+description: 'A map of New York population created in Studio Unfolded AI and styled in R.'
 output: html_document
 execute: 
    eval: false

@@ -4,7 +4,7 @@ subtitle: 'Welcome to #TidyTuesday 2022 day 20'
 date: '2022-05-17'
 image: 'https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2022/w20_eurovision/w20_eurovision.png'
 image-alt: ''
-description: 'Networks'
+description: 'A comparison of Eurovision entries and contest results across countries and years.'
 output: html_document
 execute: 
    eval: false

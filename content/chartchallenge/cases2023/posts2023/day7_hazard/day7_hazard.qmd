@@ -4,7 +4,7 @@ subtitle: 'Welcome to #30DayChartChallenge 2023 day 7'
 date: '2023-04-07'
 image: 'day7_hazard.png'
 image-alt: ''
-description: 'Networks'
+description: 'A Kaplan-Meier survival chart of pet cats in the United Kingdom using TidyTuesday data.'
 output: html_document
 execute: 
    eval: false

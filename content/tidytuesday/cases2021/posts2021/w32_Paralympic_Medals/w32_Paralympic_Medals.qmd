@@ -3,7 +3,7 @@ title: "Paralympic"
 subtitle: "Welcome to TidyTuesday 2021 week 32"
 date: "2021-08-03"
 image: 'https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/ab924a20bbe270bab306f4b13df0daaa6e53ffeb/data/2021/w32_paralympic/w32_paralympic.png'
-description: "Networks"
+description: "A visualization of Paralympic medal results across athletes, countries, and events."
 output: html_document
 execute: 
   eval: false

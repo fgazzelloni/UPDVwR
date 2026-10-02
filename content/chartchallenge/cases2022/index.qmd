@@ -1,6 +1,7 @@
 ---
 title: "30DayChartChallenge 2022"
 image: collage/chart_collage_2022.png
+description: "A collage and index of daily chart visualizations created for the 2022 30DayChartChallenge."
 listing: 
   contents: posts2022
   sort: "date desc"

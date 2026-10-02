@@ -1,6 +1,7 @@
 ---
 title: "Materials"
 image: "slides/gif/plates.gif"
+description: "A presentation introducing Du Bois data-portrait recreations and the collection of challenge plates."
 ---
 
 ## Slides

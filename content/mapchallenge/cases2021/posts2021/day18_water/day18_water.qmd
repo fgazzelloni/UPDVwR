@@ -4,7 +4,7 @@ subtitle: 'Welcome to #30DayMapChallenge 2021 day 18'
 date: '2021-11-18'
 image: 'https://raw.githubusercontent.com/Fgazzelloni/30DayMapChallenge/master/2021/day18_water/water.png'
 image-alt: ''
-description: ''
+description: 'A map of John Snow data, recreating the historic cholera investigation with ocean-climate data from rtwilson.com.'
 output: html_document
 execute: 
    eval: false

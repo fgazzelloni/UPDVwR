@@ -4,7 +4,7 @@ subtitle: 'Welcome to #30DayMapChallenge 2021 day 20'
 date: '2021-11-20'
 image: 'https://raw.githubusercontent.com/Fgazzelloni/30DayMapChallenge/master/2021/day20_movement/movement.png'
 image-alt: ''
-description: ''
+description: 'A map of Alitalia flight routes across Italy using route data from OpenFlights.'
 output: html_document
 execute: 
    eval: false

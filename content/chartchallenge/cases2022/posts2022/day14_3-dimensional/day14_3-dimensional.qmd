@@ -4,7 +4,7 @@ subtitle: 'Welcome to #30DayChartChallenge 2022 day 14'
 date: '2022-04-14'
 image: 'https://raw.githubusercontent.com/Fgazzelloni/30DayChartChallenge/refs/heads/main/data/Edition_2022/images/day14_3-dimensional.png'
 image-alt: ''
-description: 'Networks'
+description: 'A 3D comparison of STEM education by gender using 2019 employment data for scientists and engineers.'
 output: html_document
 execute: 
    eval: false

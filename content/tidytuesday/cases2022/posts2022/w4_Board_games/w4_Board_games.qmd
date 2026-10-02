@@ -4,7 +4,7 @@ subtitle: 'Welcome to #TidyTuesday 2022 day 4'
 date: '2022-01-25'
 image: 'https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2022/w4_board_games/w4_board_games.png'
 image-alt: ''
-description: 'Networks'
+description: 'A network visualization of board-game mechanics, showing how the network changes with its parameters.'
 output: html_document
 execute: 
    eval: false

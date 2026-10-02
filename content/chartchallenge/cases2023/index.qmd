@@ -1,6 +1,7 @@
 ---
 title: "30DayChartChallenge 2023"
 image: collage/chart_collage_2023.png
+description: "A collage and index of daily chart visualizations created for the 2023 30DayChartChallenge."
 listing: 
   contents: posts2023
   sort: "date desc"

@@ -3,6 +3,7 @@ title: 'Pet Cats UK'
 subtitle: 'Welcome to TidyTuesday 2023 week 5'
 date: '2023-01-31'
 image: 'https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2023/w5_PCUK/w5_PCUK.png'
+description: 'A survival analysis of pet cats in the United Kingdom using the TidyTuesday dataset.'
 output: html_document
 execute: 
    eval: false

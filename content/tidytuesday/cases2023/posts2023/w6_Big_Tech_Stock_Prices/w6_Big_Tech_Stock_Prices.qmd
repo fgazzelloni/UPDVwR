@@ -3,7 +3,7 @@ title: 'Big Tech Stock Prices'
 subtitle: 'Welcome to TidyTuesday 2023 week 6'
 date: '2023-02-07'
 image: 'https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2023/w6_BTSP/w6_BTSP.png'
-description: 'Networks'
+description: 'A time-series comparison of stock prices for major technology companies.'
 output: html_document
 execute: 
    eval: false

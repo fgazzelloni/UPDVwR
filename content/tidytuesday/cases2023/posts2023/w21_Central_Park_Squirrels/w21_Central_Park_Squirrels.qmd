@@ -4,7 +4,7 @@ subtitle: 'Welcome to TidyTuesday 2023 week 21'
 date: '2023-05-23'
 image: ''
 image-alt: ''
-description: 'Networks'
+description: 'A summary of Central Park squirrel observations and recorded behaviors from the 2023 TidyTuesday dataset.'
 output: html_document
 execute: 
    eval: false

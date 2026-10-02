@@ -4,7 +4,7 @@ subtitle: 'Welcome to #30DayChartChallenge 2023 day 14'
 date: '2023-04-14'
 image: 'day14_new_tool.png'
 image-alt: ''
-description: 'Networks'
+description: 'A visualization of programming-language creation dates, ranks, types, and user counts from the TidyTuesday dataset.'
 output: html_document
 execute: 
    eval: false

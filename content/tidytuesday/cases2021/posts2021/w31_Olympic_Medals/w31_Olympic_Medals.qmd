@@ -3,7 +3,7 @@ title: "Olympic Medals"
 subtitle: "Welcome to TidyTuesday 2021 week 31"
 date: "2021-07-27"
 image: 'https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/ab924a20bbe270bab306f4b13df0daaa6e53ffeb/data/2021/w31_olympic_medals/w31_olympic_medals.png'
-description: "Networks"
+description: "A comparison of Olympic medal results across countries, events, and years."
 output: html_document
 execute: 
   eval: false

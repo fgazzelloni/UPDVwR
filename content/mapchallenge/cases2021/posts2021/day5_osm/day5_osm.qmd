@@ -4,7 +4,7 @@ subtitle: 'Welcome to #30DayMapChallenge 2021 day 5'
 date: '2021-11-5'
 image: 'https://raw.githubusercontent.com/Fgazzelloni/30DayMapChallenge/master/2021/day5_osm/osmdata.png'
 image-alt: ''
-description: ''
+description: 'An OpenStreetMap-based view of Berlin’s waterways using data from the osmdata package.'
 output: html_document
 execute: 
    eval: false

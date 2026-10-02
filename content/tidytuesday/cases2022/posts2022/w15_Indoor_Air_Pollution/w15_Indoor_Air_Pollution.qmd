@@ -4,7 +4,7 @@ subtitle: 'Welcome to #TidyTuesday 2022 day 15'
 date: '2022-04-12'
 image: 'https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2022/w15_indoor_pollution/day12_theme_day.png'
 image-alt: ''
-description: 'Networks'
+description: 'A comparison of deaths associated with household air pollution from solid fuels across years and populations.'
 output: html_document
 execute: 
    eval: false

@@ -4,7 +4,7 @@ subtitle: 'Welcome to #30DayMapChallenge 2021 day 27'
 date: '2021-11-27'
 image: 'https://raw.githubusercontent.com/Fgazzelloni/30DayMapChallenge/master/2021/day27_heatmap/heatmap.png'
 image-alt: ''
-description: ''
+description: 'A map-based heatmap of London cholera deaths in 1854, based on John Snow’s historic dataset.'
 output: html_document
 execute: 
    eval: false

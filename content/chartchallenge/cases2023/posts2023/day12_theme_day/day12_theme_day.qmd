@@ -4,7 +4,7 @@ subtitle: 'Welcome to #30DayChartChallenge 2023 day 12'
 date: '2023-04-12'
 image: 'day12_theme_day.png'
 image-alt: ''
-description: 'Networks'
+description: 'A map of endangered numbat habitat and geographic distribution across Australia.'
 output: html_document
 execute: 
    eval: false

@@ -3,7 +3,7 @@ title: 'Alone data'
 subtitle: 'Welcome to TidyTuesday 2023 week 4'
 date: '2023-01-24'
 image: 'https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2023/w4_Alnd/w4_Alnd.png'
-description: 'Networks'
+description: 'A comparison of Canadian Alone television viewership with COVID-19 case counts during 2020.'
 output: html_document
 execute: 
    eval: false

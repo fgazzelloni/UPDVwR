@@ -1,6 +1,7 @@
 ---
 title: "SAFIS"
 author: "Federica Gazzelloni"
+description: "A dataset page for country-level energy consumption, production, and electricity mix from Our World in Data."
 ---
 
 > To cite Federica's work, please use: Gazzelloni F., 2023 Data Visualization SAFIS

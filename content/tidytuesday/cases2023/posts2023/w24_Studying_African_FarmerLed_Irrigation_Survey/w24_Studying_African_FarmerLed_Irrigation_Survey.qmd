@@ -1,6 +1,7 @@
 ---
 title: "UFSR"
 author: "Federica Gazzelloni"
+description: "A dataset page for the SAFI survey of household, farming, and irrigation practices in Tanzania and Mozambique."
 ---
 
 > To cite Federica's work, please use: Gazzelloni F., 2023 Data Visualization UFSR

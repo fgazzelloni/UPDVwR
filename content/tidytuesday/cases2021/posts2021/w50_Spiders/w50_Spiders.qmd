@@ -3,7 +3,7 @@ title: 'Spiders'
 subtitle: 'Welcome to TidyTuesday 2021 week 50'
 date: '2021-12-07'
 image: 'https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/ab924a20bbe270bab306f4b13df0daaa6e53ffeb/data/2021/w50_spiders/w50_spiders.png'
-description: 'Networks'
+description: 'A visualization exploring spider observations and species in the TidyTuesday 2021 Week 50 dataset.'
 output: html_document
 execute: 
    eval: false

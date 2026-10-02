@@ -4,7 +4,7 @@ subtitle: 'Welcome to #TidyTuesday 2022 day 46'
 date: '2022-11-15'
 image: 'https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2022/w46_web_page_metrics/w46_web_page_metrics.png'
 image-alt: ''
-description: 'Networks'
+description: 'A visualization exploring web-page metrics and how the recorded measures vary.'
 output: html_document
 execute: 
    eval: false

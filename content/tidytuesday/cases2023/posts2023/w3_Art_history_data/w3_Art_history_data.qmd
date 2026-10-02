@@ -3,7 +3,7 @@ title: 'Art history data'
 subtitle: 'Welcome to TidyTuesday 2023 week 3'
 date: '2023-01-17'
 image: 'https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2023/w3_Arhd/w3_Arhd.png'
-description: 'Networks'
+description: 'A slope chart comparing how much space male Italian artists received in art-history textbooks.'
 output: html_document
 execute: 
    eval: false

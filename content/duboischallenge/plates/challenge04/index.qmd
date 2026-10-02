@@ -4,7 +4,7 @@ subtitle: 'Welcome to the #DuboisChallenge2024 week 4'
 date: '2024-03-04'
 image: "https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2022/w6_airforce/w6_airforce.png"
 image-alt: ''
-description: ''
+description: 'A recreation of Du Bois Plate 1, The Georgia Negro, presented with the original historical plate.'
 output: html_document
 execute: 
    eval: false

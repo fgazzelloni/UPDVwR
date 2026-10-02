@@ -3,7 +3,7 @@ title: "Billboard"
 subtitle: "Welcome to TidyTuesday 2021 week 38"
 date: "2021-09-14"
 image: 'https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/ab924a20bbe270bab306f4b13df0daaa6e53ffeb/data/2021/w38_billboard/w38_billboard.png'
-description: "Networks"
+description: "A chart exploring songs and rankings in the Billboard Hot 100 dataset."
 output: html_document
 execute: 
   eval: false

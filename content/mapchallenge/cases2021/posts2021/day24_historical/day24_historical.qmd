@@ -4,7 +4,7 @@ subtitle: 'Welcome to #30DayMapChallenge 2021 day 24'
 date: '2021-11-24'
 image: 'https://raw.githubusercontent.com/Fgazzelloni/30DayMapChallenge/master/2021/day24_historical/historical.png'
 image-alt: ''
-description: ''
+description: 'A historical map of ocean shipping expeditions from 1781 to 1799 using the Climatological Database for the World’s Oceans.'
 output: html_document
 execute: 
    eval: false

@@ -4,7 +4,7 @@ subtitle: 'Welcome to #TidyTuesday 2022 day 8'
 date: '2022-02-22'
 image: 'https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2022/w8_wfi/freedom.png'
 image-alt: ''
-description: 'Networks'
+description: 'A country-level comparison of scores in the World Freedom Index.'
 output: html_document
 execute: 
    eval: false

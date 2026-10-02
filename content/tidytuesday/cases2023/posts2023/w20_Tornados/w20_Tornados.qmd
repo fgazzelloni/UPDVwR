@@ -4,7 +4,7 @@ subtitle: 'Welcome to TidyTuesday 2023 week 20'
 date: '2023-05-16'
 image: ''
 image-alt: ''
-description: 'Networks'
+description: 'A visualization exploring US tornado events by location, time, and recorded characteristics.'
 output: html_document
 execute: 
    eval: false

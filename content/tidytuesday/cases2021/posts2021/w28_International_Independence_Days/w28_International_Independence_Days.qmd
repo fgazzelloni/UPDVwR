@@ -3,7 +3,7 @@ title: "International Independence Days"
 subtitle: "Welcome to TidyTuesday 2021 week 28"
 date: "2021-07-06"
 image: 'https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/ab924a20bbe270bab306f4b13df0daaa6e53ffeb/data/2021/w28_independence_days/w28_independence_days.png'
-description: "Networks"
+description: "A country-by-country view of national independence days and their dates around the world."
 output: html_document
 execute: 
   eval: false

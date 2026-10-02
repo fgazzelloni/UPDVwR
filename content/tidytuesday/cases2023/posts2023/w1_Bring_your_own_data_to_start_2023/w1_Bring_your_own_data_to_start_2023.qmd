@@ -4,7 +4,7 @@ subtitle: 'Welcome to TidyTuesday 2023 week 1'
 date: '2023-01-03'
 image: 'https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2023/w1_byod/w1_byo.png'
 image-alt: ''
-description: 'Networks'
+description: 'A bring-your-own-data visualization opening the TidyTuesday 2023 season.'
 output: html_document
 execute: 
    eval: false

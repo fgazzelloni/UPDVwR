@@ -4,7 +4,7 @@ subtitle: 'Welcome to #30DayChartChallenge 2022 day 25'
 date: '2022-04-25'
 image: 'https://raw.githubusercontent.com/Fgazzelloni/30DayChartChallenge/refs/heads/main/data/Edition_2022/images/day25_trend.png'
 image-alt: ''
-description: 'Networks'
+description: 'A trend chart of the NASA global land-ocean temperature index.'
 output: html_document
 execute: 
    eval: false

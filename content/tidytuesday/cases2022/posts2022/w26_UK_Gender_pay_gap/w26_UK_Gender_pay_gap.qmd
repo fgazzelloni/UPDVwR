@@ -4,7 +4,7 @@ subtitle: 'Welcome to #TidyTuesday 2022 day 26'
 date: '2022-06-28'
 image: 'https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2022/w26_paygap/w26_paygap.png'
 image-alt: ''
-description: 'Networks'
+description: 'A comparison of the UK gender pay gap across employers and sectors.'
 output: html_document
 execute: 
    eval: false

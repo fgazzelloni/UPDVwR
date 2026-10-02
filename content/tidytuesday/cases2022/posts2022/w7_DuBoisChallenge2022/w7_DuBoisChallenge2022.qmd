@@ -4,7 +4,7 @@ subtitle: 'Welcome to #TidyTuesday 2022 day 7'
 date: '2022-02-15'
 image: 'https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2022/w7_dubois/w7_number6.png'
 image-alt: ''
-description: 'Networks'
+description: 'A recreation of W.E.B. Du Bois’s sixth data portrait for the 2022 DuBois Challenge.'
 output: html_document
 execute: 
    eval: false

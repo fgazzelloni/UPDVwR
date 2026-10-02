@@ -1,6 +1,7 @@
 ---
 title: "TidyTuesday 2023"
 image: images/collage2023.png
+description: "A collage and index of weekly data visualizations created with the 2023 TidyTuesday datasets."
 listing: 
   contents: posts2023
   sort: "date desc"

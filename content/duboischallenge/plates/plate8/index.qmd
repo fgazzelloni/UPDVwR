@@ -4,7 +4,7 @@ subtitle: 'Welcome to the #DuboisChallenge2024 - extra plates'
 date: '2024-04-01'
 image: 'https://raw.githubusercontent.com/Fgazzelloni/30DayChartChallenge/refs/heads/main/data/Edition_2022/images/day3_historical.png'
 image-alt: ''
-description: ''
+description: 'A Du Bois plate page pairing a modern historical visualization with an original plate scan.'
 output: html_document
 execute: 
    eval: false

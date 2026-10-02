@@ -3,7 +3,7 @@ title: "Ceo Departures"
 subtitle: "Welcome to TidyTuesday 2021 week 18"
 date: "2021-04-27"
 image: 'https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/ab924a20bbe270bab306f4b13df0daaa6e53ffeb/data/2021/w18_ceo_departures/w18_ceo_departures.png'
-description: "Networks"
+description: "A time-series visualization of CEO departures and dismissal trends using the TidyTuesday dataset."
 output: html_document
 execute: 
   eval: false

@@ -3,7 +3,7 @@ title: "Ask a Manager Survey"
 subtitle: "Welcome to TidyTuesday 2021 week 21"
 date: "2021-05-18"
 image: 'https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/ab924a20bbe270bab306f4b13df0daaa6e53ffeb/data/2021/w21_ask_a_manager_survey/w21_ask_a_manager_survey.png'
-description: "Networks"
+description: "A summary of salary and workplace responses from the Ask a Manager survey."
 output: html_document
 execute: 
   eval: false

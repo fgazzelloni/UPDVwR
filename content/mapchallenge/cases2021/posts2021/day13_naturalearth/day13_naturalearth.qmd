@@ -4,7 +4,7 @@ subtitle: 'Welcome to #30DayMapChallenge 2021 day 13'
 date: '2021-11-13'
 image: 'https://raw.githubusercontent.com/Fgazzelloni/30DayMapChallenge/master/2021/day13_naturalearth/naturalearth2.png'
 image-alt: ''
-description: ''
+description: 'A Natural Earth map estimating gross domestic product across countries using the rnaturalearth package.'
 output: html_document
 execute: 
    eval: false

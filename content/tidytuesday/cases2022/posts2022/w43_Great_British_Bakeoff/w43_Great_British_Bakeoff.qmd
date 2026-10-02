@@ -4,7 +4,7 @@ subtitle: 'Welcome to #TidyTuesday 2022 day 43'
 date: '2022-10-25'
 image: 'https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2022/w43_gbb/w43_gbb.png'
 image-alt: ''
-description: 'Networks'
+description: 'A visualization of Great British Bake Off contestants, episodes, and competition results.'
 output: html_document
 execute: 
    eval: false

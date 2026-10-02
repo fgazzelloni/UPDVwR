@@ -1,6 +1,7 @@
 ---
 title: "30DayMapChallenge 2021"
 image: "https://raw.githubusercontent.com/Fgazzelloni/30DayMapChallenge/master/2021/collage/collage2021.png"
+description: "A collage and index of daily maps created for the 2021 30DayMapChallenge."
 listing: 
   contents: posts2021
   sort: "date desc"

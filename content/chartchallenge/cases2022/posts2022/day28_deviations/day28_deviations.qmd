@@ -4,7 +4,7 @@ subtitle: 'Welcome to #30DayChartChallenge 2022 day 28'
 date: '2022-04-28'
 image: 'https://raw.githubusercontent.com/Fgazzelloni/30DayChartChallenge/refs/heads/main/data/Edition_2022/images/day28_deviations.png'
 image-alt: ''
-description: 'Networks'
+description: 'A boxplot comparison of word frequency in Kaggle Hidden Gems reviews, using notches to compare medians.'
 output: html_document
 execute: 
    eval: false

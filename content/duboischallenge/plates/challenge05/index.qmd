@@ -4,7 +4,7 @@ subtitle: 'Welcome to the #DuboisChallenge2024 week 5'
 date: '2024-03-04'
 image: "https://raw.githubusercontent.com/Fgazzelloni/DuboisChallenge2024_FG/main/2024/challenge05/challenge05.png"
 image-alt: ''
-description: ''
+description: 'A recreation of Du Bois Plate 13 on race amalgamation in Georgia, shown beside the original plate.'
 output: html_document
 execute: 
    eval: false

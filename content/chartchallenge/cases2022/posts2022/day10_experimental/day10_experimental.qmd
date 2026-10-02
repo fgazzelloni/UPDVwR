@@ -4,7 +4,7 @@ subtitle: 'Welcome to #30DayChartChallenge 2022 day 10'
 date: '2022-04-10'
 image: 'https://raw.githubusercontent.com/Fgazzelloni/30DayChartChallenge/refs/heads/main/data/Edition_2022/images/day10_experimental.png'
 image-alt: ''
-description: 'Networks'
+description: 'An experimental chart of ozone levels using the airquality dataset and RcmdrPlugin.KMggplot2.'
 output: html_document
 execute: 
    eval: false

@@ -4,7 +4,7 @@ subtitle: 'Welcome to #30DayChartChallenge 2022 day 16'
 date: '2022-04-16'
 image: 'https://raw.githubusercontent.com/Fgazzelloni/30DayChartChallenge/refs/heads/main/data/Edition_2022/images/day16_environment.png'
 image-alt: ''
-description: 'Networks'
+description: 'A chart relating household air-pollution deaths to access to clean cooking fuels and GDP per capita.'
 output: html_document
 execute: 
    eval: false

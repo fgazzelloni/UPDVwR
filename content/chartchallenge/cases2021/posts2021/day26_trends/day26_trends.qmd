@@ -4,7 +4,7 @@ subtitle: 'Welcome to #30DayChartChallenge 2021 day 26'
 date: '2021-04-26'
 image: 'https://raw.githubusercontent.com/Fgazzelloni/30DayChartChallenge/refs/heads/main/data/Edition_2021/images/day26_trends.png'
 image-alt: ''
-description: 'Networks'
+description: 'A trend chart of drug-use surveys across 97 countries from 1992 to 2017.'
 output: html_document
 execute: 
    eval: false

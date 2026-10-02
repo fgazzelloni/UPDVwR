@@ -4,7 +4,7 @@ subtitle: 'Welcome to #30DayChartChallenge 2022 day 12'
 date: '2022-04-12'
 image: 'https://raw.githubusercontent.com/Fgazzelloni/30DayChartChallenge/refs/heads/main/data/Edition_2022/images/day12_theme_day.png'
 image-alt: ''
-description: 'Networks'
+description: 'A comparison of deaths linked to household air pollution from solid fuels in 1990 and 2019.'
 output: html_document
 execute: 
    eval: false

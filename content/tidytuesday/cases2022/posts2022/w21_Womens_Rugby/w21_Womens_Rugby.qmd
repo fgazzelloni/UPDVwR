@@ -4,7 +4,7 @@ subtitle: 'Welcome to #TidyTuesday 2022 day 21'
 date: '2022-05-24'
 image: 'https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2022/w21_rugby/w21_women_rugby.png'
 image-alt: ''
-description: 'Networks'
+description: 'A visualization exploring women’s rugby matches, teams, and results in the dataset.'
 output: html_document
 execute: 
    eval: false

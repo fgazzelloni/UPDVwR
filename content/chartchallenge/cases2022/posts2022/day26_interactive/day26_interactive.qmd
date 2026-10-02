@@ -4,7 +4,7 @@ subtitle: 'Welcome to #30DayChartChallenge 2022 day 26'
 date: '2022-04-26'
 image: 'https://raw.githubusercontent.com/Fgazzelloni/30DayChartChallenge/refs/heads/main/data/Edition_2022/images/day26_interactive.png'
 image-alt: ''
-description: 'Networks'
+description: 'An interactive Bitcoin value time series from 2013 to 2018, with annotations marking major events.'
 output: html_document
 execute: 
    eval: false

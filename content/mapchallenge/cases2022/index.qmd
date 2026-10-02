@@ -1,6 +1,7 @@
 ---
 title: "30DayMapChallenge 2022"
 image: "https://raw.githubusercontent.com/Fgazzelloni/30DayMapChallenge/master/2022/collage/collage2022.png"
+description: "A collage and index of daily maps created for the 2022 30DayMapChallenge."
 listing: 
   contents: posts2022
   sort: "date desc"

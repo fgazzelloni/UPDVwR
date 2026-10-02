@@ -4,7 +4,7 @@ subtitle: 'Welcome to #30DayMapChallenge 2021 day 3'
 date: '2021-11-3'
 image: 'https://raw.githubusercontent.com/Fgazzelloni/30DayMapChallenge/master/2021/day3_polygons/polygons.png'
 image-alt: ''
-description: ''
+description: 'A polygon map of the Åland Islands, a region transferred from Sweden to Russia in 1809 and now part of Finland.'
 output: html_document
 execute: 
    eval: false

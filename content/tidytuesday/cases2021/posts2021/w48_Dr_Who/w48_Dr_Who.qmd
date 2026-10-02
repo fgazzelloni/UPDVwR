@@ -3,7 +3,7 @@ title: 'Dr. Who'
 subtitle: 'Welcome to TidyTuesday 2021 week 48'
 date: '2021-11-23'
 image: 'https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/ab924a20bbe270bab306f4b13df0daaa6e53ffeb/data/2021/w48_dr_who/w48_dr_who.png'
-description: 'Networks'
+description: 'A visualization exploring characters, episodes, or story details in the Doctor Who dataset.'
 output: html_document
 execute: 
    eval: false
