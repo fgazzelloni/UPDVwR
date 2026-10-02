@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="dcterms.date" content="2022-04-03">
-<meta name="description" content="Networks">
+<meta name="description" content="Historical: Visualizations that use historical data or have a historical theme.">
 
 <title>Historical – Unlocking the Power of Data Visualization with R</title>
 <style>
@@ -220,7 +220,7 @@ cookieconsent.run({
             <p class="subtitle lead">Welcome to #30DayChartChallenge 2022 day 3</p>
                   <div>
         <div class="description">
-          Networks
+          Historical: Visualizations that use historical data or have a historical theme.
         </div>
       </div>
                           <div class="quarto-categories">
@@ -247,8 +247,14 @@ cookieconsent.run({
   </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#overview" id="toc-overview" class="nav-link active" data-scroll-target="#overview">Overview</a></li>
+  </ul>
+<div class="toc-actions"><ul><li><a href="https://github.com/Fgazzelloni/UPDVwR/edit/main/content/chartchallenge/cases2022/posts2022/day3_historical/day3_historical.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/Fgazzelloni/UPDVwR/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
     </div>
 <!-- main -->
 <main class="content quarto-banner-title-block" id="quarto-document-content">
@@ -257,6 +263,15 @@ cookieconsent.run({
 
 
 
+<section id="overview" class="level2">
+<h2 class="anchored" data-anchor-id="overview">Overview</h2>
+<p>This is my submission for the 2022 #30DayChartChallenge, day 3 - Historical.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://raw.githubusercontent.com/Fgazzelloni/30DayChartChallenge/refs/heads/main/data/Edition_2022/images/day3_historical.png" class="img-fluid figure-img"></p>
+<figcaption>Historical chart</figcaption>
+</figure>
+</div>
 <div class="cell">
 <div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="co">#30DayChartChallengre 2022 day3 - Historical</span></span>
 <span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a></span>
@@ -265,118 +280,121 @@ cookieconsent.run({
 <span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(tidyverse)</span>
 <span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a>df <span class="ot">&lt;-</span> <span class="fu">read_csv</span>(<span class="st">"https://raw.githubusercontent.com/ajstarks/dubois-data-portraits/master/challenge/2022/challenge08/data.csv"</span>)</span>
-<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(hrbrthemes)</span>
-<span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(showtext); <span class="fu">showtext_auto</span>()</span>
-<span id="cb1-12"><a href="#cb1-12" aria-hidden="true" tabindex="-1"></a><span class="fu">font_add_google</span>(<span class="st">"Rajdhani"</span>, <span class="st">"rajdhani"</span>)</span>
-<span id="cb1-13"><a href="#cb1-13" aria-hidden="true" tabindex="-1"></a><span class="co"># font_add_google("Titillium Web", "web")</span></span>
-<span id="cb1-14"><a href="#cb1-14" aria-hidden="true" tabindex="-1"></a><span class="co"># bg         &lt;- "#e1d1c1" </span></span>
-<span id="cb1-15"><a href="#cb1-15" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-16"><a href="#cb1-16" aria-hidden="true" tabindex="-1"></a>df2 <span class="ot">&lt;-</span> df <span class="sc">%&gt;%</span></span>
-<span id="cb1-17"><a href="#cb1-17" aria-hidden="true" tabindex="-1"></a>  <span class="fu">arrange</span>(<span class="sc">-</span>Year)</span>
-<span id="cb1-18"><a href="#cb1-18" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-19"><a href="#cb1-19" aria-hidden="true" tabindex="-1"></a>df2[<span class="dv">7</span>,<span class="dv">1</span>]  <span class="ot">&lt;-</span> <span class="dv">1875</span></span>
-<span id="cb1-20"><a href="#cb1-20" aria-hidden="true" tabindex="-1"></a>df2[<span class="dv">7</span>,<span class="dv">2</span>]  <span class="ot">&lt;-</span> <span class="dv">0</span></span>
-<span id="cb1-21"><a href="#cb1-21" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-22"><a href="#cb1-22" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-23"><a href="#cb1-23" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-24"><a href="#cb1-24" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-25"><a href="#cb1-25" aria-hidden="true" tabindex="-1"></a>ch8 <span class="ot">&lt;-</span>  df2 <span class="sc">%&gt;%</span>  </span>
-<span id="cb1-26"><a href="#cb1-26" aria-hidden="true" tabindex="-1"></a>  <span class="fu">ggplot</span>() <span class="sc">+</span> </span>
-<span id="cb1-27"><a href="#cb1-27" aria-hidden="true" tabindex="-1"></a>  </span>
-<span id="cb1-28"><a href="#cb1-28" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_line</span>(<span class="at">data=</span> <span class="fu">subset</span>(df2, Year<span class="sc">%in%</span><span class="fu">c</span>(<span class="dv">1875</span>,<span class="dv">1875</span>)),</span>
-<span id="cb1-29"><a href="#cb1-29" aria-hidden="true" tabindex="-1"></a>            <span class="at">mapping =</span> <span class="fu">aes</span>(<span class="at">x=</span>Year, <span class="at">y=</span> <span class="st">`</span><span class="at">Houshold Value (Dollars)</span><span class="st">`</span>),</span>
-<span id="cb1-30"><a href="#cb1-30" aria-hidden="true" tabindex="-1"></a>            <span class="at">color=</span><span class="st">"grey50"</span>,<span class="at">size=</span><span class="fl">6.3</span>) <span class="sc">+</span></span>
-<span id="cb1-31"><a href="#cb1-31" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_line</span>(<span class="at">data=</span> <span class="fu">subset</span>(df2, Year<span class="sc">%in%</span><span class="fu">c</span>(<span class="dv">1875</span>,<span class="dv">1875</span>)),</span>
-<span id="cb1-32"><a href="#cb1-32" aria-hidden="true" tabindex="-1"></a>            <span class="at">mapping =</span> <span class="fu">aes</span>(<span class="at">x=</span>Year, <span class="at">y=</span> <span class="st">`</span><span class="at">Houshold Value (Dollars)</span><span class="st">`</span>),</span>
-<span id="cb1-33"><a href="#cb1-33" aria-hidden="true" tabindex="-1"></a>            <span class="at">color=</span><span class="st">"#FFCDCB"</span>,<span class="at">size=</span><span class="dv">6</span>) <span class="sc">+</span></span>
-<span id="cb1-34"><a href="#cb1-34" aria-hidden="true" tabindex="-1"></a>  </span>
-<span id="cb1-35"><a href="#cb1-35" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_line</span>(<span class="at">data=</span> <span class="fu">subset</span>(df2, Year<span class="sc">%in%</span><span class="fu">c</span>(<span class="dv">1875</span>,<span class="dv">1875</span>,<span class="dv">1880</span>)),</span>
-<span id="cb1-36"><a href="#cb1-36" aria-hidden="true" tabindex="-1"></a>            <span class="at">mapping=</span> <span class="fu">aes</span>(<span class="at">x=</span>Year <span class="sc">+</span><span class="dv">2</span>, <span class="at">y=</span> <span class="st">`</span><span class="at">Houshold Value (Dollars)</span><span class="st">`</span>),</span>
-<span id="cb1-37"><a href="#cb1-37" aria-hidden="true" tabindex="-1"></a>            <span class="at">color=</span><span class="st">"grey50"</span>,<span class="at">size=</span><span class="fl">6.3</span>) <span class="sc">+</span></span>
-<span id="cb1-38"><a href="#cb1-38" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_line</span>(<span class="at">data=</span> <span class="fu">subset</span>(df2, Year<span class="sc">%in%</span><span class="fu">c</span>(<span class="dv">1875</span>,<span class="dv">1875</span>,<span class="dv">1880</span>)),</span>
-<span id="cb1-39"><a href="#cb1-39" aria-hidden="true" tabindex="-1"></a>            <span class="at">mapping=</span> <span class="fu">aes</span>(<span class="at">x=</span>Year <span class="sc">+</span><span class="dv">2</span>, <span class="at">y=</span> <span class="st">`</span><span class="at">Houshold Value (Dollars)</span><span class="st">`</span>),</span>
-<span id="cb1-40"><a href="#cb1-40" aria-hidden="true" tabindex="-1"></a>            <span class="at">color=</span><span class="st">"#989EB4"</span>,<span class="at">size=</span><span class="dv">6</span>) <span class="sc">+</span></span>
-<span id="cb1-41"><a href="#cb1-41" aria-hidden="true" tabindex="-1"></a>  </span>
-<span id="cb1-42"><a href="#cb1-42" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_line</span>(<span class="at">data=</span> <span class="fu">subset</span>(df2, Year<span class="sc">%in%</span><span class="fu">c</span>(<span class="dv">1875</span>,<span class="dv">1875</span>,<span class="dv">1880</span>,<span class="dv">1885</span>)),</span>
-<span id="cb1-43"><a href="#cb1-43" aria-hidden="true" tabindex="-1"></a>            <span class="at">mapping=</span> <span class="fu">aes</span>(<span class="at">x=</span>Year <span class="sc">+</span><span class="dv">4</span>, <span class="at">y=</span> <span class="st">`</span><span class="at">Houshold Value (Dollars)</span><span class="st">`</span>),</span>
-<span id="cb1-44"><a href="#cb1-44" aria-hidden="true" tabindex="-1"></a>            <span class="at">color=</span><span class="st">"grey50"</span>,<span class="at">size=</span><span class="fl">6.3</span>) <span class="sc">+</span></span>
-<span id="cb1-45"><a href="#cb1-45" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_line</span>(<span class="at">data=</span> <span class="fu">subset</span>(df2, Year<span class="sc">%in%</span><span class="fu">c</span>(<span class="dv">1875</span>,<span class="dv">1875</span>,<span class="dv">1880</span>,<span class="dv">1885</span>)),</span>
-<span id="cb1-46"><a href="#cb1-46" aria-hidden="true" tabindex="-1"></a>            <span class="at">mapping=</span> <span class="fu">aes</span>(<span class="at">x=</span>Year <span class="sc">+</span><span class="dv">4</span>, <span class="at">y=</span> <span class="st">`</span><span class="at">Houshold Value (Dollars)</span><span class="st">`</span>),</span>
-<span id="cb1-47"><a href="#cb1-47" aria-hidden="true" tabindex="-1"></a>            <span class="at">color=</span><span class="st">"#b08c71"</span>,<span class="at">size=</span><span class="dv">6</span>) <span class="sc">+</span></span>
-<span id="cb1-48"><a href="#cb1-48" aria-hidden="true" tabindex="-1"></a>  </span>
-<span id="cb1-49"><a href="#cb1-49" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_line</span>(<span class="at">data=</span> <span class="fu">subset</span>(df2, Year<span class="sc">%in%</span><span class="fu">c</span>(<span class="dv">1875</span>,<span class="dv">1875</span>,<span class="dv">1880</span>,<span class="dv">1885</span>,<span class="dv">1890</span>)),</span>
-<span id="cb1-50"><a href="#cb1-50" aria-hidden="true" tabindex="-1"></a>            <span class="at">mapping=</span> <span class="fu">aes</span>(<span class="at">x=</span>Year <span class="sc">+</span><span class="dv">6</span>, <span class="at">y=</span> <span class="st">`</span><span class="at">Houshold Value (Dollars)</span><span class="st">`</span>),</span>
-<span id="cb1-51"><a href="#cb1-51" aria-hidden="true" tabindex="-1"></a>            <span class="at">color=</span><span class="st">"grey50"</span>,<span class="at">size=</span><span class="fl">6.3</span>) <span class="sc">+</span></span>
-<span id="cb1-52"><a href="#cb1-52" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_line</span>(<span class="at">data=</span> <span class="fu">subset</span>(df2, Year<span class="sc">%in%</span><span class="fu">c</span>(<span class="dv">1875</span>,<span class="dv">1875</span>,<span class="dv">1880</span>,<span class="dv">1885</span>,<span class="dv">1890</span>)),</span>
-<span id="cb1-53"><a href="#cb1-53" aria-hidden="true" tabindex="-1"></a>            <span class="at">mapping=</span> <span class="fu">aes</span>(<span class="at">x=</span>Year <span class="sc">+</span><span class="dv">6</span>, <span class="at">y=</span> <span class="st">`</span><span class="at">Houshold Value (Dollars)</span><span class="st">`</span>),</span>
-<span id="cb1-54"><a href="#cb1-54" aria-hidden="true" tabindex="-1"></a>            <span class="at">color=</span><span class="st">"#FFC942"</span>,<span class="at">size=</span><span class="dv">6</span>) <span class="sc">+</span></span>
-<span id="cb1-55"><a href="#cb1-55" aria-hidden="true" tabindex="-1"></a>  </span>
-<span id="cb1-56"><a href="#cb1-56" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_line</span>(<span class="at">data=</span> <span class="fu">subset</span>(df2, Year<span class="sc">%in%</span><span class="fu">c</span>(<span class="dv">1875</span>,<span class="dv">1875</span>,<span class="dv">1880</span>,<span class="dv">1885</span>,<span class="dv">1890</span>,<span class="dv">1895</span>)),</span>
-<span id="cb1-57"><a href="#cb1-57" aria-hidden="true" tabindex="-1"></a>            <span class="at">mapping=</span> <span class="fu">aes</span>(<span class="at">x=</span>Year <span class="sc">+</span><span class="dv">8</span>, <span class="at">y=</span> <span class="st">`</span><span class="at">Houshold Value (Dollars)</span><span class="st">`</span>),</span>
-<span id="cb1-58"><a href="#cb1-58" aria-hidden="true" tabindex="-1"></a>            <span class="at">color=</span><span class="st">"grey50"</span>, <span class="at">size=</span><span class="fl">6.3</span>) <span class="sc">+</span></span>
-<span id="cb1-59"><a href="#cb1-59" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_line</span>(<span class="at">data=</span> <span class="fu">subset</span>(df2, Year<span class="sc">%in%</span><span class="fu">c</span>(<span class="dv">1875</span>,<span class="dv">1875</span>,<span class="dv">1880</span>,<span class="dv">1885</span>,<span class="dv">1890</span>,<span class="dv">1895</span>)),</span>
-<span id="cb1-60"><a href="#cb1-60" aria-hidden="true" tabindex="-1"></a>            <span class="at">mapping=</span> <span class="fu">aes</span>(<span class="at">x=</span>Year <span class="sc">+</span><span class="dv">8</span>, <span class="at">y=</span> <span class="st">`</span><span class="at">Houshold Value (Dollars)</span><span class="st">`</span>),</span>
-<span id="cb1-61"><a href="#cb1-61" aria-hidden="true" tabindex="-1"></a>            <span class="at">color=</span><span class="st">"#EFDECC"</span>, <span class="at">size=</span><span class="dv">6</span>) <span class="sc">+</span></span>
-<span id="cb1-62"><a href="#cb1-62" aria-hidden="true" tabindex="-1"></a>  </span>
-<span id="cb1-63"><a href="#cb1-63" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_line</span>(<span class="at">mapping=</span> <span class="fu">aes</span>(<span class="at">x=</span>Year <span class="sc">+</span><span class="dv">10</span>, <span class="at">y=</span> <span class="st">`</span><span class="at">Houshold Value (Dollars)</span><span class="st">`</span>),</span>
-<span id="cb1-64"><a href="#cb1-64" aria-hidden="true" tabindex="-1"></a>            <span class="at">color=</span><span class="st">"grey50"</span>,<span class="at">size=</span><span class="fl">5.3</span>) <span class="sc">+</span></span>
-<span id="cb1-65"><a href="#cb1-65" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_line</span>(<span class="at">mapping=</span> <span class="fu">aes</span>(<span class="at">x=</span>Year <span class="sc">+</span><span class="dv">10</span>, <span class="at">y=</span> <span class="st">`</span><span class="at">Houshold Value (Dollars)</span><span class="st">`</span>),</span>
-<span id="cb1-66"><a href="#cb1-66" aria-hidden="true" tabindex="-1"></a>            <span class="at">color=</span><span class="st">"#F02C49"</span>,<span class="at">size=</span><span class="dv">5</span>) <span class="sc">+</span></span>
-<span id="cb1-67"><a href="#cb1-67" aria-hidden="true" tabindex="-1"></a>  </span>
-<span id="cb1-68"><a href="#cb1-68" aria-hidden="true" tabindex="-1"></a>  <span class="fu">coord_polar</span>(<span class="at">theta =</span> <span class="st">"y"</span>,</span>
-<span id="cb1-69"><a href="#cb1-69" aria-hidden="true" tabindex="-1"></a>              <span class="at">start =</span> <span class="dv">0</span>,</span>
-<span id="cb1-70"><a href="#cb1-70" aria-hidden="true" tabindex="-1"></a>              <span class="at">direction =</span> <span class="dv">1</span>, </span>
-<span id="cb1-71"><a href="#cb1-71" aria-hidden="true" tabindex="-1"></a>              <span class="at">clip =</span> <span class="st">"off"</span>) <span class="sc">+</span></span>
-<span id="cb1-72"><a href="#cb1-72" aria-hidden="true" tabindex="-1"></a>  <span class="co">#scale_x_reverse(expand=expansion(mult=c(-0.9,-0.1),add=c(29,-0.1))) +</span></span>
-<span id="cb1-73"><a href="#cb1-73" aria-hidden="true" tabindex="-1"></a>  <span class="co">#scale_y_continuous(expand=expansion(mult=c(0.09,0.01),add=c(0,-790000))) +</span></span>
-<span id="cb1-74"><a href="#cb1-74" aria-hidden="true" tabindex="-1"></a>  </span>
-<span id="cb1-75"><a href="#cb1-75" aria-hidden="true" tabindex="-1"></a>  <span class="co">#scale_y_continuous(expand = c(1, 0, 0.05, 1))</span></span>
-<span id="cb1-76"><a href="#cb1-76" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-77"><a href="#cb1-77" aria-hidden="true" tabindex="-1"></a>  <span class="fu">scale_x_reverse</span>(<span class="at">expand=</span><span class="fu">expansion</span>(<span class="at">add=</span><span class="fu">c</span>(<span class="dv">11</span>,<span class="sc">-</span><span class="dv">1</span>))) <span class="sc">+</span></span>
-<span id="cb1-78"><a href="#cb1-78" aria-hidden="true" tabindex="-1"></a>  <span class="fu">scale_y_continuous</span>(<span class="at">expand=</span><span class="fu">expansion</span>(<span class="at">add=</span><span class="fu">c</span>(<span class="dv">0</span>,<span class="sc">-</span><span class="dv">600000</span>))) <span class="sc">+</span></span>
-<span id="cb1-79"><a href="#cb1-79" aria-hidden="true" tabindex="-1"></a>  <span class="fu">labs</span>(<span class="at">title=</span><span class="st">"ASSESSED VALUE OF HOUSEHOLD AND KITCHEN FURNITURE </span></span>
-<span id="cb1-80"><a href="#cb1-80" aria-hidden="true" tabindex="-1"></a><span class="st">       OWNED BY GEORGIA NEGROES."</span>)<span class="sc">+</span></span>
-<span id="cb1-81"><a href="#cb1-81" aria-hidden="true" tabindex="-1"></a>  <span class="fu">theme_void</span>() <span class="sc">+</span></span>
-<span id="cb1-82"><a href="#cb1-82" aria-hidden="true" tabindex="-1"></a>  <span class="fu">theme</span>(<span class="at">text =</span> <span class="fu">element_text</span>(<span class="at">family=</span><span class="st">"rajdhani"</span>,</span>
-<span id="cb1-83"><a href="#cb1-83" aria-hidden="true" tabindex="-1"></a>                            <span class="at">face=</span><span class="st">"bold"</span>,</span>
-<span id="cb1-84"><a href="#cb1-84" aria-hidden="true" tabindex="-1"></a>                            <span class="at">color=</span><span class="st">"grey27"</span>),</span>
-<span id="cb1-85"><a href="#cb1-85" aria-hidden="true" tabindex="-1"></a>        <span class="at">aspect.ratio =</span><span class="dv">2</span><span class="sc">/</span><span class="fl">1.95</span>,</span>
-<span id="cb1-86"><a href="#cb1-86" aria-hidden="true" tabindex="-1"></a>        <span class="at">plot.background =</span> <span class="fu">element_rect</span>(<span class="at">color=</span> <span class="st">"#d9ccbf"</span>, <span class="at">fill=</span> <span class="st">"#d9ccbf"</span>),</span>
-<span id="cb1-87"><a href="#cb1-87" aria-hidden="true" tabindex="-1"></a>        <span class="at">plot.title =</span> <span class="fu">element_text</span>(<span class="at">hjust=</span><span class="fl">0.5</span>))</span>
-<span id="cb1-88"><a href="#cb1-88" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-89"><a href="#cb1-89" aria-hidden="true" tabindex="-1"></a>    </span>
-<span id="cb1-90"><a href="#cb1-90" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(cowplot)    </span>
-<span id="cb1-91"><a href="#cb1-91" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-92"><a href="#cb1-92" aria-hidden="true" tabindex="-1"></a>final <span class="ot">&lt;-</span> <span class="fu">ggdraw</span>()<span class="sc">+</span></span>
-<span id="cb1-93"><a href="#cb1-93" aria-hidden="true" tabindex="-1"></a>  <span class="fu">draw_plot</span>(ch8) <span class="sc">+</span></span>
-<span id="cb1-94"><a href="#cb1-94" aria-hidden="true" tabindex="-1"></a>  <span class="fu">draw_label</span>(<span class="at">label =</span> <span class="st">"</span></span>
-<span id="cb1-95"><a href="#cb1-95" aria-hidden="true" tabindex="-1"></a><span class="st">                      1875__________ $ 21,186</span></span>
-<span id="cb1-96"><a href="#cb1-96" aria-hidden="true" tabindex="-1"></a><span class="st">                      1880_______ $ 498,532</span></span>
-<span id="cb1-97"><a href="#cb1-97" aria-hidden="true" tabindex="-1"></a><span class="st">                      1885________ $ 736,170</span></span>
-<span id="cb1-98"><a href="#cb1-98" aria-hidden="true" tabindex="-1"></a><span class="st">                      1890______ $ 1,173,624</span></span>
-<span id="cb1-99"><a href="#cb1-99" aria-hidden="true" tabindex="-1"></a><span class="st">                      1895_____ $ 1,322,694</span></span>
-<span id="cb1-100"><a href="#cb1-100" aria-hidden="true" tabindex="-1"></a><span class="st">                      1899_____ $ 1,434,975"</span>,</span>
-<span id="cb1-101"><a href="#cb1-101" aria-hidden="true" tabindex="-1"></a>             <span class="at">x=</span><span class="fl">0.35</span>,<span class="at">y=</span><span class="fl">0.826</span>,</span>
-<span id="cb1-102"><a href="#cb1-102" aria-hidden="true" tabindex="-1"></a>             <span class="at">size=</span><span class="fl">8.5</span>,<span class="at">fontfamily =</span> <span class="st">"rajdhani"</span>)</span>
-<span id="cb1-103"><a href="#cb1-103" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-104"><a href="#cb1-104" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-105"><a href="#cb1-105" aria-hidden="true" tabindex="-1"></a>final</span>
-<span id="cb1-106"><a href="#cb1-106" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-107"><a href="#cb1-107" aria-hidden="true" tabindex="-1"></a><span class="fu">ggsave</span>(<span class="st">"test3.png"</span>,final)</span>
-<span id="cb1-108"><a href="#cb1-108" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-109"><a href="#cb1-109" aria-hidden="true" tabindex="-1"></a>ragg<span class="sc">::</span><span class="fu">agg_png</span>(here<span class="sc">::</span><span class="fu">here</span>(<span class="st">"test2.png"</span>),</span>
-<span id="cb1-110"><a href="#cb1-110" aria-hidden="true" tabindex="-1"></a>              <span class="co">#scaling=1.5,</span></span>
-<span id="cb1-111"><a href="#cb1-111" aria-hidden="true" tabindex="-1"></a>              <span class="at">res =</span> <span class="dv">300</span>, </span>
-<span id="cb1-112"><a href="#cb1-112" aria-hidden="true" tabindex="-1"></a>              <span class="at">width =</span> <span class="dv">6</span>, </span>
-<span id="cb1-113"><a href="#cb1-113" aria-hidden="true" tabindex="-1"></a>              <span class="at">height =</span> <span class="dv">4</span>, <span class="at">units =</span> <span class="st">"in"</span>)</span>
-<span id="cb1-114"><a href="#cb1-114" aria-hidden="true" tabindex="-1"></a>final</span>
-<span id="cb1-115"><a href="#cb1-115" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-116"><a href="#cb1-116" aria-hidden="true" tabindex="-1"></a><span class="fu">dev.off</span>()    </span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a>df <span class="ot">&lt;-</span> <span class="fu">read_csv</span>(<span class="st">"https://raw.githubusercontent.com/ajstarks/dubois-data-portraits/master/challenge/2022/challenge08/data.csv"</span>)</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+</div>
+<div class="cell">
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb2"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(hrbrthemes)</span>
+<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(showtext); <span class="fu">showtext_auto</span>()</span>
+<span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a><span class="fu">font_add_google</span>(<span class="st">"Rajdhani"</span>, <span class="st">"rajdhani"</span>)</span>
+<span id="cb2-4"><a href="#cb2-4" aria-hidden="true" tabindex="-1"></a><span class="co"># font_add_google("Titillium Web", "web")</span></span>
+<span id="cb2-5"><a href="#cb2-5" aria-hidden="true" tabindex="-1"></a><span class="co"># bg         &lt;- "#e1d1c1"</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+</div>
+<div class="cell">
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb3"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a>df2 <span class="ot">&lt;-</span> df <span class="sc">%&gt;%</span></span>
+<span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a>  <span class="fu">arrange</span>(<span class="sc">-</span>Year)</span>
+<span id="cb3-3"><a href="#cb3-3" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb3-4"><a href="#cb3-4" aria-hidden="true" tabindex="-1"></a>df2[<span class="dv">7</span>,<span class="dv">1</span>]  <span class="ot">&lt;-</span> <span class="dv">1875</span></span>
+<span id="cb3-5"><a href="#cb3-5" aria-hidden="true" tabindex="-1"></a>df2[<span class="dv">7</span>,<span class="dv">2</span>]  <span class="ot">&lt;-</span> <span class="dv">0</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+</div>
+<div class="cell">
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb4"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a>ch8 <span class="ot">&lt;-</span>  df2 <span class="sc">%&gt;%</span>  </span>
+<span id="cb4-2"><a href="#cb4-2" aria-hidden="true" tabindex="-1"></a>  <span class="fu">ggplot</span>() <span class="sc">+</span> </span>
+<span id="cb4-3"><a href="#cb4-3" aria-hidden="true" tabindex="-1"></a>  </span>
+<span id="cb4-4"><a href="#cb4-4" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_line</span>(<span class="at">data=</span> <span class="fu">subset</span>(df2, Year<span class="sc">%in%</span><span class="fu">c</span>(<span class="dv">1875</span>,<span class="dv">1875</span>)),</span>
+<span id="cb4-5"><a href="#cb4-5" aria-hidden="true" tabindex="-1"></a>            <span class="at">mapping =</span> <span class="fu">aes</span>(<span class="at">x=</span>Year, <span class="at">y=</span> <span class="st">`</span><span class="at">Houshold Value (Dollars)</span><span class="st">`</span>),</span>
+<span id="cb4-6"><a href="#cb4-6" aria-hidden="true" tabindex="-1"></a>            <span class="at">color=</span><span class="st">"grey50"</span>,<span class="at">size=</span><span class="fl">6.3</span>) <span class="sc">+</span></span>
+<span id="cb4-7"><a href="#cb4-7" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_line</span>(<span class="at">data=</span> <span class="fu">subset</span>(df2, Year<span class="sc">%in%</span><span class="fu">c</span>(<span class="dv">1875</span>,<span class="dv">1875</span>)),</span>
+<span id="cb4-8"><a href="#cb4-8" aria-hidden="true" tabindex="-1"></a>            <span class="at">mapping =</span> <span class="fu">aes</span>(<span class="at">x=</span>Year, <span class="at">y=</span> <span class="st">`</span><span class="at">Houshold Value (Dollars)</span><span class="st">`</span>),</span>
+<span id="cb4-9"><a href="#cb4-9" aria-hidden="true" tabindex="-1"></a>            <span class="at">color=</span><span class="st">"#FFCDCB"</span>,<span class="at">size=</span><span class="dv">6</span>) <span class="sc">+</span></span>
+<span id="cb4-10"><a href="#cb4-10" aria-hidden="true" tabindex="-1"></a>  </span>
+<span id="cb4-11"><a href="#cb4-11" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_line</span>(<span class="at">data=</span> <span class="fu">subset</span>(df2, Year<span class="sc">%in%</span><span class="fu">c</span>(<span class="dv">1875</span>,<span class="dv">1875</span>,<span class="dv">1880</span>)),</span>
+<span id="cb4-12"><a href="#cb4-12" aria-hidden="true" tabindex="-1"></a>            <span class="at">mapping=</span> <span class="fu">aes</span>(<span class="at">x=</span>Year <span class="sc">+</span><span class="dv">2</span>, <span class="at">y=</span> <span class="st">`</span><span class="at">Houshold Value (Dollars)</span><span class="st">`</span>),</span>
+<span id="cb4-13"><a href="#cb4-13" aria-hidden="true" tabindex="-1"></a>            <span class="at">color=</span><span class="st">"grey50"</span>,<span class="at">size=</span><span class="fl">6.3</span>) <span class="sc">+</span></span>
+<span id="cb4-14"><a href="#cb4-14" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_line</span>(<span class="at">data=</span> <span class="fu">subset</span>(df2, Year<span class="sc">%in%</span><span class="fu">c</span>(<span class="dv">1875</span>,<span class="dv">1875</span>,<span class="dv">1880</span>)),</span>
+<span id="cb4-15"><a href="#cb4-15" aria-hidden="true" tabindex="-1"></a>            <span class="at">mapping=</span> <span class="fu">aes</span>(<span class="at">x=</span>Year <span class="sc">+</span><span class="dv">2</span>, <span class="at">y=</span> <span class="st">`</span><span class="at">Houshold Value (Dollars)</span><span class="st">`</span>),</span>
+<span id="cb4-16"><a href="#cb4-16" aria-hidden="true" tabindex="-1"></a>            <span class="at">color=</span><span class="st">"#989EB4"</span>,<span class="at">size=</span><span class="dv">6</span>) <span class="sc">+</span></span>
+<span id="cb4-17"><a href="#cb4-17" aria-hidden="true" tabindex="-1"></a>  </span>
+<span id="cb4-18"><a href="#cb4-18" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_line</span>(<span class="at">data=</span> <span class="fu">subset</span>(df2, Year<span class="sc">%in%</span><span class="fu">c</span>(<span class="dv">1875</span>,<span class="dv">1875</span>,<span class="dv">1880</span>,<span class="dv">1885</span>)),</span>
+<span id="cb4-19"><a href="#cb4-19" aria-hidden="true" tabindex="-1"></a>            <span class="at">mapping=</span> <span class="fu">aes</span>(<span class="at">x=</span>Year <span class="sc">+</span><span class="dv">4</span>, <span class="at">y=</span> <span class="st">`</span><span class="at">Houshold Value (Dollars)</span><span class="st">`</span>),</span>
+<span id="cb4-20"><a href="#cb4-20" aria-hidden="true" tabindex="-1"></a>            <span class="at">color=</span><span class="st">"grey50"</span>,<span class="at">size=</span><span class="fl">6.3</span>) <span class="sc">+</span></span>
+<span id="cb4-21"><a href="#cb4-21" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_line</span>(<span class="at">data=</span> <span class="fu">subset</span>(df2, Year<span class="sc">%in%</span><span class="fu">c</span>(<span class="dv">1875</span>,<span class="dv">1875</span>,<span class="dv">1880</span>,<span class="dv">1885</span>)),</span>
+<span id="cb4-22"><a href="#cb4-22" aria-hidden="true" tabindex="-1"></a>            <span class="at">mapping=</span> <span class="fu">aes</span>(<span class="at">x=</span>Year <span class="sc">+</span><span class="dv">4</span>, <span class="at">y=</span> <span class="st">`</span><span class="at">Houshold Value (Dollars)</span><span class="st">`</span>),</span>
+<span id="cb4-23"><a href="#cb4-23" aria-hidden="true" tabindex="-1"></a>            <span class="at">color=</span><span class="st">"#b08c71"</span>,<span class="at">size=</span><span class="dv">6</span>) <span class="sc">+</span></span>
+<span id="cb4-24"><a href="#cb4-24" aria-hidden="true" tabindex="-1"></a>  </span>
+<span id="cb4-25"><a href="#cb4-25" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_line</span>(<span class="at">data=</span> <span class="fu">subset</span>(df2, Year<span class="sc">%in%</span><span class="fu">c</span>(<span class="dv">1875</span>,<span class="dv">1875</span>,<span class="dv">1880</span>,<span class="dv">1885</span>,<span class="dv">1890</span>)),</span>
+<span id="cb4-26"><a href="#cb4-26" aria-hidden="true" tabindex="-1"></a>            <span class="at">mapping=</span> <span class="fu">aes</span>(<span class="at">x=</span>Year <span class="sc">+</span><span class="dv">6</span>, <span class="at">y=</span> <span class="st">`</span><span class="at">Houshold Value (Dollars)</span><span class="st">`</span>),</span>
+<span id="cb4-27"><a href="#cb4-27" aria-hidden="true" tabindex="-1"></a>            <span class="at">color=</span><span class="st">"grey50"</span>,<span class="at">size=</span><span class="fl">6.3</span>) <span class="sc">+</span></span>
+<span id="cb4-28"><a href="#cb4-28" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_line</span>(<span class="at">data=</span> <span class="fu">subset</span>(df2, Year<span class="sc">%in%</span><span class="fu">c</span>(<span class="dv">1875</span>,<span class="dv">1875</span>,<span class="dv">1880</span>,<span class="dv">1885</span>,<span class="dv">1890</span>)),</span>
+<span id="cb4-29"><a href="#cb4-29" aria-hidden="true" tabindex="-1"></a>            <span class="at">mapping=</span> <span class="fu">aes</span>(<span class="at">x=</span>Year <span class="sc">+</span><span class="dv">6</span>, <span class="at">y=</span> <span class="st">`</span><span class="at">Houshold Value (Dollars)</span><span class="st">`</span>),</span>
+<span id="cb4-30"><a href="#cb4-30" aria-hidden="true" tabindex="-1"></a>            <span class="at">color=</span><span class="st">"#FFC942"</span>,<span class="at">size=</span><span class="dv">6</span>) <span class="sc">+</span></span>
+<span id="cb4-31"><a href="#cb4-31" aria-hidden="true" tabindex="-1"></a>  </span>
+<span id="cb4-32"><a href="#cb4-32" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_line</span>(<span class="at">data=</span> <span class="fu">subset</span>(df2, Year<span class="sc">%in%</span><span class="fu">c</span>(<span class="dv">1875</span>,<span class="dv">1875</span>,<span class="dv">1880</span>,<span class="dv">1885</span>,<span class="dv">1890</span>,<span class="dv">1895</span>)),</span>
+<span id="cb4-33"><a href="#cb4-33" aria-hidden="true" tabindex="-1"></a>            <span class="at">mapping=</span> <span class="fu">aes</span>(<span class="at">x=</span>Year <span class="sc">+</span><span class="dv">8</span>, <span class="at">y=</span> <span class="st">`</span><span class="at">Houshold Value (Dollars)</span><span class="st">`</span>),</span>
+<span id="cb4-34"><a href="#cb4-34" aria-hidden="true" tabindex="-1"></a>            <span class="at">color=</span><span class="st">"grey50"</span>, <span class="at">size=</span><span class="fl">6.3</span>) <span class="sc">+</span></span>
+<span id="cb4-35"><a href="#cb4-35" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_line</span>(<span class="at">data=</span> <span class="fu">subset</span>(df2, Year<span class="sc">%in%</span><span class="fu">c</span>(<span class="dv">1875</span>,<span class="dv">1875</span>,<span class="dv">1880</span>,<span class="dv">1885</span>,<span class="dv">1890</span>,<span class="dv">1895</span>)),</span>
+<span id="cb4-36"><a href="#cb4-36" aria-hidden="true" tabindex="-1"></a>            <span class="at">mapping=</span> <span class="fu">aes</span>(<span class="at">x=</span>Year <span class="sc">+</span><span class="dv">8</span>, <span class="at">y=</span> <span class="st">`</span><span class="at">Houshold Value (Dollars)</span><span class="st">`</span>),</span>
+<span id="cb4-37"><a href="#cb4-37" aria-hidden="true" tabindex="-1"></a>            <span class="at">color=</span><span class="st">"#EFDECC"</span>, <span class="at">size=</span><span class="dv">6</span>) <span class="sc">+</span></span>
+<span id="cb4-38"><a href="#cb4-38" aria-hidden="true" tabindex="-1"></a>  </span>
+<span id="cb4-39"><a href="#cb4-39" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_line</span>(<span class="at">mapping=</span> <span class="fu">aes</span>(<span class="at">x=</span>Year <span class="sc">+</span><span class="dv">10</span>, <span class="at">y=</span> <span class="st">`</span><span class="at">Houshold Value (Dollars)</span><span class="st">`</span>),</span>
+<span id="cb4-40"><a href="#cb4-40" aria-hidden="true" tabindex="-1"></a>            <span class="at">color=</span><span class="st">"grey50"</span>,<span class="at">size=</span><span class="fl">5.3</span>) <span class="sc">+</span></span>
+<span id="cb4-41"><a href="#cb4-41" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_line</span>(<span class="at">mapping=</span> <span class="fu">aes</span>(<span class="at">x=</span>Year <span class="sc">+</span><span class="dv">10</span>, <span class="at">y=</span> <span class="st">`</span><span class="at">Houshold Value (Dollars)</span><span class="st">`</span>),</span>
+<span id="cb4-42"><a href="#cb4-42" aria-hidden="true" tabindex="-1"></a>            <span class="at">color=</span><span class="st">"#F02C49"</span>,<span class="at">size=</span><span class="dv">5</span>) <span class="sc">+</span></span>
+<span id="cb4-43"><a href="#cb4-43" aria-hidden="true" tabindex="-1"></a>  </span>
+<span id="cb4-44"><a href="#cb4-44" aria-hidden="true" tabindex="-1"></a>  <span class="fu">coord_polar</span>(<span class="at">theta =</span> <span class="st">"y"</span>,</span>
+<span id="cb4-45"><a href="#cb4-45" aria-hidden="true" tabindex="-1"></a>              <span class="at">start =</span> <span class="dv">0</span>,</span>
+<span id="cb4-46"><a href="#cb4-46" aria-hidden="true" tabindex="-1"></a>              <span class="at">direction =</span> <span class="dv">1</span>, </span>
+<span id="cb4-47"><a href="#cb4-47" aria-hidden="true" tabindex="-1"></a>              <span class="at">clip =</span> <span class="st">"off"</span>) <span class="sc">+</span></span>
+<span id="cb4-48"><a href="#cb4-48" aria-hidden="true" tabindex="-1"></a>  <span class="co">#scale_x_reverse(expand=expansion(mult=c(-0.9,-0.1),add=c(29,-0.1))) +</span></span>
+<span id="cb4-49"><a href="#cb4-49" aria-hidden="true" tabindex="-1"></a>  <span class="co">#scale_y_continuous(expand=expansion(mult=c(0.09,0.01),add=c(0,-790000))) +</span></span>
+<span id="cb4-50"><a href="#cb4-50" aria-hidden="true" tabindex="-1"></a>  </span>
+<span id="cb4-51"><a href="#cb4-51" aria-hidden="true" tabindex="-1"></a>  <span class="co">#scale_y_continuous(expand = c(1, 0, 0.05, 1))</span></span>
+<span id="cb4-52"><a href="#cb4-52" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb4-53"><a href="#cb4-53" aria-hidden="true" tabindex="-1"></a>  <span class="fu">scale_x_reverse</span>(<span class="at">expand=</span><span class="fu">expansion</span>(<span class="at">add=</span><span class="fu">c</span>(<span class="dv">11</span>,<span class="sc">-</span><span class="dv">1</span>))) <span class="sc">+</span></span>
+<span id="cb4-54"><a href="#cb4-54" aria-hidden="true" tabindex="-1"></a>  <span class="fu">scale_y_continuous</span>(<span class="at">expand=</span><span class="fu">expansion</span>(<span class="at">add=</span><span class="fu">c</span>(<span class="dv">0</span>,<span class="sc">-</span><span class="dv">600000</span>))) <span class="sc">+</span></span>
+<span id="cb4-55"><a href="#cb4-55" aria-hidden="true" tabindex="-1"></a>  <span class="fu">labs</span>(<span class="at">title=</span><span class="st">"ASSESSED VALUE OF HOUSEHOLD AND KITCHEN FURNITURE </span></span>
+<span id="cb4-56"><a href="#cb4-56" aria-hidden="true" tabindex="-1"></a><span class="st">       OWNED BY GEORGIA NEGROES."</span>)<span class="sc">+</span></span>
+<span id="cb4-57"><a href="#cb4-57" aria-hidden="true" tabindex="-1"></a>  <span class="fu">theme_void</span>() <span class="sc">+</span></span>
+<span id="cb4-58"><a href="#cb4-58" aria-hidden="true" tabindex="-1"></a>  <span class="fu">theme</span>(<span class="at">text =</span> <span class="fu">element_text</span>(<span class="at">family=</span><span class="st">"rajdhani"</span>,</span>
+<span id="cb4-59"><a href="#cb4-59" aria-hidden="true" tabindex="-1"></a>                            <span class="at">face=</span><span class="st">"bold"</span>,</span>
+<span id="cb4-60"><a href="#cb4-60" aria-hidden="true" tabindex="-1"></a>                            <span class="at">color=</span><span class="st">"grey27"</span>),</span>
+<span id="cb4-61"><a href="#cb4-61" aria-hidden="true" tabindex="-1"></a>        <span class="at">aspect.ratio =</span><span class="dv">2</span><span class="sc">/</span><span class="fl">1.95</span>,</span>
+<span id="cb4-62"><a href="#cb4-62" aria-hidden="true" tabindex="-1"></a>        <span class="at">plot.background =</span> <span class="fu">element_rect</span>(<span class="at">color=</span> <span class="st">"#d9ccbf"</span>, <span class="at">fill=</span> <span class="st">"#d9ccbf"</span>),</span>
+<span id="cb4-63"><a href="#cb4-63" aria-hidden="true" tabindex="-1"></a>        <span class="at">plot.title =</span> <span class="fu">element_text</span>(<span class="at">hjust=</span><span class="fl">0.5</span>))</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+</div>
+<div class="cell">
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb5"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb5-1"><a href="#cb5-1" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(cowplot)    </span>
+<span id="cb5-2"><a href="#cb5-2" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb5-3"><a href="#cb5-3" aria-hidden="true" tabindex="-1"></a>final <span class="ot">&lt;-</span> <span class="fu">ggdraw</span>()<span class="sc">+</span></span>
+<span id="cb5-4"><a href="#cb5-4" aria-hidden="true" tabindex="-1"></a>  <span class="fu">draw_plot</span>(ch8) <span class="sc">+</span></span>
+<span id="cb5-5"><a href="#cb5-5" aria-hidden="true" tabindex="-1"></a>  <span class="fu">draw_label</span>(<span class="at">label =</span> <span class="st">"</span></span>
+<span id="cb5-6"><a href="#cb5-6" aria-hidden="true" tabindex="-1"></a><span class="st">                      1875__________ $ 21,186</span></span>
+<span id="cb5-7"><a href="#cb5-7" aria-hidden="true" tabindex="-1"></a><span class="st">                      1880_______ $ 498,532</span></span>
+<span id="cb5-8"><a href="#cb5-8" aria-hidden="true" tabindex="-1"></a><span class="st">                      1885________ $ 736,170</span></span>
+<span id="cb5-9"><a href="#cb5-9" aria-hidden="true" tabindex="-1"></a><span class="st">                      1890______ $ 1,173,624</span></span>
+<span id="cb5-10"><a href="#cb5-10" aria-hidden="true" tabindex="-1"></a><span class="st">                      1895_____ $ 1,322,694</span></span>
+<span id="cb5-11"><a href="#cb5-11" aria-hidden="true" tabindex="-1"></a><span class="st">                      1899_____ $ 1,434,975"</span>,</span>
+<span id="cb5-12"><a href="#cb5-12" aria-hidden="true" tabindex="-1"></a>             <span class="at">x=</span><span class="fl">0.35</span>,<span class="at">y=</span><span class="fl">0.826</span>,</span>
+<span id="cb5-13"><a href="#cb5-13" aria-hidden="true" tabindex="-1"></a>             <span class="at">size=</span><span class="fl">8.5</span>,<span class="at">fontfamily =</span> <span class="st">"rajdhani"</span>)</span>
+<span id="cb5-14"><a href="#cb5-14" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb5-15"><a href="#cb5-15" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb5-16"><a href="#cb5-16" aria-hidden="true" tabindex="-1"></a>final</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+</div>
+<div class="cell">
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb6"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb6-1"><a href="#cb6-1" aria-hidden="true" tabindex="-1"></a><span class="fu">ggsave</span>(<span class="st">"test3.png"</span>,final)</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+</div>
+<div class="cell">
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb7"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb7-1"><a href="#cb7-1" aria-hidden="true" tabindex="-1"></a>ragg<span class="sc">::</span><span class="fu">agg_png</span>(here<span class="sc">::</span><span class="fu">here</span>(<span class="st">"test2.png"</span>),</span>
+<span id="cb7-2"><a href="#cb7-2" aria-hidden="true" tabindex="-1"></a>              <span class="co">#scaling=1.5,</span></span>
+<span id="cb7-3"><a href="#cb7-3" aria-hidden="true" tabindex="-1"></a>              <span class="at">res =</span> <span class="dv">300</span>, </span>
+<span id="cb7-4"><a href="#cb7-4" aria-hidden="true" tabindex="-1"></a>              <span class="at">width =</span> <span class="dv">6</span>, </span>
+<span id="cb7-5"><a href="#cb7-5" aria-hidden="true" tabindex="-1"></a>              <span class="at">height =</span> <span class="dv">4</span>, <span class="at">units =</span> <span class="st">"in"</span>)</span>
+<span id="cb7-6"><a href="#cb7-6" aria-hidden="true" tabindex="-1"></a>final</span>
+<span id="cb7-7"><a href="#cb7-7" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb7-8"><a href="#cb7-8" aria-hidden="true" tabindex="-1"></a><span class="fu">dev.off</span>()    </span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 </div>
 
 
+</section>
 
 <a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -823,7 +841,7 @@ cookieconsent.run({
     </a>
   </li>  
 </ul>
-    <div class="toc-actions"><ul><li><a href="https://github.com/Fgazzelloni/UPDVwR/edit/main/content/chartchallenge/cases2022/posts2022/day3_historical/day3_historical.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/Fgazzelloni/UPDVwR/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div><div class="cookie-consent-footer"><a href="#" id="open_preferences_center">Cookie Preferences</a></div></div>
+    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/Fgazzelloni/UPDVwR/edit/main/content/chartchallenge/cases2022/posts2022/day3_historical/day3_historical.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/Fgazzelloni/UPDVwR/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div><div class="cookie-consent-footer"><a href="#" id="open_preferences_center">Cookie Preferences</a></div></div>
     <div class="nav-footer-right">
 <p><a href="../../../../../ts-and-cs.html">Terms &amp; Conditions</a></p>
 </div>

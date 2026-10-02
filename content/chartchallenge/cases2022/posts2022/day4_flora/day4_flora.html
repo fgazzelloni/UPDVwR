@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="dcterms.date" content="2022-04-04">
-<meta name="description" content="Networks">
+<meta name="description" content="Flora: IRIS dataset petal length and width">
 
 <title>Flora – Unlocking the Power of Data Visualization with R</title>
 <style>
@@ -220,7 +220,7 @@ cookieconsent.run({
             <p class="subtitle lead">Welcome to #30DayChartChallenge 2022 day 4</p>
                   <div>
         <div class="description">
-          Networks
+          Flora: IRIS dataset petal length and width
         </div>
       </div>
                           <div class="quarto-categories">
@@ -252,7 +252,10 @@ cookieconsent.run({
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#source-httpsblog.k2h.sepostpolar-rose-garden" id="toc-source-httpsblog.k2h.sepostpolar-rose-garden" class="nav-link active" data-scroll-target="#source-httpsblog.k2h.sepostpolar-rose-garden">source: https://blog.k2h.se/post/polar-rose-garden/</a></li>
+  <li><a href="#overview" id="toc-overview" class="nav-link active" data-scroll-target="#overview">Overview</a>
+  <ul class="collapse">
+  <li><a href="#source-httpsblog.k2h.sepostpolar-rose-garden" id="toc-source-httpsblog.k2h.sepostpolar-rose-garden" class="nav-link" data-scroll-target="#source-httpsblog.k2h.sepostpolar-rose-garden">source: https://blog.k2h.se/post/polar-rose-garden/</a></li>
+  </ul></li>
   </ul>
 <div class="toc-actions"><ul><li><a href="https://github.com/Fgazzelloni/UPDVwR/edit/main/content/chartchallenge/cases2022/posts2022/day4_flora/day4_flora.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/Fgazzelloni/UPDVwR/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
     </div>
@@ -263,6 +266,16 @@ cookieconsent.run({
 
 
 
+<section id="overview" class="level2">
+<h2 class="anchored" data-anchor-id="overview">Overview</h2>
+<p>For day 4 of the #30DayChartChallenge2022 the theme is “Flora”.</p>
+<p>I decided to use the well known IRIS dataset and represent the petal length and width of the three species of iris flowers (setosa, versicolor and virginica) using polar rose curves. Each flower is represented by a rose curve where the petal length influences the rotation and the petal width the size of the flower. The flowers are placed on a grid with some random jitter to make it more lively. Stems are drawn from each flower to the bottom of the plot.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://raw.githubusercontent.com/Fgazzelloni/30DayChartChallenge/refs/heads/main/data/Edition_2022/images/day4_flora.png" class="img-fluid figure-img"></p>
+<figcaption>Flora</figcaption>
+</figure>
+</div>
 <section id="source-httpsblog.k2h.sepostpolar-rose-garden" class="level3">
 <h3 class="anchored" data-anchor-id="source-httpsblog.k2h.sepostpolar-rose-garden">source: https://blog.k2h.se/post/polar-rose-garden/</h3>
 <div class="cell">
@@ -323,12 +336,14 @@ cookieconsent.run({
 <span id="cb1-55"><a href="#cb1-55" aria-hidden="true" tabindex="-1"></a>       <span class="at">caption=</span><span class="st">"Source: Polar rose garden by @hnrklndbrg | DataViz: Federica Gazzelloni"</span>)<span class="sc">+</span></span>
 <span id="cb1-56"><a href="#cb1-56" aria-hidden="true" tabindex="-1"></a>  <span class="fu">theme</span>(<span class="at">plot.title =</span> <span class="fu">element_text</span>(<span class="at">hjust=</span><span class="fl">0.5</span>),</span>
 <span id="cb1-57"><a href="#cb1-57" aria-hidden="true" tabindex="-1"></a>        <span class="at">plot.subtitle =</span> <span class="fu">element_text</span>(<span class="at">hjust=</span><span class="fl">0.5</span>),</span>
-<span id="cb1-58"><a href="#cb1-58" aria-hidden="true" tabindex="-1"></a>        <span class="at">plot.caption =</span> <span class="fu">element_text</span>(<span class="at">hjust=</span><span class="fl">0.5</span>))</span>
-<span id="cb1-59"><a href="#cb1-59" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-60"><a href="#cb1-60" aria-hidden="true" tabindex="-1"></a><span class="fu">ggsave</span>(<span class="st">"day4_flora.png"</span>)</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<span id="cb1-58"><a href="#cb1-58" aria-hidden="true" tabindex="-1"></a>        <span class="at">plot.caption =</span> <span class="fu">element_text</span>(<span class="at">hjust=</span><span class="fl">0.5</span>))</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+</div>
+<div class="cell">
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb2"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="fu">ggsave</span>(<span class="st">"day4_flora.png"</span>)</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 </div>
 
 
+</section>
 </section>
 
 <a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->

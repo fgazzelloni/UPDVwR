@@ -1,3 +1,0 @@
-"0","data <- as.data.frame(WorldPhones) %>%"
-"0","  rownames_to_column(var = ""year"")"
-"0","data"

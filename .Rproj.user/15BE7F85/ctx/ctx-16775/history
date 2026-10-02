@@ -1,7 +1,0 @@
-usethis::use_readme_md()
-knitr::opts_chunk$set(echo = TRUE)
-bck_color <- "#FEFCEF"
-library(ggimage)
-bck_color <- "#FEFCEF"
-UN_img="https://camo.githubusercontent.com/654fb54c78403255bbe1457b6a75423f5e370ee075eab4db0a189b886b68b8d7/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f652f65652f554e5f656d626c656d5f626c75652e7376672f3132303570782d554e5f656d626c656d5f626c75652e706e67"
-g<-ggbackground(main_plot, UN_img, alpha=.7,color="#94BCFF")
