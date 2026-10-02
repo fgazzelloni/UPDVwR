@@ -1,0 +1,15 @@
+{
+  "hash": "c7188447cde9ee416fe6191e3b33e72e",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: 'Lines'\nsubtitle: 'Welcome to #30DayMapChallenge 2022 day 2'\ndate: '2022-11-2'\nimage: 'https://raw.githubusercontent.com/Fgazzelloni/30DayMapChallenge/master/2022/day2_lines/day2_lines.png'\nimage-alt: ''\ndescription: ''\noutput: html_document\nexecute: \n   eval: false\n---\n\n\n# Overview\n\nThis is a map of `Long-term rivers average discharge in Italy and surrounding areas`. Values m3/s for rivers with length in km greater than 1.780. Data is from `hydrosheds.org`.\n\n\n\n## Load the libraries\n\n::: {.cell}\n\n```{.r .cell-code}\nlibrary(tidyverse)\nlibrary(sf)\nlibrary(cowplot)\n\n# set the fonts\nlibrary(showtext)\nlibrary(sysfonts)\nlibrary(extrafont)\nshowtext::showtext_auto()\nshowtext::showtext_opts(dpi=320)\nfont_add(family =\"Roboto Condensed\",regular=\"RobotoCondensed-Regular.ttf\")\n\n# read in the rivers data\n# https://www.hydrosheds.org/products/hydrorivers\n# my_rivers <- st_read(dsn = 'HydroRIVERS_v10_eu_shp/HydroRIVERS_v10_eu.shp') \n# save(my_rivers,file=\"data/my_rivers.RData\")\n\nload(\"data/my_rivers.RData\")\n\n\n# select rivers with length in km greater than 1.780\nmy_rivers_1 <- my_rivers %>% \n  filter(LENGTH_KM> 1.780)\n\n\n\nmap <- my_rivers_1 %>% \n  ggplot()+\n  geom_sf(aes(color=ORD_FLOW),\n          size=0.1,\n          show.legend = TRUE) +\n  coord_sf(xlim = c(0.439,24.961),ylim = c(34.355,46.870))\n\nmap +\n  labs(title=\"Long-term rivers average discharge\",\n       subtitle=\"Italy and surrounding areas\",\n       caption=\"Values m3/s. Rivers with length in km greater than 1.780.\\nLength of discharge indicator: high (1) to low (10)\\n#30DayMapChallenge 2022 Day 2: Lines\\nDataSource: hydrosheds.org | Map: Federica Gazzelloni (@fgazzelloni)\",\n       color=\"Indicator\")+\n  theme(legend.position = c(0.2,-0.105),\n        legend.background = element_blank(),\n        legend.direction = \"horizontal\",\n        text = element_text(family=\"Roboto Condensed\"),\n        panel.grid = element_line(color=\"grey92\",size=0.3),\n        plot.background = element_rect(color=\"grey95\",fill=\"grey95\"),\n        panel.background = element_rect(color=\"grey95\",fill=\"grey95\"))\n\n\n\nggsave(\"day2_lines.png\",dpi=300)\n```\n:::\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

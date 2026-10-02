@@ -1,0 +1,2982 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Unlocking the Power of Data Visualization with R</title>
+<link>https://fgazzelloni.github.io/UPDVwR/content/tidytuesday/</link>
+<atom:link href="https://fgazzelloni.github.io/UPDVwR/content/tidytuesday/index.xml" rel="self" type="application/rss+xml"/>
+<description></description>
+<image>
+<url>https://fgazzelloni.github.io/UPDVwR/images/UPDVwR.png</url>
+<title>Unlocking the Power of Data Visualization with R</title>
+<link>https://fgazzelloni.github.io/UPDVwR/content/tidytuesday/</link>
+<height>144</height>
+<width>144</width>
+</image>
+<generator>quarto-1.8.27</generator>
+<lastBuildDate>Fri, 02 Oct 2026 20:47:15 GMT</lastBuildDate>
+<item>
+  <title>TidyTuesday 2021</title>
+  <link>https://fgazzelloni.github.io/UPDVwR/content/tidytuesday/cases2021/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+
+
+<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
+<div class="listing-actions-group">
+   <div class="input-group input-group-sm quarto-listing-sort">
+    <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
+    <select id="listing-listing-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
+      <option value="" disabled="" selected="" hidden="">Order By</option>
+      <option value="index" data-direction="asc">Default</option>
+      <option value="listing-title" data-direction="asc">
+        Title
+      </option>
+      <option value="listing-date-sort" data-direction="asc">
+        Date - Oldest
+      </option>
+      <option value="listing-date-sort" data-direction="desc">
+        Date - Newest
+      </option>
+      <option value="listing-author" data-direction="asc">
+        Author
+      </option>
+    </select>
+  </div>
+</div>
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-listing-date-sort="1640041200000" data-listing-file-modified-sort="1692377953000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="757">
+<a href="../../../content/tidytuesday/cases2021/posts2021/w52_Starbucks_drinks/w52_Starbucks_drinks.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/ab924a20bbe270bab306f4b13df0daaa6e53ffeb/data/2021/w52_starbucks/w52_starbucks.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Starbucks drinks
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Dec 21, 2021
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="1" data-listing-date-sort="1639436400000" data-listing-file-modified-sort="1692377943000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="880">
+<a href="../../../content/tidytuesday/cases2021/posts2021/w51_Spice_Girls/w51_Spice_Girls.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/ab924a20bbe270bab306f4b13df0daaa6e53ffeb/data/2021/w51_spice_girls/w51_spice_girls.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Spice Girls
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Dec 14, 2021
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="2" data-listing-date-sort="1638831600000" data-listing-file-modified-sort="1692377931000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="12" data-listing-word-count-sort="2253">
+<a href="../../../content/tidytuesday/cases2021/posts2021/w50_Spiders/w50_Spiders.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/ab924a20bbe270bab306f4b13df0daaa6e53ffeb/data/2021/w50_spiders/w50_spiders.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Spiders
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Dec 7, 2021
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="3" data-listing-date-sort="1638226800000" data-listing-file-modified-sort="1692377921000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="9" data-listing-word-count-sort="1667">
+<a href="../../../content/tidytuesday/cases2021/posts2021/w49_World_Cup_Cricket/w49_World_Cup_Cricket.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/ab924a20bbe270bab306f4b13df0daaa6e53ffeb/data/2021/w49_world_cup_cricket/w49_world_cup_cricket.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+World Cup Cricket
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Nov 30, 2021
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="4" data-listing-date-sort="1637622000000" data-listing-file-modified-sort="1692377912000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="994">
+<a href="../../../content/tidytuesday/cases2021/posts2021/w48_Dr_Who/w48_Dr_Who.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/ab924a20bbe270bab306f4b13df0daaa6e53ffeb/data/2021/w48_dr_who/w48_dr_who.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Dr.&nbsp;Who
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Nov 23, 2021
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="5" data-listing-date-sort="1636412400000" data-listing-file-modified-sort="1692377903000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="664">
+<a href="../../../content/tidytuesday/cases2021/posts2021/w46_Learning_with_afrilearndata/w46_Learning_with_afrilearndata.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/ab924a20bbe270bab306f4b13df0daaa6e53ffeb/data/2021/w46_afrilearndata/w46_afrilearndata.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Learning with afrilearndata
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Nov 9, 2021
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="6" data-listing-date-sort="1635807600000" data-listing-file-modified-sort="1692377893000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="397">
+<a href="../../../content/tidytuesday/cases2021/posts2021/w45_Making_maps_with_R/w45_Making_maps_with_R.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/ab924a20bbe270bab306f4b13df0daaa6e53ffeb/data/2021/w45_maps/w45_maps.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Making maps with R
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Nov 2, 2021
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="7" data-listing-date-sort="1635199200000" data-listing-file-modified-sort="1692377884000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="9" data-listing-word-count-sort="1708">
+<a href="../../../content/tidytuesday/cases2021/posts2021/w44_Ultra_Trail_Running/w44_Ultra_Trail_Running.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/ab924a20bbe270bab306f4b13df0daaa6e53ffeb/data/2021/w44_ultra_trail_running/w44_ultra_trail_running.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Ultra Trail Running
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Oct 26, 2021
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="8" data-listing-date-sort="1634594400000" data-listing-file-modified-sort="1692377872000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="9" data-listing-word-count-sort="1601">
+<a href="../../../content/tidytuesday/cases2021/posts2021/w43_Big_Pumpkins/w43_Big_Pumpkins.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/ab924a20bbe270bab306f4b13df0daaa6e53ffeb/data/2021/w43_big_pumpkins/w43_big_pumpkins.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Big Pumpkins
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Oct 19, 2021
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="9" data-listing-date-sort="1633989600000" data-listing-file-modified-sort="1692377861000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="10" data-listing-word-count-sort="1986">
+<a href="../../../content/tidytuesday/cases2021/posts2021/w42_Global_Seafood/w42_Global_Seafood.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/ab924a20bbe270bab306f4b13df0daaa6e53ffeb/data/2021/w42_seafood/w42_seafood.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Global Seafood
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Oct 12, 2021
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="10" data-listing-date-sort="1633384800000" data-listing-file-modified-sort="1692377838000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8" data-listing-word-count-sort="1529">
+<a href="../../../content/tidytuesday/cases2021/posts2021/w41_Registered_Nurses/w41_Registered_Nurses.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/ab924a20bbe270bab306f4b13df0daaa6e53ffeb/data/2021/w41_nurses/w41_nurses.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Registered Nurses
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Oct 5, 2021
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="11" data-listing-date-sort="1632780000000" data-listing-file-modified-sort="1692377848000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="9" data-listing-word-count-sort="1737">
+<a href="../../../content/tidytuesday/cases2021/posts2021/w40_NBER_Papers/w40_NBER_Papers.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/ab924a20bbe270bab306f4b13df0daaa6e53ffeb/data/2021/w40_NBER_papers/w40_NBER_papers.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+NBER Papers
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Sep 28, 2021
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="12" data-listing-date-sort="1632175200000" data-listing-file-modified-sort="1692377828000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1232">
+<a href="../../../content/tidytuesday/cases2021/posts2021/w39_Emmy_Awards/w39_Emmy_Awards.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/ab924a20bbe270bab306f4b13df0daaa6e53ffeb/data/2021/w39_emmy_awards/w39_emmy_awards.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Emmy Awards
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Sep 21, 2021
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="13" data-listing-date-sort="1631570400000" data-listing-file-modified-sort="1692377818000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1387">
+<a href="../../../content/tidytuesday/cases2021/posts2021/w38_Billboard_Top_100/w38_Billboard_Top_100.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/ab924a20bbe270bab306f4b13df0daaa6e53ffeb/data/2021/w38_billboard/w38_billboard.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Billboard
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Sep 14, 2021
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="14" data-listing-date-sort="1630965600000" data-listing-file-modified-sort="1692377809000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1125">
+<a href="../../../content/tidytuesday/cases2021/posts2021/w37_Formula_1_Races/w37_Formula_1_Races.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/ab924a20bbe270bab306f4b13df0daaa6e53ffeb/data/2021/w37_formula1/w37_formula1.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+FORMULA1
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Sep 7, 2021
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="15" data-listing-date-sort="1630360800000" data-listing-file-modified-sort="1692377799000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="10" data-listing-word-count-sort="1820">
+<a href="../../../content/tidytuesday/cases2021/posts2021/w36_Bird_Baths/w36_Bird_Baths.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/ab924a20bbe270bab306f4b13df0daaa6e53ffeb/data/2021/w36_bird_baths/w36_bird_baths.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Bird Baths
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Aug 31, 2021
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="16" data-listing-date-sort="1629756000000" data-listing-file-modified-sort="1692377789000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="14" data-listing-word-count-sort="2610">
+<a href="../../../content/tidytuesday/cases2021/posts2021/w35_Lemurs/w35_Lemurs.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/ab924a20bbe270bab306f4b13df0daaa6e53ffeb/data/2021/w35_lemurs/w35_lemurs.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Lemurs
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Aug 24, 2021
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="17" data-listing-date-sort="1629151200000" data-listing-file-modified-sort="1692377779000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="873">
+<a href="../../../content/tidytuesday/cases2021/posts2021/w34_Star_Trek_Voice_Commands/w34_Star_Trek_Voice_Commands.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/ab924a20bbe270bab306f4b13df0daaa6e53ffeb/data/2021/w34_star_trek/w34_star_trek.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+StarTrek
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Aug 17, 2021
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="18" data-listing-date-sort="1628546400000" data-listing-file-modified-sort="1692377769000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="25" data-listing-word-count-sort="4869">
+<a href="../../../content/tidytuesday/cases2021/posts2021/w33_BEA_Infrastructure_Investment/w33_BEA_Infrastructure_Investment.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/ab924a20bbe270bab306f4b13df0daaa6e53ffeb/data/2021/w33_bea_Infrastructure_Investment/w33_bea_Infrastructure_Investment.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Bea Infrastructure Investment
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Aug 10, 2021
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="19" data-listing-date-sort="1627941600000" data-listing-file-modified-sort="1692377759000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="10" data-listing-word-count-sort="1887">
+<a href="../../../content/tidytuesday/cases2021/posts2021/w32_Paralympic_Medals/w32_Paralympic_Medals.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/ab924a20bbe270bab306f4b13df0daaa6e53ffeb/data/2021/w32_paralympic/w32_paralympic.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Paralympic
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Aug 3, 2021
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="20" data-listing-date-sort="1627336800000" data-listing-file-modified-sort="1692377749000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1231">
+<a href="../../../content/tidytuesday/cases2021/posts2021/w31_Olympic_Medals/w31_Olympic_Medals.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/ab924a20bbe270bab306f4b13df0daaa6e53ffeb/data/2021/w31_olympic_medals/w31_olympic_medals.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Olympic Medals
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Jul 27, 2021
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="21" data-listing-date-sort="1626732000000" data-listing-file-modified-sort="1692377741000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8" data-listing-word-count-sort="1552">
+<a href="../../../content/tidytuesday/cases2021/posts2021/w30_US_Droughts/w30_US_Droughts.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/ab924a20bbe270bab306f4b13df0daaa6e53ffeb/data/2021/w30_drought/w30_drought.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+US drought
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Jul 20, 2021
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="22" data-listing-date-sort="1626127200000" data-listing-file-modified-sort="1692377729000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="867">
+<a href="../../../content/tidytuesday/cases2021/posts2021/w29_Scooby_Doo/w29_Scooby_Doo.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/ab924a20bbe270bab306f4b13df0daaa6e53ffeb/data/2021/w29_scoobydoo/w29_scoobydoo.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Scoobydoo
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Jul 13, 2021
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="23" data-listing-date-sort="1625522400000" data-listing-file-modified-sort="1692377720000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="282">
+<a href="../../../content/tidytuesday/cases2021/posts2021/w28_International_Independence_Days/w28_International_Independence_Days.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/ab924a20bbe270bab306f4b13df0daaa6e53ffeb/data/2021/w28_independence_days/w28_independence_days.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+International Independence Days
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Jul 6, 2021
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="24" data-listing-date-sort="1624917600000" data-listing-file-modified-sort="1692377708000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1198">
+<a href="../../../content/tidytuesday/cases2021/posts2021/w27_Animal_Rescues/w27_Animal_Rescues.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/ab924a20bbe270bab306f4b13df0daaa6e53ffeb/data/2021/w27_animal_rescues/w27_animal_rescues.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Animal Rescues
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Jun 29, 2021
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="25" data-listing-date-sort="1624312800000" data-listing-file-modified-sort="1692377698000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8" data-listing-word-count-sort="1500">
+<a href="../../../content/tidytuesday/cases2021/posts2021/w26_Public_Park_Access/w26_Public_Park_Access.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/ab924a20bbe270bab306f4b13df0daaa6e53ffeb/data/2021/w26_public_park_access/w26_public_park_access.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+US Public Parks
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Jun 22, 2021
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="26" data-listing-date-sort="1623708000000" data-listing-file-modified-sort="1692377688000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1160">
+<a href="../../../content/tidytuesday/cases2021/posts2021/w25_WEB_Du_Bois_and_Juneteenth/w25_WEB_Du_Bois_and_Juneteenth.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/ab924a20bbe270bab306f4b13df0daaa6e53ffeb/data/2021/w25_du_bois/w25_du_bois.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Dubois Challenge
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Jun 15, 2021
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="27" data-listing-date-sort="1623103200000" data-listing-file-modified-sort="1692377678000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="718">
+<a href="../../../content/tidytuesday/cases2021/posts2021/w24_Great_Lakes_Fish/w24_Great_Lakes_Fish.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/ab924a20bbe270bab306f4b13df0daaa6e53ffeb/data/2021/w24_great_lakes_fish/w24_great_lakes_fish.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Great Lakes Fish
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Jun 8, 2021
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="28" data-listing-date-sort="1622498400000" data-listing-file-modified-sort="1692377669000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1050">
+<a href="../../../content/tidytuesday/cases2021/posts2021/w23_Survivor_TV_Show/w23_Survivor_TV_Show.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/ab924a20bbe270bab306f4b13df0daaa6e53ffeb/data/2021/w23_survivors/w23_survivor.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Survivors
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Jun 1, 2021
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="29" data-listing-date-sort="1621893600000" data-listing-file-modified-sort="1692377659000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="675">
+<a href="../../../content/tidytuesday/cases2021/posts2021/w22_Mario_Kart_World_Records/w22_Mario_Kart_World_Records.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/ab924a20bbe270bab306f4b13df0daaa6e53ffeb/data/2021/w22_mario_kart_world/w22_mario_kart_world.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Mario Kart World
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+May 25, 2021
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="30" data-listing-date-sort="1621288800000" data-listing-file-modified-sort="1692377648000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="637">
+<a href="../../../content/tidytuesday/cases2021/posts2021/w21_Ask_a_Manager_Salary_Survey/w21_Ask_a_Manager_Salary_Survey.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/ab924a20bbe270bab306f4b13df0daaa6e53ffeb/data/2021/w21_ask_a_manager_survey/w21_ask_a_manager_survey.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Ask a Manager Survey
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+May 18, 2021
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="31" data-listing-date-sort="1620684000000" data-listing-file-modified-sort="1692377638000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="757">
+<a href="../../../content/tidytuesday/cases2021/posts2021/w20_US_Broadband/w20_US_Broadband.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/ab924a20bbe270bab306f4b13df0daaa6e53ffeb/data/2021/w20_us_broadband/w20_us_broadband.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+US Broadband
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+May 11, 2021
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="32" data-listing-date-sort="1620079200000" data-listing-file-modified-sort="1692377629000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="312">
+<a href="../../../content/tidytuesday/cases2021/posts2021/w19_Water_Access_Points/w19_Water_Access_Points.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/ab924a20bbe270bab306f4b13df0daaa6e53ffeb/data/2021/w19_water_access/w19_water_access.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Water Access
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+May 4, 2021
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="33" data-listing-date-sort="1619474400000" data-listing-file-modified-sort="1692377618000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="740">
+<a href="../../../content/tidytuesday/cases2021/posts2021/w18_CEO_Departures/w18_CEO_Departures.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/ab924a20bbe270bab306f4b13df0daaa6e53ffeb/data/2021/w18_ceo_departures/w18_ceo_departures.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Ceo Departures
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Apr 27, 2021
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="34" data-listing-date-sort="1618869600000" data-listing-file-modified-sort="1692377608000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="376">
+<a href="../../../content/tidytuesday/cases2021/posts2021/w17_Netflix_Titles/w17_Netflix_Titles.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/ab924a20bbe270bab306f4b13df0daaa6e53ffeb/data/2021/w17_netflix/w17_netflix.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+NETFLIX &amp; Upwards
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Apr 20, 2021
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="35" data-listing-date-sort="1618264800000" data-listing-file-modified-sort="1692377598000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="484">
+<a href="../../../content/tidytuesday/cases2021/posts2021/w16_US_Post_Offices/w16_US_Post_Offices.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/ab924a20bbe270bab306f4b13df0daaa6e53ffeb/data/2021/w16_US_Post_office/w16_US_Post_office.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+US Post Office
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Apr 13, 2021
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="36" data-listing-date-sort="1617660000000" data-listing-file-modified-sort="1692377502000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="604">
+<a href="../../../content/tidytuesday/cases2021/posts2021/w15_Global_deforestation/w15_Global_deforestation.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/ab924a20bbe270bab306f4b13df0daaa6e53ffeb/data/2021/w15_global_deforestation/w15_global_deforestation.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Global deforestation
+</h5>
+<div class="card-text listing-description delink">
+<p>Environment</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Federica Gazzelloni
+</div>
+<div class="listing-date">
+Apr 6, 2021
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="37" data-listing-date-sort="1617055200000" data-listing-file-modified-sort="1692377502000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="929">
+<a href="../../../content/tidytuesday/cases2021/posts2021/w14_Makeup_Shades/w14_Makeup_Shades.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/ab924a20bbe270bab306f4b13df0daaa6e53ffeb/data/2021/w14_the_pudding/w14_the_pudding.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+The Pudding
+</h5>
+<div class="card-text listing-description delink">
+<p>Connections</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Federica Gazzelloni
+</div>
+<div class="listing-date">
+Mar 30, 2021
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="38" data-listing-date-sort="1616454000000" data-listing-file-modified-sort="1692377563000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="817">
+<a href="../../../content/tidytuesday/cases2021/posts2021/w13_UN_Votes/w13_UN_Votes.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/ab924a20bbe270bab306f4b13df0daaa6e53ffeb/data/2021/w13_UN_votes/w13_UN_votes.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+UN Votes
+</h5>
+<div class="card-text listing-description delink">
+<p>Social Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Mar 23, 2021
+</div>
+</div>
+</div>
+</div></a>
+</div>
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
+
+</div><a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <guid>https://fgazzelloni.github.io/UPDVwR/content/tidytuesday/cases2021/</guid>
+  <pubDate>Fri, 02 Oct 2026 20:47:15 GMT</pubDate>
+  <media:content url="https://fgazzelloni.github.io/UPDVwR/content/tidytuesday/cases2021/images/collage2021.png" medium="image" type="image/png" height="115" width="144"/>
+</item>
+<item>
+  <title>TidyTuesday 2022</title>
+  <link>https://fgazzelloni.github.io/UPDVwR/content/tidytuesday/cases2022/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+
+
+<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
+<div class="listing-actions-group">
+   <div class="input-group input-group-sm quarto-listing-sort">
+    <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
+    <select id="listing-listing-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
+      <option value="" disabled="" selected="" hidden="">Order By</option>
+      <option value="index" data-direction="asc">Default</option>
+      <option value="listing-title" data-direction="asc">
+        Title
+      </option>
+      <option value="listing-date-sort" data-direction="asc">
+        Date - Oldest
+      </option>
+      <option value="listing-date-sort" data-direction="desc">
+        Date - Newest
+      </option>
+      <option value="listing-author" data-direction="asc">
+        Author
+      </option>
+    </select>
+  </div>
+</div>
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-listing-date-sort="1672095600000" data-listing-file-modified-sort="1692372791000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="322">
+<a href="../../../content/tidytuesday/cases2022/posts2022/w52_Star_Trek_Timelines/w52_Star_Trek_Timelines.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2022/w52_star_trek_timelines/w52_star_trek_timeline.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Star Trek Timelines
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Dec 27, 2022
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="1" data-listing-date-sort="1671490800000" data-listing-file-modified-sort="1692372791000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="826">
+<a href="../../../content/tidytuesday/cases2022/posts2022/w51_Weather_Forecast_Accuracy/w51_Weather_Forecast_Accuracy.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2022/w51_weather_forecast_accuracy/w51_weather_forecast_accuray.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Weather Forecast Accuracy
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Dec 20, 2022
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="2" data-listing-date-sort="1670886000000" data-listing-file-modified-sort="1692372791000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="908">
+<a href="../../../content/tidytuesday/cases2022/posts2022/w50_Monthly_State_Retail_Sales/w50_Monthly_State_Retail_Sales.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2022/w50_retail_sales/w50_retail_sales.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Monthly State Retail Sales
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Dec 13, 2022
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="3" data-listing-date-sort="1670281200000" data-listing-file-modified-sort="1692372791000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="562">
+<a href="../../../content/tidytuesday/cases2022/posts2022/w49_Elevators/w49_Elevators.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2022/w49_elevators/w49_elevators.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Elevators
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Dec 6, 2022
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="4" data-listing-date-sort="1669676400000" data-listing-file-modified-sort="1692372791000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="614">
+<a href="../../../content/tidytuesday/cases2022/posts2022/w48_FIFA_World_Cup/w48_FIFA_World_Cup.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2022/w48_FIFA_World_Cup/w48_fifa_world_cup.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+FIFA World Cup
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Nov 29, 2022
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="5" data-listing-date-sort="1669071600000" data-listing-file-modified-sort="1692372791000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="438">
+<a href="../../../content/tidytuesday/cases2022/posts2022/w47_UK_Museums/w47_UK_Museums.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2022/w47_uk_museums/w47_uk_museums.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+UK Museums
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Nov 22, 2022
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="6" data-listing-date-sort="1668466800000" data-listing-file-modified-sort="1692372791000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="823">
+<a href="../../../content/tidytuesday/cases2022/posts2022/w46_Web_page_metrics/w46_Web_page_metrics.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2022/w46_web_page_metrics/w46_web_page_metrics.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Web page metrics
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Nov 15, 2022
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="7" data-listing-date-sort="1667862000000" data-listing-file-modified-sort="1692372791000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1202">
+<a href="../../../content/tidytuesday/cases2022/posts2022/w45_Radio_Stations/w45_Radio_Stations.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2022/w45_radio_stations/w45_radio_stations.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Radio Stations
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Nov 8, 2022
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="8" data-listing-date-sort="1667257200000" data-listing-file-modified-sort="1692372791000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="477">
+<a href="../../../content/tidytuesday/cases2022/posts2022/w44_Horror_Movies/w44_Horror_Movies.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2022/w44_horror_movies/w44_horror_movies.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Horror Movies
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Nov 1, 2022
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="9" data-listing-date-sort="1666648800000" data-listing-file-modified-sort="1692372791000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="348">
+<a href="../../../content/tidytuesday/cases2022/posts2022/w43_Great_British_Bakeoff/w43_Great_British_Bakeoff.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2022/w43_gbb/w43_gbb.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Great British Bakeoff
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Oct 25, 2022
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="10" data-listing-date-sort="1666044000000" data-listing-file-modified-sort="1692372791000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="849">
+<a href="../../../content/tidytuesday/cases2022/posts2022/w42_Stranger_things_dialogue/w42_Stranger_things_dialogue.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2022/w42_stranger_things_dialogue/w42_stranger_things_dialogue.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Stranger things dialogue
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Oct 18, 2022
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="11" data-listing-date-sort="1665439200000" data-listing-file-modified-sort="1692372791000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1386">
+<a href="../../../content/tidytuesday/cases2022/posts2022/w41_Ravelry_data/w41_Ravelry_data.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2022/w41_yarn/w41_yarn.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Ravelry data
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Oct 11, 2022
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="12" data-listing-date-sort="1664834400000" data-listing-file-modified-sort="1692372791000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="395">
+<a href="../../../content/tidytuesday/cases2022/posts2022/w40_Product_Hunt_products/w40_Product_Hunt_products.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2022/w40_product_hunt/w40_product_hunt.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Product Hunt products
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Oct 4, 2022
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="13" data-listing-date-sort="1664229600000" data-listing-file-modified-sort="1692372791000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="178">
+<a href="../../../content/tidytuesday/cases2022/posts2022/w39_Artists_in_the_USA/w39_Artists_in_the_USA.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2022/w39_us_artists/w39_us_artists.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Artists in the USA
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Sep 27, 2022
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="14" data-listing-date-sort="1663624800000" data-listing-file-modified-sort="1692372791000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="630">
+<a href="../../../content/tidytuesday/cases2022/posts2022/w38_Hydro_Wastewater_plants/w38_Hydro_Wastewater_plants.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2022/w38_hydro_wastewater/w38_hydro_wastewater_v2.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Hydro Wastewater plants
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Sep 20, 2022
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="15" data-listing-date-sort="1663020000000" data-listing-file-modified-sort="1692372791000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="982">
+<a href="../../../content/tidytuesday/cases2022/posts2022/w37_Bigfoot/w37_Bigfoot.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2022/w37_bigfoot/w37_bigfoot.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Bigfoot
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Sep 13, 2022
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="16" data-listing-date-sort="1662415200000" data-listing-file-modified-sort="1692372791000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="260">
+<a href="../../../content/tidytuesday/cases2022/posts2022/w36_LEGO_database/w36_LEGO_database.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2022/w36_lego/w36_lego.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+LEGO database
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Sep 6, 2022
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="17" data-listing-date-sort="1661810400000" data-listing-file-modified-sort="1692372791000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1208">
+<a href="../../../content/tidytuesday/cases2022/posts2022/w35_Pell_Grants/w35_Pell_Grants.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2022/w35_pell/w35_pell.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Pell Grants
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Aug 30, 2022
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="18" data-listing-date-sort="1661205600000" data-listing-file-modified-sort="1692372791000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="779">
+<a href="../../../content/tidytuesday/cases2022/posts2022/w34_CHIP_dataset/w34_CHIP_dataset.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2022/w34_chips/w34_chips.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+CHIP dataset
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Aug 23, 2022
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="19" data-listing-date-sort="1660600800000" data-listing-file-modified-sort="1692372791000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="408">
+<a href="../../../content/tidytuesday/cases2022/posts2022/w33_Open_Source_Psychometrics/w33_Open_Source_Psychometrics.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2022/w33_psychometrics/w33_psychometrics.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Open Source Psychometrics
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Aug 16, 2022
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="20" data-listing-date-sort="1659996000000" data-listing-file-modified-sort="1692372791000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="17" data-listing-word-count-sort="3255">
+<a href="../../../content/tidytuesday/cases2022/posts2022/w32_Ferris_Wheels/w32_Ferris_Wheels.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2022/w32_ferriswheels/w32_ferriswheels.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Ferris Wheels
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Aug 9, 2022
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="21" data-listing-date-sort="1659391200000" data-listing-file-modified-sort="1692372791000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="578">
+<a href="../../../content/tidytuesday/cases2022/posts2022/w31_Oregon_Spotted_Frog/w31_Oregon_Spotted_Frog.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2022/w31_frogs/w31_frogs.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Oregon Spotted Frog
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Aug 2, 2022
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="22" data-listing-date-sort="1658786400000" data-listing-file-modified-sort="1692372791000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="438">
+<a href="../../../content/tidytuesday/cases2022/posts2022/w30_Bring_your_own_data/w30_Bring_your_own_data.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2022/w30_BYOD/w30_BYOD.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Bring your own data
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Jul 26, 2022
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="23" data-listing-date-sort="1658181600000" data-listing-file-modified-sort="1692372791000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="434">
+<a href="../../../content/tidytuesday/cases2022/posts2022/w29_Technology_Adoption/w29_Technology_Adoption.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2022/w29_technology/w29_technology.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Technology Adoption
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Jul 19, 2022
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="24" data-listing-date-sort="1657576800000" data-listing-file-modified-sort="1692372791000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="11" data-listing-word-count-sort="2130">
+<a href="../../../content/tidytuesday/cases2022/posts2022/w28_European_flights/w28_European_flights.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2022/w28_european_flights/waffle_sankey.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+European flights
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Jul 12, 2022
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="25" data-listing-date-sort="1656972000000" data-listing-file-modified-sort="1692372791000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="614">
+<a href="../../../content/tidytuesday/cases2022/posts2022/w27_San_Francisco_Rentals/w27_San_Francisco_Rentals.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2022/w27_rentals/w27_rentals.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+San Francisco Rentals
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Jul 5, 2022
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="26" data-listing-date-sort="1656367200000" data-listing-file-modified-sort="1692372791000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8" data-listing-word-count-sort="1556">
+<a href="../../../content/tidytuesday/cases2022/posts2022/w26_UK_Gender_pay_gap/w26_UK_Gender_pay_gap.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2022/w26_paygap/w26_paygap.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+UK Gender pay gap
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Jun 28, 2022
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="27" data-listing-date-sort="1655762400000" data-listing-file-modified-sort="1692372791000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="455">
+<a href="../../../content/tidytuesday/cases2022/posts2022/w25_Juneteenth/w25_Juneteenth.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2022/w25_juneteenth/w25_juneteenth.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Juneteenth
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Jun 21, 2022
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="28" data-listing-date-sort="1655157600000" data-listing-file-modified-sort="1692372791000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="244">
+<a href="../../../content/tidytuesday/cases2022/posts2022/w24_US_Drought/w24_US_Drought.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2022/w24_drought/w24_drought.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+US Drought
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Jun 14, 2022
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="29" data-listing-date-sort="1654552800000" data-listing-file-modified-sort="1692372791000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="692">
+<a href="../../../content/tidytuesday/cases2022/posts2022/w23_Pride_Corporate_Accountability_Project/w23_Pride_Corporate_Accountability_Project.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2022/w23_pride/w23_pride.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Pride Corporate Accountability Project
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Jun 7, 2022
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="30" data-listing-date-sort="1653948000000" data-listing-file-modified-sort="1692372791000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="400">
+<a href="../../../content/tidytuesday/cases2022/posts2022/w22_Company_reputation_poll/w22_Company_reputation_poll.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2022/w22_reputation/w22_reputation.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Company reputation poll
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+May 31, 2022
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="31" data-listing-date-sort="1653343200000" data-listing-file-modified-sort="1692372791000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="598">
+<a href="../../../content/tidytuesday/cases2022/posts2022/w21_Womens_Rugby/w21_Womens_Rugby.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2022/w21_rugby/w21_women_rugby.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Womens Rugby
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+May 24, 2022
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="32" data-listing-date-sort="1652738400000" data-listing-file-modified-sort="1692372791000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="906">
+<a href="../../../content/tidytuesday/cases2022/posts2022/w20_Eurovision/w20_Eurovision.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2022/w20_eurovision/w20_eurovision.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Eurovision
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+May 17, 2022
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="33" data-listing-date-sort="1652133600000" data-listing-file-modified-sort="1692372791000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="831">
+<a href="../../../content/tidytuesday/cases2022/posts2022/w19_NYTimes_best_sellers/w19_NYTimes_best_sellers.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2022/w19_nyt/w19_nyt.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+NYTimes best sellers
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+May 10, 2022
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="34" data-listing-date-sort="1651528800000" data-listing-file-modified-sort="1692372791000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="143">
+<a href="../../../content/tidytuesday/cases2022/posts2022/w18_SolarWind_utilities/w18_SolarWind_utilities.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2022/w18_solar_wind/w18_solar_wind.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+SolarWind utilities
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+May 3, 2022
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="35" data-listing-date-sort="1650924000000" data-listing-file-modified-sort="1692372791000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="363">
+<a href="../../../content/tidytuesday/cases2022/posts2022/w17_Kaggle_Hidden_Gems/w17_Kaggle_Hidden_Gems.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2022/w17_hidden_gems/day28_deviations.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Kaggle Hidden Gems
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Apr 26, 2022
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="36" data-listing-date-sort="1650319200000" data-listing-file-modified-sort="1692372791000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="573">
+<a href="../../../content/tidytuesday/cases2022/posts2022/w16_Crossword_Puzzles_and_Clues/w16_Crossword_Puzzles_and_Clues.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2022/w16_crosswords/day22_animate.gif" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Crossword Puzzles and Clues
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Apr 19, 2022
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="37" data-listing-date-sort="1649714400000" data-listing-file-modified-sort="1692372791000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="805">
+<a href="../../../content/tidytuesday/cases2022/posts2022/w15_Indoor_Air_Pollution/w15_Indoor_Air_Pollution.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2022/w15_indoor_pollution/day12_theme_day.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Indoor Air Pollution
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Apr 12, 2022
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="38" data-listing-date-sort="1649109600000" data-listing-file-modified-sort="1692372791000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1338">
+<a href="../../../content/tidytuesday/cases2022/posts2022/w14_Digital_Publications/w14_Digital_Publications.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2022/w14_digital_pub/w14_digital_publications_v2.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Digital Publications
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Apr 5, 2022
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="39" data-listing-date-sort="1648504800000" data-listing-file-modified-sort="1692372791000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="206">
+<a href="../../../content/tidytuesday/cases2022/posts2022/w13_Collegiate_Sports_Budgets/w13_Collegiate_Sports_Budgets.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2022/w13_sports/w13_sports.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Collegiate Sports Budgets
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Mar 29, 2022
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="40" data-listing-date-sort="1647903600000" data-listing-file-modified-sort="1692372791000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="121">
+<a href="../../../content/tidytuesday/cases2022/posts2022/w12_Baby_names/w12_Baby_names.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2022/w12_babynames/w12_wordcloud.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Baby names
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Mar 22, 2022
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="41" data-listing-date-sort="1647298800000" data-listing-file-modified-sort="1692372791000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="270">
+<a href="../../../content/tidytuesday/cases2022/posts2022/w11_CRANBIOC_Vignettes/w11_CRANBIOC_Vignettes.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2022/w11_vignettes/w11_vignettes.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+CRANBIOC Vignettes
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Mar 15, 2022
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="42" data-listing-date-sort="1646694000000" data-listing-file-modified-sort="1692372791000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="696">
+<a href="../../../content/tidytuesday/cases2022/posts2022/w10_Erasmus_student_mobility/w10_Erasmus_student_mobility.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2022/w10_erasmus/er-network.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Erasmus student mobility
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Mar 8, 2022
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="43" data-listing-date-sort="1646089200000" data-listing-file-modified-sort="1692372791000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1157">
+<a href="../../../content/tidytuesday/cases2022/posts2022/w9_Alternative_Fuel_Stations/w9_Alternative_Fuel_Stations.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2022/w9_stations/w9_stations.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Alternative Fuel Stations
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Mar 1, 2022
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="44" data-listing-date-sort="1645484400000" data-listing-file-modified-sort="1692372791000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="978">
+<a href="../../../content/tidytuesday/cases2022/posts2022/w8_World_Freedom_index/w8_World_Freedom_index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2022/w8_wfi/freedom.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+World Freedom index
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Feb 22, 2022
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="45" data-listing-date-sort="1644879600000" data-listing-file-modified-sort="1692372791000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="680">
+<a href="../../../content/tidytuesday/cases2022/posts2022/w7_DuBoisChallenge2022/w7_DuBoisChallenge2022.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2022/w7_dubois/w7_number6.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+DuBoisChallenge2022
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Feb 15, 2022
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="46" data-listing-date-sort="1644274800000" data-listing-file-modified-sort="1692372791000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8" data-listing-word-count-sort="1488">
+<a href="../../../content/tidytuesday/cases2022/posts2022/w6_Tuskegee_Airmen/w6_Tuskegee_Airmen.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2022/w6_airforce/w6_airforce.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Tuskegee Airmen
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Feb 8, 2022
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="47" data-listing-date-sort="1643670000000" data-listing-file-modified-sort="1692372791000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="564">
+<a href="../../../content/tidytuesday/cases2022/posts2022/w5_Dog_breeds/w5_Dog_breeds.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2022/w5_dogs/dog_prints_plot.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Dog breeds
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Feb 1, 2022
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="48" data-listing-date-sort="1643065200000" data-listing-file-modified-sort="1692372791000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1076">
+<a href="../../../content/tidytuesday/cases2022/posts2022/w4_Board_games/w4_Board_games.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2022/w4_board_games/w4_board_games.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Board games
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Jan 25, 2022
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="49" data-listing-date-sort="1642460400000" data-listing-file-modified-sort="1692372791000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="10" data-listing-word-count-sort="1830">
+<a href="../../../content/tidytuesday/cases2022/posts2022/w3_Chocolate_Bar_ratings/w3_Chocolate_Bar_ratings.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2022/w3_chocolate/w3_chocolate.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Chocolate Bar ratings
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Jan 18, 2022
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="50" data-listing-date-sort="1641855600000" data-listing-file-modified-sort="1692372791000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="968">
+<a href="../../../content/tidytuesday/cases2022/posts2022/w2_Bee_Colony_losses/w2_Bee_Colony_losses.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2022/w2_bees/w2_bees.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Bee Colony losses
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Jan 11, 2022
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="51" data-listing-date-sort="1641250800000" data-listing-file-modified-sort="1692372791000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1185">
+<a href="../../../content/tidytuesday/cases2022/posts2022/w1_Bring_your_own_data_from_2022/w1_Bring_your_own_data_from_2022.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2022/w1_your_own_data/your_own_data.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Bring your own data from 2022
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Jan 4, 2022
+</div>
+</div>
+</div>
+</div></a>
+</div>
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
+
+</div><a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <guid>https://fgazzelloni.github.io/UPDVwR/content/tidytuesday/cases2022/</guid>
+  <pubDate>Fri, 02 Oct 2026 20:47:15 GMT</pubDate>
+  <media:content url="https://fgazzelloni.github.io/UPDVwR/content/tidytuesday/cases2022/images/collage2022.png" medium="image" type="image/png" height="115" width="144"/>
+</item>
+<item>
+  <title>TidyTuesday 2023</title>
+  <link>https://fgazzelloni.github.io/UPDVwR/content/tidytuesday/cases2023/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+
+
+<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
+<div class="listing-actions-group">
+   <div class="input-group input-group-sm quarto-listing-sort">
+    <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
+    <select id="listing-listing-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
+      <option value="" disabled="" selected="" hidden="">Order By</option>
+      <option value="index" data-direction="asc">Default</option>
+      <option value="listing-title" data-direction="asc">
+        Title
+      </option>
+      <option value="listing-date-sort" data-direction="asc">
+        Date - Oldest
+      </option>
+      <option value="listing-date-sort" data-direction="desc">
+        Date - Newest
+      </option>
+      <option value="listing-author" data-direction="asc">
+        Author
+      </option>
+    </select>
+  </div>
+</div>
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1692391802000" data-listing-reading-time-sort="1" data-listing-word-count-sort="18">
+<a href="../../../content/tidytuesday/cases2023/posts2023/w25_UFO_Sightings_Redux/w25_UFO_Sightings_Redux.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<!-- img(9CEB782EFEE6)[progressive=false, height=200]:listing:content/tidytuesday/cases2023/posts2023/w25_UFO_Sightings_Redux/w25_UFO_Sightings_Redux.html -->
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+USPP
+</h5>
+<div class="card-text listing-description delink">
+<!-- desc(5A0113B34292)[max=175]:content/tidytuesday/cases2023/posts2023/w25_UFO_Sightings_Redux/w25_UFO_Sightings_Redux.html -->
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+Federica Gazzelloni
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1692391868000" data-listing-reading-time-sort="1" data-listing-word-count-sort="18">
+<a href="../../../content/tidytuesday/cases2023/posts2023/w24_Studying_African_FarmerLed_Irrigation_Survey/w24_Studying_African_FarmerLed_Irrigation_Survey.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<!-- img(9CEB782EFEE6)[progressive=false, height=200]:listing:content/tidytuesday/cases2023/posts2023/w24_Studying_African_FarmerLed_Irrigation_Survey/w24_Studying_African_FarmerLed_Irrigation_Survey.html -->
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+UFSR
+</h5>
+<div class="card-text listing-description delink">
+<!-- desc(5A0113B34292)[max=175]:content/tidytuesday/cases2023/posts2023/w24_Studying_African_FarmerLed_Irrigation_Survey/w24_Studying_African_FarmerLed_Irrigation_Survey.html -->
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+Federica Gazzelloni
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1692391792000" data-listing-reading-time-sort="1" data-listing-word-count-sort="18">
+<a href="../../../content/tidytuesday/cases2023/posts2023/w26_US_Populated_Places/w26_US_Populated_Places.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<!-- img(9CEB782EFEE6)[progressive=false, height=200]:listing:content/tidytuesday/cases2023/posts2023/w26_US_Populated_Places/w26_US_Populated_Places.html -->
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+HstM
+</h5>
+<div class="card-text listing-description delink">
+<!-- desc(5A0113B34292)[max=175]:content/tidytuesday/cases2023/posts2023/w26_US_Populated_Places/w26_US_Populated_Places.html -->
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+Federica Gazzelloni
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="3" data-listing-file-modified-sort="1692391782000" data-listing-reading-time-sort="11" data-listing-word-count-sort="2120">
+<a href="../../../content/tidytuesday/cases2023/posts2023/w27_Historical_Markers/w27_Historical_Markers.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<!-- img(9CEB782EFEE6)[progressive=false, height=200]:listing:content/tidytuesday/cases2023/posts2023/w27_Historical_Markers/w27_Historical_Markers.html -->
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+GIST
+</h5>
+<div class="card-text listing-description delink">
+<!-- desc(5A0113B34292)[max=175]:content/tidytuesday/cases2023/posts2023/w27_Historical_Markers/w27_Historical_Markers.html -->
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+Federica Gazzelloni
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="4" data-listing-file-modified-sort="1692391825000" data-listing-reading-time-sort="1" data-listing-word-count-sort="18">
+<a href="../../../content/tidytuesday/cases2023/posts2023/w23_Energy/w23_Energy.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<!-- img(9CEB782EFEE6)[progressive=false, height=200]:listing:content/tidytuesday/cases2023/posts2023/w23_Energy/w23_Energy.html -->
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+SAFIS
+</h5>
+<div class="card-text listing-description delink">
+<!-- desc(5A0113B34292)[max=175]:content/tidytuesday/cases2023/posts2023/w23_Energy/w23_Energy.html -->
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+Federica Gazzelloni
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="5" data-listing-date-sort="1689026400000" data-listing-file-modified-sort="1743576752946" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="11" data-listing-word-count-sort="2127">
+<a href="../../../content/tidytuesday/cases2023/posts2023/w28_Global_Surface_Temperatures/w28_Global_Surface_Temperatures.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2023/w28_GlST/w28_GIST.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Global Surface Temperatures
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Jul 11, 2023
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="6" data-listing-date-sort="1685397600000" data-listing-file-modified-sort="1692391852000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+<a href="../../../content/tidytuesday/cases2023/posts2023/w22_Verified_Oldest_People/w22_Verified_Oldest_People.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="https://fgazzelloni.github.io/UPDVwR/content/tidytuesday/cases2023/posts2023/w22_Verified_Oldest_People" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Verified Oldest People
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+May 30, 2023
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="7" data-listing-date-sort="1684792800000" data-listing-file-modified-sort="1692391881000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="18">
+<a href="../../../content/tidytuesday/cases2023/posts2023/w21_Central_Park_Squirrels/w21_Central_Park_Squirrels.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="https://fgazzelloni.github.io/UPDVwR/content/tidytuesday/cases2023/posts2023/w21_Central_Park_Squirrels" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Central Park Squirrels
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+May 23, 2023
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="8" data-listing-date-sort="1684188000000" data-listing-file-modified-sort="1692391899000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="18">
+<a href="../../../content/tidytuesday/cases2023/posts2023/w20_Tornados/w20_Tornados.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="https://fgazzelloni.github.io/UPDVwR/content/tidytuesday/cases2023/posts2023/w20_Tornados" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Tornados
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+May 16, 2023
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="9" data-listing-date-sort="1683583200000" data-listing-file-modified-sort="1692391910000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="19">
+<a href="../../../content/tidytuesday/cases2023/posts2023/w19_Childcare_Costs/w19_Childcare_Costs.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="https://fgazzelloni.github.io/UPDVwR/content/tidytuesday/cases2023/posts2023/w19_Childcare_Costs" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Childcare Costs
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+May 9, 2023
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="10" data-listing-date-sort="1682978400000" data-listing-file-modified-sort="1692391730000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="969">
+<a href="../../../content/tidytuesday/cases2023/posts2023/w18_The_Portal_Project/w18_The_Portal_Project.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2023/w18_TPP/p.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+The Portal Project
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+May 2, 2023
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="11" data-listing-date-sort="1682373600000" data-listing-file-modified-sort="1692391730000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="837">
+<a href="../../../content/tidytuesday/cases2023/posts2023/w17_London_Marathon/w17_London_Marathon.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2023/w17_LM/w17_LM.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+London Marathon
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Apr 25, 2023
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="12" data-listing-date-sort="1681768800000" data-listing-file-modified-sort="1692391730000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="571">
+<a href="../../../content/tidytuesday/cases2023/posts2023/w16_Neolithic_Founder_Crops/w16_Neolithic_Founder_Crops.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2023/w16_NFC/w16_NFC.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Neolithic Founder Crops
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Apr 18, 2023
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="13" data-listing-date-sort="1681164000000" data-listing-file-modified-sort="1692391730000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="857">
+<a href="../../../content/tidytuesday/cases2023/posts2023/w15_US_Egg_Production_Data/w15_US_Egg_Production_Data.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2023/w15_UEPD/w15_UEPD.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+US Egg Production Data
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Apr 11, 2023
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="14" data-listing-date-sort="1680559200000" data-listing-file-modified-sort="1692391730000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="494">
+<a href="../../../content/tidytuesday/cases2023/posts2023/w14_Premier_League_Match_Data/w14_Premier_League_Match_Data.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2023/w14_PLMD/w14_PLMD.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Premier League Match Data
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Apr 4, 2023
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="15" data-listing-date-sort="1679954400000" data-listing-file-modified-sort="1692391730000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="383">
+<a href="../../../content/tidytuesday/cases2023/posts2023/w13_Time_Zones/w13_Time_Zones.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2023/w13_TmZn/w13_TmZn.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Time Zones
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Mar 28, 2023
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="16" data-listing-date-sort="1679353200000" data-listing-file-modified-sort="1692391730000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="105">
+<a href="../../../content/tidytuesday/cases2023/posts2023/w12_Programming_Languages/w12_Programming_Languages.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2023/w12_PrgL/w12_PrgL.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Programming Languages
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Mar 21, 2023
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="17" data-listing-date-sort="1678748400000" data-listing-file-modified-sort="1692392142000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="9" data-listing-word-count-sort="1790">
+<a href="../../../content/tidytuesday/cases2023/posts2023/w11_European_Drug_Development/w11_European_Drug_Development.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2023/w11_ErDD/w11_ErDD.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+European Drug Development
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Mar 14, 2023
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="18" data-listing-date-sort="1678143600000" data-listing-file-modified-sort="1692391730000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="433">
+<a href="../../../content/tidytuesday/cases2023/posts2023/w10_Numbats_in_Australia/w10_Numbats_in_Australia.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2023/w10_NmiA/w10_NmiA.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Numbats in Australia
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Mar 7, 2023
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="19" data-listing-date-sort="1677538800000" data-listing-file-modified-sort="1692391730000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="200">
+<a href="../../../content/tidytuesday/cases2023/posts2023/w9_African_Language_Sentiment/w9_African_Language_Sentiment.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2023/w9_AfLS/w9_AfLS.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+African Language Sentiment
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Feb 28, 2023
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="20" data-listing-date-sort="1676934000000" data-listing-file-modified-sort="1692391730000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="152">
+<a href="../../../content/tidytuesday/cases2023/posts2023/w8_Bob_Ross_Paintings/w8_Bob_Ross_Paintings.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2023/w8_BbRP/w8_BbRP.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Bob Ross Paintings
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Feb 21, 2023
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="21" data-listing-date-sort="1676329200000" data-listing-file-modified-sort="1692391730000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="129">
+<a href="../../../content/tidytuesday/cases2023/posts2023/w7_Hollywood_Age_Gaps/w7_Hollywood_Age_Gaps.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2023/w7_HlAG/w7_HIAG.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Hollywood Age Gaps
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Feb 14, 2023
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="22" data-listing-date-sort="1675724400000" data-listing-file-modified-sort="1692391730000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="579">
+<a href="../../../content/tidytuesday/cases2023/posts2023/w6_Big_Tech_Stock_Prices/w6_Big_Tech_Stock_Prices.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2023/w6_BTSP/w6_BTSP.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Big Tech Stock Prices
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Feb 7, 2023
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="23" data-listing-date-sort="1675119600000" data-listing-file-modified-sort="1692391730000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="404">
+<a href="../../../content/tidytuesday/cases2023/posts2023/w5_Pet_Cats_UK/w5_Pet_Cats_UK.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2023/w5_PCUK/w5_PCUK.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Pet Cats UK
+</h5>
+<div class="card-text listing-description delink">
+<!-- desc(5A0113B34292)[max=175]:content/tidytuesday/cases2023/posts2023/w5_Pet_Cats_UK/w5_Pet_Cats_UK.html -->
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Jan 31, 2023
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="24" data-listing-date-sort="1674514800000" data-listing-file-modified-sort="1692391730000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="516">
+<a href="../../../content/tidytuesday/cases2023/posts2023/w4_Alone_data/w4_Alone_data.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2023/w4_Alnd/w4_Alnd.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Alone data
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Jan 24, 2023
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="25" data-listing-date-sort="1673910000000" data-listing-file-modified-sort="1692391730000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="637">
+<a href="../../../content/tidytuesday/cases2023/posts2023/w3_Art_history_data/w3_Art_history_data.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2023/w3_Arhd/w3_Arhd.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Art history data
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Jan 17, 2023
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="26" data-listing-date-sort="1673305200000" data-listing-file-modified-sort="1732999071538" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="557">
+<a href="../../../content/tidytuesday/cases2023/posts2023/w2_Bird_FeederWatch_data/w2_Bird_FeederWatch_data.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2023/w2_BFWd/w2_BFWd.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Bird FeederWatch data
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Jan 10, 2023
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="27" data-listing-date-sort="1672700400000" data-listing-file-modified-sort="1733002306072" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="565">
+<a href="../../../content/tidytuesday/cases2023/posts2023/w1_Bring_your_own_data_to_start_2023/w1_Bring_your_own_data_to_start_2023.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2023/w1_byod/w1_byo.png" class="thumbnail-image card-img" style="height: 200;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Bring your own data to start 2023!
+</h5>
+<div class="card-text listing-description delink">
+<p>Networks</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Jan 3, 2023
+</div>
+</div>
+</div>
+</div></a>
+</div>
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
+
+</div><a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <guid>https://fgazzelloni.github.io/UPDVwR/content/tidytuesday/cases2023/</guid>
+  <pubDate>Fri, 02 Oct 2026 20:47:15 GMT</pubDate>
+  <media:content url="https://fgazzelloni.github.io/UPDVwR/content/tidytuesday/cases2023/images/collage2023.png" medium="image" type="image/png" height="115" width="144"/>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,16 @@
+{
+  "hash": "51cc150a917855d1a14e2825f1e7d17e",
+  "result": {
+    "markdown": "---\ntitle: '5 minutes map'\nsubtitle: 'Welcome to #30DayMapChallenge 2022 day 13'\ndate: '2022-11-13'\nimage: 'day13_5_minutes_map.png'\nimage-alt: ''\ndescription: 'Networks'\noutput: html_document\nexecute: \n   eval: false\n---\n\n::: {.cell}\n\n```{.r .cell-code}\n# Load libraries\n# set the fonts\nlibrary(showtext)\nlibrary(sysfonts)\nlibrary(extrafont)\nshowtext::showtext_auto()\nshowtext::showtext_opts(dpi=320)\nfont_add_google(name=\"Exo 2\",\n                family=\"Exo 2\")\n\nlibrary(tidyverse)\n\nworld <- map_data(\"world\")\n  filter(!region==\"Antarctica\")\nworld%>%names\nggplot(world)+\n  geom_polygon(aes(long,lat,\n                   group=group,\n                   fill=region,\n                   color=region),\n               alpha=0.7,\n               linewidth=0.2,\n               show.legend = F)+\n  scale_fill_viridis_d(option = \"C\")+\n  scale_color_viridis_d(option = \"A\")+\n  coord_quickmap()+\n  labs(title=\"World Map\",\n       caption=\"#30DatMapChallenge 2022 Day 13: 5 minute map\\nDataSource: Map data from {ggplot2} | Map: Federica Gazzelloni (@fgazzelloni)\")+\n  ggthemes::theme_map()+\n  theme(text=element_text(family=\"Exo 2\"),\n        plot.title = element_text(hjust=0.5,size=24),\n        plot.caption = element_text(hjust=0.5,size=5,lineheight = 1.1))\n\nggsave(\"day13_5_minute_map.png\",\n       dpi=280,\n       width = 6.6,\n       height = 4,\n       bg=\"#98d8de\") # 6.64 x 5.81\n```\n:::\n",
+    "supporting": [
+      "day13_5_minutes_map_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

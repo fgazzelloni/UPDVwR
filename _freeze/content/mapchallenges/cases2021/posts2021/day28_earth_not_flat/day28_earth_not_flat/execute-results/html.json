@@ -1,0 +1,15 @@
+{
+  "hash": "37952f107e047283c231b08cf7115599",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: 'The Earth is not flat'\nsubtitle: 'Welcome to #30DayMapChallenge 2021 day 28'\ndate: '2021-11-28'\nimage: 'https://raw.githubusercontent.com/Fgazzelloni/30DayMapChallenge/master/2021/day28_earth_not_flat/earth_not_flat.png'\nimage-alt: ''\ndescription: ''\noutput: html_document\nexecute: \n   eval: false\n---\n\n# Overview\n\n`Globe` map, data is from `rnaturalearth`.\n\n\n\n- https://github.com/schochastics/roughsf\n- https://leonawicz.github.io/mapmate/articles/usage_and_limitations.html\n\n\n::: {.cell}\n\n```{.r .cell-code}\nlibrary(sf)\nlibrary(tidyverse)\n\nworld <- rnaturalearth::ne_countries(scale = 50,\n                                     type = \"countries\",\n                                     returnclass = \"sf\")\n\n\nworld_cr<- st_coordinates(world)\nworld_cr<-as.data.frame(world_cr)%>%\n  fortify()\n\nearth<-ggplot(world_cr,aes(x=X,y=Y,group=L3))+\n  geom_line(aes(color= factor(L3)),\n            size=0.15,show.legend = F)+\n  geom_point(shape=\".\")+\n  labs(x=\"\",y=\"\")+\n  coord_map(\"ortho\", orientation = c(5.849945, 56.525750, 0)) +\n  theme(plot.background = element_blank(),\n        panel.background = element_blank(),\n        axis.title.y = element_blank(),\n        axis.title.x = element_blank(),\n        axis.text.x = element_blank(),\n        axis.text.y = element_blank()\n        )\n```\n:::\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\ng <- grid::circleGrob(gp = grid::gpar(fill = \"#68aade\",color=\"#68aade\"))\n```\n:::\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n# set the text options\nlibrary(showtext)\nshowtext_opts(dpi = 320)\nshowtext_auto(enable = T)\nfont_add_google(\"Share Tech Mono\", \"techmono\")\n```\n:::\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\nlibrary(cowplot)\nfinal <- ggdraw()+\n  draw_image(\"/Users/federica/Documents/R/R_general_resources/30DayMapChallenge/day28_earth_not_flat/space.png\",\n             scale=1.4,height=1)+\n  draw_grob(g, scale = 1)+\n  draw_plot(earth)+\n  #draw_image(mono_it, x = 0, y = 0,width = 1)+\n  draw_text(\"The Earth is not flat\",color=\"white\",\n            x=0.15,y=0.96,angle=0,size=23,\n            family=\"techmono\",fontface=\"bold\")+\n  draw_text(\"DataSource: rnaturalearth\\n#30DayMapChallenge-The Earth is not flat\\nGraphic: Federica Gazzelloni\",\n            x=0.855,y=0.05,\n            family=\"techmono\",\n            size=11,color=\"white\")\n```\n:::\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n# save final plot\nragg::agg_png(here::here(\"/Users/federica/Documents/R/R_general_resources/30DayMapChallenge/day28_earth_not_flat/earth_not_flat.png\"),\n              res = 320, width = 12, height = 10, units = \"in\")\nfinal\ndev.off()\n```\n:::\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

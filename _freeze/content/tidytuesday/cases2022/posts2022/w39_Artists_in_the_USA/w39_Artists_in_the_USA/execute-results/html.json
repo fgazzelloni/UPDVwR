@@ -1,0 +1,15 @@
+{
+  "hash": "a6d14d0ce02c76a0e2a62acd891d18a0",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: 'Artists in the USA'\nsubtitle: 'Welcome to #TidyTuesday 2022 day 39'\ndate: '2022-09-27'\nimage: 'https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2022/w39_us_artists/w39_us_artists.png'\nimage-alt: ''\ndescription: 'Networks'\noutput: html_document\nexecute: \n   eval: false\n---\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\nlibrary(tidyverse)\n```\n:::\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\nartists <- readr::read_csv('https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2022/2022-09-27/artists.csv')\n# artists%>%View\n```\n:::\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\nstates <- map_data(\"state\")\n\nmy_artists <- artists%>%\n  mutate(region=tolower(state))%>%\n  left_join(states,by=c(\"region\"))\n\nggplot(states,aes(long,lat,group=group))+\n  geom_polygon(fill=\"grey80\",color=\"grey40\")+\n  geom_point(data=my_artists,aes(color=race))\n```\n:::\n\n\n\n\n## Make a tree map\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\ndf <- artists%>%\n  group_by(state)%>%\n  summarise(tot=sum(artists_n,na.rm = TRUE))\n\n# Create data\ngroup <- df$state\nvalue <- df$tot\ndata <- data.frame(group,value)\n```\n:::\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n# install.packages(\"Polychrome\")\nlibrary(Polychrome)\n# https://colorbrewer2.org/#type=sequential&scheme=Greens&n=9\n# build-in color palette\nvalues <- createPalette(52,  c(\"#f7fcfd\", \"#9ebcda\", \"#f7fcfd\"))\n```\n:::\n\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n# library\nlibrary(treemap)\npng(filename=\"w39_us_artists.png\",width=1400, height=1700)\ntreemap(dtf = data,index = \"group\",vSize=\"value\",type=\"index\",\n        title = \"STATE ARTISTS\",\n        border.col = \"grey70\",\n        border.lwds = 2,\n        title.legend = \"US States\",\n        fontsize.title=80,\n        fontfamily.labels = \"Roboto Condensed\",\n        fontfamily.title = \"Roboto Condensed\",\n        force.print.labels = TRUE,\n        fontface.labels = 2,\n        fontsize.labels = data$value,\n        palette = values\n            )\ndev.off()\n```\n:::\n\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

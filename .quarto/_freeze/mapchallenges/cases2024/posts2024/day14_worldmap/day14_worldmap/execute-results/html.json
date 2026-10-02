@@ -1,0 +1,15 @@
+{
+  "hash": "58db1aa8d380103868dfae8008a6861c",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: 'A World Map'\nsubtitle: 'Welcome to #30DayMapChallenge 2024 Day 14'\ndate: '2024-11-14'\nimage: 'https://raw.githubusercontent.com/Fgazzelloni/30DayMapChallenge/master/2024/day14_worldmap/day14_worldmap.png'\nimage-alt: 'day14_worldmap'\ndescription: 'A World Map'\noutput: html_document\nexecute: \n   eval: false\n---\n\n\n\n\n![A World Map Map](https://raw.githubusercontent.com/Fgazzelloni/30DayMapChallenge/master/2024/day14_worldmap/day14_worldmap.png)\n\n\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\nlibrary(ggplot2)\ndalys_country_comparison %>%\nggplot(mapping=aes(x=long, y=lat,fill = value, map_id = location)) +\n  geom_polygon(aes(group=group)) + \n  # change the values of the fill scale\n  scale_fill_viridis_c(option = \"plasma\", \n                       labels = scales::number_format(scale = 1e-3),\n                       name = \"DALYs\") +\n  expand_limits(x = dalys_country_comparison$long, \n                y = dalys_country_comparison$lat) +\n  coord_sf() +\n  labs(title = \"All Causes | DALYs Rate by Country (per 100,000)\",\n       subtitle = \"Values in thousands\",\n       caption = \"IHME Data 2021 | #30DayMapChallenge Day14| Graphic: @fgazzelloni\") +\n  theme_void() +\n  theme(legend.position = \"bottom\",\n        plot.title = element_text(size = 14, \n                                  hjust = 0.5,\n                                  face = \"bold\"),\n        plot.subtitle = element_text(size = 12, \n                                     hjust = 0.5))\n```\n:::\n\n\n\n\nSave as png\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\nggsave(\"day14_worldmap.png\", \n       bg = \"white\", \n       width = 8, height = 4)\n```\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

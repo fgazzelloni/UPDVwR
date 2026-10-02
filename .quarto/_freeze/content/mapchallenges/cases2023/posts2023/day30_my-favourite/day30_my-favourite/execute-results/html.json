@@ -1,0 +1,15 @@
+{
+  "hash": "656432d24bbf34f5e4fc4306a0b4c8d3",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: 'My Favourite'\nsubtitle: 'Welcome to #30DayMapChallenge 2023 day 30'\ndate: '2023-11-30'\nimage: 'https://raw.githubusercontent.com/Fgazzelloni/30DayMapChallenge/master/2023/day30_my-favourite/day30_my-favourite.png'\nimage-alt: ''\ndescription: ''\noutput: html_document\nexecute: \n   eval: false\n---\n\n\n\n# Overview\n\nThis last map of the #30DayMapChallenge month is my favourite view of the life expectancy. Source of data are **Statistics Netherlands (CBS) and Kadaster Nederland** via the `{tmap}` package, `tmap::data(\"World\")`.\n\n<center>\n![](https://raw.githubusercontent.com/Fgazzelloni/30DayMapChallenge/master/2023/day30_my-favourite/day30_my-favourite.png)</center>\n\n::: {.cell}\n\n```{.r .cell-code}\nlibrary(tidyverse)\nlibrary(sf)\n```\n:::\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\nlibrary(tmap)\ndata(\"World\")\n```\n:::\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\nlife_exp<-World%>%\n  select(life_exp)\n```\n:::\n\n\n\nBuild the graticule and select a projection. Use the `{rgdal}` package with: `projInfo(type = \"proj\")` to see the various options.\n     \n\n::: {.cell}\n\n```{.r .cell-code}\ngrat <- st_graticule(lat = c(-89.9, seq(-80, 80, 20), 89.9))\nggplot()+\n    geom_sf(data= grat, \n            mapping=aes(geometry=geometry),\n            col=alpha(\"#f0eeeb\",0.95),\n            lwd=0.18\n  )\n```\n:::\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\nlibrary(rgdal)\nprojInfo(type = \"proj\")%>%head\n```\n:::\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\nggplot()+\n    geom_sf(data= grat, \n            mapping=aes(geometry=geometry),\n            col=alpha(\"#f0eeeb\",0.95),\n            lwd=0.18)+\n  coord_sf(crs='+proj=eck4')\n```\n:::\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\nggplot()+\n    geom_sf(data= grat, \n            mapping=aes(geometry=geometry),\n            col=alpha(\"#f0eeeb\",0.95),\n            lwd=0.18\n  )+\n  geom_sf(data= life_exp,\n    mapping=aes(fill=life_exp,geometry=geometry),\n    color=alpha(\"#fdf6f0\",0.5)\n  )+\n  guides(\n    fill=guide_bins(\n      title.position = 'top',\n      title.hjust = 0,\n      label.theme = element_text(size=9.1),\n      keywidth = unit(1,'cm'),\n      keyheight = unit(0.25,'cm')))+\n  scale_fill_viridis_b(\n    option='cividis',\n    na.value = \"grey10\")+\n  labs(fill=\"Life\\nExpectancy\",\n       caption=\"#30DayMapChallenge 2023 Day 30: My Favorite\\nSource: Statistics Netherlands (CBS) and Kadaster Nederland\\nMap-Design: @fgazzelloni\")+\n  coord_sf(crs='+proj=eck4')+\n  #coord_sf(crs='+proj=lask')+\n  ggthemes::theme_map(base_size = 14,base_family = \"Apple SD Gothic Neo\")+\n  theme(legend.position = c(0,-0.15),\n        legend.background = element_blank())\n```\n:::\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\nggsave(\"day30_myfavorite.png\",\n       bg=\"white\",width=7,height = 5)\n```\n:::\n\n\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

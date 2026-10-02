@@ -1,0 +1,3545 @@
+{
+  "index.qmd": {
+    "index.html": "a2e6c3cd"
+  },
+  "about.qmd": {
+    "about.html": "73165944"
+  },
+  "mapchallenges/cases/index.qmd": {
+    "index.html": "076f30f3"
+  },
+  "mapchallenges/index.qmd": {
+    "index.html": "c079d7b9"
+  },
+  "contact.qmd": {
+    "contact.html": "b4e16abb"
+  },
+  "sponsors.qmd": {
+    "sponsors.html": "562f368e"
+  },
+  "chartchallenges/cases/index.qmd": {
+    "index.html": "52e081f8"
+  },
+  "chartchallenges/index.qmd": {
+    "index.html": "2205a190"
+  },
+  "contributor-docs/call-for-contributions.qmd": {
+    "call-for-contributions.html": "86b96cd8"
+  },
+  "tidytuesday/cases/index.qmd": {
+    "index.html": "8b96ba95"
+  },
+  "tidytuesday/index.qmd": {
+    "index.html": "ebc2b30c"
+  },
+  "ts-and-cs.qmd": {
+    "ts-and-cs.html": "91d74eee"
+  },
+  "tidytuesday/cases3/index.qmd": {
+    "index.html": "6850b30a"
+  },
+  "tidytuesday/cases2/index.qmd": {
+    "index.html": "89e08913"
+  },
+  "tidytuesday/cases23/index.qmd": {
+    "index.html": "3f4d3920"
+  },
+  "tidytuesday/cases22/index.qmd": {
+    "index.html": "1fc70eeb"
+  },
+  "tidytuesday/cases21/case010121/index.qmd": {
+    "index.html": "1082d665"
+  },
+  "tidytuesday/cases21/case020121/index.qmd": {
+    "index.html": "1ad122a9"
+  },
+  "tidytuesday/cases21/case030121/index.qmd": {
+    "index.html": "83ce1176"
+  },
+  "tidytuesday/cases21/index.qmd": {
+    "index.html": "276cda2d"
+  },
+  "tidytuesday/cases21/w13_UN_votes/w13_UN_votes.Rmd": {
+    "w13_UN_votes.html": "1b7f59ec"
+  },
+  "tidytuesday/cases22/01012021.qmd": {
+    "01012021.html": "7c6ee8b0"
+  },
+  "mapchallenges/cases2021/index.qmd": {
+    "index.html": "dfc172b8"
+  },
+  "mapchallenges/cases2023/index.qmd": {
+    "index.html": "54aaa70c"
+  },
+  "mapchallenges/cases2022/index.qmd": {
+    "index.html": "1d27ba2e"
+  },
+  "chartchallenges/cases2021/index.qmd": {
+    "index.html": "3ece8362"
+  },
+  "chartchallenges/cases2023/index.qmd": {
+    "index.html": "c3ce7d3e"
+  },
+  "chartchallenges/cases2022/index.qmd": {
+    "index.html": "33ccafba"
+  },
+  "tidytuesday/cases2021/posts/w13_UN_votes/w13_UN_votes.Rmd": {
+    "w13_UN_votes.html": "20562e39"
+  },
+  "tidytuesday/cases2021/index.qmd": {
+    "index.html": "123a8a01"
+  },
+  "tidytuesday/cases2023/index.qmd": {
+    "index.html": "95d85fc1"
+  },
+  "tidytuesday/cases2022/index.qmd": {
+    "index.html": "3323fe55"
+  },
+  "tidytuesday/cases2022/01012021.qmd": {
+    "01012021.html": "ae914f2f"
+  },
+  "tidytuesday/cases2023/posts/index.qmd": {
+    "index.html": "9966ab79"
+  },
+  "tidytuesday/cases2022/posts/01012021.qmd": {
+    "01012021.html": "20174177"
+  },
+  "tidytuesday/cases2023/posts/w13_UN_votes/w13_UN_votes.Rmd": {
+    "w13_UN_votes.html": "d7191659"
+  },
+  "tidytuesday/cases2022/posts/w13_UN_votes/w13_UN_votes.Rmd": {
+    "w13_UN_votes.html": "4c032758"
+  },
+  "tidytuesday/cases2021/posts2021.qmd": {
+    "posts2021.html": "41307821"
+  },
+  "tidytuesday/cases2021/posts/w13_UN_votes/index.Rmd": {
+    "index.html": "e28ad24b"
+  },
+  "tidytuesday/cases2021/index2021.qmd": {
+    "index2021.html": "0da9965e"
+  },
+  "tidytuesday/cases2022/posts/w13_UN_votes/w13_UN_votes.rmarkdown": {
+    "w13_UN_votes.html": "aaf8cf5f"
+  },
+  "tidytuesday/cases2021/posts2021/w13_UN_votes/w13_UN_votes.Rmd": {
+    "w13_UN_votes.html": "1725f464"
+  },
+  "tidytuesday/cases2023/posts2023/w13_UN_votes/w13_UN_votes.Rmd": {
+    "w13_UN_votes.html": "47b14651"
+  },
+  "tidytuesday/cases2022/posts2022/w13_UN_votes/w13_UN_votes.Rmd": {
+    "w13_UN_votes.html": "29c3791e"
+  },
+  "tidytuesday/cases2021/posts2021/w15_global_deforestation/w15_global_deforestation.qmd": {
+    "w15_global_deforestation.html": "fb270dce"
+  },
+  "tidytuesday/cases2021/posts2021/w16_US_Post_office/w16_US_Post_office.qmd": {
+    "w16_US_Post_office.html": "3df217d8"
+  },
+  "tidytuesday/cases2021/posts2021/w18_ceo_departures/w18_ceo_departures.qmd": {
+    "w18_ceo_departures.html": "1e836b53"
+  },
+  "tidytuesday/cases2021/posts2021/w17_netflix/w17_netflix.qmd": {
+    "w17_netflix.html": "b1d56e98"
+  },
+  "tidytuesday/cases2021/posts2021/w14_the_pudding/w14_the_pudding.qmd": {
+    "w14_the_pudding.html": "f31da15c"
+  },
+  "tidytuesday/cases2021/posts2021/w13_UN_votes/w13_UN_votes.qmd": {
+    "w13_UN_votes.html": "78041204"
+  },
+  "tidytuesday/cases2021/posts2021/w19_water_access/w19_water_access.qmd": {
+    "w19_water_access.html": "3d782307"
+  },
+  "tidytuesday/cases2021/posts2021/w24_great_lakes_fish/w24_great_lakes_fish.qmd": {
+    "w24_great_lakes_fish.html": "f50bf0b5"
+  },
+  "tidytuesday/cases2021/posts2021/w21_ask_a_manager_survey/w21_ask_a_manager_survey.qmd": {
+    "w21_ask_a_manager_survey.html": "eb339d77"
+  },
+  "tidytuesday/cases2021/posts2021/w28_independence_days/w28_independence_days.qmd": {
+    "w28_independence_days.html": "87f6c324"
+  },
+  "tidytuesday/cases2021/posts2021/w23_survivors/w23_survivors.qmd": {
+    "w23_survivors.html": "bd590e08"
+  },
+  "tidytuesday/cases2021/posts2021/w26_public_park_access/w26_public_park_access.qmd": {
+    "w26_public_park_access.html": "8ef6f9b9"
+  },
+  "tidytuesday/cases2021/posts2021/w22_mario_kart_world/w22_mario_kart_world.qmd": {
+    "w22_mario_kart_world.html": "958f53c7"
+  },
+  "tidytuesday/cases2021/posts2021/w20_us_broadband/w20_us_broadband.qmd": {
+    "w20_us_broadband.html": "79231392"
+  },
+  "tidytuesday/cases2021/posts2021/w25_du_bois/w25_du_bois.qmd": {
+    "w25_du_bois.html": "cb1ddb4a"
+  },
+  "tidytuesday/cases2021/posts2021/w29_scoobydoo/w29_scoobydoo.qmd": {
+    "w29_scoobydoo.html": "d6e25f6f"
+  },
+  "tidytuesday/cases2021/posts2021/w27_animal_rescues/w27_animal_rescues.qmd": {
+    "w27_animal_rescues.html": "8e62c2c5"
+  },
+  "tidytuesday/cases2021/posts2021/w34_star_trek/w34_star_trek.qmd": {
+    "w34_star_trek.html": "8c2dfc0d"
+  },
+  "tidytuesday/cases2021/posts2021/w39_emmy_awards/w39_emmy_awards.qmd": {
+    "w39_emmy_awards.html": "c9df48db"
+  },
+  "tidytuesday/cases2021/posts2021/w31_olympic_medals/w31_olympic_medals.qmd": {
+    "w31_olympic_medals.html": "8fce31a0"
+  },
+  "tidytuesday/cases2021/posts2021/w30_drought/w30_drought.qmd": {
+    "w30_drought.html": "1c4913ee"
+  },
+  "tidytuesday/cases2021/posts2021/w38_billboard/w38_billboard.qmd": {
+    "w38_billboard.html": "b98718ea"
+  },
+  "tidytuesday/cases2021/posts2021/w36_bird_baths/w36_bird_baths.qmd": {
+    "w36_bird_baths.html": "0c3fda28"
+  },
+  "tidytuesday/cases2021/posts2021/w32_paralympic/w32_paralympic.qmd": {
+    "w32_paralympic.html": "7c0358d1"
+  },
+  "tidytuesday/cases2021/posts2021/w37_formula1/w37_formula1.qmd": {
+    "w37_formula1.html": "93a87998"
+  },
+  "tidytuesday/cases2021/posts2021/w35_lemurs/w35_lemurs.qmd": {
+    "w35_lemurs.html": "8da81c91"
+  },
+  "tidytuesday/cases2021/posts2021/w33_bea_Infrastructure_Investment/w33_bea_Infrastructure_Investment.qmd": {
+    "w33_bea_Infrastructure_Investment.html": "e9029920"
+  },
+  "tidytuesday/cases2021/posts2021/w40_NBER_papers/w40_NBER_papers.qmd": {
+    "w40_NBER_papers.html": "9b9d5864"
+  },
+  "tidytuesday/cases2021/posts2021/w41_nurses/w41_nurses.qmd": {
+    "w41_nurses.html": "d845443d"
+  },
+  "tidytuesday/cases2021/posts2021/w43_big_pumpkins/w43_big_pumpkins.qmd": {
+    "w43_big_pumpkins.html": "4f6aae7f"
+  },
+  "tidytuesday/cases2021/posts2021/w42_seafood/w42-seafood.qmd": {
+    "w42-seafood.html": "c6710b6e"
+  },
+  "tidytuesday/cases2021/posts2021/w45_maps/w45_maps.qmd": {
+    "w45_maps.html": "ad736895"
+  },
+  "tidytuesday/cases2021/posts2021/w44_ultra_trail_running/w44_ultra_trail_running.qmd": {
+    "w44_ultra_trail_running.html": "4c57e47b"
+  },
+  "tidytuesday/cases2021/posts2021/w46_afrilearndata/w46_afrilearndata.qmd": {
+    "w46_afrilearndata.html": "c18510df"
+  },
+  "tidytuesday/cases2021/posts2021/w48_dr_who/w48_dr_who.qmd": {
+    "w48_dr_who.html": "8ded38c2"
+  },
+  "tidytuesday/cases2021/posts2021/w52_starbucks/w52_strabucks.qmd": {
+    "w52_strabucks.html": "ff90cfd5"
+  },
+  "tidytuesday/cases2021/posts2021/w50_spiders/w50_spiders.qmd": {
+    "w50_spiders.html": "7ffafbdd"
+  },
+  "tidytuesday/cases2021/posts2021/w51_spice_girls/w51_spice_girls.qmd": {
+    "w51_spice_girls.html": "9f5352b3"
+  },
+  "tidytuesday/cases2021/posts2021/w49_world_cup_cricket/w49_world_cup_cricket.qmd": {
+    "w49_world_cup_cricket.html": "aaebb04e"
+  },
+  "tidytuesday/cases2022/posts2022/w1_your_own_data/w1_your_own_data.qmd": {
+    "w1_your_own_data.html": "1ece812f"
+  },
+  "tidytuesday/cases2022/posts2022/w2_bees/w2_bees.qmd": {
+    "w2_bees.html": "bad41fec"
+  },
+  "tidytuesday/cases2022/posts2022/w45_radio_stations/w45_radio_stations.qmd": {
+    "w45_radio_stations.html": "8d0b4cc9"
+  },
+  "tidytuesday/cases2022/posts2022/w25_juneteenth/w25_juneteenth.qmd": {
+    "w25_juneteenth.html": "a2a30a1e"
+  },
+  "tidytuesday/cases2022/posts2022/w21_rugby/w21_women_rugby.qmd": {
+    "w21_women_rugby.html": "f95d3a6e"
+  },
+  "tidytuesday/cases2022/posts2022/w26_paygap/w26_paygap.qmd": {
+    "w26_paygap.html": "0a9e86d3"
+  },
+  "tidytuesday/cases2022/posts2022/w35_pell/w35_pell.qmd": {
+    "w35_pell.html": "2823e156"
+  },
+  "tidytuesday/cases2022/posts2022/w5_dogs/w5_dogs.qmd": {
+    "w5_dogs.html": "a7a94808"
+  },
+  "tidytuesday/cases2022/posts2022/w39_us_artists/w39_us_artists.qmd": {
+    "w39_us_artists.html": "93206aa2"
+  },
+  "tidytuesday/cases2022/posts2022/w10_erasmus/w10_erasmus.qmd": {
+    "w10_erasmus.html": "1bcea3bc"
+  },
+  "tidytuesday/cases2022/posts2022/w40_product_hunt/w40_product_hunt.qmd": {
+    "w40_product_hunt.html": "e4baf9c2"
+  },
+  "tidytuesday/cases2022/posts2022/w12_babynames/w12_babynames.qmd": {
+    "w12_babynames.html": "07564fc7"
+  },
+  "tidytuesday/cases2022/posts2022/w18_solar_wind/w18_solarwind.qmd": {
+    "w18_solarwind.html": "8c980f3d"
+  },
+  "tidytuesday/cases2022/posts2022/w14_digital_pub/w14_digital_publications.qmd": {
+    "w14_digital_publications.html": "d655e8a5"
+  },
+  "tidytuesday/cases2022/posts2022/w32_ferriswheels/w32_ferriswheels.qmd": {
+    "w32_ferriswheels.html": "a657f8e1"
+  },
+  "tidytuesday/cases2022/posts2022/w42_stranger_things_dialogue/w42_stranger_things_dialogue.qmd": {
+    "w42_stranger_things_dialogue.html": "b2ac8618"
+  },
+  "tidytuesday/cases2022/posts2022/w50_retail_sales/w50_retail_sales.qmd": {
+    "w50_retail_sales.html": "2045ca5e"
+  },
+  "tidytuesday/cases2022/posts2022/w48_FIFA_World_Cup/w48_fifa_world_cup.qmd": {
+    "w48_fifa_world_cup.html": "0b743f3d"
+  },
+  "tidytuesday/cases2022/posts2022/w20_eurovision/w20_eurovision.qmd": {
+    "w20_eurovision.html": "cff78f35"
+  },
+  "tidytuesday/cases2022/posts2022/w19_nyt/w19_nyt.qmd": {
+    "w19_nyt.html": "03c4c9fa"
+  },
+  "tidytuesday/cases2022/posts2022/w38_hydro_wastewater/w38_hydro_wastewater.qmd": {
+    "w38_hydro_wastewater.html": "48ebdabb"
+  },
+  "tidytuesday/cases2022/posts2022/w28_european_flights/w28_european_flights.qmd": {
+    "w28_european_flights.html": "86c6feb3"
+  },
+  "tidytuesday/cases2022/posts2022/w34_chips/w34_chips.qmd": {
+    "w34_chips.html": "04124c74"
+  },
+  "tidytuesday/cases2022/posts2022/w29_technology/w29_technology.qmd": {
+    "w29_technology.html": "313c8527"
+  },
+  "tidytuesday/cases2022/posts2022/w37_bigfoot/w37_bigfoot.qmd": {
+    "w37_bigfoot.html": "1797bd56"
+  },
+  "tidytuesday/cases2022/posts2022/w16_crosswords/w16_crossword.qmd": {
+    "w16_crossword.html": "af7c3f5b"
+  },
+  "tidytuesday/cases2022/posts2022/w41_yarn/w41_yarn.qmd": {
+    "w41_yarn.html": "70647cc6"
+  },
+  "tidytuesday/cases2022/posts2022/w27_rentals/w27_rentals.qmd": {
+    "w27_rentals.html": "6ba15043"
+  },
+  "tidytuesday/cases2022/posts2022/w8_wfi/w8_wfi.qmd": {
+    "w8_wfi.html": "6d322ba3"
+  },
+  "tidytuesday/cases2022/posts2022/w23_pride/w23_pride.qmd": {
+    "w23_pride.html": "a7712cfc"
+  },
+  "tidytuesday/cases2022/posts2022/w17_hidden_gems/w17_hiddengems.qmd": {
+    "w17_hiddengems.html": "5a3a8790"
+  },
+  "tidytuesday/cases2022/posts2022/w4_board_games/w4_board_games.qmd": {
+    "w4_board_games.html": "a4503920"
+  },
+  "tidytuesday/cases2022/posts2022/w36_lego/w36_lego.qmd": {
+    "w36_lego.html": "43adeef5"
+  },
+  "tidytuesday/cases2022/posts2022/w46_web_page_metrics/w46_web_page_metrics.qmd": {
+    "w46_web_page_metrics.html": "7a7126a7"
+  },
+  "tidytuesday/cases2022/posts2022/w44_horror_movies/w44_horror_movies.qmd": {
+    "w44_horror_movies.html": "34ffb26c"
+  },
+  "tidytuesday/cases2022/posts2022/w24_drought/w24_drought.qmd": {
+    "w24_drought.html": "c271747e"
+  },
+  "tidytuesday/cases2022/posts2022/w13_sports/w13_sports.qmd": {
+    "w13_sports.html": "fc7f87a1"
+  },
+  "tidytuesday/cases2022/posts2022/w11_vignettes/w11_vignettes.qmd": {
+    "w11_vignettes.html": "a29613a4"
+  },
+  "tidytuesday/cases2022/posts2022/w47_uk_museums/w47_uk_museums.qmd": {
+    "w47_uk_museums.html": "e69a2832"
+  },
+  "tidytuesday/cases2022/posts2022/w9_stations/w9_stations.qmd": {
+    "w9_stations.html": "5ee87515"
+  },
+  "tidytuesday/cases2022/posts2022/w52_star_trek_timelines/w52_star_trek_timeline.qmd": {
+    "w52_star_trek_timeline.html": "5e35eacd"
+  },
+  "tidytuesday/cases2022/posts2022/w6_airforce/w6_airmen_dubois_challenge.qmd": {
+    "w6_airmen_dubois_challenge.html": "7395933e"
+  },
+  "tidytuesday/cases2022/posts2022/w15_indoor_pollution/w15_indoor_air_pollution.qmd": {
+    "w15_indoor_air_pollution.html": "fb6d38e1"
+  },
+  "tidytuesday/cases2022/posts2022/w7_dubois/w7_dubois.qmd": {
+    "w7_dubois.html": "3a464278"
+  },
+  "tidytuesday/cases2022/posts2022/w30_BYOD/w30_BYOD.qmd": {
+    "w30_BYOD.html": "b1f69cfe"
+  },
+  "tidytuesday/cases2022/posts2022/w33_psychometrics/w33_psychometrics.qmd": {
+    "w33_psychometrics.html": "209119a4"
+  },
+  "tidytuesday/cases2022/posts2022/w43_gbb/w43_gbb.qmd": {
+    "w43_gbb.html": "acad73ac"
+  },
+  "tidytuesday/cases2022/posts2022/w51_weather_forecast_accuracy/w51_weather_forecast_accuracy.qmd": {
+    "w51_weather_forecast_accuracy.html": "c46dcbe7"
+  },
+  "tidytuesday/cases2022/posts2022/w49_elevators/w49_elevators.qmd": {
+    "w49_elevators.html": "f9a091d8"
+  },
+  "tidytuesday/cases2022/posts2022/w3_chocolate/w3_chocolate.qmd": {
+    "w3_chocolate.html": "2314de5f"
+  },
+  "tidytuesday/cases2022/posts2022/w31_frogs/w31_frogs.qmd": {
+    "w31_frogs.html": "fcfcafac"
+  },
+  "tidytuesday/cases2022/posts2022/w22_reputation/w22_reputation.qmd": {
+    "w22_reputation.html": "9342da37"
+  },
+  "tidytuesday/cases2023/posts2023/w22_VrOP/w22_VrOP.qmd": {
+    "w22_VrOP.html": "9d71171d"
+  },
+  "tidytuesday/cases2023/posts2023/w1_Byodts2/w1_Byodts2.qmd": {
+    "w1_Byodts2.html": "7f039d34"
+  },
+  "tidytuesday/cases2023/posts2023/w13_TmZn/w13_TmZn.qmd": {
+    "w13_TmZn.html": "89ef6e47"
+  },
+  "tidytuesday/cases2023/posts2023/w18_ThPP/w18_ThPP.qmd": {
+    "w18_ThPP.html": "10475bd9"
+  },
+  "tidytuesday/cases2023/posts2023/w19_ChlC/w19_ChlC.qmd": {
+    "w19_ChlC.html": "7af0ed1e"
+  },
+  "tidytuesday/cases2023/posts2023/w11_ErDD/w11_ErDD.qmd": {
+    "w11_ErDD.html": "5f2d0924"
+  },
+  "tidytuesday/cases2023/posts2023/w24_SAFIS/w24_SAFIS.qmd": {
+    "w24_SAFIS.html": "a64cbbce"
+  },
+  "tidytuesday/cases2023/posts2023/w12_PrgL/w12_PrgL.qmd": {
+    "w12_PrgL.html": "54e8b7d7"
+  },
+  "tidytuesday/cases2023/posts2023/w16_NlFC/w16_NlFC.qmd": {
+    "w16_NlFC.html": "a49e1175"
+  },
+  "tidytuesday/cases2023/posts2023/w6_BTSP/w6_BTSP.qmd": {
+    "w6_BTSP.html": "32de2f89"
+  },
+  "tidytuesday/cases2023/posts2023/w8_BbRP/w8_BbRP.qmd": {
+    "w8_BbRP.html": "15ccecc5"
+  },
+  "tidytuesday/cases2023/posts2023/w15_UEPD/w15_UEPD.qmd": {
+    "w15_UEPD.html": "6446d77b"
+  },
+  "tidytuesday/cases2023/posts2023/w3_Arhd/w3_Arhd.qmd": {
+    "w3_Arhd.html": "30d090dc"
+  },
+  "tidytuesday/cases2023/posts2023/w7_HlAG/w7_HlAG.qmd": {
+    "w7_HlAG.html": "79a3a6fd"
+  },
+  "tidytuesday/cases2023/posts2023/w14_PLMD/w14_PLMD.qmd": {
+    "w14_PLMD.html": "10968e66"
+  },
+  "tidytuesday/cases2023/posts2023/w28_GlST/w28_GlST.qmd": {
+    "w28_GlST.html": "e1bad38b"
+  },
+  "tidytuesday/cases2023/posts2023/w27_HstM/w27_HstM.qmd": {
+    "w27_HstM.html": "02ff2e77"
+  },
+  "tidytuesday/cases2023/posts2023/w9_AfLS/w9_AfLS.qmd": {
+    "w9_AfLS.html": "3e19298b"
+  },
+  "tidytuesday/cases2023/posts2023/w21_CnPS/w21_CnPS.qmd": {
+    "w21_CnPS.html": "5bf067e3"
+  },
+  "tidytuesday/cases2023/posts2023/w2_BFWd/w2_BFWd.qmd": {
+    "w2_BFWd.html": "f26ed389"
+  },
+  "tidytuesday/cases2023/posts2023/w5_PCUK/w5_PCUK.qmd": {
+    "w5_PCUK.html": "ecbb7a26"
+  },
+  "tidytuesday/cases2023/posts2023/w4_Alnd/w4_Alnd.qmd": {
+    "w4_Alnd.html": "f2c80528"
+  },
+  "tidytuesday/cases2023/posts2023/w25_UFSR/w25_UFSR.qmd": {
+    "w25_UFSR.html": "6179c3b7"
+  },
+  "tidytuesday/cases2023/posts2023/w26_USPP/w26_USPP.qmd": {
+    "w26_USPP.html": "3cef51bf"
+  },
+  "tidytuesday/cases2023/posts2023/w10_NmiA/w10_NmiA.qmd": {
+    "w10_NmiA.html": "16d181fd"
+  },
+  "tidytuesday/cases2023/posts2023/w17_LndM/w17_LndM.qmd": {
+    "w17_LndM.html": "ab137b94"
+  },
+  "tidytuesday/cases2023/posts2023/w20_Trnd/w20_Trnd.qmd": {
+    "w20_Trnd.html": "ed298496"
+  },
+  "chartchallenges/cases2021/CopyOfposts2021/day20_upwards/day20_upwards.qmd": {
+    "day20_upwards.html": "814e08ee"
+  },
+  "chartchallenges/cases2021/CopyOfposts2021/day29_deviations/day29_deviations.qmd": {
+    "day29_deviations.html": "026cb0ec"
+  },
+  "chartchallenges/cases2021/CopyOfposts2021/day23_tiles/day23_tiles.qmd": {
+    "day23_tiles.html": "41a5537a"
+  },
+  "chartchallenges/cases2021/CopyOfposts2021/day5_slope/day5_slope.qmd": {
+    "day5_slope.html": "3171a85c"
+  },
+  "chartchallenges/cases2021/CopyOfposts2021/day22_animation/day22_animation.qmd": {
+    "day22_animation.html": "dd0240e0"
+  },
+  "chartchallenges/cases2021/CopyOfposts2021/day21_downwards/day21_downwards.qmd": {
+    "day21_downwards.html": "8f3cba91"
+  },
+  "chartchallenges/cases2021/CopyOfposts2021/day19_global_change/day19_global_change.qmd": {
+    "day19_global_change.html": "37015e4c"
+  },
+  "chartchallenges/cases2021/CopyOfposts2021/day12_strips/day12_strips.qmd": {
+    "day12_strips.html": "dbb81e76"
+  },
+  "chartchallenges/cases2021/CopyOfposts2021/day9_statistics/day9_statistics.qmd": {
+    "day9_statistics.html": "1c90c78a"
+  },
+  "chartchallenges/cases2021/CopyOfposts2021/day13_correlation/day13_correlation.qmd": {
+    "day13_correlation.html": "722da0f6"
+  },
+  "chartchallenges/cases2021/CopyOfposts2021/day18_connections/day18_connections.qmd": {
+    "day18_connections.html": "541dce65"
+  },
+  "chartchallenges/cases2021/CopyOfposts2021/day6_experimental/day6_experimental.qmd": {
+    "day6_experimental.html": "2b3ea05b"
+  },
+  "chartchallenges/cases2021/CopyOfposts2021/day10_abstract/day10_abstract.qmd": {
+    "day10_abstract.html": "620db7c8"
+  },
+  "chartchallenges/cases2021/CopyOfposts2021/day26_trends/day26_trends.qmd": {
+    "day26_trends.html": "ee209671"
+  },
+  "chartchallenges/cases2021/CopyOfposts2021/day16_tree/day16_tree.qmd": {
+    "day16_tree.html": "f3ce5b55"
+  },
+  "chartchallenges/cases2021/CopyOfposts2021/day3_historical/day3_historical.qmd": {
+    "day3_historical.html": "be2dbce9"
+  },
+  "chartchallenges/cases2021/CopyOfposts2021/day25_demographic/day25_demographic.qmd": {
+    "day25_demographic.html": "ddb02a65"
+  },
+  "chartchallenges/cases2021/CopyOfposts2021/day17_pop_culture/day17_pop_culture.qmd": {
+    "day17_pop_culture.html": "4d5a8613"
+  },
+  "chartchallenges/cases2021/CopyOfposts2021/day14_space/day14_space.qmd": {
+    "day14_space.html": "6cb86999"
+  },
+  "chartchallenges/cases2021/CopyOfposts2021/day24_monochrome/day24_monochrome.qmd": {
+    "day24_monochrome.html": "6b5b764c"
+  },
+  "chartchallenges/cases2021/CopyOfposts2021/day4_magical/day4_magical.qmd": {
+    "day4_magical.html": "5de9cfea"
+  },
+  "chartchallenges/cases2021/CopyOfposts2021/day11_circular/day11_circular.qmd": {
+    "day11_circular.html": "7adc754d"
+  },
+  "chartchallenges/cases2021/CopyOfposts2021/day1_part-to-whole/day1_part-to-whole.qmd": {
+    "day1_part-to-whole.html": "05f05012"
+  },
+  "chartchallenges/cases2021/CopyOfposts2021/day8_animals/day8_animals.qmd": {
+    "day8_animals.html": "09f4ab4e"
+  },
+  "chartchallenges/cases2021/CopyOfposts2021/day30_3D/day30_3D.qmd": {
+    "day30_3D.html": "8b9c0113"
+  },
+  "chartchallenges/cases2021/CopyOfposts2021/day2_pictogram/day2_pictogram.qmd": {
+    "day2_pictogram.html": "28a4c665"
+  },
+  "chartchallenges/cases2021/CopyOfposts2021/day15_multivariate/day15_multivariate.qmd": {
+    "day15_multivariate.html": "4b45b4fd"
+  },
+  "chartchallenges/cases2021/CopyOfposts2021/day7_physical/day7_physical.qmd": {
+    "day7_physical.html": "190ac73b"
+  },
+  "chartchallenges/cases2021/CopyOfposts2021/day27_educational/day27_educational.qmd": {
+    "day27_educational.html": "299ed106"
+  },
+  "chartchallenges/cases2021/CopyOfposts2021/day28_future/day28_future.qmd": {
+    "day28_future.html": "b47a6169"
+  },
+  "chartchallenges/cases2021/posts2021/day20_upwards/day20_upwards.qmd": {
+    "day20_upwards.html": "d98f670b"
+  },
+  "chartchallenges/cases2021/posts2021/day29_deviations/day29_deviations.qmd": {
+    "day29_deviations.html": "879bbc02"
+  },
+  "chartchallenges/cases2021/posts2021/day23_tiles/day23_tiles.qmd": {
+    "day23_tiles.html": "3fe20b8b"
+  },
+  "chartchallenges/cases2021/posts2021/day5_slope/day5_slope.qmd": {
+    "day5_slope.html": "7ae828d6"
+  },
+  "chartchallenges/cases2021/posts2021/day22_animation/day22_animation.qmd": {
+    "day22_animation.html": "aefae9dc"
+  },
+  "chartchallenges/cases2021/posts2021/day21_downwards/day21_downwards.qmd": {
+    "day21_downwards.html": "861ac17a"
+  },
+  "chartchallenges/cases2021/posts2021/day19_global_change/day19_global_change.qmd": {
+    "day19_global_change.html": "55272cfd"
+  },
+  "chartchallenges/cases2021/posts2021/day12_strips/day12_strips.qmd": {
+    "day12_strips.html": "7fcf4d5e"
+  },
+  "chartchallenges/cases2021/posts2021/day9_statistics/day9_statistics.qmd": {
+    "day9_statistics.html": "64d8b206"
+  },
+  "chartchallenges/cases2021/posts2021/day13_correlation/day13_correlation.qmd": {
+    "day13_correlation.html": "616515ed"
+  },
+  "chartchallenges/cases2021/posts2021/day18_connections/day18_connections.qmd": {
+    "day18_connections.html": "bb145eea"
+  },
+  "chartchallenges/cases2021/posts2021/day6_experimental/day6_experimental.qmd": {
+    "day6_experimental.html": "deac5434"
+  },
+  "chartchallenges/cases2021/posts2021/day10_abstract/day10_abstract.qmd": {
+    "day10_abstract.html": "52339e50"
+  },
+  "chartchallenges/cases2021/posts2021/day26_trends/day26_trends.qmd": {
+    "day26_trends.html": "e57edc08"
+  },
+  "chartchallenges/cases2021/posts2021/day16_tree/day16_tree.qmd": {
+    "day16_tree.html": "33258054"
+  },
+  "chartchallenges/cases2021/posts2021/day3_historical/day3_historical.qmd": {
+    "day3_historical.html": "adb3257e"
+  },
+  "chartchallenges/cases2021/posts2021/day25_demographic/day25_demographic.qmd": {
+    "day25_demographic.html": "e33e8d6a"
+  },
+  "chartchallenges/cases2021/posts2021/day17_pop_culture/day17_pop_culture.qmd": {
+    "day17_pop_culture.html": "4fa55f3b"
+  },
+  "chartchallenges/cases2021/posts2021/day14_space/day14_space.qmd": {
+    "day14_space.html": "6449ad86"
+  },
+  "chartchallenges/cases2021/posts2021/day24_monochrome/day24_monochrome.qmd": {
+    "day24_monochrome.html": "93e49937"
+  },
+  "chartchallenges/cases2021/posts2021/day4_magical/day4_magical.qmd": {
+    "day4_magical.html": "241a044f"
+  },
+  "chartchallenges/cases2021/posts2021/day11_circular/day11_circular.qmd": {
+    "day11_circular.html": "8e8ace75"
+  },
+  "chartchallenges/cases2021/posts2021/day1_part-to-whole/day1_part-to-whole.qmd": {
+    "day1_part-to-whole.html": "92099d75"
+  },
+  "chartchallenges/cases2021/posts2021/day8_animals/day8_animals.qmd": {
+    "day8_animals.html": "d4906711"
+  },
+  "chartchallenges/cases2021/posts2021/day30_3D/day30_3D.qmd": {
+    "day30_3D.html": "3cd32f5d"
+  },
+  "chartchallenges/cases2021/posts2021/day2_pictogram/day2_pictogram.qmd": {
+    "day2_pictogram.html": "45fa4826"
+  },
+  "chartchallenges/cases2021/posts2021/day15_multivariate/day15_multivariate.qmd": {
+    "day15_multivariate.html": "76c468d9"
+  },
+  "chartchallenges/cases2021/posts2021/day7_physical/day7_physical.qmd": {
+    "day7_physical.html": "bc311deb"
+  },
+  "chartchallenges/cases2021/posts2021/day27_educational/day27_educational.qmd": {
+    "day27_educational.html": "8c449ca1"
+  },
+  "chartchallenges/cases2021/posts2021/day28_future/day28_future.qmd": {
+    "day28_future.html": "a4af43e7"
+  },
+  "chartchallenges/cases2022/posts2022/Untitled2/day23_tiles/day23_tiles.Rmd": {
+    "day23_tiles.html": "9448cc9b"
+  },
+  "chartchallenges/cases2022/posts2022/Untitled2/day29_storytelling/day29_storytelling.Rmd": {
+    "day29_storytelling.html": "dba73d9c"
+  },
+  "LICENSE.md": {
+    "LICENSE.html": "7d545ab9"
+  },
+  "chartchallenges/cases2022/scripts/day23_tiles/day23_tiles.Rmd": {
+    "day23_tiles.html": "18a8b8fc"
+  },
+  "chartchallenges/cases2022/scripts/day29_storytelling/day29_storytelling.Rmd": {
+    "day29_storytelling.html": "5e264d4e"
+  },
+  "chartchallenges/cases2022/posts2022/day30_un_pop/nonso.qmd": {
+    "nonso.html": "4903fb67"
+  },
+  "chartchallenges/cases2022/posts2022/day24_theme_day/day24_theme_day.qmd": {
+    "day24_theme_day.html": "b5cb4c90"
+  },
+  "chartchallenges/cases2022/posts2022/day14_3-dimensional/day14_3-dimensional.qmd": {
+    "day14_3-dimensional.html": "0d94f043"
+  },
+  "chartchallenges/cases2022/posts2022/day4_flora/day4_flora.qmd": {
+    "day4_flora.html": "a3b9f073"
+  },
+  "chartchallenges/cases2022/posts2022/day23_tiles/day23_tiles.qmd": {
+    "day23_tiles.html": "66cf756b"
+  },
+  "chartchallenges/cases2022/posts2022/day29_storytelling/day29_storytelling.qmd": {
+    "day29_storytelling.html": "115dfe2a"
+  },
+  "chartchallenges/cases2022/posts2022/day10_experimental/day10_experimental.qmd": {
+    "day10_experimental.html": "330f54bd"
+  },
+  "chartchallenges/cases2022/posts2022/day30_un_pop/day30_UNPOP.qmd": {
+    "day30_UNPOP.html": "bdfd9f1c"
+  },
+  "chartchallenges/cases2022/posts2022/day17_connections/day17_connections.qmd": {
+    "day17_connections.html": "c45e726e"
+  },
+  "chartchallenges/cases2022/posts2022/day5_slope/day5_slope.qmd": {
+    "day5_slope.html": "e34127a8"
+  },
+  "chartchallenges/cases2022/posts2022/day22_animation/day22_animation.qmd": {
+    "day22_animation.html": "bd283529"
+  },
+  "chartchallenges/cases2022/posts2022/day27_future/day27_future.qmd": {
+    "day27_future.html": "c2f4ec39"
+  },
+  "chartchallenges/cases2022/posts2022/day19_global_change/day19_global_change.qmd": {
+    "day19_global_change.html": "ee2f3e1a"
+  },
+  "chartchallenges/cases2022/posts2022/day6_data_day/day6_data_day.qmd": {
+    "day6_data_day.html": "b7fa7ca8"
+  },
+  "chartchallenges/cases2022/posts2022/day1_part_to_whole/day1_part_to_whole.qmd": {
+    "day1_part_to_whole.html": "d4d0977a"
+  },
+  "chartchallenges/cases2022/posts2022/day9_statistics/day9_statistics.qmd": {
+    "day9_statistics.html": "406171df"
+  },
+  "chartchallenges/cases2022/posts2022/day13_correlation/day13_correlation.qmd": {
+    "day13_correlation.html": "abf28ffa"
+  },
+  "chartchallenges/cases2022/posts2022/day26_interactive/day26_interactive.qmd": {
+    "day26_interactive.html": "f0ef8f31"
+  },
+  "chartchallenges/cases2022/posts2022/day3_historical/day3_historical.qmd": {
+    "day3_historical.html": "5f139a79"
+  },
+  "chartchallenges/cases2022/posts2022/day11_circular/day11_circular.qmd": {
+    "day11_circular.html": "4ba42d5b"
+  },
+  "chartchallenges/cases2022/posts2022/day28_deviations/day28_deviations.qmd": {
+    "day28_deviations.html": "14ebb84a"
+  },
+  "chartchallenges/cases2022/posts2022/day20_new_tool/day20_new_tool.qmd": {
+    "day20_new_tool.html": "26fecd01"
+  },
+  "chartchallenges/cases2022/posts2022/day16_environment/day16_environment.qmd": {
+    "day16_environment.html": "9104a682"
+  },
+  "chartchallenges/cases2022/posts2022/day18_oecd/day18_oecd.qmd": {
+    "day18_oecd.html": "2f7f8f12"
+  },
+  "chartchallenges/cases2022/posts2022/day12_theme_day/day12_theme_day.qmd": {
+    "day12_theme_day.html": "aead5af2"
+  },
+  "chartchallenges/cases2022/posts2022/day8_mountains/day8_mountains.qmd": {
+    "day8_mountains.html": "76f81532"
+  },
+  "chartchallenges/cases2022/posts2022/day21_down_upwards/day21_down_upwards.qmd": {
+    "day21_down_upwards.html": "45d8afcf"
+  },
+  "chartchallenges/cases2022/posts2022/day2_pictogram/day2_pictogram.qmd": {
+    "day2_pictogram.html": "aeeef5a3"
+  },
+  "chartchallenges/cases2022/posts2022/day15_multivariate/day15_multivariate.qmd": {
+    "day15_multivariate.html": "bb18f653"
+  },
+  "chartchallenges/cases2022/posts2022/day7_physical/day7_physical.qmd": {
+    "day7_physical.html": "47d8d078"
+  },
+  "chartchallenges/cases2022/posts2022/day25_trend/day25_trend.qmd": {
+    "day25_trend.html": "e91da2c0"
+  },
+  "chartchallenges/cases2023/posts2023/day24_UNWoman/day14_UN_woman.qmd": {
+    "day14_UN_woman.html": "ecee2f52"
+  },
+  "chartchallenges/cases2023/posts2023/day27_good_bad/day27_good_bad.qmd": {
+    "day27_good_bad.html": "116b073c"
+  },
+  "chartchallenges/cases2023/posts2023/day30_worldbank/day30_worldbank.qmd": {
+    "day30_worldbank.html": "8ecceb55"
+  },
+  "chartchallenges/cases2023/posts2023/day4/w2_BFWd.qmd": {
+    "w2_BFWd.html": "452168ee"
+  },
+  "chartchallenges/cases2023/posts2023/day3/w1_byo.qmd": {
+    "w1_byo.html": "f85da7e8"
+  },
+  "chartchallenges/cases2023/posts2023/day16_family/d16_family.qmd": {
+    "d16_family.html": "5524801a"
+  },
+  "chartchallenges/cases2023/posts2023/day2/w52_star_trek_timeline.Rmd": {
+    "w52_star_trek_timeline.html": "e7c181f4"
+  },
+  "chartchallenges/cases2023/posts2023/day5/w3_Arhd.qmd": {
+    "w3_Arhd.html": "86d2bedf"
+  },
+  "chartchallenges/cases2023/posts2023/day8_humans/day8_humans.qmd": {
+    "day8_humans.html": "3c82e67b"
+  },
+  "chartchallenges/cases2023/posts2023/day7_hazard/day7_hazard.qmd": {
+    "day7_hazard.html": "d2c13c41"
+  },
+  "chartchallenges/cases2023/posts2023/day24_theme_day/day24_theme_day.qmd": {
+    "day24_theme_day.html": "314c0924"
+  },
+  "chartchallenges/cases2023/posts2023/day30_data_day/day30_data_day.qmd": {
+    "day30_data_day.html": "a845a766"
+  },
+  "chartchallenges/cases2023/posts2023/day23_tiles/day23_tiles.qmd": {
+    "day23_tiles.html": "b26673b5"
+  },
+  "chartchallenges/cases2023/posts2023/day18_data_day/day18_data_day.qmd": {
+    "day18_data_day.html": "0228db71"
+  },
+  "chartchallenges/cases2023/posts2023/day26_local_change/day26_local_change.qmd": {
+    "day26_local_change.html": "e8326c3c"
+  },
+  "chartchallenges/cases2023/posts2023/day16_family/day16_family.qmd": {
+    "day16_family.html": "4d55f5d1"
+  },
+  "chartchallenges/cases2023/posts2023/day25_gobal_change/day25_gobal_change.qmd": {
+    "day25_gobal_change.html": "dbbeebb1"
+  },
+  "chartchallenges/cases2023/posts2023/day9_high_low/day9_high_low.qmd": {
+    "day9_high_low.html": "cb92c85c"
+  },
+  "chartchallenges/cases2023/posts2023/day5_slope/day5_slope.qmd": {
+    "day5_slope.html": "49d3c79a"
+  },
+  "chartchallenges/cases2023/posts2023/day2_waffle/day2_waffle.qmd": {
+    "day2_waffle.html": "a56c6c47"
+  },
+  "chartchallenges/cases2023/posts2023/day6_data_day/day6_data_day.qmd": {
+    "day6_data_day.html": "ffe6d310"
+  },
+  "chartchallenges/cases2023/posts2023/day28_trend/day28_trend.qmd": {
+    "day28_trend.html": "71bc21ff"
+  },
+  "chartchallenges/cases2023/posts2023/day13_popculture/day13_popculture.qmd": {
+    "day13_popculture.html": "7997e79b"
+  },
+  "chartchallenges/cases2023/posts2023/day3_fauna_flora/day3_fauna_flora.qmd": {
+    "day3_fauna_flora.html": "41a8d548"
+  },
+  "chartchallenges/cases2023/posts2023/day22_greenenergy/day22_greenenergy.qmd": {
+    "day22_greenenergy.html": "6eb17c84"
+  },
+  "chartchallenges/cases2023/posts2023/day17_networks/day17_networks.qmd": {
+    "day17_networks.html": "0858e0ab"
+  },
+  "chartchallenges/cases2023/posts2023/day14_new_tool/day14_new_tool.qmd": {
+    "day14_new_tool.html": "478e2948"
+  },
+  "chartchallenges/cases2023/posts2023/day11_circular/day11_circular.qmd": {
+    "day11_circular.html": "c806d0d6"
+  },
+  "chartchallenges/cases2023/posts2023/day1_part-to-whole/day1_part-to-whole.qmd": {
+    "day1_part-to-whole.html": "c308a454"
+  },
+  "chartchallenges/cases2023/posts2023/day29_monochrome/day29_monochrome.qmd": {
+    "day29_monochrome.html": "d58e0d58"
+  },
+  "chartchallenges/cases2023/posts2023/day12_theme_day/day12_theme_day.qmd": {
+    "day12_theme_day.html": "70afa26b"
+  },
+  "chartchallenges/cases2023/posts2023/day20_correlation/day20_correlation.qmd": {
+    "day20_correlation.html": "6c0e64ab"
+  },
+  "chartchallenges/cases2023/posts2023/day10_hybrid/day10_hybrid.qmd": {
+    "day10_hybrid.html": "f6253267"
+  },
+  "chartchallenges/cases2023/posts2023/day21_down_upwards/day21_down_upwards.qmd": {
+    "day21_down_upwards.html": "a0362ede"
+  },
+  "chartchallenges/cases2023/posts2023/day19_anthropocene/day19_anthropocene.qmd": {
+    "day19_anthropocene.html": "c45ff151"
+  },
+  "chartchallenges/cases2023/posts2023/day15_positive_negative/day15_positive_negative.qmd": {
+    "day15_positive_negative.html": "6f45677a"
+  },
+  "chartchallenges/cases2023/posts2023/day4_historical/day4_historical.qmd": {
+    "day4_historical.html": "180f0c83"
+  },
+  "mapchallenges/cases2021/posts2021/day25_interactive/day25_interactive.qmd": {
+    "day25_interactive.html": "b805f26f"
+  },
+  "mapchallenges/cases2021/posts2021/day20_movement/day20_movement.qmd": {
+    "day20_movement.html": "0774ce1c"
+  },
+  "mapchallenges/cases2021/posts2021/day22_boundaries/day22_boundaries.qmd": {
+    "day22_boundaries.html": "cfc22115"
+  },
+  "mapchallenges/cases2021/posts2021/day5_osm/day5_osm.qmd": {
+    "day5_osm.html": "4ede218f"
+  },
+  "mapchallenges/cases2021/posts2021/day23_ghsl_data/day23_ghsl_data.qmd": {
+    "day23_ghsl_data.html": "6de9da81"
+  },
+  "mapchallenges/cases2021/posts2021/day24_historical/day24_historical.qmd": {
+    "day24_historical.html": "f010b527"
+  },
+  "mapchallenges/cases2021/posts2021/day8_blue/day8_blue.qmd": {
+    "day8_blue.html": "3696369b"
+  },
+  "mapchallenges/cases2021/posts2021/day1_points/day1_points.qmd": {
+    "day1_points.html": "bdcf8116"
+  },
+  "mapchallenges/cases2021/posts2021/day7_green/day7_green.qmd": {
+    "day7_green.html": "87ca76bb"
+  },
+  "mapchallenges/cases2021/posts2021/day4_hexagons/day4_hexagons.qmd": {
+    "day4_hexagons.html": "6466ee72"
+  },
+  "mapchallenges/cases2021/posts2021/day14_newtool/day14_newtool.qmd": {
+    "day14_newtool.html": "74591d27"
+  },
+  "mapchallenges/cases2021/posts2021/day21_elevation/day21_elevation.qmd": {
+    "day21_elevation.html": "58ae92f4"
+  },
+  "mapchallenges/cases2021/posts2021/day3_polygons/day3_polygons.qmd": {
+    "day3_polygons.html": "ebbb1bd6"
+  },
+  "mapchallenges/cases2021/posts2021/day9_monochrome/day9_monochrome.qmd": {
+    "day9_monochrome.html": "ca379fe1"
+  },
+  "mapchallenges/cases2021/posts2021/day28_earth_not_flat/day28_earth_not_flat.qmd": {
+    "day28_earth_not_flat.html": "52ffc20c"
+  },
+  "mapchallenges/cases2021/posts2021/day27_heatmap/day27_heatmap.qmd": {
+    "day27_heatmap.html": "c265cde7"
+  },
+  "mapchallenges/cases2021/posts2021/day26_choropleth/day26_choropleth.qmd": {
+    "day26_choropleth.html": "5338b57e"
+  },
+  "mapchallenges/cases2021/posts2021/day12_population/day12_population.qmd": {
+    "day12_population.html": "a6650ff3"
+  },
+  "mapchallenges/cases2021/posts2021/day18_water/day18_water.qmd": {
+    "day18_water.html": "53f19786"
+  },
+  "mapchallenges/cases2021/posts2021/day6_red/day6_red.qmd": {
+    "day6_red.html": "9880b376"
+  },
+  "mapchallenges/cases2021/posts2021/day13_naturalearth/day13_naturalearth.qmd": {
+    "day13_naturalearth.html": "22769927"
+  },
+  "mapchallenges/cases2021/posts2021/day16_urban_rural/day16_urban_rural.qmd": {
+    "day16_urban_rural.html": "25220f60"
+  },
+  "mapchallenges/cases2021/posts2021/day17_land/day17_land.qmd": {
+    "day17_land.html": "941777b3"
+  },
+  "mapchallenges/cases2021/posts2021/day2_lines/day2_lines.qmd": {
+    "day2_lines.html": "95c9f3d2"
+  },
+  "mapchallenges/cases2021/posts2021/day19_islands/day19_islands.qmd": {
+    "day19_islands.html": "a0b9369f"
+  },
+  "mapchallenges/cases2021/posts2021/day10_raster/day10_raster.qmd": {
+    "day10_raster.html": "526cc96c"
+  },
+  "mapchallenges/cases2021/posts2021/day11_3D/day11_3D.qmd": {
+    "day11_3D.html": "d79a0bba"
+  },
+  "mapchallenges/cases2022/posts2022/day20_my_favourite/day20_my_favourite.qmd": {
+    "day20_my_favourite.html": "dca350fe"
+  },
+  "mapchallenges/cases2022/posts2022/day7_raster/day7_raster.qmd": {
+    "day7_raster.html": "ff2f9327"
+  },
+  "mapchallenges/cases2022/posts2022/day24_fantasy/day24_fantasy.qmd": {
+    "day24_fantasy.html": "5133afcd"
+  },
+  "mapchallenges/cases2022/posts2022/day1_points/day1_points.qmd": {
+    "day1_points.html": "42469386"
+  },
+  "mapchallenges/cases2022/posts2022/day4_color_friday_green/day4_color_friday_green.qmd": {
+    "day4_color_friday_green.html": "e4274ce8"
+  },
+  "mapchallenges/cases2022/posts2022/day12_scale/day12_scale.qmd": {
+    "day12_scale.html": "cda3c658"
+  },
+  "mapchallenges/cases2022/posts2022/day28_3D/day28_3D.qmd": {
+    "day28_3D.html": "868cf4b2"
+  },
+  "mapchallenges/cases2022/posts2022/day16_minimal/day16_minimal.qmd": {
+    "day16_minimal.html": "2df3387f"
+  },
+  "mapchallenges/cases2022/posts2022/day15_food_drink/day15_food_drink.qmd": {
+    "day15_food_drink.html": "a9b376f4"
+  },
+  "mapchallenges/cases2022/posts2022/day3_polygons/day3_polygons.qmd": {
+    "day3_polygons.html": "ac597fad"
+  },
+  "mapchallenges/cases2022/posts2022/day14_hexagons/day14_hexagons.qmd": {
+    "day14_hexagons.html": "62a76dd7"
+  },
+  "mapchallenges/cases2022/posts2022/day29_out_comfort_zone/day29_out_comfort_zone.qmd": {
+    "day29_out_comfort_zone.html": "931d5c21"
+  },
+  "mapchallenges/cases2022/posts2022/day5_ukraine/day5_ukraine.qmd": {
+    "day5_ukraine.html": "15d3541c"
+  },
+  "mapchallenges/cases2022/posts2022/day21_kontur_pop_dataset/day21_kontur_pop_dataset.qmd": {
+    "day21_kontur_pop_dataset.html": "b739838d"
+  },
+  "mapchallenges/cases2022/posts2022/day13_5_minutes_map/day13_5_minutes_map.qmd": {
+    "day13_5_minutes_map.html": "b0fa7dc2"
+  },
+  "mapchallenges/cases2022/posts2022/day27_music/day27_music.qmd": {
+    "day27_music.html": "d5b1abcd"
+  },
+  "mapchallenges/cases2022/posts2022/day23_movement/day23_movement.qmd": {
+    "day23_movement.html": "5d3aaabb"
+  },
+  "mapchallenges/cases2022/posts2022/day30_remix/day30_remix.qmd": {
+    "day30_remix.html": "3d433a34"
+  },
+  "mapchallenges/cases2022/posts2022/day6_network/day6_network.qmd": {
+    "day6_network.html": "3b0f3288"
+  },
+  "mapchallenges/cases2022/posts2022/day2_lines/day2_lines.qmd": {
+    "day2_lines.html": "5b74af7f"
+  },
+  "mapchallenges/cases2022/posts2022/day22_null/day22_null.qmd": {
+    "day22_null.html": "03aa5b68"
+  },
+  "mapchallenges/cases2022/posts2022/day18_color_friday_blue/day18_color_friday_blue.qmd": {
+    "day18_color_friday_blue.html": "6a9bee32"
+  },
+  "mapchallenges/cases2022/posts2022/day11_color_friday_red/day11_color_friday_red.qmd": {
+    "day11_color_friday_red.html": "86ab7c89"
+  },
+  "mapchallenges/cases2022/posts2022/day19_globe/day19_globe.qmd": {
+    "day19_globe.html": "acdc4c62"
+  },
+  "mapchallenges/cases2022/posts2022/day8_openstreetmap/day8_openstreetmap.qmd": {
+    "day8_openstreetmap.html": "21d2e863"
+  },
+  "mapchallenges/cases2022/posts2022/day26_islands/day26_islands.qmd": {
+    "day26_islands.html": "6a43cd28"
+  },
+  "mapchallenges/cases2022/posts2022/day9_space/day9_space.qmd": {
+    "day9_space.html": "93f5981f"
+  },
+  "mapchallenges/cases2022/posts2022/day17_a_map_without_computer/day17_a_map_without_computer.qmd": {
+    "day17_a_map_without_computer.html": "5980772b"
+  },
+  "mapchallenges/cases2022/posts2022/day10_a_bad_map/day10_a_bad_map.qmd": {
+    "day10_a_bad_map.html": "6af028d1"
+  },
+  "mapchallenges/cases2022/posts2022/day25_color_friday_2_colors/day25_color_friday_2_colors.qmd": {
+    "day25_color_friday_2_colors.html": "0560fc14"
+  },
+  "tidytuesday/cases2021/posts2021/w13_UN_Votes/w13_UN_Votes.qmd": {
+    "w13_UN_Votes.html": "7bb509f0"
+  },
+  "tidytuesday/cases2021/posts2021/w23_Survivor_TV_Show/w23_Survivor_TV_Show.qmd": {
+    "w23_Survivor_TV_Show.html": "5a0f3b3c"
+  },
+  "tidytuesday/cases2021/posts2021/w42_Global_Seafood/w42_Global_Seafood.qmd": {
+    "w42_Global_Seafood.html": "4dcd0275"
+  },
+  "tidytuesday/cases2021/posts2021/w14_Makeup_Shades/w14_Makeup_Shades.qmd": {
+    "w14_Makeup_Shades.html": "c9dee79b"
+  },
+  "tidytuesday/cases2021/posts2021/w29_Scooby_Doo/w29_Scooby_Doo.qmd": {
+    "w29_Scooby_Doo.html": "181d43ca"
+  },
+  "tidytuesday/cases2021/posts2021/w25_WEB_Du_Bois_and_Juneteenth/w25_WEB_Du_Bois_and_Juneteenth.qmd": {
+    "w25_WEB_Du_Bois_and_Juneteenth.html": "ee3dff68"
+  },
+  "tidytuesday/cases2021/posts2021/w21_Ask_a_Manager_Salary_Survey/w21_Ask_a_Manager_Salary_Survey.qmd": {
+    "w21_Ask_a_Manager_Salary_Survey.html": "ffdedb14"
+  },
+  "tidytuesday/cases2021/posts2021/w22_Mario_Kart_World_Records/w22_Mario_Kart_World_Records.qmd": {
+    "w22_Mario_Kart_World_Records.html": "60ad0009"
+  },
+  "tidytuesday/cases2021/posts2021/w52_Starbucks_drinks/w52_Starbucks_drinks.qmd": {
+    "w52_Starbucks_drinks.html": "15476860"
+  },
+  "tidytuesday/cases2021/posts2021/w16_US_Post_Offices/w16_US_Post_Offices.qmd": {
+    "w16_US_Post_Offices.html": "926cfdb6"
+  },
+  "tidytuesday/cases2021/posts2021/w46_Learning_with_afrilearndata/w46_Learning_with_afrilearndata.qmd": {
+    "w46_Learning_with_afrilearndata.html": "9df18d72"
+  },
+  "tidytuesday/cases2021/posts2021/w19_Water_Access_Points/w19_Water_Access_Points.qmd": {
+    "w19_Water_Access_Points.html": "c1f3df95"
+  },
+  "tidytuesday/cases2021/posts2021/w38_Billboard_Top_100/w38_Billboard_Top_100.qmd": {
+    "w38_Billboard_Top_100.html": "a4a05548"
+  },
+  "tidytuesday/cases2021/posts2021/w28_International_Independence_Days/w28_International_Independence_Days.qmd": {
+    "w28_International_Independence_Days.html": "e8310ad2"
+  },
+  "tidytuesday/cases2021/posts2021/w17_Netflix_Titles/w17_Netflix_Titles.qmd": {
+    "w17_Netflix_Titles.html": "07a4b2ba"
+  },
+  "tidytuesday/cases2021/posts2021/w32_Paralympic_Medals/w32_Paralympic_Medals.qmd": {
+    "w32_Paralympic_Medals.html": "ce5272ff"
+  },
+  "tidytuesday/cases2021/posts2021/w45_Making_maps_with_R/w45_Making_maps_with_R.qmd": {
+    "w45_Making_maps_with_R.html": "3c59a0e9"
+  },
+  "tidytuesday/cases2021/posts2021/w30_US_Droughts/w30_US_Droughts.qmd": {
+    "w30_US_Droughts.html": "b78667c4"
+  },
+  "tidytuesday/cases2021/posts2021/w34_Star_Trek_Voice_Commands/w34_Star_Trek_Voice_Commands.qmd": {
+    "w34_Star_Trek_Voice_Commands.html": "60e57b33"
+  },
+  "tidytuesday/cases2021/posts2021/w37_Formula_1_Races/w37_Formula_1_Races.qmd": {
+    "w37_Formula_1_Races.html": "a4a4b074"
+  },
+  "tidytuesday/cases2021/posts2021/w41_Registered_Nurses/w41_Registered_Nurses.qmd": {
+    "w41_Registered_Nurses.html": "176a2a92"
+  },
+  "tidytuesday/cases2021/posts2021/w15_Global_deforestation/w15_Global_deforestation.qmd": {
+    "w15_Global_deforestation.html": "2939a8e6"
+  },
+  "tidytuesday/cases2021/posts2021/w24_Great_Lakes_Fish/w24_Great_Lakes_Fish.qmd": {
+    "w24_Great_Lakes_Fish.html": "fabf22df"
+  },
+  "tidytuesday/cases2021/posts2021/w18_CEO_Departures/w18_CEO_Departures.qmd": {
+    "w18_CEO_Departures.html": "0ae0f0eb"
+  },
+  "tidytuesday/cases2021/posts2021/w48_Dr_Who/w48_Dr_Who.qmd": {
+    "w48_Dr_Who.html": "efe5b361"
+  },
+  "tidytuesday/cases2021/posts2021/w39_Emmy_Awards/w39_Emmy_Awards.qmd": {
+    "w39_Emmy_Awards.html": "a64c1d47"
+  },
+  "tidytuesday/cases2021/posts2021/w31_Olympic_Medals/w31_Olympic_Medals.qmd": {
+    "w31_Olympic_Medals.html": "dc8f50fd"
+  },
+  "tidytuesday/cases2021/posts2021/w26_Public_Park_Access/w26_Public_Park_Access.qmd": {
+    "w26_Public_Park_Access.html": "fd856fc1"
+  },
+  "tidytuesday/cases2021/posts2021/w20_US_Broadband/w20_US_Broadband.qmd": {
+    "w20_US_Broadband.html": "e19777a9"
+  },
+  "tidytuesday/cases2021/posts2021/w43_Big_Pumpkins/w43_Big_Pumpkins.qmd": {
+    "w43_Big_Pumpkins.html": "938a4221"
+  },
+  "tidytuesday/cases2021/posts2021/w49_World_Cup_Cricket/w49_World_Cup_Cricket.qmd": {
+    "w49_World_Cup_Cricket.html": "a5a45ca8"
+  },
+  "tidytuesday/cases2021/posts2021/w36_Bird_Baths/w36_Bird_Baths.qmd": {
+    "w36_Bird_Baths.html": "2c58d490"
+  },
+  "tidytuesday/cases2021/posts2021/w40_NBER_Papers/w40_NBER_Papers.qmd": {
+    "w40_NBER_Papers.html": "3ec08eb4"
+  },
+  "tidytuesday/cases2021/posts2021/w50_Spiders/w50_Spiders.qmd": {
+    "w50_Spiders.html": "414fd392"
+  },
+  "tidytuesday/cases2021/posts2021/w27_Animal_Rescues/w27_Animal_Rescues.qmd": {
+    "w27_Animal_Rescues.html": "1046abd5"
+  },
+  "tidytuesday/cases2021/posts2021/w35_Lemurs/w35_Lemurs.qmd": {
+    "w35_Lemurs.html": "940d7cc2"
+  },
+  "tidytuesday/cases2021/posts2021/w44_Ultra_Trail_Running/w44_Ultra_Trail_Running.qmd": {
+    "w44_Ultra_Trail_Running.html": "d9237251"
+  },
+  "tidytuesday/cases2021/posts2021/w33_BEA_Infrastructure_Investment/w33_BEA_Infrastructure_Investment.qmd": {
+    "w33_BEA_Infrastructure_Investment.html": "4f6a3fbc"
+  },
+  "tidytuesday/cases2021/posts2021/w51_Spice_Girls/w51_Spice_Girls.qmd": {
+    "w51_Spice_Girls.html": "63be40f0"
+  },
+  "tidytuesday/cases2022/posts2022/w45_Radio_Stations/w45_Radio_Stations.qmd": {
+    "w45_Radio_Stations.html": "b42d8c2b"
+  },
+  "tidytuesday/cases2022/posts2022/w19_NYTimes_best_sellers/w19_NYTimes_best_sellers.qmd": {
+    "w19_NYTimes_best_sellers.html": "1e743eb3"
+  },
+  "tidytuesday/cases2022/posts2022/w18_SolarWind_utilities/w18_SolarWind_utilities.qmd": {
+    "w18_SolarWind_utilities.html": "53337f91"
+  },
+  "tidytuesday/cases2022/posts2022/w6_Tuskegee_Airmen/w6_Tuskegee_Airmen.qmd": {
+    "w6_Tuskegee_Airmen.html": "df480898"
+  },
+  "tidytuesday/cases2022/posts2022/w25_Juneteenth/w25_Juneteenth.qmd": {
+    "w25_Juneteenth.html": "ee7f5297"
+  },
+  "tidytuesday/cases2022/posts2022/w34_CHIP_dataset/w34_CHIP_dataset.qmd": {
+    "w34_CHIP_dataset.html": "a560ce20"
+  },
+  "tidytuesday/cases2022/posts2022/w43_Great_British_Bakeoff/w43_Great_British_Bakeoff.qmd": {
+    "w43_Great_British_Bakeoff.html": "e03ea755"
+  },
+  "tidytuesday/cases2022/posts2022/w1_Bring_your_own_data_from_2022/w1_Bring_your_own_data_from_2022.qmd": {
+    "w1_Bring_your_own_data_from_2022.html": "0477036b"
+  },
+  "tidytuesday/cases2022/posts2022/w39_Artists_in_the_USA/w39_Artists_in_the_USA.qmd": {
+    "w39_Artists_in_the_USA.html": "d9e20e2c"
+  },
+  "tidytuesday/cases2022/posts2022/w10_Erasmus_student_mobility/w10_Erasmus_student_mobility.qmd": {
+    "w10_Erasmus_student_mobility.html": "b2b6a1f0"
+  },
+  "tidytuesday/cases2022/posts2022/w42_Stranger_things_dialogue/w42_Stranger_things_dialogue.qmd": {
+    "w42_Stranger_things_dialogue.html": "985f08ce"
+  },
+  "tidytuesday/cases2022/posts2022/w15_Indoor_Air_Pollution/w15_Indoor_Air_Pollution.qmd": {
+    "w15_Indoor_Air_Pollution.html": "21296fd2"
+  },
+  "tidytuesday/cases2022/posts2022/w48_FIFA_World_Cup/w48_FIFA_World_Cup.qmd": {
+    "w48_FIFA_World_Cup.html": "b10cb823"
+  },
+  "tidytuesday/cases2022/posts2022/w20_Eurovision/w20_Eurovision.qmd": {
+    "w20_Eurovision.html": "d21d0d1a"
+  },
+  "tidytuesday/cases2022/posts2022/w26_UK_Gender_pay_gap/w26_UK_Gender_pay_gap.qmd": {
+    "w26_UK_Gender_pay_gap.html": "6db216d6"
+  },
+  "tidytuesday/cases2022/posts2022/w14_Digital_Publications/w14_Digital_Publications.qmd": {
+    "w14_Digital_Publications.html": "aaf59d5c"
+  },
+  "tidytuesday/cases2022/posts2022/w36_LEGO_database/w36_LEGO_database.qmd": {
+    "w36_LEGO_database.html": "81598a9f"
+  },
+  "tidytuesday/cases2022/posts2022/w11_CRANBIOC_Vignettes/w11_CRANBIOC_Vignettes.qmd": {
+    "w11_CRANBIOC_Vignettes.html": "046154dc"
+  },
+  "tidytuesday/cases2022/posts2022/w38_Hydro_Wastewater_plants/w38_Hydro_Wastewater_plants.qmd": {
+    "w38_Hydro_Wastewater_plants.html": "94ecc3ca"
+  },
+  "tidytuesday/cases2022/posts2022/w13_Collegiate_Sports_Budgets/w13_Collegiate_Sports_Budgets.qmd": {
+    "w13_Collegiate_Sports_Budgets.html": "60f6202d"
+  },
+  "tidytuesday/cases2022/posts2022/w17_Kaggle_Hidden_Gems/w17_Kaggle_Hidden_Gems.qmd": {
+    "w17_Kaggle_Hidden_Gems.html": "7e3516b7"
+  },
+  "tidytuesday/cases2022/posts2022/w28_European_flights/w28_European_flights.qmd": {
+    "w28_European_flights.html": "271e30ce"
+  },
+  "tidytuesday/cases2022/posts2022/w31_Oregon_Spotted_Frog/w31_Oregon_Spotted_Frog.qmd": {
+    "w31_Oregon_Spotted_Frog.html": "74ee9b67"
+  },
+  "tidytuesday/cases2022/posts2022/w16_Crossword_Puzzles_and_Clues/w16_Crossword_Puzzles_and_Clues.qmd": {
+    "w16_Crossword_Puzzles_and_Clues.html": "571963bc"
+  },
+  "tidytuesday/cases2022/posts2022/w8_World_Freedom_index/w8_World_Freedom_index.qmd": {
+    "w8_World_Freedom_index.html": "97d6bd45"
+  },
+  "tidytuesday/cases2022/posts2022/w37_Bigfoot/w37_Bigfoot.qmd": {
+    "w37_Bigfoot.html": "10a43f12"
+  },
+  "tidytuesday/cases2022/posts2022/w29_Technology_Adoption/w29_Technology_Adoption.qmd": {
+    "w29_Technology_Adoption.html": "7cb68075"
+  },
+  "tidytuesday/cases2022/posts2022/w4_Board_games/w4_Board_games.qmd": {
+    "w4_Board_games.html": "f8fb573c"
+  },
+  "tidytuesday/cases2022/posts2022/w30_Bring_your_own_data/w30_Bring_your_own_data.qmd": {
+    "w30_Bring_your_own_data.html": "29665fa2"
+  },
+  "tidytuesday/cases2022/posts2022/w46_Web_page_metrics/w46_Web_page_metrics.qmd": {
+    "w46_Web_page_metrics.html": "0731136f"
+  },
+  "tidytuesday/cases2022/posts2022/w41_Ravelry_data/w41_Ravelry_data.qmd": {
+    "w41_Ravelry_data.html": "6fe6e78b"
+  },
+  "tidytuesday/cases2022/posts2022/w27_San_Francisco_Rentals/w27_San_Francisco_Rentals.qmd": {
+    "w27_San_Francisco_Rentals.html": "fede62c0"
+  },
+  "tidytuesday/cases2022/posts2022/w40_Product_Hunt_products/w40_Product_Hunt_products.qmd": {
+    "w40_Product_Hunt_products.html": "32b1a731"
+  },
+  "tidytuesday/cases2022/posts2022/w23_Pride_Corporate_Accountability_Project/w23_Pride_Corporate_Accountability_Project.qmd": {
+    "w23_Pride_Corporate_Accountability_Project.html": "75455115"
+  },
+  "tidytuesday/cases2022/posts2022/w44_Horror_Movies/w44_Horror_Movies.qmd": {
+    "w44_Horror_Movies.html": "998229ad"
+  },
+  "tidytuesday/cases2022/posts2022/w2_Bee_Colony_losses/w2_Bee_Colony_losses.qmd": {
+    "w2_Bee_Colony_losses.html": "214efbd0"
+  },
+  "tidytuesday/cases2022/posts2022/w33_Open_Source_Psychometrics/w33_Open_Source_Psychometrics.qmd": {
+    "w33_Open_Source_Psychometrics.html": "a168fe3d"
+  },
+  "tidytuesday/cases2022/posts2022/w47_UK_Museums/w47_UK_Museums.qmd": {
+    "w47_UK_Museums.html": "88043fbb"
+  },
+  "tidytuesday/cases2022/posts2022/w52_Star_Trek_Timelines/w52_Star_Trek_Timelines.qmd": {
+    "w52_Star_Trek_Timelines.html": "67320d91"
+  },
+  "tidytuesday/cases2022/posts2022/w3_Chocolate_Bar_ratings/w3_Chocolate_Bar_ratings.qmd": {
+    "w3_Chocolate_Bar_ratings.html": "8484f0ba"
+  },
+  "tidytuesday/cases2022/posts2022/w5_Dog_breeds/w5_Dog_breeds.qmd": {
+    "w5_Dog_breeds.html": "250a4479"
+  },
+  "tidytuesday/cases2022/posts2022/w22_Company_reputation_poll/w22_Company_reputation_poll.qmd": {
+    "w22_Company_reputation_poll.html": "fb3268e9"
+  },
+  "tidytuesday/cases2022/posts2022/w9_Alternative_Fuel_Stations/w9_Alternative_Fuel_Stations.qmd": {
+    "w9_Alternative_Fuel_Stations.html": "28dcb81b"
+  },
+  "tidytuesday/cases2022/posts2022/w12_Baby_names/w12_Baby_names.qmd": {
+    "w12_Baby_names.html": "119c81a9"
+  },
+  "tidytuesday/cases2022/posts2022/w51_Weather_Forecast_Accuracy/w51_Weather_Forecast_Accuracy.qmd": {
+    "w51_Weather_Forecast_Accuracy.html": "223b8829"
+  },
+  "tidytuesday/cases2022/posts2022/w49_Elevators/w49_Elevators.qmd": {
+    "w49_Elevators.html": "2cac8eda"
+  },
+  "tidytuesday/cases2022/posts2022/w32_Ferris_Wheels/w32_Ferris_Wheels.qmd": {
+    "w32_Ferris_Wheels.html": "e69982ca"
+  },
+  "tidytuesday/cases2022/posts2022/w50_Monthly_State_Retail_Sales/w50_Monthly_State_Retail_Sales.qmd": {
+    "w50_Monthly_State_Retail_Sales.html": "e7ed46a2"
+  },
+  "tidytuesday/cases2022/posts2022/w21_Womens_Rugby/w21_Womens_Rugby.qmd": {
+    "w21_Womens_Rugby.html": "20120876"
+  },
+  "tidytuesday/cases2022/posts2022/w35_Pell_Grants/w35_Pell_Grants.qmd": {
+    "w35_Pell_Grants.html": "246b4a8d"
+  },
+  "tidytuesday/cases2022/posts2022/w7_DuBoisChallenge2022/w7_DuBoisChallenge2022.qmd": {
+    "w7_DuBoisChallenge2022.html": "2f665d56"
+  },
+  "tidytuesday/cases2022/posts2022/w24_US_Drought/w24_US_Drought.qmd": {
+    "w24_US_Drought.html": "0530f669"
+  },
+  "tidytuesday/cases2023/posts2023/w28_Global_Surface_Temperatures/w28_Global_Surface_Temperatures.qmd": {
+    "w28_Global_Surface_Temperatures.html": "11ac2e09"
+  },
+  "tidytuesday/cases2023/posts2023/w4_Alone_data/w4_Alone_data.qmd": {
+    "w4_Alone_data.html": "9b7b8ee4"
+  },
+  "tidytuesday/cases2023/posts2023/w11_European_Drug_Development/w11_European_Drug_Development.qmd": {
+    "w11_European_Drug_Development.html": "5ae38160"
+  },
+  "tidytuesday/cases2023/posts2023/w15_US_Egg_Production_Data/w15_US_Egg_Production_Data.qmd": {
+    "w15_US_Egg_Production_Data.html": "4309d574"
+  },
+  "tidytuesday/cases2023/posts2023/w13_Time_Zones/w13_Time_Zones.qmd": {
+    "w13_Time_Zones.html": "003cd3f9"
+  },
+  "tidytuesday/cases2023/posts2023/w10_Numbats_in_Australia/w10_Numbats_in_Australia.qmd": {
+    "w10_Numbats_in_Australia.html": "bf7c915f"
+  },
+  "tidytuesday/cases2023/posts2023/w3_Art_history_data/w3_Art_history_data.qmd": {
+    "w3_Art_history_data.html": "039f6e3b"
+  },
+  "tidytuesday/cases2023/posts2023/w19_Childcare_Costs/w19_Childcare_Costs.qmd": {
+    "w19_Childcare_Costs.html": "d50c3511"
+  },
+  "tidytuesday/cases2023/posts2023/w25_UFO_Sightings_Redux/w25_UFO_Sightings_Redux.qmd": {
+    "w25_UFO_Sightings_Redux.html": "8a27a3ae"
+  },
+  "tidytuesday/cases2023/posts2023/w22_Verified_Oldest_People/w22_Verified_Oldest_People.qmd": {
+    "w22_Verified_Oldest_People.html": "81db6391"
+  },
+  "tidytuesday/cases2023/posts2023/w14_Premier_League_Match_Data/w14_Premier_League_Match_Data.qmd": {
+    "w14_Premier_League_Match_Data.html": "c89ec1fd"
+  },
+  "tidytuesday/cases2023/posts2023/w17_London_Marathon/w17_London_Marathon.qmd": {
+    "w17_London_Marathon.html": "a61a93a8"
+  },
+  "tidytuesday/cases2023/posts2023/w6_Big_Tech_Stock_Prices/w6_Big_Tech_Stock_Prices.qmd": {
+    "w6_Big_Tech_Stock_Prices.html": "2894e905"
+  },
+  "tidytuesday/cases2023/posts2023/w24_Studying_African_FarmerLed_Irrigation_Survey/w24_Studying_African_FarmerLed_Irrigation_Survey.qmd": {
+    "w24_Studying_African_FarmerLed_Irrigation_Survey.html": "8282ec84"
+  },
+  "tidytuesday/cases2023/posts2023/w2_Bird_FeederWatch_data/w2_Bird_FeederWatch_data.qmd": {
+    "w2_Bird_FeederWatch_data.html": "5ba6171e"
+  },
+  "tidytuesday/cases2023/posts2023/w7_Hollywood_Age_Gaps/w7_Hollywood_Age_Gaps.qmd": {
+    "w7_Hollywood_Age_Gaps.html": "d3d62514"
+  },
+  "tidytuesday/cases2023/posts2023/w8_Bob_Ross_Paintings/w8_Bob_Ross_Paintings.qmd": {
+    "w8_Bob_Ross_Paintings.html": "70a21cc8"
+  },
+  "tidytuesday/cases2023/posts2023/w16_Neolithic_Founder_Crops/w16_Neolithic_Founder_Crops.qmd": {
+    "w16_Neolithic_Founder_Crops.html": "bb3ee947"
+  },
+  "tidytuesday/cases2023/posts2023/w9_African_Language_Sentiment/w9_African_Language_Sentiment.qmd": {
+    "w9_African_Language_Sentiment.html": "c0359c83"
+  },
+  "tidytuesday/cases2023/posts2023/w26_US_Populated_Places/w26_US_Populated_Places.qmd": {
+    "w26_US_Populated_Places.html": "9d7e93f7"
+  },
+  "tidytuesday/cases2023/posts2023/w12_Programming_Languages/w12_Programming_Languages.qmd": {
+    "w12_Programming_Languages.html": "9e6bdc6f"
+  },
+  "tidytuesday/cases2023/posts2023/w27_Historical_Markers/w27_Historical_Markers.qmd": {
+    "w27_Historical_Markers.html": "b9307652"
+  },
+  "tidytuesday/cases2023/posts2023/w1_Bring_your_own_data_to_start_2023/w1_Bring_your_own_data_to_start_2023.qmd": {
+    "w1_Bring_your_own_data_to_start_2023.html": "a4ff7297"
+  },
+  "tidytuesday/cases2023/posts2023/w20_Tornados/w20_Tornados.qmd": {
+    "w20_Tornados.html": "2af92841"
+  },
+  "tidytuesday/cases2023/posts2023/w5_Pet_Cats_UK/w5_Pet_Cats_UK.qmd": {
+    "w5_Pet_Cats_UK.html": "28fd8e53"
+  },
+  "tidytuesday/cases2023/posts2023/w23_Energy/w23_Energy.qmd": {
+    "w23_Energy.html": "a96dd063"
+  },
+  "tidytuesday/cases2023/posts2023/w18_The_Portal_Project/w18_The_Portal_Project.qmd": {
+    "w18_The_Portal_Project.html": "05d491be"
+  },
+  "tidytuesday/cases2023/posts2023/w21_Central_Park_Squirrels/w21_Central_Park_Squirrels.qmd": {
+    "w21_Central_Park_Squirrels.html": "1feaad66"
+  },
+  "mapchallenges/cases2023/posts2023/day5_analog-map/day5_analog-map.qmd": {
+    "day5_analog-map.html": "b4e6ba3a"
+  },
+  "mapchallenges/cases2023/posts2023/day20_outdoors/day20_outdoors.qmd": {
+    "day20_outdoors.html": "bcf8be2b"
+  },
+  "mapchallenges/cases2023/posts2023/day24_black&white/day24_black&white.qmd": {
+    "day24_black&white.html": "0dad9456"
+  },
+  "mapchallenges/cases2023/posts2023/day28_is-this-a-chart-or-a-map/day28_is-this-a-chart-or-a-map.qmd": {
+    "day28_is-this-a-chart-or-a-map.html": "1f549055"
+  },
+  "mapchallenges/cases2023/posts2023/day27_dot/day27_dot.qmd": {
+    "day27_dot.html": "159b50db"
+  },
+  "mapchallenges/cases2023/posts2023/day21_raster/day21_raster.qmd": {
+    "day21_raster.html": "635a92c4"
+  },
+  "mapchallenges/cases2023/posts2023/day29_population/day29_population.qmd": {
+    "day29_population.html": "ecec5bb7"
+  },
+  "mapchallenges/cases2023/posts2023/day13_choropleth/day13_choropleth.qmd": {
+    "day13_choropleth.html": "5b86fcea"
+  },
+  "mapchallenges/cases2023/posts2023/day1_points/day1_points.qmd": {
+    "day1_points.html": "037fc6b2"
+  },
+  "mapchallenges/cases2023/posts2023/day23_3D/day23_3D.qmd": {
+    "day23_3D.html": "f2c574c9"
+  },
+  "mapchallenges/cases2023/posts2023/day17_flow/day17_flow.qmd": {
+    "day17_flow.html": "8a1740ba"
+  },
+  "mapchallenges/cases2023/posts2023/day9_hexagons/day9_hexagons.qmd": {
+    "day9_hexagons.html": "f9466636"
+  },
+  "mapchallenges/cases2023/posts2023/day3_polygons/day3_polygons.qmd": {
+    "day3_polygons.html": "8d425651"
+  },
+  "mapchallenges/cases2023/posts2023/day16_oceania/day16_oceania.qmd": {
+    "day16_oceania.html": "4b1b1202"
+  },
+  "mapchallenges/cases2023/posts2023/day25_antarctica/day25_antarctica.qmd": {
+    "day25_antarctica.html": "40d482d5"
+  },
+  "mapchallenges/cases2023/posts2023/day11_retro/day11_retro.qmd": {
+    "day11_retro.html": "1fba237e"
+  },
+  "mapchallenges/cases2023/posts2023/day8_africa/day8_africa.qmd": {
+    "day8_africa.html": "ee803032"
+  },
+  "mapchallenges/cases2023/posts2023/day22_north-is-not-always-up/day22_north-is-not-always-up.qmd": {
+    "day22_north-is-not-always-up.html": "85611724"
+  },
+  "mapchallenges/cases2023/posts2023/day2_lines/day2_lines.qmd": {
+    "day2_lines.html": "5aa99207"
+  },
+  "mapchallenges/cases2023/posts2023/day12_south-america/day12_south-america.qmd": {
+    "day12_south-america.html": "b81e9282"
+  },
+  "mapchallenges/cases2023/posts2023/day6_asia/day6_asia.qmd": {
+    "day6_asia.html": "28ce8c02"
+  },
+  "mapchallenges/cases2023/posts2023/day10_north-america/day10_north-america.qmd": {
+    "day10_north-america.html": "9a7fbe79"
+  },
+  "mapchallenges/cases2023/posts2023/day30_my-favourite/day30_my-favourite.qmd": {
+    "day30_my-favourite.html": "e4a03211"
+  },
+  "mapchallenges/cases2023/posts2023/day14_europe/day14_europe.qmd": {
+    "day14_europe.html": "937c6bf7"
+  },
+  "mapchallenges/cases2023/posts2023/day19_5-minute-map/day19_5-minute-map.qmd": {
+    "day19_5-minute-map.html": "c997bf68"
+  },
+  "mapchallenges/cases2023/posts2023/day4_a-bad-map/day4_a-bad-map.qmd": {
+    "day4_a-bad-map.html": "8cf2073b"
+  },
+  "mapchallenges/cases2023/posts2023/day15_openstreetmap/day15_openstreetmap.qmd": {
+    "day15_openstreetmap.html": "665a32e7"
+  },
+  "mapchallenges/cases2023/posts2023/day7_navigation/day7_navigation.qmd": {
+    "day7_navigation.html": "07a2810b"
+  },
+  "mapchallenges/cases2023/posts2023/day26_minimal/day26_minimal.qmd": {
+    "day26_minimal.html": "4670fb54"
+  },
+  "mapchallenges/cases2023/posts2023/day18_atmosphere/day18_atmosphere.qmd": {
+    "day18_atmosphere.html": "b8de5aee"
+  },
+  "mapchallenges/cases2021/posts2021/day15_nopc/day15_nopc.qmd": {
+    "day15_nopc.html": "02aefb96"
+  },
+  "mapchallenges/cases2022/posts2022/day21_kontur_pop_dataset/day21_kontour_pop_dataset.qmd": {
+    "day21_kontour_pop_dataset.html": "cae08bbe"
+  },
+  "mapchallenges/cases2022/posts2022/day13_5_minute_map/day13_5_minute_map.qmd": {
+    "day13_5_minute_map.html": "14521502"
+  },
+  "mapchallenges/cases2021/posts2021/day30_metamapping/day30_metamapping.qmd": {
+    "day30_metamapping.html": "49d908c4"
+  },
+  "mapchallenges/cases2021/posts2021/day29_null/day29_null.qmd": {
+    "day29_null.html": "86184731"
+  },
+  "mapchallenges/cases2023/posts2023/day2_lines/day2_lines.rmarkdown": {
+    "day2_lines.html": "77e4530f"
+  },
+  "mapchallenges/cases2023/posts2023/day19_5-minute-map/day19_5-minute-map.rmarkdown": {
+    "day19_5-minute-map.html": "388eafc1"
+  },
+  "mapchallenges/cases2023/posts2023/day18_atmosphere/day18_atmosphere.rmarkdown": {
+    "day18_atmosphere.html": "416bedd4"
+  },
+  "mapchallenges/cases2022/posts2022/day6_network/day6_network.rmarkdown": {
+    "day6_network.html": "4e78c963"
+  },
+  "mapchallenges/cases2022/posts2022/day15_food_drink/day15_food_drink.rmarkdown": {
+    "day15_food_drink.html": "d376b7ff"
+  },
+  "mapchallenges/cases2021/posts2021/day7_green/day7_green.rmarkdown": {
+    "day7_green.html": "fdc90863"
+  },
+  "mapchallenges/cases2021/posts2021/day6_red/day6_red.rmarkdown": {
+    "day6_red.html": "7ed2b416"
+  },
+  "mapchallenges/cases2023/posts2023/day25_antarctica/day25_antarctica.rmarkdown": {
+    "day25_antarctica.html": "d5eb4b2d"
+  },
+  "duBoischallenge/index.qmd": {
+    "index.html": "b00baa77"
+  },
+  "duBoischallenge/plates/index.qmd": {
+    "index.html": "9b89cb9b"
+  },
+  "duBoischallenge/presentation/talk.qmd": {
+    "talk.html": "e40792df"
+  },
+  "duBoischallenge/presentation/01-intro.qmd": {
+    "01-intro.html": "e0e8639b"
+  },
+  "duBoischallenge/presentation/index.qmd": {
+    "index.html": "9fa2ff49"
+  },
+  "duboischallenge/index.qmd": {
+    "index.html": "e748c200"
+  },
+  "duboischallenge/plates/index.qmd": {
+    "index.html": "9666beee"
+  },
+  "duboischallenge/presentation/index.qmd": {
+    "index.html": "ff3080fc"
+  },
+  "duboischallenge/talk.qmd": {
+    "talk.html": "d8509a00"
+  },
+  "duboischallenge/slides/index.qmd": {
+    "index.html": "9c446449"
+  },
+  "duboischallenge/slides/01-intro.qmd": {
+    "01-intro.html": "afb27df2"
+  },
+  "duboischallenge/plates/challenge02/index.qmd": {
+    "index.html": "7cc8707d"
+  },
+  "duboischallenge/plates/challenge01/index.qmd": {
+    "index.html": "2321e190"
+  },
+  "duboischallenge/slides/02-intro.qmd": {
+    "02-intro.html": "835b33ed"
+  },
+  "duboischallenge/plates/challenge03/index.qmd": {
+    "index.html": "188e0bc7"
+  },
+  "duboischallenge/plates/challenge04/index.qmd": {
+    "index.html": "552bb206"
+  },
+  "duboischallenge/plates/plate6/index.qmd": {
+    "index.html": "6e695d5d"
+  },
+  "duboischallenge/plates/plate8/index.qmd": {
+    "index.html": "5030d23b"
+  },
+  "duboischallenge/plates/plate25/index.qmd": {
+    "index.html": "ce650598"
+  },
+  "duboischallenge/plates/challenge05/challenge05.qmd": {
+    "challenge05.html": "d3e800ab"
+  },
+  "duboischallenge/plates/challenge05/index.qmd": {
+    "index.html": "c9ea6a47"
+  },
+  "mapchallenges/cases2024/index.qmd": {
+    "index.html": "3bae4a1a"
+  },
+  "mapchallenges/cases2024/posts2024/day5_a-journey/day5_a-journey.qmd": {
+    "day5_a-journey.html": "c5021c8c"
+  },
+  "mapchallenges/cases2024/posts2024/day20_osm/day20_osm.qmd": {
+    "day20_osm.html": "e444bb9c"
+  },
+  "mapchallenges/cases2024/posts2024/day30_the_final_map/day30_the_final_map.qmd": {
+    "day30_the_final_map.html": "c1cd2dc9"
+  },
+  "mapchallenges/cases2024/posts2024/day17_collaborative_map/day17_collaborative_map.qmd": {
+    "day17_collaborative_map.html": "d90564cd"
+  },
+  "mapchallenges/cases2024/posts2024/day25_heat/day25_heat.qmd": {
+    "day25_heat.html": "89e00ad1"
+  },
+  "mapchallenges/cases2024/posts2024/day8_hdx/day8_hdx.qmd": {
+    "day8_hdx.html": "ae322c3f"
+  },
+  "mapchallenges/cases2024/posts2024/day1_points/day1_points.qmd": {
+    "day1_points.html": "eb17f806"
+  },
+  "mapchallenges/cases2024/posts2024/day15_my_data/day15_my_data.qmd": {
+    "day15_my_data.html": "a7fcbd2b"
+  },
+  "mapchallenges/cases2024/posts2024/day4_hexagons/day4_hexagons.qmd": {
+    "day4_hexagons.html": "c2da1c97"
+  },
+  "mapchallenges/cases2024/posts2024/day14_worldmap/day14_worldmap.qmd": {
+    "day14_worldmap.html": "23bb82e0"
+  },
+  "mapchallenges/cases2024/posts2024/day27_micromapping/day27_micromapping.qmd": {
+    "day27_micromapping.html": "342cc59d"
+  },
+  "mapchallenges/cases2024/posts2024/day3_polygons/day3_polygons.qmd": {
+    "day3_polygons.html": "fb0bcc09"
+  },
+  "mapchallenges/cases2024/posts2024/day18_3D/day18_3D.qmd": {
+    "day18_3D.html": "9ba40781"
+  },
+  "mapchallenges/cases2024/posts2024/day26_map_projections/day26_map_projections.qmd": {
+    "day26_map_projections.html": "5fffd5aa"
+  },
+  "mapchallenges/cases2024/posts2024/day9_ai/day9_ai.qmd": {
+    "day9_ai.html": "fc72bcc0"
+  },
+  "mapchallenges/cases2024/posts2024/day28_the_blue_planet/day28_the_blue_planet.qmd": {
+    "day28_the_blue_planet.html": "c95e988a"
+  },
+  "mapchallenges/cases2024/posts2024/day19_typography/day19_typography.qmd": {
+    "day19_typography.html": "0dbb9d41"
+  },
+  "mapchallenges/cases2024/posts2024/day11_artic/day11_artic.qmd": {
+    "day11_artic.html": "bd0a75c9"
+  },
+  "mapchallenges/cases2024/posts2024/day10_pen&paper/day10_pen&paper.qmd": {
+    "day10_pen&paper.html": "1f39f0f0"
+  },
+  "mapchallenges/cases2024/posts2024/day7_vintage/day7_vintage.qmd": {
+    "day7_vintage.html": "397cdb55"
+  },
+  "mapchallenges/cases2024/posts2024/day6_raster/day6_raster.qmd": {
+    "day6_raster.html": "c1fe96a4"
+  },
+  "mapchallenges/cases2024/posts2024/day29_overture/day29_overture.qmd": {
+    "day29_overture.html": "038972ab"
+  },
+  "mapchallenges/cases2024/posts2024/day21_conflicts/day21_conflicts.qmd": {
+    "day21_conflicts.html": "dbc93659"
+  },
+  "mapchallenges/cases2024/posts2024/day12_time&space/day12_time&space.qmd": {
+    "day12_time&space.html": "397b1fac"
+  },
+  "mapchallenges/cases2024/posts2024/day2_lines/day2_lines.qmd": {
+    "day2_lines.html": "287bfca5"
+  },
+  "mapchallenges/cases2024/posts2024/day22_two_colors/day22_two_colors.qmd": {
+    "day22_two_colors.html": "23b838b1"
+  },
+  "mapchallenges/cases2024/posts2024/day13_new_tool/day13_new_tool.qmd": {
+    "day13_new_tool.html": "4bee06fa"
+  },
+  "mapchallenges/cases2024/posts2024/day16_choropleth_map/day16_choropleth_map.qmd": {
+    "day16_choropleth_map.html": "80a1a5bf"
+  },
+  "mapchallenges/cases2024/posts2024/day23_memory/day23_memory.qmd": {
+    "day23_memory.html": "e649ecd8"
+  },
+  "mapchallenges/cases2024/posts2024/day24_only_circular_shapes/day24_only_circular_shapes.qmd": {
+    "day24_only_circular_shapes.html": "4797b169"
+  },
+  "mapchallenges/cases2025/index.qmd": {
+    "index.html": "78772f8d"
+  },
+  "mapchallenges/cases2025/posts2025/day1_points/day1_points.qmd": {
+    "day1_points.html": "2e426fa5"
+  },
+  "content/mapchallenges/cases2021/posts2021/day25_interactive/day25_interactive.qmd": {
+    "day25_interactive.html": "804d0e5d"
+  },
+  "content/mapchallenges/cases2021/posts2021/day15_nopc/day15_nopc.qmd": {
+    "day15_nopc.html": "6eddc406"
+  },
+  "content/mapchallenges/cases2021/posts2021/day20_movement/day20_movement.qmd": {
+    "day20_movement.html": "89680a9a"
+  },
+  "content/mapchallenges/cases2021/posts2021/day22_boundaries/day22_boundaries.qmd": {
+    "day22_boundaries.html": "d66f49ac"
+  },
+  "content/mapchallenges/cases2021/posts2021/day5_osm/day5_osm.qmd": {
+    "day5_osm.html": "c6f6c45a"
+  },
+  "content/mapchallenges/cases2021/posts2021/day23_ghsl_data/day23_ghsl_data.qmd": {
+    "day23_ghsl_data.html": "7b1d24a5"
+  },
+  "content/mapchallenges/cases2021/posts2021/day24_historical/day24_historical.qmd": {
+    "day24_historical.html": "b3894a6d"
+  },
+  "content/mapchallenges/cases2021/posts2021/day8_blue/day8_blue.qmd": {
+    "day8_blue.html": "20737ed2"
+  },
+  "content/mapchallenges/cases2021/posts2021/day1_points/day1_points.qmd": {
+    "day1_points.html": "1d71f545"
+  },
+  "content/mapchallenges/cases2021/posts2021/day7_green/day7_green.qmd": {
+    "day7_green.html": "f2be4649"
+  },
+  "content/mapchallenges/cases2021/posts2021/day4_hexagons/day4_hexagons.qmd": {
+    "day4_hexagons.html": "2a0b402a"
+  },
+  "content/mapchallenges/cases2021/posts2021/day14_newtool/day14_newtool.qmd": {
+    "day14_newtool.html": "70e08c3a"
+  },
+  "content/mapchallenges/cases2021/posts2021/day21_elevation/day21_elevation.qmd": {
+    "day21_elevation.html": "f6511b21"
+  },
+  "content/mapchallenges/cases2021/posts2021/day3_polygons/day3_polygons.qmd": {
+    "day3_polygons.html": "e61d74d0"
+  },
+  "content/mapchallenges/cases2021/posts2021/day9_monochrome/day9_monochrome.qmd": {
+    "day9_monochrome.html": "0441fe24"
+  },
+  "content/mapchallenges/cases2021/posts2021/day28_earth_not_flat/day28_earth_not_flat.qmd": {
+    "day28_earth_not_flat.html": "308a3758"
+  },
+  "content/mapchallenges/cases2021/posts2021/day27_heatmap/day27_heatmap.qmd": {
+    "day27_heatmap.html": "a13183ab"
+  },
+  "content/mapchallenges/cases2021/posts2021/day30_metamapping/day30_metamapping.qmd": {
+    "day30_metamapping.html": "e15b9930"
+  },
+  "content/mapchallenges/cases2021/posts2021/day26_choropleth/day26_choropleth.qmd": {
+    "day26_choropleth.html": "95efd2d8"
+  },
+  "content/mapchallenges/cases2021/posts2021/day12_population/day12_population.qmd": {
+    "day12_population.html": "7b6a405e"
+  },
+  "content/mapchallenges/cases2021/posts2021/day18_water/day18_water.qmd": {
+    "day18_water.html": "f415c081"
+  },
+  "content/mapchallenges/cases2021/posts2021/day6_red/day6_red.qmd": {
+    "day6_red.html": "ddbda90a"
+  },
+  "content/mapchallenges/cases2021/posts2021/day13_naturalearth/day13_naturalearth.qmd": {
+    "day13_naturalearth.html": "ba4e9bf3"
+  },
+  "content/mapchallenges/cases2021/posts2021/day16_urban_rural/day16_urban_rural.qmd": {
+    "day16_urban_rural.html": "ac25fade"
+  },
+  "content/mapchallenges/cases2021/posts2021/day17_land/day17_land.qmd": {
+    "day17_land.html": "66da690f"
+  },
+  "content/mapchallenges/cases2021/posts2021/day2_lines/day2_lines.qmd": {
+    "day2_lines.html": "5f97ac01"
+  },
+  "content/mapchallenges/cases2021/posts2021/day29_null/day29_null.qmd": {
+    "day29_null.html": "195e4924"
+  },
+  "content/mapchallenges/cases2021/posts2021/day19_islands/day19_islands.qmd": {
+    "day19_islands.html": "bd6d2841"
+  },
+  "content/mapchallenges/cases2021/posts2021/day10_raster/day10_raster.qmd": {
+    "day10_raster.html": "16b682b2"
+  },
+  "content/mapchallenges/cases2021/posts2021/day11_3D/day11_3D.qmd": {
+    "day11_3D.html": "ffc4426d"
+  },
+  "content/mapchallenges/cases2021/index.qmd": {
+    "index.html": "f6979d6f"
+  },
+  "content/mapchallenges/index.qmd": {
+    "index.html": "796ad1f1"
+  },
+  "content/mapchallenges/cases2023/index.qmd": {
+    "index.html": "9716b60d"
+  },
+  "content/mapchallenges/cases2023/posts2023/day5_analog-map/day5_analog-map.qmd": {
+    "day5_analog-map.html": "f6019eac"
+  },
+  "content/mapchallenges/cases2023/posts2023/day20_outdoors/day20_outdoors.qmd": {
+    "day20_outdoors.html": "e4083bb3"
+  },
+  "content/mapchallenges/cases2023/posts2023/day24_black&white/day24_black&white.qmd": {
+    "day24_black&white.html": "0a701291"
+  },
+  "content/mapchallenges/cases2023/posts2023/day28_is-this-a-chart-or-a-map/day28_is-this-a-chart-or-a-map.qmd": {
+    "day28_is-this-a-chart-or-a-map.html": "abeb25b2"
+  },
+  "content/mapchallenges/cases2023/posts2023/day27_dot/day27_dot.qmd": {
+    "day27_dot.html": "d8f6030a"
+  },
+  "content/mapchallenges/cases2023/posts2023/day21_raster/day21_raster.qmd": {
+    "day21_raster.html": "b4027a32"
+  },
+  "content/mapchallenges/cases2023/posts2023/day29_population/day29_population.qmd": {
+    "day29_population.html": "7b10ed31"
+  },
+  "content/mapchallenges/cases2023/posts2023/day13_choropleth/day13_choropleth.qmd": {
+    "day13_choropleth.html": "880fb454"
+  },
+  "content/mapchallenges/cases2023/posts2023/day1_points/day1_points.qmd": {
+    "day1_points.html": "2b149a52"
+  },
+  "content/mapchallenges/cases2023/posts2023/day23_3D/day23_3D.qmd": {
+    "day23_3D.html": "383126ed"
+  },
+  "content/mapchallenges/cases2023/posts2023/day17_flow/day17_flow.qmd": {
+    "day17_flow.html": "1d71375b"
+  },
+  "content/mapchallenges/cases2023/posts2023/day9_hexagons/day9_hexagons.qmd": {
+    "day9_hexagons.html": "ef8f5286"
+  },
+  "content/mapchallenges/cases2023/posts2023/day3_polygons/day3_polygons.qmd": {
+    "day3_polygons.html": "6f924d34"
+  },
+  "content/mapchallenges/cases2023/posts2023/day16_oceania/day16_oceania.qmd": {
+    "day16_oceania.html": "e724e16d"
+  },
+  "content/mapchallenges/cases2023/posts2023/day25_antarctica/day25_antarctica.qmd": {
+    "day25_antarctica.html": "b0f79208"
+  },
+  "content/mapchallenges/cases2023/posts2023/day11_retro/day11_retro.qmd": {
+    "day11_retro.html": "354fb9d9"
+  },
+  "content/mapchallenges/cases2023/posts2023/day8_africa/day8_africa.qmd": {
+    "day8_africa.html": "c104ff10"
+  },
+  "content/mapchallenges/cases2023/posts2023/day22_north-is-not-always-up/day22_north-is-not-always-up.qmd": {
+    "day22_north-is-not-always-up.html": "7313fd43"
+  },
+  "content/mapchallenges/cases2023/posts2023/day2_lines/day2_lines.qmd": {
+    "day2_lines.html": "a204846b"
+  },
+  "content/mapchallenges/cases2023/posts2023/day12_south-america/day12_south-america.qmd": {
+    "day12_south-america.html": "f55ecb5e"
+  },
+  "content/mapchallenges/cases2023/posts2023/day6_asia/day6_asia.qmd": {
+    "day6_asia.html": "c5bc5800"
+  },
+  "content/mapchallenges/cases2023/posts2023/day10_north-america/day10_north-america.qmd": {
+    "day10_north-america.html": "ac66f0a9"
+  },
+  "content/mapchallenges/cases2023/posts2023/day30_my-favourite/day30_my-favourite.qmd": {
+    "day30_my-favourite.html": "62e478b1"
+  },
+  "content/mapchallenges/cases2023/posts2023/day14_europe/day14_europe.qmd": {
+    "day14_europe.html": "d7dcdf07"
+  },
+  "content/mapchallenges/cases2023/posts2023/day19_5-minute-map/day19_5-minute-map.qmd": {
+    "day19_5-minute-map.html": "eadb3e13"
+  },
+  "content/mapchallenges/cases2023/posts2023/day4_a-bad-map/day4_a-bad-map.qmd": {
+    "day4_a-bad-map.html": "0237dd82"
+  },
+  "content/mapchallenges/cases2023/posts2023/day15_openstreetmap/day15_openstreetmap.qmd": {
+    "day15_openstreetmap.html": "cc0bd672"
+  },
+  "content/mapchallenges/cases2023/posts2023/day7_navigation/day7_navigation.qmd": {
+    "day7_navigation.html": "3b97943d"
+  },
+  "content/mapchallenges/cases2023/posts2023/day26_minimal/day26_minimal.qmd": {
+    "day26_minimal.html": "acc6ff54"
+  },
+  "content/mapchallenges/cases2023/posts2023/day18_atmosphere/day18_atmosphere.qmd": {
+    "day18_atmosphere.html": "5cdb1748"
+  },
+  "content/mapchallenges/cases2024/index.qmd": {
+    "index.html": "5ad7ce24"
+  },
+  "content/mapchallenges/cases2024/posts2024/day5_a-journey/day5_a-journey.qmd": {
+    "day5_a-journey.html": "936234aa"
+  },
+  "content/mapchallenges/cases2024/posts2024/day20_osm/day20_osm.qmd": {
+    "day20_osm.html": "4d2b57fe"
+  },
+  "content/mapchallenges/cases2024/posts2024/day30_the_final_map/day30_the_final_map.qmd": {
+    "day30_the_final_map.html": "3757f6c5"
+  },
+  "content/mapchallenges/cases2024/posts2024/day17_collaborative_map/day17_collaborative_map.qmd": {
+    "day17_collaborative_map.html": "d6dc810f"
+  },
+  "content/mapchallenges/cases2024/posts2024/day25_heat/day25_heat.qmd": {
+    "day25_heat.html": "046f4e39"
+  },
+  "content/mapchallenges/cases2024/posts2024/day8_hdx/day8_hdx.qmd": {
+    "day8_hdx.html": "f93ca7c8"
+  },
+  "content/mapchallenges/cases2024/posts2024/day1_points/day1_points.qmd": {
+    "day1_points.html": "1a02a2a7"
+  },
+  "content/mapchallenges/cases2024/posts2024/day15_my_data/day15_my_data.qmd": {
+    "day15_my_data.html": "7f9369c0"
+  },
+  "content/mapchallenges/cases2024/posts2024/day4_hexagons/day4_hexagons.qmd": {
+    "day4_hexagons.html": "4542b76d"
+  },
+  "content/mapchallenges/cases2024/posts2024/day14_worldmap/day14_worldmap.qmd": {
+    "day14_worldmap.html": "64bae726"
+  },
+  "content/mapchallenges/cases2024/posts2024/day27_micromapping/day27_micromapping.qmd": {
+    "day27_micromapping.html": "9fa03c6d"
+  },
+  "content/mapchallenges/cases2024/posts2024/day3_polygons/day3_polygons.qmd": {
+    "day3_polygons.html": "601fc90e"
+  },
+  "content/mapchallenges/cases2024/posts2024/day18_3D/day18_3D.qmd": {
+    "day18_3D.html": "2ddfadc8"
+  },
+  "content/mapchallenges/cases2024/posts2024/day26_map_projections/day26_map_projections.qmd": {
+    "day26_map_projections.html": "85d5609c"
+  },
+  "content/mapchallenges/cases2024/posts2024/day9_ai/day9_ai.qmd": {
+    "day9_ai.html": "3a2a7ab4"
+  },
+  "content/mapchallenges/cases2024/posts2024/day28_the_blue_planet/day28_the_blue_planet.qmd": {
+    "day28_the_blue_planet.html": "8f6a0d88"
+  },
+  "content/mapchallenges/cases2024/posts2024/day19_typography/day19_typography.qmd": {
+    "day19_typography.html": "21285739"
+  },
+  "content/mapchallenges/cases2024/posts2024/day11_artic/day11_artic.qmd": {
+    "day11_artic.html": "d6c1b953"
+  },
+  "content/mapchallenges/cases2024/posts2024/day10_pen&paper/day10_pen&paper.qmd": {
+    "day10_pen&paper.html": "b61f25fe"
+  },
+  "content/mapchallenges/cases2024/posts2024/day7_vintage/day7_vintage.qmd": {
+    "day7_vintage.html": "f9e974b7"
+  },
+  "content/mapchallenges/cases2024/posts2024/day6_raster/day6_raster.qmd": {
+    "day6_raster.html": "1fa76e12"
+  },
+  "content/mapchallenges/cases2024/posts2024/day29_overture/day29_overture.qmd": {
+    "day29_overture.html": "491ea121"
+  },
+  "content/mapchallenges/cases2024/posts2024/day21_conflicts/day21_conflicts.qmd": {
+    "day21_conflicts.html": "137df0e4"
+  },
+  "content/mapchallenges/cases2024/posts2024/day12_time&space/day12_time&space.qmd": {
+    "day12_time&space.html": "252a29cf"
+  },
+  "content/mapchallenges/cases2024/posts2024/day2_lines/day2_lines.qmd": {
+    "day2_lines.html": "65227b31"
+  },
+  "content/mapchallenges/cases2024/posts2024/day22_two_colors/day22_two_colors.qmd": {
+    "day22_two_colors.html": "cc01f813"
+  },
+  "content/mapchallenges/cases2024/posts2024/day13_new_tool/day13_new_tool.qmd": {
+    "day13_new_tool.html": "cf60ae86"
+  },
+  "content/mapchallenges/cases2024/posts2024/day16_choropleth_map/day16_choropleth_map.qmd": {
+    "day16_choropleth_map.html": "fa0f59d6"
+  },
+  "content/mapchallenges/cases2024/posts2024/day23_memory/day23_memory.qmd": {
+    "day23_memory.html": "3ad0af64"
+  },
+  "content/mapchallenges/cases2024/posts2024/day24_only_circular_shapes/day24_only_circular_shapes.qmd": {
+    "day24_only_circular_shapes.html": "ea8ec92d"
+  },
+  "content/mapchallenges/cases2025/index.qmd": {
+    "index.html": "305f1645"
+  },
+  "content/mapchallenges/cases2025/posts2025/day1_points/day1_points.qmd": {
+    "day1_points.html": "6178e90b"
+  },
+  "content/mapchallenges/cases2022/index.qmd": {
+    "index.html": "4bf69057"
+  },
+  "content/mapchallenges/cases2022/posts2022/day20_my_favourite/day20_my_favourite.qmd": {
+    "day20_my_favourite.html": "926caaee"
+  },
+  "content/mapchallenges/cases2022/posts2022/day9_space/day9_space.qmd": {
+    "day9_space.html": "df6a0ac5"
+  },
+  "content/mapchallenges/cases2022/posts2022/day7_raster/day7_raster.qmd": {
+    "day7_raster.html": "9d9b3534"
+  },
+  "content/mapchallenges/cases2022/posts2022/day24_fantasy/day24_fantasy.qmd": {
+    "day24_fantasy.html": "bb967b20"
+  },
+  "content/mapchallenges/cases2022/posts2022/day1_points/day1_points.qmd": {
+    "day1_points.html": "5edb39f0"
+  },
+  "content/mapchallenges/cases2022/posts2022/day4_color_friday_green/day4_color_friday_green.qmd": {
+    "day4_color_friday_green.html": "3b57c93c"
+  },
+  "content/mapchallenges/cases2022/posts2022/day12_scale/day12_scale.qmd": {
+    "day12_scale.html": "973f9498"
+  },
+  "content/mapchallenges/cases2022/posts2022/day28_3D/day28_3D.qmd": {
+    "day28_3D.html": "d628b259"
+  },
+  "content/mapchallenges/cases2022/posts2022/day16_minimal/day16_minimal.qmd": {
+    "day16_minimal.html": "5f9405e4"
+  },
+  "content/mapchallenges/cases2022/posts2022/day15_food_drink/day15_food_drink.qmd": {
+    "day15_food_drink.html": "b3a3bc36"
+  },
+  "content/mapchallenges/cases2022/posts2022/day3_polygons/day3_polygons.qmd": {
+    "day3_polygons.html": "6117499c"
+  },
+  "content/mapchallenges/cases2022/posts2022/day14_hexagons/day14_hexagons.qmd": {
+    "day14_hexagons.html": "fb44d34b"
+  },
+  "content/mapchallenges/cases2022/posts2022/day29_out_comfort_zone/day29_out_comfort_zone.qmd": {
+    "day29_out_comfort_zone.html": "10053f55"
+  },
+  "content/mapchallenges/cases2022/posts2022/day17_a_map_without_computer/day17_a_map_without_computer.qmd": {
+    "day17_a_map_without_computer.html": "5659d862"
+  },
+  "content/mapchallenges/cases2022/posts2022/day5_ukraine/day5_ukraine.qmd": {
+    "day5_ukraine.html": "c658ce1c"
+  },
+  "content/mapchallenges/cases2022/posts2022/day21_kontur_pop_dataset/day21_kontour_pop_dataset.qmd": {
+    "day21_kontour_pop_dataset.html": "c41cbad1"
+  },
+  "content/mapchallenges/cases2022/posts2022/day27_music/day27_music.qmd": {
+    "day27_music.html": "e53d382b"
+  },
+  "content/mapchallenges/cases2022/posts2022/day23_movement/day23_movement.qmd": {
+    "day23_movement.html": "94305554"
+  },
+  "content/mapchallenges/cases2022/posts2022/day30_remix/day30_remix.qmd": {
+    "day30_remix.html": "27d94be7"
+  },
+  "content/mapchallenges/cases2022/posts2022/day13_5_minute_map/day13_5_minute_map.qmd": {
+    "day13_5_minute_map.html": "2f0c6f8a"
+  },
+  "content/mapchallenges/cases2022/posts2022/day10_a_bad_map/day10_a_bad_map.qmd": {
+    "day10_a_bad_map.html": "b1bb2974"
+  },
+  "content/mapchallenges/cases2022/posts2022/day6_network/day6_network.qmd": {
+    "day6_network.html": "7043c65d"
+  },
+  "content/mapchallenges/cases2022/posts2022/day2_lines/day2_lines.qmd": {
+    "day2_lines.html": "823f8f9b"
+  },
+  "content/mapchallenges/cases2022/posts2022/day22_null/day22_null.qmd": {
+    "day22_null.html": "ebd1b9e5"
+  },
+  "content/mapchallenges/cases2022/posts2022/day18_color_friday_blue/day18_color_friday_blue.qmd": {
+    "day18_color_friday_blue.html": "c4aea498"
+  },
+  "content/mapchallenges/cases2022/posts2022/day11_color_friday_red/day11_color_friday_red.qmd": {
+    "day11_color_friday_red.html": "08e217ca"
+  },
+  "content/mapchallenges/cases2022/posts2022/day19_globe/day19_globe.qmd": {
+    "day19_globe.html": "08d8a51d"
+  },
+  "content/mapchallenges/cases2022/posts2022/day8_openstreetmap/day8_openstreetmap.qmd": {
+    "day8_openstreetmap.html": "0993a7b5"
+  },
+  "content/mapchallenges/cases2022/posts2022/day26_islands/day26_islands.qmd": {
+    "day26_islands.html": "1c84ce9d"
+  },
+  "content/mapchallenges/cases2022/posts2022/day25_color_friday_2_colors/day25_color_friday_2_colors.qmd": {
+    "day25_color_friday_2_colors.html": "0e92a0a4"
+  },
+  "content/chartchallenges/cases2021/posts2021/day20_upwards/day20_upwards.qmd": {
+    "day20_upwards.html": "9a7da686"
+  },
+  "content/chartchallenges/cases2021/posts2021/day29_deviations/day29_deviations.qmd": {
+    "day29_deviations.html": "cb750a15"
+  },
+  "content/chartchallenges/cases2021/posts2021/day23_tiles/day23_tiles.qmd": {
+    "day23_tiles.html": "b0bb7422"
+  },
+  "content/chartchallenges/cases2021/posts2021/day5_slope/day5_slope.qmd": {
+    "day5_slope.html": "28494f02"
+  },
+  "content/chartchallenges/cases2021/posts2021/day22_animation/day22_animation.qmd": {
+    "day22_animation.html": "936f88e5"
+  },
+  "content/chartchallenges/cases2021/posts2021/day21_downwards/day21_downwards.qmd": {
+    "day21_downwards.html": "ce33845d"
+  },
+  "content/chartchallenges/cases2021/posts2021/day19_global_change/day19_global_change.qmd": {
+    "day19_global_change.html": "5dd44e16"
+  },
+  "content/chartchallenges/cases2021/posts2021/day12_strips/day12_strips.qmd": {
+    "day12_strips.html": "ac787b66"
+  },
+  "content/chartchallenges/cases2021/posts2021/day9_statistics/day9_statistics.qmd": {
+    "day9_statistics.html": "76bd5ee2"
+  },
+  "content/chartchallenges/cases2021/posts2021/day13_correlation/day13_correlation.qmd": {
+    "day13_correlation.html": "77e2459f"
+  },
+  "content/chartchallenges/cases2021/posts2021/day18_connections/day18_connections.qmd": {
+    "day18_connections.html": "187b9b35"
+  },
+  "content/chartchallenges/cases2021/posts2021/day6_experimental/day6_experimental.qmd": {
+    "day6_experimental.html": "fe8a67e9"
+  },
+  "content/chartchallenges/cases2021/posts2021/day10_abstract/day10_abstract.qmd": {
+    "day10_abstract.html": "8323b59c"
+  },
+  "content/chartchallenges/cases2021/posts2021/day26_trends/day26_trends.qmd": {
+    "day26_trends.html": "cdecffb8"
+  },
+  "content/chartchallenges/cases2021/posts2021/day16_tree/day16_tree.qmd": {
+    "day16_tree.html": "d1f3a618"
+  },
+  "content/chartchallenges/cases2021/posts2021/day3_historical/day3_historical.qmd": {
+    "day3_historical.html": "f912e4d9"
+  },
+  "content/chartchallenges/cases2021/posts2021/day25_demographic/day25_demographic.qmd": {
+    "day25_demographic.html": "fc55e98a"
+  },
+  "content/chartchallenges/cases2021/posts2021/day17_pop_culture/day17_pop_culture.qmd": {
+    "day17_pop_culture.html": "961e8e79"
+  },
+  "content/chartchallenges/cases2021/posts2021/day14_space/day14_space.qmd": {
+    "day14_space.html": "2fe1ffb0"
+  },
+  "content/chartchallenges/cases2021/posts2021/day24_monochrome/day24_monochrome.qmd": {
+    "day24_monochrome.html": "22db1193"
+  },
+  "content/chartchallenges/cases2021/posts2021/day4_magical/day4_magical.qmd": {
+    "day4_magical.html": "a66748e1"
+  },
+  "content/chartchallenges/cases2021/posts2021/day11_circular/day11_circular.qmd": {
+    "day11_circular.html": "dd0987a9"
+  },
+  "content/chartchallenges/cases2021/posts2021/day1_part-to-whole/day1_part-to-whole.qmd": {
+    "day1_part-to-whole.html": "96ff7552"
+  },
+  "content/chartchallenges/cases2021/posts2021/day8_animals/day8_animals.qmd": {
+    "day8_animals.html": "2cae5d20"
+  },
+  "content/chartchallenges/cases2021/posts2021/day30_3D/day30_3D.qmd": {
+    "day30_3D.html": "bcd70ef1"
+  },
+  "content/chartchallenges/cases2021/posts2021/day2_pictogram/day2_pictogram.qmd": {
+    "day2_pictogram.html": "e9b76d11"
+  },
+  "content/chartchallenges/cases2021/posts2021/day15_multivariate/day15_multivariate.qmd": {
+    "day15_multivariate.html": "1ba981bb"
+  },
+  "content/chartchallenges/cases2021/posts2021/day7_physical/day7_physical.qmd": {
+    "day7_physical.html": "4ffb3e0d"
+  },
+  "content/chartchallenges/cases2021/posts2021/day27_educational/day27_educational.qmd": {
+    "day27_educational.html": "e278f1f2"
+  },
+  "content/chartchallenges/cases2021/posts2021/day28_future/day28_future.qmd": {
+    "day28_future.html": "8bfa5519"
+  },
+  "content/chartchallenges/cases2021/index.qmd": {
+    "index.html": "29599959"
+  },
+  "content/chartchallenges/index.qmd": {
+    "index.html": "a517026a"
+  },
+  "content/chartchallenges/cases2023/index.qmd": {
+    "index.html": "c267d028"
+  },
+  "content/chartchallenges/cases2023/posts2023/day8_humans/day8_humans.qmd": {
+    "day8_humans.html": "d2c3bc55"
+  },
+  "content/chartchallenges/cases2023/posts2023/day7_hazard/day7_hazard.qmd": {
+    "day7_hazard.html": "fc724e15"
+  },
+  "content/chartchallenges/cases2023/posts2023/day24_theme_day/day24_theme_day.qmd": {
+    "day24_theme_day.html": "73dec539"
+  },
+  "content/chartchallenges/cases2023/posts2023/day30_data_day/day30_data_day.qmd": {
+    "day30_data_day.html": "276bfdbd"
+  },
+  "content/chartchallenges/cases2023/posts2023/day27_good_bad/day27_good_bad.qmd": {
+    "day27_good_bad.html": "8e1d2614"
+  },
+  "content/chartchallenges/cases2023/posts2023/day23_tiles/day23_tiles.qmd": {
+    "day23_tiles.html": "54a2ba1d"
+  },
+  "content/chartchallenges/cases2023/posts2023/day18_data_day/day18_data_day.qmd": {
+    "day18_data_day.html": "7416e1cf"
+  },
+  "content/chartchallenges/cases2023/posts2023/day26_local_change/day26_local_change.qmd": {
+    "day26_local_change.html": "2b8ccd87"
+  },
+  "content/chartchallenges/cases2023/posts2023/day16_family/day16_family.qmd": {
+    "day16_family.html": "9df7a55d"
+  },
+  "content/chartchallenges/cases2023/posts2023/day25_gobal_change/day25_gobal_change.qmd": {
+    "day25_gobal_change.html": "94c9262d"
+  },
+  "content/chartchallenges/cases2023/posts2023/day9_high_low/day9_high_low.qmd": {
+    "day9_high_low.html": "bbf1ab80"
+  },
+  "content/chartchallenges/cases2023/posts2023/day5_slope/day5_slope.qmd": {
+    "day5_slope.html": "3beeeba0"
+  },
+  "content/chartchallenges/cases2023/posts2023/day2_waffle/day2_waffle.qmd": {
+    "day2_waffle.html": "5a7978a0"
+  },
+  "content/chartchallenges/cases2023/posts2023/day6_data_day/day6_data_day.qmd": {
+    "day6_data_day.html": "1970ca26"
+  },
+  "content/chartchallenges/cases2023/posts2023/day28_trend/day28_trend.qmd": {
+    "day28_trend.html": "ef14715d"
+  },
+  "content/chartchallenges/cases2023/posts2023/day13_popculture/day13_popculture.qmd": {
+    "day13_popculture.html": "573b4f73"
+  },
+  "content/chartchallenges/cases2023/posts2023/day3_fauna_flora/day3_fauna_flora.qmd": {
+    "day3_fauna_flora.html": "9d5c53b1"
+  },
+  "content/chartchallenges/cases2023/posts2023/day22_greenenergy/day22_greenenergy.qmd": {
+    "day22_greenenergy.html": "16a741f2"
+  },
+  "content/chartchallenges/cases2023/posts2023/day17_networks/day17_networks.qmd": {
+    "day17_networks.html": "4fc847b8"
+  },
+  "content/chartchallenges/cases2023/posts2023/day14_new_tool/day14_new_tool.qmd": {
+    "day14_new_tool.html": "5e5c0be9"
+  },
+  "content/chartchallenges/cases2023/posts2023/day11_circular/day11_circular.qmd": {
+    "day11_circular.html": "08cd9c0d"
+  },
+  "content/chartchallenges/cases2023/posts2023/day1_part-to-whole/day1_part-to-whole.qmd": {
+    "day1_part-to-whole.html": "4f09a162"
+  },
+  "content/chartchallenges/cases2023/posts2023/day29_monochrome/day29_monochrome.qmd": {
+    "day29_monochrome.html": "20305bb2"
+  },
+  "content/chartchallenges/cases2023/posts2023/day12_theme_day/day12_theme_day.qmd": {
+    "day12_theme_day.html": "20dd13a8"
+  },
+  "content/chartchallenges/cases2023/posts2023/day20_correlation/day20_correlation.qmd": {
+    "day20_correlation.html": "a6c112d4"
+  },
+  "content/chartchallenges/cases2023/posts2023/day10_hybrid/day10_hybrid.qmd": {
+    "day10_hybrid.html": "9193c49f"
+  },
+  "content/chartchallenges/cases2023/posts2023/day21_down_upwards/day21_down_upwards.qmd": {
+    "day21_down_upwards.html": "0f1809ff"
+  },
+  "content/chartchallenges/cases2023/posts2023/day19_anthropocene/day19_anthropocene.qmd": {
+    "day19_anthropocene.html": "dccda305"
+  },
+  "content/chartchallenges/cases2023/posts2023/day15_positive_negative/day15_positive_negative.qmd": {
+    "day15_positive_negative.html": "c862e983"
+  },
+  "content/chartchallenges/cases2023/posts2023/day4_historical/day4_historical.qmd": {
+    "day4_historical.html": "6836e2e4"
+  },
+  "content/chartchallenges/cases2022/index.qmd": {
+    "index.html": "47147572"
+  },
+  "content/chartchallenges/cases2022/posts2022/day24_theme_day/day24_theme_day.qmd": {
+    "day24_theme_day.html": "d229862f"
+  },
+  "content/chartchallenges/cases2022/posts2022/day14_3-dimensional/day14_3-dimensional.qmd": {
+    "day14_3-dimensional.html": "b9b9934c"
+  },
+  "content/chartchallenges/cases2022/posts2022/day4_flora/day4_flora.qmd": {
+    "day4_flora.html": "ebd59a2c"
+  },
+  "content/chartchallenges/cases2022/posts2022/day23_tiles/day23_tiles.qmd": {
+    "day23_tiles.html": "fdc619e0"
+  },
+  "content/chartchallenges/cases2022/posts2022/day29_storytelling/day29_storytelling.qmd": {
+    "day29_storytelling.html": "4ea6295e"
+  },
+  "content/chartchallenges/cases2022/posts2022/day10_experimental/day10_experimental.qmd": {
+    "day10_experimental.html": "e734c5bb"
+  },
+  "content/chartchallenges/cases2022/posts2022/day30_un_pop/day30_UNPOP.qmd": {
+    "day30_UNPOP.html": "05e20147"
+  },
+  "content/chartchallenges/cases2022/posts2022/day17_connections/day17_connections.qmd": {
+    "day17_connections.html": "f8853636"
+  },
+  "content/chartchallenges/cases2022/posts2022/day5_slope/day5_slope.qmd": {
+    "day5_slope.html": "05b7f348"
+  },
+  "content/chartchallenges/cases2022/posts2022/day22_animation/day22_animation.qmd": {
+    "day22_animation.html": "c96869ce"
+  },
+  "content/chartchallenges/cases2022/posts2022/day27_future/day27_future.qmd": {
+    "day27_future.html": "d87060b5"
+  },
+  "content/chartchallenges/cases2022/posts2022/day19_global_change/day19_global_change.qmd": {
+    "day19_global_change.html": "c09ee68c"
+  },
+  "content/chartchallenges/cases2022/posts2022/day6_data_day/day6_data_day.qmd": {
+    "day6_data_day.html": "ddde5cca"
+  },
+  "content/chartchallenges/cases2022/posts2022/day1_part_to_whole/day1_part_to_whole.qmd": {
+    "day1_part_to_whole.html": "6ff9d0d8"
+  },
+  "content/chartchallenges/cases2022/posts2022/day9_statistics/day9_statistics.qmd": {
+    "day9_statistics.html": "9c14827b"
+  },
+  "content/chartchallenges/cases2022/posts2022/day13_correlation/day13_correlation.qmd": {
+    "day13_correlation.html": "302b154f"
+  },
+  "content/chartchallenges/cases2022/posts2022/day26_interactive/day26_interactive.qmd": {
+    "day26_interactive.html": "c1be8d6d"
+  },
+  "content/chartchallenges/cases2022/posts2022/day3_historical/day3_historical.qmd": {
+    "day3_historical.html": "939e042b"
+  },
+  "content/chartchallenges/cases2022/posts2022/day11_circular/day11_circular.qmd": {
+    "day11_circular.html": "a43a76b5"
+  },
+  "content/chartchallenges/cases2022/posts2022/day28_deviations/day28_deviations.qmd": {
+    "day28_deviations.html": "202f4549"
+  },
+  "content/chartchallenges/cases2022/posts2022/day20_new_tool/day20_new_tool.qmd": {
+    "day20_new_tool.html": "1c9868c3"
+  },
+  "content/chartchallenges/cases2022/posts2022/day16_environment/day16_environment.qmd": {
+    "day16_environment.html": "500ed15b"
+  },
+  "content/chartchallenges/cases2022/posts2022/day18_oecd/day18_oecd.qmd": {
+    "day18_oecd.html": "028f25f8"
+  },
+  "content/chartchallenges/cases2022/posts2022/day12_theme_day/day12_theme_day.qmd": {
+    "day12_theme_day.html": "c9f6ca57"
+  },
+  "content/chartchallenges/cases2022/posts2022/day8_mountains/day8_mountains.qmd": {
+    "day8_mountains.html": "cdc55c7e"
+  },
+  "content/chartchallenges/cases2022/posts2022/day21_down_upwards/day21_down_upwards.qmd": {
+    "day21_down_upwards.html": "c2bda4fb"
+  },
+  "content/chartchallenges/cases2022/posts2022/day2_pictogram/day2_pictogram.qmd": {
+    "day2_pictogram.html": "ad83164c"
+  },
+  "content/chartchallenges/cases2022/posts2022/day15_multivariate/day15_multivariate.qmd": {
+    "day15_multivariate.html": "d796f3da"
+  },
+  "content/chartchallenges/cases2022/posts2022/day7_physical/day7_physical.qmd": {
+    "day7_physical.html": "2a19b17f"
+  },
+  "content/chartchallenges/cases2022/posts2022/day25_trend/day25_trend.qmd": {
+    "day25_trend.html": "fec11229"
+  },
+  "content/duboischallenge/talk.qmd": {
+    "talk.html": "ff1c0fa8"
+  },
+  "content/duboischallenge/index.qmd": {
+    "index.html": "0183076d"
+  },
+  "content/duboischallenge/slides/01-intro.qmd": {
+    "01-intro.html": "6dc51047"
+  },
+  "content/duboischallenge/slides/index.qmd": {
+    "index.html": "27fb910c"
+  },
+  "content/duboischallenge/slides/02-intro.qmd": {
+    "02-intro.html": "44eaa820"
+  },
+  "content/duboischallenge/plates/challenge05/index.qmd": {
+    "index.html": "dc8f2151"
+  },
+  "content/duboischallenge/plates/challenge02/index.qmd": {
+    "index.html": "88b66707"
+  },
+  "content/duboischallenge/plates/challenge03/index.qmd": {
+    "index.html": "89d221bc"
+  },
+  "content/duboischallenge/plates/challenge04/index.qmd": {
+    "index.html": "3ab26021"
+  },
+  "content/duboischallenge/plates/plate25/index.qmd": {
+    "index.html": "53dcf402"
+  },
+  "content/duboischallenge/plates/challenge01/index.qmd": {
+    "index.html": "78245a84"
+  },
+  "content/duboischallenge/plates/plate8/index.qmd": {
+    "index.html": "8ea75912"
+  },
+  "content/tidytuesday/cases2021/posts2021/w23_Survivor_TV_Show/w23_Survivor_TV_Show.qmd": {
+    "w23_Survivor_TV_Show.html": "0499e75a"
+  },
+  "content/tidytuesday/cases2021/posts2021/w42_Global_Seafood/w42_Global_Seafood.qmd": {
+    "w42_Global_Seafood.html": "3c46c17a"
+  },
+  "content/tidytuesday/cases2021/posts2021/w14_Makeup_Shades/w14_Makeup_Shades.qmd": {
+    "w14_Makeup_Shades.html": "9259af19"
+  },
+  "content/tidytuesday/cases2021/posts2021/w15_Global_deforestation/w15_Global_deforestation.qmd": {
+    "w15_Global_deforestation.html": "ad3bd7e7"
+  },
+  "content/tidytuesday/cases2021/posts2021/w29_Scooby_Doo/w29_Scooby_Doo.qmd": {
+    "w29_Scooby_Doo.html": "f9e87b88"
+  },
+  "content/tidytuesday/cases2021/posts2021/w25_WEB_Du_Bois_and_Juneteenth/w25_WEB_Du_Bois_and_Juneteenth.qmd": {
+    "w25_WEB_Du_Bois_and_Juneteenth.html": "18fdd4bf"
+  },
+  "content/tidytuesday/cases2021/posts2021/w24_Great_Lakes_Fish/w24_Great_Lakes_Fish.qmd": {
+    "w24_Great_Lakes_Fish.html": "97f4a18b"
+  },
+  "content/tidytuesday/cases2021/posts2021/w21_Ask_a_Manager_Salary_Survey/w21_Ask_a_Manager_Salary_Survey.qmd": {
+    "w21_Ask_a_Manager_Salary_Survey.html": "dee4a5bf"
+  },
+  "content/tidytuesday/cases2021/posts2021/w22_Mario_Kart_World_Records/w22_Mario_Kart_World_Records.qmd": {
+    "w22_Mario_Kart_World_Records.html": "cba61ffd"
+  },
+  "content/tidytuesday/cases2021/posts2021/w52_Starbucks_drinks/w52_Starbucks_drinks.qmd": {
+    "w52_Starbucks_drinks.html": "e6d21c9e"
+  },
+  "content/tidytuesday/cases2021/posts2021/w18_CEO_Departures/w18_CEO_Departures.qmd": {
+    "w18_CEO_Departures.html": "3fa86133"
+  },
+  "content/tidytuesday/cases2021/posts2021/w48_Dr_Who/w48_Dr_Who.qmd": {
+    "w48_Dr_Who.html": "7e854bfe"
+  },
+  "content/tidytuesday/cases2021/posts2021/w39_Emmy_Awards/w39_Emmy_Awards.qmd": {
+    "w39_Emmy_Awards.html": "ee2fe4f7"
+  },
+  "content/tidytuesday/cases2021/posts2021/w16_US_Post_Offices/w16_US_Post_Offices.qmd": {
+    "w16_US_Post_Offices.html": "59576bd5"
+  },
+  "content/tidytuesday/cases2021/posts2021/w31_Olympic_Medals/w31_Olympic_Medals.qmd": {
+    "w31_Olympic_Medals.html": "c4a2cea4"
+  },
+  "content/tidytuesday/cases2021/posts2021/w26_Public_Park_Access/w26_Public_Park_Access.qmd": {
+    "w26_Public_Park_Access.html": "4dc3592f"
+  },
+  "content/tidytuesday/cases2021/posts2021/w20_US_Broadband/w20_US_Broadband.qmd": {
+    "w20_US_Broadband.html": "7df2a5e4"
+  },
+  "content/tidytuesday/cases2021/posts2021/w43_Big_Pumpkins/w43_Big_Pumpkins.qmd": {
+    "w43_Big_Pumpkins.html": "42cb9d0a"
+  },
+  "content/tidytuesday/cases2021/posts2021/w49_World_Cup_Cricket/w49_World_Cup_Cricket.qmd": {
+    "w49_World_Cup_Cricket.html": "6973c9a8"
+  },
+  "content/tidytuesday/cases2021/posts2021/w46_Learning_with_afrilearndata/w46_Learning_with_afrilearndata.qmd": {
+    "w46_Learning_with_afrilearndata.html": "14b2f9c7"
+  },
+  "content/tidytuesday/cases2021/posts2021/w19_Water_Access_Points/w19_Water_Access_Points.qmd": {
+    "w19_Water_Access_Points.html": "74fc9ad2"
+  },
+  "content/tidytuesday/cases2021/posts2021/w38_Billboard_Top_100/w38_Billboard_Top_100.qmd": {
+    "w38_Billboard_Top_100.html": "efa44f8b"
+  },
+  "content/tidytuesday/cases2021/posts2021/w36_Bird_Baths/w36_Bird_Baths.qmd": {
+    "w36_Bird_Baths.html": "dbb456c8"
+  },
+  "content/tidytuesday/cases2021/posts2021/w28_International_Independence_Days/w28_International_Independence_Days.qmd": {
+    "w28_International_Independence_Days.html": "a884cdd6"
+  },
+  "content/tidytuesday/cases2021/posts2021/w17_Netflix_Titles/w17_Netflix_Titles.qmd": {
+    "w17_Netflix_Titles.html": "706a026a"
+  },
+  "content/tidytuesday/cases2021/posts2021/w13_UN_Votes/w13_UN_Votes.qmd": {
+    "w13_UN_Votes.html": "20f38bbc"
+  },
+  "content/tidytuesday/cases2021/posts2021/w40_NBER_Papers/w40_NBER_Papers.qmd": {
+    "w40_NBER_Papers.html": "ff13343a"
+  },
+  "content/tidytuesday/cases2021/posts2021/w32_Paralympic_Medals/w32_Paralympic_Medals.qmd": {
+    "w32_Paralympic_Medals.html": "9ab11e36"
+  },
+  "content/tidytuesday/cases2021/posts2021/w45_Making_maps_with_R/w45_Making_maps_with_R.qmd": {
+    "w45_Making_maps_with_R.html": "7e1d1475"
+  },
+  "content/tidytuesday/cases2021/posts2021/w30_US_Droughts/w30_US_Droughts.qmd": {
+    "w30_US_Droughts.html": "78c5b26b"
+  },
+  "content/tidytuesday/cases2021/posts2021/w34_Star_Trek_Voice_Commands/w34_Star_Trek_Voice_Commands.qmd": {
+    "w34_Star_Trek_Voice_Commands.html": "2b449a24"
+  },
+  "content/tidytuesday/cases2021/posts2021/w50_Spiders/w50_Spiders.qmd": {
+    "w50_Spiders.html": "4f765768"
+  },
+  "content/tidytuesday/cases2021/posts2021/w27_Animal_Rescues/w27_Animal_Rescues.qmd": {
+    "w27_Animal_Rescues.html": "d53f463d"
+  },
+  "content/tidytuesday/cases2021/posts2021/w35_Lemurs/w35_Lemurs.qmd": {
+    "w35_Lemurs.html": "396a05f0"
+  },
+  "content/tidytuesday/cases2021/posts2021/w37_Formula_1_Races/w37_Formula_1_Races.qmd": {
+    "w37_Formula_1_Races.html": "91778a47"
+  },
+  "content/tidytuesday/cases2021/posts2021/w44_Ultra_Trail_Running/w44_Ultra_Trail_Running.qmd": {
+    "w44_Ultra_Trail_Running.html": "d9bb275c"
+  },
+  "content/tidytuesday/cases2021/posts2021/w41_Registered_Nurses/w41_Registered_Nurses.qmd": {
+    "w41_Registered_Nurses.html": "89c2fbb2"
+  },
+  "content/tidytuesday/cases2021/posts2021/w33_BEA_Infrastructure_Investment/w33_BEA_Infrastructure_Investment.qmd": {
+    "w33_BEA_Infrastructure_Investment.html": "97ac7602"
+  },
+  "content/tidytuesday/cases2021/posts2021/w51_Spice_Girls/w51_Spice_Girls.qmd": {
+    "w51_Spice_Girls.html": "06809751"
+  },
+  "content/tidytuesday/cases2021/index.qmd": {
+    "index.html": "60fb2c03"
+  },
+  "content/tidytuesday/index.qmd": {
+    "index.html": "b7c4af8d"
+  },
+  "content/tidytuesday/cases2023/index.qmd": {
+    "index.html": "8ff55c28"
+  },
+  "content/tidytuesday/cases2023/posts2023/w4_Alone_data/w4_Alone_data.qmd": {
+    "w4_Alone_data.html": "25d09533"
+  },
+  "content/tidytuesday/cases2023/posts2023/w11_European_Drug_Development/w11_European_Drug_Development.qmd": {
+    "w11_European_Drug_Development.html": "8ce05361"
+  },
+  "content/tidytuesday/cases2023/posts2023/w15_US_Egg_Production_Data/w15_US_Egg_Production_Data.qmd": {
+    "w15_US_Egg_Production_Data.html": "1d1955da"
+  },
+  "content/tidytuesday/cases2023/posts2023/w13_Time_Zones/w13_Time_Zones.qmd": {
+    "w13_Time_Zones.html": "8242cac8"
+  },
+  "content/tidytuesday/cases2023/posts2023/w28_Global_Surface_Temperatures/w28_Global_Surface_Temperatures.qmd": {
+    "w28_Global_Surface_Temperatures.html": "409495c9"
+  },
+  "content/tidytuesday/cases2023/posts2023/w10_Numbats_in_Australia/w10_Numbats_in_Australia.qmd": {
+    "w10_Numbats_in_Australia.html": "93b0c8b8"
+  },
+  "content/tidytuesday/cases2023/posts2023/w3_Art_history_data/w3_Art_history_data.qmd": {
+    "w3_Art_history_data.html": "55ca347a"
+  },
+  "content/tidytuesday/cases2023/posts2023/w19_Childcare_Costs/w19_Childcare_Costs.qmd": {
+    "w19_Childcare_Costs.html": "9b41932c"
+  },
+  "content/tidytuesday/cases2023/posts2023/w25_UFO_Sightings_Redux/w25_UFO_Sightings_Redux.qmd": {
+    "w25_UFO_Sightings_Redux.html": "f25d9ba4"
+  },
+  "content/tidytuesday/cases2023/posts2023/w22_Verified_Oldest_People/w22_Verified_Oldest_People.qmd": {
+    "w22_Verified_Oldest_People.html": "0373e303"
+  },
+  "content/tidytuesday/cases2023/posts2023/w14_Premier_League_Match_Data/w14_Premier_League_Match_Data.qmd": {
+    "w14_Premier_League_Match_Data.html": "582a8fc4"
+  },
+  "content/tidytuesday/cases2023/posts2023/w17_London_Marathon/w17_London_Marathon.qmd": {
+    "w17_London_Marathon.html": "5276f05d"
+  },
+  "content/tidytuesday/cases2023/posts2023/w6_Big_Tech_Stock_Prices/w6_Big_Tech_Stock_Prices.qmd": {
+    "w6_Big_Tech_Stock_Prices.html": "dd473d51"
+  },
+  "content/tidytuesday/cases2023/posts2023/w24_Studying_African_FarmerLed_Irrigation_Survey/w24_Studying_African_FarmerLed_Irrigation_Survey.qmd": {
+    "w24_Studying_African_FarmerLed_Irrigation_Survey.html": "b7150b93"
+  },
+  "content/tidytuesday/cases2023/posts2023/w2_Bird_FeederWatch_data/w2_Bird_FeederWatch_data.qmd": {
+    "w2_Bird_FeederWatch_data.html": "e7f9d90d"
+  },
+  "content/tidytuesday/cases2023/posts2023/w7_Hollywood_Age_Gaps/w7_Hollywood_Age_Gaps.qmd": {
+    "w7_Hollywood_Age_Gaps.html": "5c794ef6"
+  },
+  "content/tidytuesday/cases2023/posts2023/w8_Bob_Ross_Paintings/w8_Bob_Ross_Paintings.qmd": {
+    "w8_Bob_Ross_Paintings.html": "fc020c13"
+  },
+  "content/tidytuesday/cases2023/posts2023/w16_Neolithic_Founder_Crops/w16_Neolithic_Founder_Crops.qmd": {
+    "w16_Neolithic_Founder_Crops.html": "640a1bde"
+  },
+  "content/tidytuesday/cases2023/posts2023/w9_African_Language_Sentiment/w9_African_Language_Sentiment.qmd": {
+    "w9_African_Language_Sentiment.html": "4f45eddf"
+  },
+  "content/tidytuesday/cases2023/posts2023/w26_US_Populated_Places/w26_US_Populated_Places.qmd": {
+    "w26_US_Populated_Places.html": "558cee40"
+  },
+  "content/tidytuesday/cases2023/posts2023/w12_Programming_Languages/w12_Programming_Languages.qmd": {
+    "w12_Programming_Languages.html": "b50019cd"
+  },
+  "content/tidytuesday/cases2023/posts2023/w27_Historical_Markers/w27_Historical_Markers.qmd": {
+    "w27_Historical_Markers.html": "78221e71"
+  },
+  "content/tidytuesday/cases2023/posts2023/w1_Bring_your_own_data_to_start_2023/w1_Bring_your_own_data_to_start_2023.qmd": {
+    "w1_Bring_your_own_data_to_start_2023.html": "fa1ac66c"
+  },
+  "content/tidytuesday/cases2023/posts2023/w20_Tornados/w20_Tornados.qmd": {
+    "w20_Tornados.html": "0dc82d8f"
+  },
+  "content/tidytuesday/cases2023/posts2023/w5_Pet_Cats_UK/w5_Pet_Cats_UK.qmd": {
+    "w5_Pet_Cats_UK.html": "6c5812ae"
+  },
+  "content/tidytuesday/cases2023/posts2023/w23_Energy/w23_Energy.qmd": {
+    "w23_Energy.html": "082e624c"
+  },
+  "content/tidytuesday/cases2023/posts2023/w18_The_Portal_Project/w18_The_Portal_Project.qmd": {
+    "w18_The_Portal_Project.html": "a9e39820"
+  },
+  "content/tidytuesday/cases2023/posts2023/w21_Central_Park_Squirrels/w21_Central_Park_Squirrels.qmd": {
+    "w21_Central_Park_Squirrels.html": "e858ab60"
+  },
+  "content/tidytuesday/cases2022/index.qmd": {
+    "index.html": "2801f028"
+  },
+  "content/tidytuesday/cases2022/posts2022/w45_Radio_Stations/w45_Radio_Stations.qmd": {
+    "w45_Radio_Stations.html": "5ffb1327"
+  },
+  "content/tidytuesday/cases2022/posts2022/w19_NYTimes_best_sellers/w19_NYTimes_best_sellers.qmd": {
+    "w19_NYTimes_best_sellers.html": "ebe52a2f"
+  },
+  "content/tidytuesday/cases2022/posts2022/w18_SolarWind_utilities/w18_SolarWind_utilities.qmd": {
+    "w18_SolarWind_utilities.html": "3018a553"
+  },
+  "content/tidytuesday/cases2022/posts2022/w6_Tuskegee_Airmen/w6_Tuskegee_Airmen.qmd": {
+    "w6_Tuskegee_Airmen.html": "629e8ee5"
+  },
+  "content/tidytuesday/cases2022/posts2022/w25_Juneteenth/w25_Juneteenth.qmd": {
+    "w25_Juneteenth.html": "9ba626d8"
+  },
+  "content/tidytuesday/cases2022/posts2022/w34_CHIP_dataset/w34_CHIP_dataset.qmd": {
+    "w34_CHIP_dataset.html": "8317c297"
+  },
+  "content/tidytuesday/cases2022/posts2022/w43_Great_British_Bakeoff/w43_Great_British_Bakeoff.qmd": {
+    "w43_Great_British_Bakeoff.html": "dc1be37b"
+  },
+  "content/tidytuesday/cases2022/posts2022/w1_Bring_your_own_data_from_2022/w1_Bring_your_own_data_from_2022.qmd": {
+    "w1_Bring_your_own_data_from_2022.html": "74e03a9b"
+  },
+  "content/tidytuesday/cases2022/posts2022/w39_Artists_in_the_USA/w39_Artists_in_the_USA.qmd": {
+    "w39_Artists_in_the_USA.html": "0cbe8200"
+  },
+  "content/tidytuesday/cases2022/posts2022/w10_Erasmus_student_mobility/w10_Erasmus_student_mobility.qmd": {
+    "w10_Erasmus_student_mobility.html": "bcbbfacf"
+  },
+  "content/tidytuesday/cases2022/posts2022/w42_Stranger_things_dialogue/w42_Stranger_things_dialogue.qmd": {
+    "w42_Stranger_things_dialogue.html": "f5ee9729"
+  },
+  "content/tidytuesday/cases2022/posts2022/w15_Indoor_Air_Pollution/w15_Indoor_Air_Pollution.qmd": {
+    "w15_Indoor_Air_Pollution.html": "34d9c0c1"
+  },
+  "content/tidytuesday/cases2022/posts2022/w48_FIFA_World_Cup/w48_FIFA_World_Cup.qmd": {
+    "w48_FIFA_World_Cup.html": "7457fc0d"
+  },
+  "content/tidytuesday/cases2022/posts2022/w20_Eurovision/w20_Eurovision.qmd": {
+    "w20_Eurovision.html": "d4c3e7a3"
+  },
+  "content/tidytuesday/cases2022/posts2022/w26_UK_Gender_pay_gap/w26_UK_Gender_pay_gap.qmd": {
+    "w26_UK_Gender_pay_gap.html": "5a3dcb38"
+  },
+  "content/tidytuesday/cases2022/posts2022/w14_Digital_Publications/w14_Digital_Publications.qmd": {
+    "w14_Digital_Publications.html": "93c40474"
+  },
+  "content/tidytuesday/cases2022/posts2022/w36_LEGO_database/w36_LEGO_database.qmd": {
+    "w36_LEGO_database.html": "282d953c"
+  },
+  "content/tidytuesday/cases2022/posts2022/w11_CRANBIOC_Vignettes/w11_CRANBIOC_Vignettes.qmd": {
+    "w11_CRANBIOC_Vignettes.html": "0e87626f"
+  },
+  "content/tidytuesday/cases2022/posts2022/w38_Hydro_Wastewater_plants/w38_Hydro_Wastewater_plants.qmd": {
+    "w38_Hydro_Wastewater_plants.html": "998e51b4"
+  },
+  "content/tidytuesday/cases2022/posts2022/w13_Collegiate_Sports_Budgets/w13_Collegiate_Sports_Budgets.qmd": {
+    "w13_Collegiate_Sports_Budgets.html": "70bb276f"
+  },
+  "content/tidytuesday/cases2022/posts2022/w17_Kaggle_Hidden_Gems/w17_Kaggle_Hidden_Gems.qmd": {
+    "w17_Kaggle_Hidden_Gems.html": "d73d0907"
+  },
+  "content/tidytuesday/cases2022/posts2022/w28_European_flights/w28_European_flights.qmd": {
+    "w28_European_flights.html": "e236319e"
+  },
+  "content/tidytuesday/cases2022/posts2022/w31_Oregon_Spotted_Frog/w31_Oregon_Spotted_Frog.qmd": {
+    "w31_Oregon_Spotted_Frog.html": "a224ddba"
+  },
+  "content/tidytuesday/cases2022/posts2022/w16_Crossword_Puzzles_and_Clues/w16_Crossword_Puzzles_and_Clues.qmd": {
+    "w16_Crossword_Puzzles_and_Clues.html": "d5107573"
+  },
+  "content/tidytuesday/cases2022/posts2022/w8_World_Freedom_index/w8_World_Freedom_index.qmd": {
+    "w8_World_Freedom_index.html": "65c82cf6"
+  },
+  "content/tidytuesday/cases2022/posts2022/w37_Bigfoot/w37_Bigfoot.qmd": {
+    "w37_Bigfoot.html": "d8752f2e"
+  },
+  "content/tidytuesday/cases2022/posts2022/w29_Technology_Adoption/w29_Technology_Adoption.qmd": {
+    "w29_Technology_Adoption.html": "fe2abd25"
+  },
+  "content/tidytuesday/cases2022/posts2022/w4_Board_games/w4_Board_games.qmd": {
+    "w4_Board_games.html": "74200b35"
+  },
+  "content/tidytuesday/cases2022/posts2022/w30_Bring_your_own_data/w30_Bring_your_own_data.qmd": {
+    "w30_Bring_your_own_data.html": "23f9d2f6"
+  },
+  "content/tidytuesday/cases2022/posts2022/w46_Web_page_metrics/w46_Web_page_metrics.qmd": {
+    "w46_Web_page_metrics.html": "c737ea54"
+  },
+  "content/tidytuesday/cases2022/posts2022/w41_Ravelry_data/w41_Ravelry_data.qmd": {
+    "w41_Ravelry_data.html": "137f226e"
+  },
+  "content/tidytuesday/cases2022/posts2022/w27_San_Francisco_Rentals/w27_San_Francisco_Rentals.qmd": {
+    "w27_San_Francisco_Rentals.html": "8ecb6915"
+  },
+  "content/tidytuesday/cases2022/posts2022/w40_Product_Hunt_products/w40_Product_Hunt_products.qmd": {
+    "w40_Product_Hunt_products.html": "5a8ed97c"
+  },
+  "content/tidytuesday/cases2022/posts2022/w23_Pride_Corporate_Accountability_Project/w23_Pride_Corporate_Accountability_Project.qmd": {
+    "w23_Pride_Corporate_Accountability_Project.html": "4bf9b3d1"
+  },
+  "content/tidytuesday/cases2022/posts2022/w44_Horror_Movies/w44_Horror_Movies.qmd": {
+    "w44_Horror_Movies.html": "1721bf28"
+  },
+  "content/tidytuesday/cases2022/posts2022/w2_Bee_Colony_losses/w2_Bee_Colony_losses.qmd": {
+    "w2_Bee_Colony_losses.html": "d80753e8"
+  },
+  "content/tidytuesday/cases2022/posts2022/w33_Open_Source_Psychometrics/w33_Open_Source_Psychometrics.qmd": {
+    "w33_Open_Source_Psychometrics.html": "9214b86a"
+  },
+  "content/tidytuesday/cases2022/posts2022/w47_UK_Museums/w47_UK_Museums.qmd": {
+    "w47_UK_Museums.html": "88537e10"
+  },
+  "content/tidytuesday/cases2022/posts2022/w52_Star_Trek_Timelines/w52_Star_Trek_Timelines.qmd": {
+    "w52_Star_Trek_Timelines.html": "f0326424"
+  },
+  "content/tidytuesday/cases2022/posts2022/w3_Chocolate_Bar_ratings/w3_Chocolate_Bar_ratings.qmd": {
+    "w3_Chocolate_Bar_ratings.html": "b07d23e2"
+  },
+  "content/tidytuesday/cases2022/posts2022/w5_Dog_breeds/w5_Dog_breeds.qmd": {
+    "w5_Dog_breeds.html": "c6b99fdf"
+  },
+  "content/tidytuesday/cases2022/posts2022/w22_Company_reputation_poll/w22_Company_reputation_poll.qmd": {
+    "w22_Company_reputation_poll.html": "768b06f3"
+  },
+  "content/tidytuesday/cases2022/posts2022/w9_Alternative_Fuel_Stations/w9_Alternative_Fuel_Stations.qmd": {
+    "w9_Alternative_Fuel_Stations.html": "49e8f22f"
+  },
+  "content/tidytuesday/cases2022/posts2022/w12_Baby_names/w12_Baby_names.qmd": {
+    "w12_Baby_names.html": "a7659908"
+  },
+  "content/tidytuesday/cases2022/posts2022/w51_Weather_Forecast_Accuracy/w51_Weather_Forecast_Accuracy.qmd": {
+    "w51_Weather_Forecast_Accuracy.html": "b0a95a06"
+  },
+  "content/tidytuesday/cases2022/posts2022/w49_Elevators/w49_Elevators.qmd": {
+    "w49_Elevators.html": "c0a1a76d"
+  },
+  "content/tidytuesday/cases2022/posts2022/w32_Ferris_Wheels/w32_Ferris_Wheels.qmd": {
+    "w32_Ferris_Wheels.html": "a1ae9e87"
+  },
+  "content/tidytuesday/cases2022/posts2022/w50_Monthly_State_Retail_Sales/w50_Monthly_State_Retail_Sales.qmd": {
+    "w50_Monthly_State_Retail_Sales.html": "1c4bde88"
+  },
+  "content/tidytuesday/cases2022/posts2022/w21_Womens_Rugby/w21_Womens_Rugby.qmd": {
+    "w21_Womens_Rugby.html": "7303383f"
+  },
+  "content/tidytuesday/cases2022/posts2022/w35_Pell_Grants/w35_Pell_Grants.qmd": {
+    "w35_Pell_Grants.html": "716e1969"
+  },
+  "content/tidytuesday/cases2022/posts2022/w7_DuBoisChallenge2022/w7_DuBoisChallenge2022.qmd": {
+    "w7_DuBoisChallenge2022.html": "79fa6253"
+  },
+  "content/tidytuesday/cases2022/posts2022/w24_US_Drought/w24_US_Drought.qmd": {
+    "w24_US_Drought.html": "a122ef51"
+  },
+  "contributors.qmd": {
+    "contributors.html": "60ca866e"
+  },
+  "content/mapchallenges/cases2024/posts2024/day12_time_space/day12_time&space.qmd": {
+    "day12_time&space.html": "b84bac3e"
+  },
+  "content/mapchallenges/cases2024/posts2024/day10_pen_paper/day10_pen&paper.qmd": {
+    "day10_pen&paper.html": "19a423ad"
+  },
+  "content/mapchallenges/cases2023/posts2023/day24_black_white/day24_black_white.qmd": {
+    "day24_black_white.html": "30437027"
+  },
+  "content/mapchallenges/cases2024/posts2024/day12_time_space/day12_time_space.qmd": {
+    "day12_time_space.html": "2d82e02f"
+  },
+  "content/mapchallenges/cases2024/posts2024/day10_pen_paper/day10_pen_paper.qmd": {
+    "day10_pen_paper.html": "10871e07"
+  },
+  "content/mapchallenges/cases2024/posts2024/day5_a_journey/day5_a_journey.qmd": {
+    "day5_a_journey.html": "d082721f"
+  },
+  "content/mapchallenge/cases2021/posts2021/day25_interactive/day25_interactive.qmd": {
+    "day25_interactive.html": "99cc5caf"
+  },
+  "content/mapchallenge/cases2021/posts2021/day15_nopc/day15_nopc.qmd": {
+    "day15_nopc.html": "ae60af55"
+  },
+  "content/mapchallenge/cases2021/posts2021/day20_movement/day20_movement.qmd": {
+    "day20_movement.html": "2d825894"
+  },
+  "content/mapchallenge/cases2021/posts2021/day22_boundaries/day22_boundaries.qmd": {
+    "day22_boundaries.html": "46fece2a"
+  },
+  "content/mapchallenge/cases2021/posts2021/day5_osm/day5_osm.qmd": {
+    "day5_osm.html": "3cb8ab79"
+  },
+  "content/mapchallenge/cases2021/posts2021/day23_ghsl_data/day23_ghsl_data.qmd": {
+    "day23_ghsl_data.html": "15b976ca"
+  },
+  "content/mapchallenge/cases2021/posts2021/day24_historical/day24_historical.qmd": {
+    "day24_historical.html": "baa09883"
+  },
+  "content/mapchallenge/cases2021/posts2021/day8_blue/day8_blue.qmd": {
+    "day8_blue.html": "bce85a6f"
+  },
+  "content/mapchallenge/cases2021/posts2021/day1_points/day1_points.qmd": {
+    "day1_points.html": "ad4e5620"
+  },
+  "content/mapchallenge/cases2021/posts2021/day7_green/day7_green.qmd": {
+    "day7_green.html": "e46d8379"
+  },
+  "content/mapchallenge/cases2021/posts2021/day4_hexagons/day4_hexagons.qmd": {
+    "day4_hexagons.html": "c5267867"
+  },
+  "content/mapchallenge/cases2021/posts2021/day14_newtool/day14_newtool.qmd": {
+    "day14_newtool.html": "b51ac8f8"
+  },
+  "content/mapchallenge/cases2021/posts2021/day21_elevation/day21_elevation.qmd": {
+    "day21_elevation.html": "d9429f3a"
+  },
+  "content/mapchallenge/cases2021/posts2021/day3_polygons/day3_polygons.qmd": {
+    "day3_polygons.html": "034a5a76"
+  },
+  "content/mapchallenge/cases2021/posts2021/day9_monochrome/day9_monochrome.qmd": {
+    "day9_monochrome.html": "d826e20d"
+  },
+  "content/mapchallenge/cases2021/posts2021/day28_earth_not_flat/day28_earth_not_flat.qmd": {
+    "day28_earth_not_flat.html": "d8c7b488"
+  },
+  "content/mapchallenge/cases2021/posts2021/day27_heatmap/day27_heatmap.qmd": {
+    "day27_heatmap.html": "ac2c0e75"
+  },
+  "content/mapchallenge/cases2021/posts2021/day30_metamapping/day30_metamapping.qmd": {
+    "day30_metamapping.html": "14ceb646"
+  },
+  "content/mapchallenge/cases2021/posts2021/day26_choropleth/day26_choropleth.qmd": {
+    "day26_choropleth.html": "2ee3778c"
+  },
+  "content/mapchallenge/cases2021/posts2021/day12_population/day12_population.qmd": {
+    "day12_population.html": "2c526486"
+  },
+  "content/mapchallenge/cases2021/posts2021/day18_water/day18_water.qmd": {
+    "day18_water.html": "257e5279"
+  },
+  "content/mapchallenge/cases2021/posts2021/day6_red/day6_red.qmd": {
+    "day6_red.html": "ae057bba"
+  },
+  "content/mapchallenge/cases2021/posts2021/day13_naturalearth/day13_naturalearth.qmd": {
+    "day13_naturalearth.html": "3c2c0a99"
+  },
+  "content/mapchallenge/cases2021/posts2021/day16_urban_rural/day16_urban_rural.qmd": {
+    "day16_urban_rural.html": "8962e3f7"
+  },
+  "content/mapchallenge/cases2021/posts2021/day17_land/day17_land.qmd": {
+    "day17_land.html": "3ce5b207"
+  },
+  "content/mapchallenge/cases2021/posts2021/day2_lines/day2_lines.qmd": {
+    "day2_lines.html": "950e9536"
+  },
+  "content/mapchallenge/cases2021/posts2021/day29_null/day29_null.qmd": {
+    "day29_null.html": "2b7ac0ec"
+  },
+  "content/mapchallenge/cases2021/posts2021/day19_islands/day19_islands.qmd": {
+    "day19_islands.html": "f45700d9"
+  },
+  "content/mapchallenge/cases2021/posts2021/day10_raster/day10_raster.qmd": {
+    "day10_raster.html": "4be2ca57"
+  },
+  "content/mapchallenge/cases2021/posts2021/day11_3D/day11_3D.qmd": {
+    "day11_3D.html": "081b554f"
+  },
+  "content/mapchallenge/cases2021/index.qmd": {
+    "index.html": "bdfef350"
+  },
+  "content/mapchallenge/index.qmd": {
+    "index.html": "d6eb37a0"
+  },
+  "content/mapchallenge/cases2023/index.qmd": {
+    "index.html": "8da43168"
+  },
+  "content/mapchallenge/cases2023/posts2023/day24_black_white/day24_black_white.qmd": {
+    "day24_black_white.html": "b320b3b2"
+  },
+  "content/mapchallenge/cases2023/posts2023/day5_analog-map/day5_analog-map.qmd": {
+    "day5_analog-map.html": "efe03f3f"
+  },
+  "content/mapchallenge/cases2023/posts2023/day20_outdoors/day20_outdoors.qmd": {
+    "day20_outdoors.html": "fddd83af"
+  },
+  "content/mapchallenge/cases2023/posts2023/day28_is-this-a-chart-or-a-map/day28_is-this-a-chart-or-a-map.qmd": {
+    "day28_is-this-a-chart-or-a-map.html": "bfdeb8a6"
+  },
+  "content/mapchallenge/cases2023/posts2023/day27_dot/day27_dot.qmd": {
+    "day27_dot.html": "e94fc375"
+  },
+  "content/mapchallenge/cases2023/posts2023/day21_raster/day21_raster.qmd": {
+    "day21_raster.html": "f2e4029b"
+  },
+  "content/mapchallenge/cases2023/posts2023/day29_population/day29_population.qmd": {
+    "day29_population.html": "937ff50d"
+  },
+  "content/mapchallenge/cases2023/posts2023/day13_choropleth/day13_choropleth.qmd": {
+    "day13_choropleth.html": "bdd70b5f"
+  },
+  "content/mapchallenge/cases2023/posts2023/day1_points/day1_points.qmd": {
+    "day1_points.html": "9a51386e"
+  },
+  "content/mapchallenge/cases2023/posts2023/day23_3D/day23_3D.qmd": {
+    "day23_3D.html": "e3172743"
+  },
+  "content/mapchallenge/cases2023/posts2023/day17_flow/day17_flow.qmd": {
+    "day17_flow.html": "acdb342d"
+  },
+  "content/mapchallenge/cases2023/posts2023/day9_hexagons/day9_hexagons.qmd": {
+    "day9_hexagons.html": "e57e10b9"
+  },
+  "content/mapchallenge/cases2023/posts2023/day3_polygons/day3_polygons.qmd": {
+    "day3_polygons.html": "1bdc2f4a"
+  },
+  "content/mapchallenge/cases2023/posts2023/day16_oceania/day16_oceania.qmd": {
+    "day16_oceania.html": "b4cffc40"
+  },
+  "content/mapchallenge/cases2023/posts2023/day25_antarctica/day25_antarctica.qmd": {
+    "day25_antarctica.html": "4c026b30"
+  },
+  "content/mapchallenge/cases2023/posts2023/day11_retro/day11_retro.qmd": {
+    "day11_retro.html": "392f914b"
+  },
+  "content/mapchallenge/cases2023/posts2023/day8_africa/day8_africa.qmd": {
+    "day8_africa.html": "38665a5a"
+  },
+  "content/mapchallenge/cases2023/posts2023/day22_north-is-not-always-up/day22_north-is-not-always-up.qmd": {
+    "day22_north-is-not-always-up.html": "c65132e8"
+  },
+  "content/mapchallenge/cases2023/posts2023/day2_lines/day2_lines.qmd": {
+    "day2_lines.html": "23d55e60"
+  },
+  "content/mapchallenge/cases2023/posts2023/day12_south-america/day12_south-america.qmd": {
+    "day12_south-america.html": "cfe5d339"
+  },
+  "content/mapchallenge/cases2023/posts2023/day6_asia/day6_asia.qmd": {
+    "day6_asia.html": "17b01a7d"
+  },
+  "content/mapchallenge/cases2023/posts2023/day10_north-america/day10_north-america.qmd": {
+    "day10_north-america.html": "9b77148e"
+  },
+  "content/mapchallenge/cases2023/posts2023/day30_my-favourite/day30_my-favourite.qmd": {
+    "day30_my-favourite.html": "730b0ba9"
+  },
+  "content/mapchallenge/cases2023/posts2023/day14_europe/day14_europe.qmd": {
+    "day14_europe.html": "fc9a1d77"
+  },
+  "content/mapchallenge/cases2023/posts2023/day19_5-minute-map/day19_5-minute-map.qmd": {
+    "day19_5-minute-map.html": "6da4ee54"
+  },
+  "content/mapchallenge/cases2023/posts2023/day4_a-bad-map/day4_a-bad-map.qmd": {
+    "day4_a-bad-map.html": "6325c5b8"
+  },
+  "content/mapchallenge/cases2023/posts2023/day15_openstreetmap/day15_openstreetmap.qmd": {
+    "day15_openstreetmap.html": "0813c8ee"
+  },
+  "content/mapchallenge/cases2023/posts2023/day7_navigation/day7_navigation.qmd": {
+    "day7_navigation.html": "776c1b0a"
+  },
+  "content/mapchallenge/cases2023/posts2023/day26_minimal/day26_minimal.qmd": {
+    "day26_minimal.html": "58dff4fb"
+  },
+  "content/mapchallenge/cases2023/posts2023/day18_atmosphere/day18_atmosphere.qmd": {
+    "day18_atmosphere.html": "4a668a94"
+  },
+  "content/mapchallenge/cases2024/index.qmd": {
+    "index.html": "e604c919"
+  },
+  "content/mapchallenge/cases2024/posts2024/day20_osm/day20_osm.qmd": {
+    "day20_osm.html": "20622f29"
+  },
+  "content/mapchallenge/cases2024/posts2024/day30_the_final_map/day30_the_final_map.qmd": {
+    "day30_the_final_map.html": "9fce89dd"
+  },
+  "content/mapchallenge/cases2024/posts2024/day17_collaborative_map/day17_collaborative_map.qmd": {
+    "day17_collaborative_map.html": "772c78b8"
+  },
+  "content/mapchallenge/cases2024/posts2024/day25_heat/day25_heat.qmd": {
+    "day25_heat.html": "686e921b"
+  },
+  "content/mapchallenge/cases2024/posts2024/day8_hdx/day8_hdx.qmd": {
+    "day8_hdx.html": "dcd34e5d"
+  },
+  "content/mapchallenge/cases2024/posts2024/day1_points/day1_points.qmd": {
+    "day1_points.html": "83b7fe22"
+  },
+  "content/mapchallenge/cases2024/posts2024/day15_my_data/day15_my_data.qmd": {
+    "day15_my_data.html": "c48c5a6e"
+  },
+  "content/mapchallenge/cases2024/posts2024/day4_hexagons/day4_hexagons.qmd": {
+    "day4_hexagons.html": "9a8e2d8b"
+  },
+  "content/mapchallenge/cases2024/posts2024/day14_worldmap/day14_worldmap.qmd": {
+    "day14_worldmap.html": "e4a9d572"
+  },
+  "content/mapchallenge/cases2024/posts2024/day27_micromapping/day27_micromapping.qmd": {
+    "day27_micromapping.html": "3c893838"
+  },
+  "content/mapchallenge/cases2024/posts2024/day3_polygons/day3_polygons.qmd": {
+    "day3_polygons.html": "2a4869ff"
+  },
+  "content/mapchallenge/cases2024/posts2024/day18_3D/day18_3D.qmd": {
+    "day18_3D.html": "4b32cccc"
+  },
+  "content/mapchallenge/cases2024/posts2024/day5_a_journey/day5_a_journey.qmd": {
+    "day5_a_journey.html": "e0832dd8"
+  },
+  "content/mapchallenge/cases2024/posts2024/day26_map_projections/day26_map_projections.qmd": {
+    "day26_map_projections.html": "b7474383"
+  },
+  "content/mapchallenge/cases2024/posts2024/day9_ai/day9_ai.qmd": {
+    "day9_ai.html": "521bfa39"
+  },
+  "content/mapchallenge/cases2024/posts2024/day28_the_blue_planet/day28_the_blue_planet.qmd": {
+    "day28_the_blue_planet.html": "b8ac12c6"
+  },
+  "content/mapchallenge/cases2024/posts2024/day19_typography/day19_typography.qmd": {
+    "day19_typography.html": "f22655d8"
+  },
+  "content/mapchallenge/cases2024/posts2024/day11_artic/day11_artic.qmd": {
+    "day11_artic.html": "b4287952"
+  },
+  "content/mapchallenge/cases2024/posts2024/day7_vintage/day7_vintage.qmd": {
+    "day7_vintage.html": "b8c34842"
+  },
+  "content/mapchallenge/cases2024/posts2024/day12_time_space/day12_time_space.qmd": {
+    "day12_time_space.html": "c7be902f"
+  },
+  "content/mapchallenge/cases2024/posts2024/day6_raster/day6_raster.qmd": {
+    "day6_raster.html": "f2375813"
+  },
+  "content/mapchallenge/cases2024/posts2024/day29_overture/day29_overture.qmd": {
+    "day29_overture.html": "d9526d48"
+  },
+  "content/mapchallenge/cases2024/posts2024/day21_conflicts/day21_conflicts.qmd": {
+    "day21_conflicts.html": "e044fca8"
+  },
+  "content/mapchallenge/cases2024/posts2024/day10_pen_paper/day10_pen_paper.qmd": {
+    "day10_pen_paper.html": "96382ef1"
+  },
+  "content/mapchallenge/cases2024/posts2024/day2_lines/day2_lines.qmd": {
+    "day2_lines.html": "1b80b84e"
+  },
+  "content/mapchallenge/cases2024/posts2024/day22_two_colors/day22_two_colors.qmd": {
+    "day22_two_colors.html": "777d9bc5"
+  },
+  "content/mapchallenge/cases2024/posts2024/day13_new_tool/day13_new_tool.qmd": {
+    "day13_new_tool.html": "5ea8ba79"
+  },
+  "content/mapchallenge/cases2024/posts2024/day16_choropleth_map/day16_choropleth_map.qmd": {
+    "day16_choropleth_map.html": "0d260483"
+  },
+  "content/mapchallenge/cases2024/posts2024/day23_memory/day23_memory.qmd": {
+    "day23_memory.html": "273a8417"
+  },
+  "content/mapchallenge/cases2024/posts2024/day24_only_circular_shapes/day24_only_circular_shapes.qmd": {
+    "day24_only_circular_shapes.html": "492895d7"
+  },
+  "content/mapchallenge/cases2025/index.qmd": {
+    "index.html": "0d166184"
+  },
+  "content/mapchallenge/cases2025/posts2025/day1_points/day1_points.qmd": {
+    "day1_points.html": "ff09758e"
+  },
+  "content/mapchallenge/cases2022/index.qmd": {
+    "index.html": "61cff6bf"
+  },
+  "content/mapchallenge/cases2022/posts2022/day20_my_favourite/day20_my_favourite.qmd": {
+    "day20_my_favourite.html": "3c47375b"
+  },
+  "content/mapchallenge/cases2022/posts2022/day9_space/day9_space.qmd": {
+    "day9_space.html": "aa907e37"
+  },
+  "content/mapchallenge/cases2022/posts2022/day7_raster/day7_raster.qmd": {
+    "day7_raster.html": "13ee5eaa"
+  },
+  "content/mapchallenge/cases2022/posts2022/day24_fantasy/day24_fantasy.qmd": {
+    "day24_fantasy.html": "625d6ae9"
+  },
+  "content/mapchallenge/cases2022/posts2022/day1_points/day1_points.qmd": {
+    "day1_points.html": "e653aef7"
+  },
+  "content/mapchallenge/cases2022/posts2022/day4_color_friday_green/day4_color_friday_green.qmd": {
+    "day4_color_friday_green.html": "e7a35998"
+  },
+  "content/mapchallenge/cases2022/posts2022/day12_scale/day12_scale.qmd": {
+    "day12_scale.html": "88b16d5b"
+  },
+  "content/mapchallenge/cases2022/posts2022/day28_3D/day28_3D.qmd": {
+    "day28_3D.html": "7f95ae73"
+  },
+  "content/mapchallenge/cases2022/posts2022/day16_minimal/day16_minimal.qmd": {
+    "day16_minimal.html": "cccf92a6"
+  },
+  "content/mapchallenge/cases2022/posts2022/day15_food_drink/day15_food_drink.qmd": {
+    "day15_food_drink.html": "734be5c1"
+  },
+  "content/mapchallenge/cases2022/posts2022/day3_polygons/day3_polygons.qmd": {
+    "day3_polygons.html": "ea6899e6"
+  },
+  "content/mapchallenge/cases2022/posts2022/day14_hexagons/day14_hexagons.qmd": {
+    "day14_hexagons.html": "97c3a926"
+  },
+  "content/mapchallenge/cases2022/posts2022/day29_out_comfort_zone/day29_out_comfort_zone.qmd": {
+    "day29_out_comfort_zone.html": "42d482c6"
+  },
+  "content/mapchallenge/cases2022/posts2022/day17_a_map_without_computer/day17_a_map_without_computer.qmd": {
+    "day17_a_map_without_computer.html": "b50da938"
+  },
+  "content/mapchallenge/cases2022/posts2022/day5_ukraine/day5_ukraine.qmd": {
+    "day5_ukraine.html": "20ab87f5"
+  },
+  "content/mapchallenge/cases2022/posts2022/day21_kontur_pop_dataset/day21_kontour_pop_dataset.qmd": {
+    "day21_kontour_pop_dataset.html": "821a7c7c"
+  },
+  "content/mapchallenge/cases2022/posts2022/day27_music/day27_music.qmd": {
+    "day27_music.html": "59b3d3ca"
+  },
+  "content/mapchallenge/cases2022/posts2022/day23_movement/day23_movement.qmd": {
+    "day23_movement.html": "271dabde"
+  },
+  "content/mapchallenge/cases2022/posts2022/day30_remix/day30_remix.qmd": {
+    "day30_remix.html": "4fee18b3"
+  },
+  "content/mapchallenge/cases2022/posts2022/day13_5_minute_map/day13_5_minute_map.qmd": {
+    "day13_5_minute_map.html": "a95699db"
+  },
+  "content/mapchallenge/cases2022/posts2022/day10_a_bad_map/day10_a_bad_map.qmd": {
+    "day10_a_bad_map.html": "e7145d09"
+  },
+  "content/mapchallenge/cases2022/posts2022/day6_network/day6_network.qmd": {
+    "day6_network.html": "4fc8a0d7"
+  },
+  "content/mapchallenge/cases2022/posts2022/day2_lines/day2_lines.qmd": {
+    "day2_lines.html": "523d8ff8"
+  },
+  "content/mapchallenge/cases2022/posts2022/day22_null/day22_null.qmd": {
+    "day22_null.html": "2067ce97"
+  },
+  "content/mapchallenge/cases2022/posts2022/day18_color_friday_blue/day18_color_friday_blue.qmd": {
+    "day18_color_friday_blue.html": "dd5fd4ce"
+  },
+  "content/mapchallenge/cases2022/posts2022/day11_color_friday_red/day11_color_friday_red.qmd": {
+    "day11_color_friday_red.html": "95e416d4"
+  },
+  "content/mapchallenge/cases2022/posts2022/day19_globe/day19_globe.qmd": {
+    "day19_globe.html": "36fb6883"
+  },
+  "content/mapchallenge/cases2022/posts2022/day8_openstreetmap/day8_openstreetmap.qmd": {
+    "day8_openstreetmap.html": "b4be55d7"
+  },
+  "content/mapchallenge/cases2022/posts2022/day26_islands/day26_islands.qmd": {
+    "day26_islands.html": "84c0e0c2"
+  },
+  "content/mapchallenge/cases2022/posts2022/day25_color_friday_2_colors/day25_color_friday_2_colors.qmd": {
+    "day25_color_friday_2_colors.html": "6955b037"
+  },
+  "content/chartchallenge/cases2021/posts2021/day20_upwards/day20_upwards.qmd": {
+    "day20_upwards.html": "ac784f58"
+  },
+  "content/chartchallenge/cases2021/posts2021/day29_deviations/day29_deviations.qmd": {
+    "day29_deviations.html": "762d664e"
+  },
+  "content/chartchallenge/cases2021/posts2021/day23_tiles/day23_tiles.qmd": {
+    "day23_tiles.html": "74175a22"
+  },
+  "content/chartchallenge/cases2021/posts2021/day5_slope/day5_slope.qmd": {
+    "day5_slope.html": "6330b8cc"
+  },
+  "content/chartchallenge/cases2021/posts2021/day22_animation/day22_animation.qmd": {
+    "day22_animation.html": "ab7af335"
+  },
+  "content/chartchallenge/cases2021/posts2021/day21_downwards/day21_downwards.qmd": {
+    "day21_downwards.html": "2174aff5"
+  },
+  "content/chartchallenge/cases2021/posts2021/day19_global_change/day19_global_change.qmd": {
+    "day19_global_change.html": "d70ee89d"
+  },
+  "content/chartchallenge/cases2021/posts2021/day12_strips/day12_strips.qmd": {
+    "day12_strips.html": "cf01bec7"
+  },
+  "content/chartchallenge/cases2021/posts2021/day9_statistics/day9_statistics.qmd": {
+    "day9_statistics.html": "a94ed52d"
+  },
+  "content/chartchallenge/cases2021/posts2021/day13_correlation/day13_correlation.qmd": {
+    "day13_correlation.html": "81ff1ec3"
+  },
+  "content/chartchallenge/cases2021/posts2021/day18_connections/day18_connections.qmd": {
+    "day18_connections.html": "9d8322c3"
+  },
+  "content/chartchallenge/cases2021/posts2021/day6_experimental/day6_experimental.qmd": {
+    "day6_experimental.html": "410a585b"
+  },
+  "content/chartchallenge/cases2021/posts2021/day10_abstract/day10_abstract.qmd": {
+    "day10_abstract.html": "c817038a"
+  },
+  "content/chartchallenge/cases2021/posts2021/day26_trends/day26_trends.qmd": {
+    "day26_trends.html": "68802b5a"
+  },
+  "content/chartchallenge/cases2021/posts2021/day16_tree/day16_tree.qmd": {
+    "day16_tree.html": "d9b35b21"
+  },
+  "content/chartchallenge/cases2021/posts2021/day3_historical/day3_historical.qmd": {
+    "day3_historical.html": "980b994b"
+  },
+  "content/chartchallenge/cases2021/posts2021/day25_demographic/day25_demographic.qmd": {
+    "day25_demographic.html": "d5c8d464"
+  },
+  "content/chartchallenge/cases2021/posts2021/day17_pop_culture/day17_pop_culture.qmd": {
+    "day17_pop_culture.html": "219f089c"
+  },
+  "content/chartchallenge/cases2021/posts2021/day14_space/day14_space.qmd": {
+    "day14_space.html": "a8e300a2"
+  },
+  "content/chartchallenge/cases2021/posts2021/day24_monochrome/day24_monochrome.qmd": {
+    "day24_monochrome.html": "8af3d037"
+  },
+  "content/chartchallenge/cases2021/posts2021/day4_magical/day4_magical.qmd": {
+    "day4_magical.html": "425d95aa"
+  },
+  "content/chartchallenge/cases2021/posts2021/day11_circular/day11_circular.qmd": {
+    "day11_circular.html": "7248860e"
+  },
+  "content/chartchallenge/cases2021/posts2021/day1_part-to-whole/day1_part-to-whole.qmd": {
+    "day1_part-to-whole.html": "7104c49c"
+  },
+  "content/chartchallenge/cases2021/posts2021/day8_animals/day8_animals.qmd": {
+    "day8_animals.html": "8aa7426b"
+  },
+  "content/chartchallenge/cases2021/posts2021/day30_3D/day30_3D.qmd": {
+    "day30_3D.html": "4f89056e"
+  },
+  "content/chartchallenge/cases2021/posts2021/day2_pictogram/day2_pictogram.qmd": {
+    "day2_pictogram.html": "bd6c3741"
+  },
+  "content/chartchallenge/cases2021/posts2021/day15_multivariate/day15_multivariate.qmd": {
+    "day15_multivariate.html": "a1cedeb0"
+  },
+  "content/chartchallenge/cases2021/posts2021/day7_physical/day7_physical.qmd": {
+    "day7_physical.html": "6e0bb866"
+  },
+  "content/chartchallenge/cases2021/posts2021/day27_educational/day27_educational.qmd": {
+    "day27_educational.html": "1b402a37"
+  },
+  "content/chartchallenge/cases2021/posts2021/day28_future/day28_future.qmd": {
+    "day28_future.html": "ff7272ea"
+  },
+  "content/chartchallenge/cases2021/index.qmd": {
+    "index.html": "08f1d40b"
+  },
+  "content/chartchallenge/index.qmd": {
+    "index.html": "1fa808ce"
+  },
+  "content/chartchallenge/cases2023/index.qmd": {
+    "index.html": "6daa1d13"
+  },
+  "content/chartchallenge/cases2023/posts2023/day8_humans/day8_humans.qmd": {
+    "day8_humans.html": "ab7b3bd2"
+  },
+  "content/chartchallenge/cases2023/posts2023/day7_hazard/day7_hazard.qmd": {
+    "day7_hazard.html": "b0327f49"
+  },
+  "content/chartchallenge/cases2023/posts2023/day24_theme_day/day24_theme_day.qmd": {
+    "day24_theme_day.html": "ea8de678"
+  },
+  "content/chartchallenge/cases2023/posts2023/day30_data_day/day30_data_day.qmd": {
+    "day30_data_day.html": "aecd5e6d"
+  },
+  "content/chartchallenge/cases2023/posts2023/day27_good_bad/day27_good_bad.qmd": {
+    "day27_good_bad.html": "2ea8e700"
+  },
+  "content/chartchallenge/cases2023/posts2023/day23_tiles/day23_tiles.qmd": {
+    "day23_tiles.html": "918ea406"
+  },
+  "content/chartchallenge/cases2023/posts2023/day18_data_day/day18_data_day.qmd": {
+    "day18_data_day.html": "165ad279"
+  },
+  "content/chartchallenge/cases2023/posts2023/day26_local_change/day26_local_change.qmd": {
+    "day26_local_change.html": "c46b301b"
+  },
+  "content/chartchallenge/cases2023/posts2023/day16_family/day16_family.qmd": {
+    "day16_family.html": "fcbe08ea"
+  },
+  "content/chartchallenge/cases2023/posts2023/day25_gobal_change/day25_gobal_change.qmd": {
+    "day25_gobal_change.html": "e4a9d395"
+  },
+  "content/chartchallenge/cases2023/posts2023/day9_high_low/day9_high_low.qmd": {
+    "day9_high_low.html": "55550e8c"
+  },
+  "content/chartchallenge/cases2023/posts2023/day5_slope/day5_slope.qmd": {
+    "day5_slope.html": "25d682bb"
+  },
+  "content/chartchallenge/cases2023/posts2023/day2_waffle/day2_waffle.qmd": {
+    "day2_waffle.html": "fa025398"
+  },
+  "content/chartchallenge/cases2023/posts2023/day6_data_day/day6_data_day.qmd": {
+    "day6_data_day.html": "011ea709"
+  },
+  "content/chartchallenge/cases2023/posts2023/day28_trend/day28_trend.qmd": {
+    "day28_trend.html": "978e2d5f"
+  },
+  "content/chartchallenge/cases2023/posts2023/day13_popculture/day13_popculture.qmd": {
+    "day13_popculture.html": "e6e53f43"
+  },
+  "content/chartchallenge/cases2023/posts2023/day3_fauna_flora/day3_fauna_flora.qmd": {
+    "day3_fauna_flora.html": "019b0f4b"
+  },
+  "content/chartchallenge/cases2023/posts2023/day22_greenenergy/day22_greenenergy.qmd": {
+    "day22_greenenergy.html": "4545d46a"
+  },
+  "content/chartchallenge/cases2023/posts2023/day17_networks/day17_networks.qmd": {
+    "day17_networks.html": "f5d1929d"
+  },
+  "content/chartchallenge/cases2023/posts2023/day14_new_tool/day14_new_tool.qmd": {
+    "day14_new_tool.html": "23a83626"
+  },
+  "content/chartchallenge/cases2023/posts2023/day11_circular/day11_circular.qmd": {
+    "day11_circular.html": "f965b455"
+  },
+  "content/chartchallenge/cases2023/posts2023/day1_part-to-whole/day1_part-to-whole.qmd": {
+    "day1_part-to-whole.html": "26a6b42b"
+  },
+  "content/chartchallenge/cases2023/posts2023/day29_monochrome/day29_monochrome.qmd": {
+    "day29_monochrome.html": "57c44df8"
+  },
+  "content/chartchallenge/cases2023/posts2023/day12_theme_day/day12_theme_day.qmd": {
+    "day12_theme_day.html": "eca08d91"
+  },
+  "content/chartchallenge/cases2023/posts2023/day20_correlation/day20_correlation.qmd": {
+    "day20_correlation.html": "11079203"
+  },
+  "content/chartchallenge/cases2023/posts2023/day10_hybrid/day10_hybrid.qmd": {
+    "day10_hybrid.html": "8f0b764b"
+  },
+  "content/chartchallenge/cases2023/posts2023/day21_down_upwards/day21_down_upwards.qmd": {
+    "day21_down_upwards.html": "f6e40fe9"
+  },
+  "content/chartchallenge/cases2023/posts2023/day19_anthropocene/day19_anthropocene.qmd": {
+    "day19_anthropocene.html": "69972e5e"
+  },
+  "content/chartchallenge/cases2023/posts2023/day15_positive_negative/day15_positive_negative.qmd": {
+    "day15_positive_negative.html": "55505744"
+  },
+  "content/chartchallenge/cases2023/posts2023/day4_historical/day4_historical.qmd": {
+    "day4_historical.html": "481ef56e"
+  },
+  "content/chartchallenge/cases2022/index.qmd": {
+    "index.html": "26edb431"
+  },
+  "content/chartchallenge/cases2022/posts2022/day24_theme_day/day24_theme_day.qmd": {
+    "day24_theme_day.html": "42c4934d"
+  },
+  "content/chartchallenge/cases2022/posts2022/day14_3-dimensional/day14_3-dimensional.qmd": {
+    "day14_3-dimensional.html": "2cb21374"
+  },
+  "content/chartchallenge/cases2022/posts2022/day4_flora/day4_flora.qmd": {
+    "day4_flora.html": "271d0e7b"
+  },
+  "content/chartchallenge/cases2022/posts2022/day23_tiles/day23_tiles.qmd": {
+    "day23_tiles.html": "22a58d6d"
+  },
+  "content/chartchallenge/cases2022/posts2022/day29_storytelling/day29_storytelling.qmd": {
+    "day29_storytelling.html": "3b4c8707"
+  },
+  "content/chartchallenge/cases2022/posts2022/day10_experimental/day10_experimental.qmd": {
+    "day10_experimental.html": "f326e6d8"
+  },
+  "content/chartchallenge/cases2022/posts2022/day30_un_pop/day30_UNPOP.qmd": {
+    "day30_UNPOP.html": "6481c899"
+  },
+  "content/chartchallenge/cases2022/posts2022/day17_connections/day17_connections.qmd": {
+    "day17_connections.html": "b48051a8"
+  },
+  "content/chartchallenge/cases2022/posts2022/day5_slope/day5_slope.qmd": {
+    "day5_slope.html": "b3445c13"
+  },
+  "content/chartchallenge/cases2022/posts2022/day22_animation/day22_animation.qmd": {
+    "day22_animation.html": "2b8676c5"
+  },
+  "content/chartchallenge/cases2022/posts2022/day27_future/day27_future.qmd": {
+    "day27_future.html": "819b2381"
+  },
+  "content/chartchallenge/cases2022/posts2022/day19_global_change/day19_global_change.qmd": {
+    "day19_global_change.html": "a23817d9"
+  },
+  "content/chartchallenge/cases2022/posts2022/day6_data_day/day6_data_day.qmd": {
+    "day6_data_day.html": "233176c6"
+  },
+  "content/chartchallenge/cases2022/posts2022/day1_part_to_whole/day1_part_to_whole.qmd": {
+    "day1_part_to_whole.html": "69ed30e3"
+  },
+  "content/chartchallenge/cases2022/posts2022/day9_statistics/day9_statistics.qmd": {
+    "day9_statistics.html": "3f31ac7a"
+  },
+  "content/chartchallenge/cases2022/posts2022/day13_correlation/day13_correlation.qmd": {
+    "day13_correlation.html": "16c93145"
+  },
+  "content/chartchallenge/cases2022/posts2022/day26_interactive/day26_interactive.qmd": {
+    "day26_interactive.html": "41f724be"
+  },
+  "content/chartchallenge/cases2022/posts2022/day3_historical/day3_historical.qmd": {
+    "day3_historical.html": "53131b55"
+  },
+  "content/chartchallenge/cases2022/posts2022/day11_circular/day11_circular.qmd": {
+    "day11_circular.html": "513487fd"
+  },
+  "content/chartchallenge/cases2022/posts2022/day28_deviations/day28_deviations.qmd": {
+    "day28_deviations.html": "40f1bcac"
+  },
+  "content/chartchallenge/cases2022/posts2022/day20_new_tool/day20_new_tool.qmd": {
+    "day20_new_tool.html": "5b9bdf41"
+  },
+  "content/chartchallenge/cases2022/posts2022/day16_environment/day16_environment.qmd": {
+    "day16_environment.html": "ca370907"
+  },
+  "content/chartchallenge/cases2022/posts2022/day18_oecd/day18_oecd.qmd": {
+    "day18_oecd.html": "389e0513"
+  },
+  "content/chartchallenge/cases2022/posts2022/day12_theme_day/day12_theme_day.qmd": {
+    "day12_theme_day.html": "40898498"
+  },
+  "content/chartchallenge/cases2022/posts2022/day8_mountains/day8_mountains.qmd": {
+    "day8_mountains.html": "c18c2a13"
+  },
+  "content/chartchallenge/cases2022/posts2022/day21_down_upwards/day21_down_upwards.qmd": {
+    "day21_down_upwards.html": "743ffc5a"
+  },
+  "content/chartchallenge/cases2022/posts2022/day2_pictogram/day2_pictogram.qmd": {
+    "day2_pictogram.html": "eb047669"
+  },
+  "content/chartchallenge/cases2022/posts2022/day15_multivariate/day15_multivariate.qmd": {
+    "day15_multivariate.html": "dcbe9a30"
+  },
+  "content/chartchallenge/cases2022/posts2022/day7_physical/day7_physical.qmd": {
+    "day7_physical.html": "824e9b33"
+  },
+  "content/chartchallenge/cases2022/posts2022/day25_trend/day25_trend.qmd": {
+    "day25_trend.html": "d71684ba"
+  },
+  "content/mapchallenge/cases2025/posts2025/day2_lines/day2_lines.qmd": {
+    "day2_lines.html": "a05d8194"
+  },
+  "content/mapchallenge/cases2025/posts2025/day3_polygons/day3_polygons.qmd": {
+    "day3_polygons.html": "a8e42dcc"
+  },
+  "content/mapchallenge/cases2025/posts2025/day4_my_data/day4_my_data.qmd": {
+    "day4_my_data.html": "f2d436e8"
+  },
+  "content/mapchallenge/cases2025/posts2025/day5_earth/day5_earth.qmd": {
+    "day5_earth.html": "9552e8a8"
+  },
+  "content/mapchallenge/cases2025/posts2025/day16_cell/day16_cell.qmd": {
+    "day16_cell.html": "fa9e2876"
+  },
+  "content/mapchallenge/cases2025/posts2025/day24_places_and_their_names/day24_places_and_their_names.qmd": {
+    "day24_places_and_their_names.html": "8a523401"
+  },
+  "content/mapchallenge/cases2025/posts2025/day11_minimal_map/day11_minimal_map.qmd": {
+    "day11_minimal_map.html": "9475c096"
+  },
+  "content/mapchallenge/cases2025/posts2025/day14_openstreetmap/day14_openstreetmap.qmd": {
+    "day14_openstreetmap.html": "ad08916f"
+  },
+  "content/mapchallenge/cases2025/posts2025/day18_out_of_this_world/day18_out_of_this_world.qmd": {
+    "day18_out_of_this_world.html": "72fc775b"
+  },
+  "content/mapchallenge/cases2025/posts2025/day19_projections/day19_projections.qmd": {
+    "day19_projections.html": "e6cdaf24"
+  },
+  "content/mapchallenge/cases2025/posts2025/day21_icons/day21_icons.qmd": {
+    "day21_icons.html": "c8bf6790"
+  },
+  "content/mapchallenge/cases2025/posts2025/day27_boundaries/day27_boundaries.qmd": {
+    "day27_boundaries.html": "6f325de9"
+  },
+  "content/mapchallenge/cases2025/posts2025/day25_hexagons/day25_hexagons.qmd": {
+    "day25_hexagons.html": "710eb138"
+  },
+  "content/mapchallenge/cases2025/posts2025/day29_raster/day29_raster.qmd": {
+    "day29_raster.html": "0dfa9c9a"
+  },
+  "content/mapchallenge/cases2025/posts2025/day12_map_from_2125/day12_map_from_2125.qmd": {
+    "day12_map_from_2125.html": "0cc62a50"
+  },
+  "content/mapchallenge/cases2025/posts2025/day23_process/day23_process.qmd": {
+    "day23_process.html": "0d48206c"
+  },
+  "content/mapchallenge/cases2025/posts2025/day8_urban/day8_urban.qmd": {
+    "day8_urban.html": "d6e212c2"
+  },
+  "content/mapchallenge/cases2025/posts2025/day7_accessibility/day7_accessibility.qmd": {
+    "day7_accessibility.html": "3469206a"
+  },
+  "content/mapchallenge/cases2025/posts2025/day26_transport/day26_transport.qmd": {
+    "day26_transport.html": "93d65333"
+  },
+  "content/mapchallenge/cases2025/posts2025/day10_air/day10_air.qmd": {
+    "day10_air.html": "5fc47298"
+  },
+  "content/mapchallenge/cases2025/posts2025/day13_10_minute_map/day13_10_minute_map.qmd": {
+    "day13_10_minute_map.html": "7099a79c"
+  },
+  "content/mapchallenge/cases2025/posts2025/day17_a_new_tool/day17_a_new_tool.qmd": {
+    "day17_a_new_tool.html": "b74c4b97"
+  },
+  "content/mapchallenge/cases2025/posts2025/day15_fire/day15_fire.qmd": {
+    "day15_fire.html": "8ed0c0c8"
+  },
+  "content/mapchallenge/cases2025/posts2025/day6_dimensions/day6_dimensions.qmd": {
+    "day6_dimensions.html": "074d2d73"
+  },
+  "content/mapchallenge/cases2025/posts2025/day30_makeover/day30_makeover.qmd": {
+    "day30_makeover.html": "92f92b92"
+  },
+  "content/mapchallenge/cases2025/posts2025/day9_analog/day9_analog.qmd": {
+    "day9_analog.html": "8a18d600"
+  },
+  "content/mapchallenge/cases2025/posts2025/day20_water/day20_water.qmd": {
+    "day20_water.html": "e3b51342"
+  },
+  "content/mapchallenge/cases2025/posts2025/day22_natural_earth/day22_natural_earth.qmd": {
+    "day22_natural_earth.html": "125063a7"
+  },
+  "content/mapchallenge/cases2025/posts2025/day28_black/day28_black.qmd": {
+    "day28_black.html": "164ddb4f"
+  }
+}

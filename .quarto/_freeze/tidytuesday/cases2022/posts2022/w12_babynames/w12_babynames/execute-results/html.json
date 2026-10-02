@@ -1,0 +1,14 @@
+{
+  "hash": "12e107f80e3d4a53fd86030f5e8990b5",
+  "result": {
+    "markdown": "---\ntitle: 'BBaby names'\nsubtitle: 'Welcome to TidyTuesday 2022 week 12'\ndate: '2022-03-22'\nimage: \"w12_babynames.png\"\nimage-alt: ''\ndescription: 'Networks'\noutput: html_document\nexecute: \n   eval: false\n---\n\n\n\nSource: https://r-graph-gallery.com/wordcloud\n\n\n::: {.cell}\n\n```{.r .cell-code}\nlibrary(tidyverse)\n\nbabynames <- readr::read_csv('https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2022/2022-03-22/babynames.csv')\n\ndf <- babynames %>%\n  arrange(-n) %>%\n  select(name,n,prop) %>%\n  group_by(name) %>%\n  summarise(n=sum(n),prop=sum(prop))%>%\n  ungroup() %>%\n  arrange(-n) %>%\n  slice(1:200)\n\nlibrary(wordcloud)\nset.seed(123)\n\npar(bg=\"black\") \nwordcloud(df2$word ,size= df2$freq, \n          col=terrain.colors(length(df2$word),alpha=0.9), \n          rot.per=0.3)\n\n\n\nlibrary(wordcloud2) \n\n# install webshot\nlibrary(webshot)\nwebshot::install_phantomjs()\n\n\ndf2 <- df %>%\n  rename(word=name,freq=n)\n\n\n\n# Make the graph\nmy_graph <- wordcloud2(df2, size=1.5,\n                       backgroundColor = \"black\")\n\n\n# save it in html\nlibrary(\"htmlwidgets\")\nsaveWidget(my_graph,\"data/2022/w12_babynames/tmp.html\",selfcontained = F)\n\n# and in png or pdf\nwebshot(\"data/2022/w12_babynames/tmp.html\",\n        \"data/2022/w12_babynames/fig_1.png\", \n        delay =5, vwidth = 980, vheight=950)\n```\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

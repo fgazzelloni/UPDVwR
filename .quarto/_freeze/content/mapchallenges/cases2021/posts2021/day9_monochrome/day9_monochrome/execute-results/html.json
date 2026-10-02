@@ -1,0 +1,15 @@
+{
+  "hash": "635e04dc24c99d5ddc71d16002bc21e4",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: 'Monochrome'\nsubtitle: 'Welcome to #30DayMapChallenge 2021 day 9'\ndate: '2021-11-9'\nimage: 'https://raw.githubusercontent.com/Fgazzelloni/30DayMapChallenge/master/2021/day9_monochrome/monochrome.png'\nimage-alt: ''\ndescription: ''\noutput: html_document\nexecute: \n   eval: false\n---\n\n# Overview\n\nThis art work represent `Italy`, data is from the `{spData}` package.\n\n\n::: {.cell}\n\n```{.r .cell-code}\nlibrary(tidyverse)\nlibrary(sf)\nlibrary(spData)\nspData::world\n```\n:::\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n# save final plot\nragg::agg_png(here::here(\"/Users/federica/Documents/R/R_general_resources/30DayMapChallenge/day9_monochrome/monochrome.png\"),\n              res = 320, width = 6, height = 6, units = \"in\")\n\n\nworld_europe = world[world$continent == \"Europe\", ]\nitaly = world[world$name_long == \"Italy\", ]\nplot(st_geometry(italy), expandBB = c(0, 0.2, 0.1, 1), col = \"gray\", lwd = 3)\nplot(world_europe[0], add = TRUE)\ndev.off()\n```\n:::\n\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\nlibrary(cowplot)\nlibrary(magick)\n\n\nmono_it <- image_read(\"/Users/federica/Documents/R/R_general_resources/30DayMapChallenge/day9_monochrome/monochrome.png\")\n\nlibrary(showtext)\nlibrary(extrafont)\nsysfonts::font_info_google(\"Josefin Sans\")\n#fonts()\n#loadfonts()\nfont_add_google(\"Josefin Sans\",\"josefin\")\nshowtext_opts(dpi = 320)\nshowtext_auto(enable = T)\n\n\nempty<-ggplot()+geom_blank()+xlim(0,50)+ylim(0,50)+theme_void()\n\ng <- grid::circleGrob(gp = grid::gpar(fill = NA,color=\"black\"))\n\n\nfinal <- ggdraw()+\n  draw_plot(empty)+\n  draw_image(mono_it, x = 0, y = 0,width = 1)+\n  draw_text(\"Monochrome Italy\",x=0.5,y=0.91,angle=0,family=\"josefin\")+\n  draw_text(\"Datasource: spData::world\\nInfographics: Federica Gazzelloni\",x=0.5,y=0.15,family=\"josefin\",size=9)+\n  draw_grob(g, scale = 1)\n\n\nragg::agg_png(here::here(\"/Users/federica/Documents/R/R_general_resources/30DayMapChallenge/day9_monochrome/monochrome.png\"),\n              res = 320, width = 6, height = 6, units = \"in\")\nfinal\ndev.off()\n```\n:::\n\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

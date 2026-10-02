@@ -1,0 +1,15 @@
+{
+  "hash": "ddfc41191fe590e8f1ce6f791b35003f",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: 'Out of my comfort zone'\nsubtitle: 'Welcome to #30DayMapChallenge 2022 day 29'\ndate: '2022-11-29'\nimage: 'https://raw.githubusercontent.com/Fgazzelloni/30DayMapChallenge/master/2022/day29_out_comfort_zone/day29_out_comfort_zone.png'\nimage-alt: ''\ndescription: ''\noutput: html_document\nexecute: \n   eval: false\n---\n\n# Overview\n\nFoursquare Map Month Competition Winner: `United States Permanent amount of precipitations on Global Railways`.\n\n\n\n### Map made with https://studio.foursquare.com/\n\nLink: <https://studio.foursquare.com/public/1525b083-1b3d-46ec-a661-0833ca5e87cb>\n\n\n::: {.cell}\n\n```{.r .cell-code}\nlibrary(tidyverse)\nlibrary(cowplot)\n```\n:::\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\nggdraw()+\n  draw_image(\"basemap.png\")+\n  draw_image(\"legend1.png\",\n             scale=0.5,\n             x=-0.43,y=0)+\n  draw_label(\"United States of America precipitations\",\n             x=0.5,y=0.93,\n             size=18,\n             color=\"black\") +\n  draw_label(\"Permanent amount of precipitations on Global Railways\\n#30DayMapchallenge 2022 Day 29: Out of my comfort zone | Tool: studio.foursquare.com | Map: @fgazzelloni\",\n             x=0.5,y=0.05,\n             size=9,\n             color=\"black\") \nggsave(\"test.png\",\n       bg=\"white\",\n       width=8.92,\n       height=5.9)\n```\n:::\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "hash": "69f8643af1e85ce456f6077888dbdb71",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: 'Programming Languages'\nsubtitle: 'Welcome to TidyTuesday 2023 week 12'\ndate: '2023-03-21'\nimage: 'https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2023/w12_PrgL/w12_PrgL.png'\nimage-alt: ''\ndescription: 'Networks'\noutput: html_document\nexecute: \n   eval: false\n---\n\n::: {.cell}\n\n```{.r .cell-code}\nlibrary(tidyverse)\ntuesdata <- tidytuesdayR::tt_load(2023, week = 12)\n```\n:::\n\n\n::: {.cell}\n\n```{.r .cell-code}\nlanguages <- tuesdata$languages\n```\n:::\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\nwrite_csv(languages,\"languages.csv\")\n```\n:::\n\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\nlanguages%>%head\n```\n:::\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\nlanguages%>%names\n```\n:::\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\ndf <- languages%>%\n  arrange(appeared)%>%\n  select(pldb_id,appeared,type,language_rank,number_of_users)\ndf\n```\n:::\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\nggplot(df,aes(appeared,language_rank))+\n  geom_point()\n```\n:::\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\ndf %>%\n  filter(appeared>1900)%>%\nggplot(aes(appeared,language_rank))+\n  geom_point()+\n  scale_y_reverse()\n```\n:::\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\ndf %>%\n  count(type,sort = TRUE)%>%\n  mutate(pct=round(n/sum(n)*100,2))\n```\n:::\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\ndf %>%\n  arrange(-appeared)%>%\n  filter(between(appeared,2021,2023))%>%#count(type)\n  mutate(appeared=as.factor(appeared))\n```\n:::\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\ndf %>%\n  arrange(-appeared)%>%\n  filter(between(appeared,2021,2023))%>%#count(type)\n  mutate(appeared=as.factor(appeared))%>%\n  ggplot(aes(appeared,number_of_users,fill=type))+\n  geom_col()+\n  labs(title=\"New Language tools\")\n```\n:::\n\n\n::: {.cell}\n\n```{.r .cell-code}\ndf%>%\n  group_by(appeared)%>%\n  reframe(n_languages=n(),pldb_id,type,avg=mean(number_of_users))%>%\n  filter(between(appeared,2000,2023)) %>%\n  ggplot(aes(appeared,n_languages))+\n  geom_point()+\n  geom_line()+\n  geom_segment(aes(x=appeared,xend=appeared,y=0,yend=n_languages,\n                   color=n_languages),\n               size=6)+\n  geom_text(aes(label=type),check_overlap = TRUE,vjust=-0.5)\n```\n:::\n\n\n\n\n\n\n\n\n\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

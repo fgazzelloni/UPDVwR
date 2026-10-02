@@ -1,0 +1,14 @@
+{
+  "hash": "374ac7e6e3491eac05a633269ec174aa",
+  "result": {
+    "markdown": "---\ntitle: 'Animals'\nsubtitle: 'Welcome to #30DayChartChallenge 2021 day 8'\ndate: '2021-04-08'\nimage: 'day8_animals.png'\nimage-alt: ''\ndescription: 'Networks'\noutput: html_document\nexecute: \n   eval: false\n---\n\n::: {.cell}\n\n```{.r .cell-code}\nlibrary(devtools)\nlibrary(tidyverse)\nlibrary(forecast)\nlibrary(ggridges)\n\n##################################\n\n# remotes::install_github(\"BiologicalRecordsCentre/BRCindicators\")\n# vignette('BRCindicators')\nlibrary(BRCindicators)\n\ndata(bats)\n\nglimpse(bats)\n\nplyr::count(bats$species)\n\ndf <- bats%>%filter(species==\"lshorse\")\ndf\n\nbats$year<-as.factor(bats$year)\nbats$index[is.na(bats$index)]=0\nbats$collated_index[is.na(bats$collated_index)]=0\nsummary(bats$index)\n\n\n\nlibrary(paletteer)\nlibrary(pals)\n\nanimals_plot <- ggplot(data = bats, aes(x=collated_index,y=species,fill = species))+\n  geom_density_ridges_gradient(jittered_points = TRUE, scale = 2,\n                               point_size = 0.8, size = 0.5,col=\"#99D8C9\"\n                               )+\n  labs(x=\"Index\", y=\"Bats species\",\n       title=\"How different Bats' species evolve in density?\",\n       subtitle=\"Bats are one of the most likely species of whild animals involved with Covid19 Outbreak\",\n       caption=\"Viz Federica Gazzelloni - DataSource:BRCindicators - Day8\\n \")+\n  theme_minimal()+\n  theme(text=element_text(family=\"Arial\"),\n        plot.title = element_text(size=34),\n        plot.subtitle = element_text(size=20),\n        plot.caption = element_text(size=8,face=\"bold\"),\n        legend.position = \"none\")\n\n\n\n\n##########################################\nragg::agg_png(here::here(\"day8\", \"Animals_day8.png\"),\n              res = 320, width = 14, height = 8, units = \"in\")\nanimals_plot\n\ndev.off()\n```\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

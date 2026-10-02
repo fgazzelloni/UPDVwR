@@ -1,0 +1,15 @@
+{
+  "hash": "0a2628683c3d417d763f950fdd06d7a1",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: 'Heatmap'\nsubtitle: 'Welcome to #30DayMapChallenge 2021 day 27'\ndate: '2021-11-27'\nimage: 'https://raw.githubusercontent.com/Fgazzelloni/30DayMapChallenge/master/2021/day27_heatmap/heatmap.png'\nimage-alt: ''\ndescription: ''\noutput: html_document\nexecute: \n   eval: false\n---\n\n\n# Overview\n\nJohn Snow's 1854 Cholera Deaths London's Map. Data: `Blog.RtWilson.com`.\n\n### {mapmate} vignettes\n\n- https://rdrr.io/github/leonawicz/mapmate/f/vignettes/mapmate.Rmd\n- https://leonawicz.github.io/mapmate/articles/usage_and_limitations.html\n\n\n::: {.cell}\n\n```{.r .cell-code}\nrm(list=ls())\nlibrary(mapmate)\nlibrary(dplyr)\nlibrary(RColorBrewer)\npal <- rev(brewer.pal(11, \"BrBg\"))\nRColorBrewer::display.brewer.all()\n\ndata(annualtemps)\ndata(borders)\ndata(bathymetry)\n\n\n\n\nid <- \"frameID\"\ntemps <- mutate(annualtemps, frameID = Year - min(Year) + 1) %>% \n  filter(frameID == 1)  # subset to first frame\n\nmy_df<- temps%>%full_join(borders,by=c(\"lon\",\"lat\"))\n\n\nbrdrs <- mutate(borders, frameID = 1)\nbath <- mutate(bathymetry, frameID = 1)\n\nsave_map(brdrs, id = id, \n         type = \"maplines\", save.plot = FALSE, return.plot = TRUE)\n\n\nsave_map(my_df, id = id, \n         col = pal, \n         type = \"density\", contour = \"overlay\", save.plot = FALSE, \n         return.plot = TRUE)\n```\n:::\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "hash": "751823744ea5b2180a40d833cdb3ed4f",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: 'Projections'\nsubtitle: 'Welcome to #30DayMapChallenge 2025 day 19'\ndate: '2025-11-19'\nimage: 'https://raw.githubusercontent.com/Fgazzelloni/30DayMapChallenge/refs/heads/main/2025/day19_projections/day19_projections.png'\nimage-alt: 'Population Estimation in Goode Homolosine Projection'\ndescription: 'Population Estimation in Goode Homolosine Projection'\noutput: html_document\nexecute: \n   eval: false\n---\n\n![Population Estimation in Goode Homolosine Projection](https://raw.githubusercontent.com/Fgazzelloni/30DayMapChallenge/refs/heads/main/2025/day19_projections/day19_projections.png)\n\n## Overview\n\n\n::: {.cell}\n\n```{.r .cell-code}\nlibrary(sf)\nlibrary(rnaturalearth)\nlibrary(ggplot2)\n```\n:::\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n# Load world data\nworld <- ne_countries(scale = \"medium\", returnclass = \"sf\")\n\n# Transform to projections\nworld_goode  <- st_transform(world, 54052)       # Goode Homolosine\n```\n:::\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\nnames(world_goode)\n```\n:::\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\nplot(world_goode,max.plot = 1)\n```\n:::\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\nggplot(world_goode)+geom_sf(aes(fill=pop_est))\n```\n:::\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\nggplot(world_goode) +\n  geom_sf(aes(fill = pop_est), colour = \"white\", linewidth = 0.15) +\n  scale_fill_viridis_c(\n    option = \"cividis\",\n    trans = \"log10\",\n    labels = scales::label_number(scale = 1/1),\n    name = \"Population Est.\"\n  ) +\n  labs(\n    title = \"Population Estimation in Goode Homolosine Projection\",\n    subtitle = \"CRS: ESRI 54052\",\n    caption = \"#30DayMapChallenge 2025 | Day19 Projections\\nData: {rnaturalearth} | Map: Federica Gazzelloni\"\n  ) +\n  theme_void() +\n  theme(\n    legend.position = \"inside\",\n    legend.position.inside = c(0.1,0.3),\n    plot.title = element_text(size = 12, face = \"bold\",hjust=0.5),\n    plot.title.position = \"panel\",\n    plot.subtitle = element_text(size = 11,hjust=0.5),\n    plot.caption = element_text(hjust=0.5,size=8),\n    panel.background = element_rect(fill = \"white\", \n                                    colour = NA)\n  )\n```\n:::\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\nggsave(\"day19_projections.png\",\n       width=6,height = 4,dpi=320,bg=\"white\")\n```\n:::\n\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

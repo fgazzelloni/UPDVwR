@@ -1,0 +1,17 @@
+{
+  "hash": "cdef4b9febcced5e0f2223a92a41521e",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: 'Data Challenge 3: GHSL'\nsubtitle: 'Welcome to #30DayMapChallenge 2021 day 23'\ndate: '2021-11-23'\nimage: 'https://raw.githubusercontent.com/Fgazzelloni/30DayMapChallenge/master/2021/day23_ghsl_data/ghsl.png'\nimage-alt: ''\ndescription: ''\noutput: html_document\nexecute: \n   eval: false\n---\n\n\n\n# Overview\n\nGlobal Human Settlement Layer (GHSL) - Italy 1km resolution, population in 2015.\n\n\n\n### Data source\n- https://cidportal.jrc.ec.europa.eu/ftp/jrc-opendata/GHSL/GHS_POP_MT_GLOBE_R2019A/GHS_POP_E2015_GLOBE_R2019A_54009_1K/V1-0/GHS_POP_E2015_GLOBE_R2019A_54009_1K_V1_0.zip\n- https://cidportal.jrc.ec.europa.eu/ftp/jrc-opendata/GHSL/GHS_POP_MT_GLOBE_R2019A/GHS_POP_E1975_GLOBE_R2019A_54009_1K/V1-0/GHS_POP_E1975_GLOBE_R2019A_54009_1K_V1_0.zip\n- https://gist.github.com/leeolney3/61f88791b70a4781aa62717ce77d4d70\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\nlibrary(rnaturalearth)\nlibrary(rnaturalearthdata)\nlibrary(sf)\nlibrary(raster)\nlibrary(tidyverse)\nlibrary(ggtext)\n\npop2015 = raster(here::here(\"day23_ghsl_data/GHS_POP_E2015_GLOBE_R2019A_54009_1K_V1_0.tif\"))\n\nit = ne_countries(scale=10,country = 'italy', returnclass = \"sf\")\nit2 = st_transform(it, crs(pop2015))\n\n# reduce the raster to it data\nit_crop = raster::crop(pop2015, raster::extent(it2))\nit_mask = raster::mask(it_crop, it2)\nit_df = as.data.frame(it_mask, xy=TRUE)\n\nit_df2<-it_df%>%\n  rename(year_2015=3)%>%\n  dplyr::filter(!is.na(year_2015))\n\n\nlibrary(extrafont)\nloadfonts()\nfont=\"Roboto Condensed Light\"\n\n\nragg::agg_png(here::here(\"/Users/federica/Documents/R/R_general_resources/30DayMapChallenge/day23_ghsl_data/ghsl.png\"),\n              res = 320, width = 6, height = 6, units = \"in\")\nggplot() +\n  geom_raster(data=it_df2,\n              aes(x=x, y=y, fill=year_2015)) +\n  colorspace::scale_fill_continuous_sequential(palette = \"PuBuGn\", begin = 0.9, end = 0.4,\n                                               breaks=c(0,200,20000),\n                                               trans=\"pseudo_log\",\n                                               labels=scales::comma)+\n  theme_void() +\n  coord_fixed() +\n  theme(text = element_text(color=\"#FCB9B2\",family=font),\n        plot.background = element_rect(fill=\"#151E3F\", color=NA),\n        legend.position=\"top\",\n        legend.justification = \"center\",\n        plot.title=element_markdown(lineheight=1.3, size=25, hjust = .5),\n        plot.caption=element_text(size=8, margin=margin(t=-5,b=10), hjust=.5,color=\"#FCB9B2\"),\n        plot.margin=margin(.3,0,0,0, unit=\"cm\"),\n        legend.margin=margin(t=-5)\n  ) +\n  guides(fill = guide_colorbar(title.position = \"top\",\n                               barwidth = unit(11, \"lines\"),\n                               barheight = unit(.4, \"lines\"))) +\n  labs(fill=\"\",\n       title=\"Population in Italy - 2015\",\n       caption=\"Data source: Global Human Settlement Layer (GHSL) data #30DayMapChallenge\n       Map: Federica Gazzelloni\")\ndev.off()\n```\n:::\n\n",
+    "supporting": [
+      "day23_ghsl_data_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "hash": "60b5277b79d5f951fa86824bcecad45a",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: 'Land'\nsubtitle: 'Welcome to #30DayMapChallenge 2021 day 17'\ndate: '2021-11-17'\nimage: 'https://raw.githubusercontent.com/Fgazzelloni/30DayMapChallenge/master/2021/day17_land/land_smaller.png'\nimage-alt: ''\ndescription: ''\noutput: html_document\nexecute: \n   eval: false\n---\n\n# Overview\n\n\nThis `New York's population` map is made with `Studio Unfolded AI` and styled with `R`.\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\nlibrary(cowplot)\nlibrary(tidyverse)\n\nlibrary(showtext)\nlibrary(extrafont)\n# sysfonts::font_add(\"\")\n#fonts()\n#loadfonts()\nfont_add_google(\"Cinzel\",\"Cinzel\")\nshowtext_opts(dpi = 320)\nshowtext_auto(enable = T)\n\n\n\nnyc_image<- magick::image_read(here::here(\"R_general_resources/30DayMapChallenge/day17_land/unfolded.png\"))\n\ng <- grid::circleGrob(gp = grid::gpar(fill = NA,col=\"white\",lwd=0.5))\n\n\nfinal <- cowplot::ggdraw()+\n  draw_image(nyc_image,x = 0.01, y = 0,width = 0.98)+\n\n  draw_label(label=\"New York's population\",\n             x=0.6,y=0.63,fontfamily=\"Cinzel\",size=10,color=\"gold\") +\n\n\n  draw_label(label=\"New York landscape\",\n             x=0.15, y=0.95, size=19, fontfamily=\"Cinzel\",\n             color = \"black\",fontface = \"bold\",\n             lineheight = 1.1,\n             alpha = 1) +\n  #draw_grob(g, scale = 0.15,x = 0,y = -0.08)+\n\n  draw_text(\"Made with: studio.unfolded.ai - #30DayMapChallenge Day17 Land\\nInfographics: Federica Gazzelloni\",\n            x=0.5,y=0.05,family=\"Cinzel\",size=12,fontface = \"bold\")\n\n\n\n\n# save final plot\nragg::agg_png(here::here(\"R_general_resources/30DayMapChallenge/day17_land/land.png\"),\n              res = 320, width = 12, height = 8, units = \"in\")\nfinal\ndev.off()\n```\n:::\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "hash": "2fb3b0fbe7251897eb1221b732a828a1",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: 'Networks'\nsubtitle: 'Welcome to #30DayChartChallenge 2023 day 17'\ndate: '2023-04-17'\nimage: 'day17_networks.png'\nimage-alt: ''\ndescription: 'Networks'\noutput: html_document\nexecute: \n   eval: false\n---\n\nTo cite Federica's work please use:\n\n> Gazzelloni F. (2023), Data Visualization: Network Monks data \n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\nlibrary(tidyverse)\nlibrary(rethinking)\ndata(\"Monks\")\nd<- Monks\n```\n:::\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n\"amount of reciprocity in - like - nominations within dyads\"\n\" Nominations by 18 monks living in the same monastery over three time periods.\"\n\"#30DayChartChallenge day17: Network | DataViz: Federica Gazzelloni\"\n```\n:::\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\nd1 <- d%>%\n  select(!contains(\"dis\"),-A,-B) %>%\n  mutate(name=paste0(A_name,\"-\",B_name))%>%\n  select(-A_name,-B_name)%>%\n  distinct()%>%\n  filter(like_AB>0,like_BA>0)\n  \nd1 %>% head() \n```\n:::\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\nlibrary(igraph)\ng <- graph_from_data_frame(d1)\ny <- as_adjacency_matrix(g)\nsng <- graph_from_adjacency_matrix(y)\nlx <- layout_nicely(sng)\nvcol <- \"#dfd1bf\"\n  \nset.seed(1973)\nplot(sng , \n     layout=lx , \n     vertex.size=12 , \n     edge.arrow.size=0.5 , \n     edge.width=2 ,\n     edge.curved=0.35 , \n     vertex.color=vcol , \n     edge.color=\"#6b493e\" , \n     \n     asp=0.9,\n     margin = -0.05 , \n     vertex.label=d1$name,\n     vertex.label.cex = 0.7)\n```\n:::\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\nlibrary(showtext)\nlibrary(sysfonts) # this is included in showtext\n\nfont_add_google(\"Pacifico\", \"Pacifico\")\nshowtext.auto()\n```\n:::\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\nlibrary(cowplot)\nggdraw()+\n  draw_image(\"network.png\",scale = 0.9,y=-0.05)+\n  draw_label(\"Amount of reciprocity in - like - nominations within 18 monks\",\n             x=0.5,y=0.95,fontfamily=\"Pacifico\",size=44)+\n    draw_label(\"living in the same monastery over three time periods.\",\n             x=0.5,y=0.90,fontfamily=\"Pacifico\",size=44)+\n  draw_label(\"#30DayChartChallenge day17: Networks | DataViz: Federica Gazzelloni\",\n             x=0.5,y=0.05,size=20,fontfamily=\"Pacifico\")\n```\n:::\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\nggsave(\"d17_networks.png\",width = 7,height = 5,bg=\"white\",dpi=320)\n```\n:::\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "hash": "3dc8f04035a71adacd7236fbedd005fb",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: '3D Map'\nsubtitle: 'Welcome to #30DayMapChallenge 2024 Day 18'\ndate: '2024-11-18'\nimage: 'https://raw.githubusercontent.com/Fgazzelloni/30DayMapChallenge/master/2024/day18_3D/day18_3D.png'\nimage-alt: 'day18_3D'\ndescription: '3D Map'\noutput: html_document\nexecute: \n   eval: false\n---\n\n\n\n\n![3D Map](https://raw.githubusercontent.com/Fgazzelloni/30DayMapChallenge/master/2024/day18_3D/day18_3D.png)\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\nlibrary(geodata)\nlibrary(raster)\nlibrary(plotly)\nlibrary(sf)\nlibrary(dplyr)\n\n# Step 1: Define a Larger Bounding Box for Paris Region\nparis_bbox <- st_bbox(c(xmin = 2.0, ymin = 48.6, xmax = 2.6, ymax = 49.2), crs = 4326)\n\n# Step 2: Download SRTM Elevation Data for France\n# Save in a temporary directory (can be set to a permanent path)\nsrtm_data <- elevation_30s(country = \"FRA\", path = tempdir())\n\n# Verify if the SRTM raster contains valid data\nprint(srtm_data)  # Print details of the raster\nplot(srtm_data, main = \"SRTM Data for France\\n#30DayMapChallenge Day18 | @fgazzelloni\",cex.main = 0.8)  # Check if it contains data\n```\n:::\n\n::: {.cell}\n\n```{.r .cell-code}\n# Set the file path and PNG dimensions\npng(filename = \"srtm_data_france_day18.png\", width = 800, height = 600, res = 150)\n\n# Plot the SRTM raster data with customized title\nplot(\n  srtm_data,dpi=300,\n  main = \"SRTM Data for France\\n#30DayMapChallenge Day18 | @fgazzelloni\",\n  cex.main = 0.8,     # Main title size\n  col.main = \"grey20\",  # Main title color\n)\n\n# Close the PNG device\ndev.off()\n```\n:::\n\n::: {.cell}\n\n```{.r .cell-code}\n# Step 3: Crop the SRTM Data to Paris Bounding Box\nparis_bbox_sp <- as(extent(paris_bbox$xmin, paris_bbox$xmax, paris_bbox$ymin, paris_bbox$ymax), \"SpatialPolygons\")\ncrs(paris_bbox_sp) <- crs(srtm_data) # Match CRS with the raster\nelevation_data <- crop(srtm_data, paris_bbox_sp)\n\n# Verify the cropped raster for Paris\nprint(elevation_data)  # Check for valid data\nplot(elevation_data, main = \"Cropped Elevation Data for Paris\")\n\n# Step 4: Convert Raster to Data Frame\nif (!is.null(elevation_data)) {\n  elevation_matrix <- raster::as.matrix(elevation_data)\n  elevation_df <- as.data.frame(as.table(elevation_matrix)) %>%\n    rename(row = Var1, col = Var2, elevation = Freq) %>%\n    mutate(\n      row = as.numeric(row),\n      col = as.numeric(col),\n      lon = raster::xFromCol(elevation_data, col),\n      lat = raster::yFromRow(elevation_data, row)\n    ) %>%\n    drop_na()  # Remove rows with missing data\n\n  # Step 5: Verify the Data Frame\n  print(summary(elevation_df))  # Check for valid values\n  print(head(elevation_df))  # Inspect a few rows\n} else {\n  stop(\"Elevation data is empty after cropping!\")\n}\n\n#\n```\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

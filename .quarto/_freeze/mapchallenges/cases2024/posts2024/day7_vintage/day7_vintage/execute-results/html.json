@@ -1,0 +1,15 @@
+{
+  "hash": "8399573757c5bfd537e0e83a70eefebb",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: 'Vintage Map'\nsubtitle: 'Welcome to #30DayMapChallenge 2024 Day 7'\ndate: '2024-11-07'\nimage: 'https://raw.githubusercontent.com/Fgazzelloni/30DayMapChallenge/master/2024/day7_vintage/day7_vintage.png'\nimage-alt: 'day7_vintage'\ndescription: 'Vintage Map'\noutput: html_document\nexecute: \n   eval: false\n---\n\n\n\n\n![Vintage Map](https://raw.githubusercontent.com/Fgazzelloni/30DayMapChallenge/master/2024/day7_vintage/day7_vintage.png)\nLoad the required libraries and data\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\nlibrary(sf)\nlibrary(ggplot2)\nlibrary(rnaturalearth)\nlibrary(ggspatial)\n```\n:::\n\n::: {.cell}\n\n```{.r .cell-code}\n# Load the world map data\nworld <- ne_countries(scale = \"medium\", returnclass = \"sf\")\n```\n:::\n\n::: {.cell}\n\n```{.r .cell-code}\n# Plot the vintage map\nggplot(data = world) +\n  geom_sf(fill = \"#D2B48C\", color = \"#8B4513\", size = 0.2) +  # Sepia tones\n  coord_sf(xlim = c(-20, 60), ylim = c(-40, 40), expand = FALSE) +  # Limit to show specific area\n  labs(\n    title = \"Vintage Map of Africa and Europe\",\n    subtitle = \"A simple Map Through Ancient Lands\",\n    caption = \"Data source: Natural Earth\\n#30DayMapChallenge 2024 Day6 | @fgazzelloni\") +\n  theme_void() +  # Remove modern elements\n  theme(\n    plot.background = element_rect(fill = \"#F5DEB3\", color = NA),  # Old paper background\n    plot.title = element_text(family = \"serif\", size = 20, face = \"bold\", color = \"#8B4513\", hjust = 0.5),\n    plot.subtitle = element_text(family = \"serif\", size = 14, color = \"#8B4513\", hjust = 0.5),\n    plot.caption = element_text(family = \"serif\", size = 10, color = \"#8B4513\", hjust = 0.5),\n    panel.grid = element_blank()  # Remove grid lines for a cleaner, vintage look\n  ) +\n  # Optional: add scale bar and north arrow in a vintage style\n  ggspatial::annotation_scale(location = \"bl\", bar_cols = c(\"#8B4513\", \"#D2B48C\"), text_col = \"#8B4513\") +\n  ggspatial::annotation_north_arrow(location = \"tl\", which_north = \"true\", \n                                    style = north_arrow_orienteering(fill = c(\"#8B4513\", \"#D2B48C\")))\n```\n:::\n\n\n\nSave the plot as a PNG file\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\nggsave(\"day7_vintage.png\", \n       bg = \"transparent\",\n       width = 8, height = 6, \n       dpi = 300) \n```\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

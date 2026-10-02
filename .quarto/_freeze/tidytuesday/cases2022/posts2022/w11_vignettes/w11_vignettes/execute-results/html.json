@@ -1,0 +1,14 @@
+{
+  "hash": "69d9d2291ea0aee7140829df1cc31dcf",
+  "result": {
+    "markdown": "---\ntitle: 'CRAN/BIOC Vignettes'\nsubtitle: 'Welcome to TidyTuesday 2022 week 11'\ndate: '2022-01-18'\nimage: \"w11_vignettes.png\"\nimage-alt: ''\ndescription: 'Networks'\noutput: html_document\nexecute: \n   eval: false\n---\n\n::: {.cell}\n\n```{.r .cell-code}\nlibrary(tidyverse)\nlibrary(ggridges)\nlibrary(showtext)\nlibrary(sysfonts)\nlibrary(extrafont)\n\nshowtext::showtext_auto()\nshowtext::showtext_opts(dpi=320)\n\nfont_families_google()\n\nfont_add_google(name=\"Overpass\",family=\"overpass\")\n\nbioc <- readr::read_csv('https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2022/2022-03-15/bioc.csv')\ncran <- readr::read_csv('https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2022/2022-03-15/cran.csv')\n\n\nhead(bioc)\nhead(cran)\n\nbioc2 <-bioc%>%mutate(date=as.Date(date,\"%Y-%m-%d\"))\n\ncran_a <-cran%>%\n  mutate(date=format(as.Date(date,\"%a %b %d %H:%M:%S %Y\"), format=\"%Y-%m-%d\"),\n         date=as.Date(date,\"%Y-%m-%d\")) %>%\n  drop_na()\n\ncran_b <-cran%>%\n  mutate(date=as.Date(date,\"%Y-%m-%d\")) %>%\n  drop_na()\n\n\nclass(cran_a$date)\nclass(cran_b$date)\n\ncran2 <- rbind(cran_a,cran_b) %>%\n  select(-version)\n\ncran2%>%DataExplorer::profile_missing()\n\nhead(cran2)\nhead(bioc2)\n\ncran2 <- cran2 %>% \n  mutate(source = \"Cran\\n\") %>%\n  relocate(date,rnw,rmd,package,source)\n\nbioc2 <- bioc2 %>%\n  mutate(source = \"Bioconductor\\n\")\n\ndim(cran2);dim(bioc2)\n\n\ndf <- rbind(cran2,bioc2) %>%\n  distinct()\n\n\ndf %>%\n  mutate(year=lubridate::year(date)) %>%\n  distinct() %>%\n  count(year,source,sort=T) %>%\n  arrange(year) %>%\n  ggplot(aes(x=n, y=factor(year),# height = ..density..,\n             fill=factor(year))) +\n  geom_density_ridges(scale = 0.8, alpha=0.6, \n                      #rel_min_height = 0.1,\n                      stat=\"binline\", bins=30) +\n  facet_wrap(~source,scales = \"free\")+\n  labs(caption=\"DataSource: CRAN/BIOC Vignettes | Robert Flight GitHub | #TidyTuesday week 11 2022 | DataViz: Federica Gazzelloni\") +\n  theme_ridges() +\n  theme(text = element_text(family=\"overpass\",size=15),\n        plot.caption = element_text(size=8,hjust = 0.3),\n        legend.position=\"none\",\n        panel.spacing = unit(0.1, \"lines\"),\n        strip.text.x = element_text(size = 28),\n        strip.background = element_rect(fill=\"grey86\"),\n        plot.background = element_rect(color=\"grey86\",fill=\"grey86\"),\n        panel.background = element_rect(color=\"grey86\",fill=\"grey86\")) +\n  xlab(\"CRAN/BIOC Vignettes: number of releases per Year\") +\n  ylab(\"Assigned Probability (%)\")\n\n\nggsave(\"w11_vignettes.png\",width = 9.79 , height =  9.46)\n```\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

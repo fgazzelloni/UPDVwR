@@ -1,0 +1,15 @@
+{
+  "hash": "f2b23adb50c152f7ea4ef062657e19ec",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: 'Boundaries'\nsubtitle: 'Welcome to #30DayMapChallenge 2021 day 22'\ndate: '2021-11-22'\nimage: 'https://raw.githubusercontent.com/Fgazzelloni/30DayMapChallenge/master/2021/day22_boundaries/boundaries.png'\nimage-alt: ''\ndescription: ''\noutput: html_document\nexecute: \n   eval: false\n---\n\n# Overview\n\n\nThis `World` map shows the world boundaries, data is from `{rgeoboundaries}`.\n\n### Resource\n\n-  https://www.tug.org/pracjourn/2007-4/walden/color.pdf\n\n\n::: {.cell}\n\n```{.r .cell-code}\nlibrary(ggplot2)\nlibrary(rgeoboundaries)\nlibrary(sf)\nlibrary(spData)\nspData::world\n```\n:::\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\nrgeoboundaries::gb_clear_cache()\n```\n:::\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n# save final plot\nragg::agg_png(here::here(\"/Users/federica/Documents/R/R_general_resources/30DayMapChallenge/day22_boundaries/boundaries_base.png\"),\n              res = 320, width = 6, height = 6, units = \"in\")\n\nworld <- gb_adm1()\nworld_lambert <- st_transform(world, \"+proj=laea +x_0=0 +y_0=0 +lon_0=0 +lat_0=0\")\n\nworld_lambert%>%\n  ggplot()+\n  geom_sf(aes(geometry=geometry),\n          fill = rgb(red = 0.5, green = 0.7, blue = 0.5, alpha = 0.5),\n          col=\"grey45\",size=0.08)+\n  coord_sf()+\n  ggthemes::theme_fivethirtyeight()+\n  theme(panel.background = element_rect(color=rgb(red = 0.2, green = 0.1, blue = 0.3, alpha = 0.5),\n                                        fill=rgb(red = 0.2, green = 0.4, blue = 0.5, alpha = 0.5)),\n        plot.background = element_blank()\n  )\ndev.off()\n```\n:::\n\n\n\nRestyle it!\n\n::: {.cell}\n\n```{.r .cell-code}\nlibrary(cowplot)\nfinal1<- ggdraw()+\n  draw_image(\"/Users/federica/Documents/R/R_general_resources/30DayMapChallenge/day22_boundaries/boundaries_base.png\")+\n  draw_label(\"World Boundaries\",x=0.5,y=0.1,fontface=\"bold\",size=24,color = \"#2B2933\")+\n  draw_text(\"Data: {rgeoboundaries}-#30DayMapChallenge Day 22 Boundaries\\nInfographics: Federica Gazzelloni\",\n            x=0.5,y=0.04,size=10)\n\nragg::agg_png(here::here(\"/Users/federica/Documents/R/R_general_resources/30DayMapChallenge/day22_boundaries/boundaries.png\"),\n              res = 320, width = 6, height = 6, units = \"in\")\nfinal1\ndev.off()\n```\n:::\n\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

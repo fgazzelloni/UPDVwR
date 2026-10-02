@@ -1,0 +1,15 @@
+{
+  "hash": "9508833d2f480a2a11d6712c82a773e1",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: 'Globe'\nsubtitle: 'Welcome to #30DayMapChallenge 2022 day 19'\ndate: '2022-11-19'\nimage: 'https://raw.githubusercontent.com/Fgazzelloni/30DayMapChallenge/master/2022/day19_globe/day19_globe.png'\nimage-alt: ''\ndescription: ''\noutput: html_document\nexecute: \n   eval: false\n---\n\n# Overview\n\n`{rnaturalearth}` for making this `Globe Map`.\n\n\n::: {.cell}\n\n```{.r .cell-code}\nlibrary(tidyverse)\nlibrary(rnaturalearth)\n```\n:::\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n# world data full \nworld_full <- ne_countries(scale = \"medium\", returnclass = \"sf\")\n# world lat&long\nworld<-map_data(map = \"world\")\n```\n:::\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\nmy_world_data<- world %>%\n  full_join(world_full, by = c(\"region\"=\"name\")) %>%\n  select(long,lat,group,order,region,region_wb)\n```\n:::\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n# grob for globe water\ng <- grid::circleGrob(gp = grid::gpar(fill = \"#9ad6f0\",color=\"gray30\"))\n```\n:::\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\nworld<-ggplot() +\n  geom_polygon(data=my_world_data,\n               aes(x=long,y=lat,group=group),\n               fill=\"gray30\",color=\"black\",size=0.09) +\n  coord_map(\"ortho\", orientation = c(65.85, -130.21,0)) + \n  theme_void() \n\nworld\n```\n:::\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\nlibrary(cowplot)\nglobe <- ggdraw() +\n  draw_grob(g, scale = 1,x = 0,y = 0) +\n  draw_plot(world) +\n  draw_label(\"Globe\",x=0.1,y=0.93,\n             size=22,\n             color=\"#9ad6f0\")+\n  draw_label(\"#30DayMapChallenge 2022 Day 19: Globe\\nDataSource: {rnaturalearth} | Map: Federica Gazzelloni (@fgazzelloni)\",\n             x=0.99,y=0.02,size=6,\n             hjust=1,\n             color=\"#9ad6f0\")\n\nglobe\n```\n:::\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\nggsave(\"day19_globe.png\",\n       width=7.5,\n       height= 7.5,\n       dpi=320,\n       bg=\"grey10\")\n```\n:::\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

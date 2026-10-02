@@ -1,0 +1,15 @@
+{
+  "hash": "c38247f9f4d06fd88321c36175ba81a3",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: 'Islands'\nsubtitle: 'Welcome to #30DayMapChallenge 2022 day 26'\ndate: '2022-11-26'\nimage: 'https://raw.githubusercontent.com/Fgazzelloni/30DayMapChallenge/master/2022/day26_islands/day26_islands.png'\nimage-alt: ''\ndescription: ''\noutput: html_document\nexecute: \n   eval: false\n---\n\n# Overview\n\nA static `leaflet` map of `Islands`, data is from the `New Zealand Hydrographic Authority`.\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\nlibrary(leaflet)\n# library(leaflet.extras)\n# library(leaflet.providers)\n```\n:::\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\nfileid<- \"d069b4c5-ec5b-c750-45aa-0a13f57dc35a\"\n  #Geographic Bounding Box\nbbox<- c(174.064747966174,.345239694,-35.2867580621,-35.1399271488)\ntile <- \"http://tiles-{s}.data-cdn.linz.govt.nz/services;key=0661036048984cf88489c5930d0c2e98/tiles/v4/layer=NZ512501/EPSG:3857/{z}/{x}/{y}.png\"\n```\n:::\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\nislands <- leaflet(options = leafletOptions(zoomControl = FALSE)) %>% \n  setView(174.1642,-35.22549,zoom=12) %>%\n  addTiles() %>%\n  # addProviderTiles(providers$Esri.NatGeoWorldMap,\n  #                  options = providerTileOptions(opacity = 0.35))%>%\n  addWMSTiles(\n    \"https://tiles-cdn.koordinates.com/services;key=0661036048984cf88489c5930d0c2e98/tiles/v4/layer=51306/EPSG:3857/{z}/{x}/{y}.png\",\n    layers = \"51306\",\n    options = WMSTileOptions(format = \"image/png\", \n                             transparent = FALSE),\n    attribution = \"New Zealand Hydrographic Authority\") %>%\n #addMarkers(\n #  label = \"Default Label\",\n #  labelOptions = labelOptions(noHide = T)) %>%\n  addMeasure()%>%\n  addMiniMap()\n  \nislands\n```\n:::\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n## load packages\nlibrary(htmlwidgets)\nlibrary(webshot)\n\n\n## save html to png\nsaveWidget(islands, \"temp.html\", selfcontained = FALSE)\nwebshot(\"temp.html\", file = \"day26_islands.png\",\n        cliprect = \"viewport\")\n```\n:::\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\nlibrary(cowplot)\nggdraw()+\n  draw_image(\"day26_islands.png\")+\n  draw_label(\"Bay of Islands (NZ)\",\n             x=0.6,y=0.95) +\n  draw_label(\"#30DayMapChallenge 2022 Day 26: Isalnds\\nDataSource: New Zealand Hydrographic Authority | Graphics: @fgazzelloni\",\n             x=0.6,y=0.89,\n             size=6)\n```\n:::\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\nggsave(\"day26_islands2.png\")\n```\n:::\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

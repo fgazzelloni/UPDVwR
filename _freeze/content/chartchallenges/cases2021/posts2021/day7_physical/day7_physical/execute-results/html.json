@@ -1,0 +1,15 @@
+{
+  "hash": "75dd55fb30f0595d5bb5ea858703949e",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: 'Physical'\nsubtitle: 'Welcome to #30DayChartChallenge 2021 day 7'\ndate: '2021-04-07'\nimage: 'day7_physical.png'\nimage-alt: ''\ndescription: 'Networks'\noutput: html_document\nexecute: \n   eval: false\n---\n\n### Physics day6\n\n### title:  How soil structure and soil hydraulic behavior change through time?\n\n### ternary diagram for soil type classification - open project\n\n### sources: \n https://essd.copernicus.org/articles/12/3189/2020/\n https://yutannihilation.github.io/allYourFigureAreBelongToUs/3/\n https://cran.r-project.org/web/packages/soilphysics/soilphysics.pdf\n\n### data:\n https://dataservices.gfz-potsdam.de/panmetaworks/showshort.php?id=escidoc:5146891\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\nlibrary(tidyverse)\nlibrary(ggtern)\nlibrary(ggthemes)\nlibrary(gridExtra)\nlibrary(extrafont)\n\n# install.packages(\"soilphysics\")\nlibrary(soilphysics)\n\nls(\"package:soilphysics\")\n\ndata(\"SoilAggregate\")\ndata(\"bulkDensity\") # observations of soil bulk density and soil moisture\ndata(\"compaction\") # physical soil variables related to soil compaction.\ndata(\"skp1994\")\n\n# h = matrix\n# w = volumetric water content\n# pr = penetration resistance\n# bd = bulk density \n\n\ndata(skp1994)\n\n\n\nternchart <- ggtern(data=skp1994,aes(W,BD,PR)) + \n  geom_point(alpha=0.4,size=2,color=\"turquoise\") + \n  labs(x=\"volumetric water content (m3/m3)\",\n       y=\"soil bulk density (Mg/m3)\",\n       z=\"penetration resistance (MPa)\", #soil penetration resistance values (MPa).\n       title=\"How water content and penetration resistance behave\",\n       subtitle = \"Least Limiting Water Range ternchart data 1994 - Viz Federica Gazzelloni - Datasource: Soilphysics\\nto determine the soil critical moisture and the maximum bulk density\"\n       \n       ) + \n  theme_rgbw() +\n  theme_hidetitles() +\n  theme(plot.title = element_text(family=\"Comic Sans MS\",size=24),\n        plot.subtitle = element_text(family=\"Comic Sans MS\",size=10),\n        plot.margin = margin(10,0,0,0)\n        )\n\n\n#----- save the plot ----------------------------------\n##########################################\nragg::agg_png(here::here(\"day7\", \"Physics_day7.png\"),\n              res = 320, width = 14, height = 8, units = \"in\")\nternchart\n\ndev.off()\n```\n:::\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

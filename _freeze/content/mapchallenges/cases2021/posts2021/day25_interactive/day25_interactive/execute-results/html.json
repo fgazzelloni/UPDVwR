@@ -1,0 +1,15 @@
+{
+  "hash": "fb3a92b69c7bb162e3e96d387c6c85bf",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: 'Interactive Map'\nsubtitle: 'Welcome to #30DayMapChallenge 2021 day 25'\ndate: '2021-11-25'\nimage: 'https://raw.githubusercontent.com/Fgazzelloni/30DayMapChallenge/master/2021/day25_interactive/interactive.png'\nimage-alt: ''\ndescription: ''\noutput: html_document\nexecute: \n   eval: false\n---\n\n\n# Overview\n\n`Leaflet` Map of `My birthplace: Rome`.\n\n\nLoad packages\n\n\n::: {.cell}\n\n```{.r .cell-code}\nlibrary(dplyr)\nlibrary(ggplot2)\nlibrary(rjson)\nlibrary(jsonlite)\nlibrary(leaflet)\nlibrary(RCurl)\n\ninteractive <- \n  leaflet() %>%\n  #addTiles() %>%  # use the default base map which is OpenStreetMap tiles\n  addProviderTiles(\"Stamen.Terrain\") %>%\n  addMarkers(lng=12.493569397016822, lat=41.894753434569274,\n             popup=\"My Birthplace\")\n\n\n\nhtmlwidgets::saveWidget(widget=interactive,\n           file=\"interactive.html\",\n           selfcontained=TRUE)\n```\n:::\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

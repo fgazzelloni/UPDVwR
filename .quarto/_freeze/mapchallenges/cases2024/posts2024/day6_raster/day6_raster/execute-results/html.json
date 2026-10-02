@@ -1,0 +1,15 @@
+{
+  "hash": "4b6334ceb43649756528b147458e16c0",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: 'Raster Map'\nsubtitle: 'Welcome to #30DayMapChallenge 2024 Day 6'\ndate: '2024-11-06'\nimage: 'https://raw.githubusercontent.com/Fgazzelloni/30DayMapChallenge/master/2024/day6_raster/day6_raster.png'\nimage-alt: 'day6_raster'\ndescription: 'Raster Map'\noutput: html_document\nexecute: \n   eval: false\n---\n\n\n\n\n![Raster Map](https://raw.githubusercontent.com/Fgazzelloni/30DayMapChallenge/master/2024/day6_raster/day6_raster.png)\nLoad the required libraries and data\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\nlibrary(tidyverse)\n```\n:::\n\n\n\n\n\nRead the data\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\nctr_africa <- readRDS(\"~/Documents/R/R_general_resources/EDA_and_maps/30DayMapChallenge/2024/day6_raster/data/ctr_africa.rds\")\nkriging_df<- readRDS(\"~/Documents/R/R_general_resources/EDA_and_maps/30DayMapChallenge/2024/day6_raster/data/kriging_df.rds\")\n```\n:::\n\n\n\n\n\n\nPlot the raster map\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\nggplot() +\n  geom_raster(data =  kriging_df,\n              aes(x = longitude, y = latitude,\n                  fill = var1.pred)) +\n  # rename the legend\n  scale_fill_viridis_c(name = \"Prediction\") +\n  coord_sf(clip = \"off\") +\n  labs(title = \"Central African Rep. Raster Map:\",\n         subtitle = \"Mapping Potential Infection Rates Using Max Temperature\",\n         caption = \"Data Source: Simulated Data\\n#30DayMapChallenge 2024 Day6 | @fgazzelloni\") +\n  ggthemes::theme_map() +\n  theme(text = element_text(family = \"sans\", color = \"grey20\"),\n        legend.position = \"right\",\n        plot.title = element_text(face = \"bold\", \n                                  hjust = 0.5,\n                                  size = 30),\n        plot.subtitle = element_text(size = 18,hjust = 0.5),\n        plot.caption = element_text(size = 12, \n                                    face = \"bold\",\n                                    hjust = 0.5)) +\n  # add a north arrow and a scale bar\n  ggspatial::annotation_north_arrow(location = \"br\") +\n  ggspatial::annotation_scale(location = \"bl\", width_hint = 0.5)\n```\n:::\n\n\n\n\nSave the plot as png\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\nggsave(\"day6_raster/day6_raster.png\", \n       bg = \"white\",\n       width = 12, height = 12, \n       units = \"in\", dpi = 600)\n```\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "hash": "39b5aa1f82dfc0847dc4fab33ff45a44",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: 'My Data Map'\nsubtitle: 'Welcome to #30DayMapChallenge 2024 Day 15'\ndate: '2024-11-15'\nimage: 'https://raw.githubusercontent.com/Fgazzelloni/30DayMapChallenge/master/2024/day15_my_data/day15_my_data.png'\nimage-alt: 'day15_my_data'\ndescription: 'My Data Map'\noutput: html_document\nexecute: \n   eval: false\n---\n\n![My Data Map](https://raw.githubusercontent.com/Fgazzelloni/30DayMapChallenge/master/2024/day15_my_data/day15_my_data.png)\n\n\n::: {.cell}\n\n```{.r .cell-code}\nlibrary(malariaAtlas)\nlibrary(tidyverse)\nlibrary(sf)\nlibrary(rnaturalearth)\n```\n:::\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n#tanzania_data <- getPR(country = \"Tanzania\", species = \"Pf\")\n#saveRDS(tanzania_data, \"data/inst/extdata/tanzania_data.rds\")  \n```\n:::\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\ntanzania_data <- readRDS(\"data/inst/extdata/tanzania_data.rds\")\ntanzania_data_sf <- tanzania_data %>%\n  arrange(year_start) %>%\n  select(year_start,longitude,latitude,positive) %>%\n  filter(!is.na(longitude) & !is.na(year_start)) %>%\n  st_as_sf(coords = c(\"longitude\", \"latitude\"), \n                       crs = 4326)\n\ntanzania_sf <- ne_countries(country = \"United Republic of Tanzania\", \n                                        returnclass = \"sf\")\nggplot() +\n  geom_sf(data = tanzania_sf, \n          fill = \"gray90\", \n          color = \"white\")+\ngeom_sf(data = tanzania_data_sf, \n        aes(size=positive, color = positive),\n        alpha=0.5)+\n  scale_color_viridis_c(option = \"plasma\", name = \"Malaria Cases\") +\n  guides(size = \"none\") +\n  labs(title = \"Malaria Hotspots in Tanzania\",\n       subtitle = \"1985-1994\",\n       caption = \"Source: Malaria Atlas Project | #30DayMapChallenge Day15 | @fgazzelloni\") +\n  theme(legend.position = \"right\")+\ntheme(plot.caption = element_text(hjust = 0))\n```\n:::\n\nsave as png\n\n::: {.cell}\n\n```{.r .cell-code}\nggsave(\"day15_my_data/day15_my_data.png\", \nbg = \"#bfd0dd\",\nwidth = 8, height = 6, units = \"in\")\n```\n:::\n\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

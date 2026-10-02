@@ -1,0 +1,15 @@
+{
+  "hash": "8e6ba45d6fc634380edb94cdea7edcaf",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"SAFIS\"\nauthor: \"Federica Gazzelloni\"\n---\n\n> To cite Federica's work, please use: Gazzelloni F., 2023 Data Visualization SAFIS\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\nlibrary(tidyverse)\n```\n\n::: {.cell-output .cell-output-stderr}\n\n```\nWarning: package 'ggplot2' was built under R version 4.4.1\n```\n\n\n:::\n\n::: {.cell-output .cell-output-stderr}\n\n```\nWarning: package 'tibble' was built under R version 4.4.1\n```\n\n\n:::\n\n::: {.cell-output .cell-output-stderr}\n\n```\nWarning: package 'purrr' was built under R version 4.4.1\n```\n\n\n:::\n\n::: {.cell-output .cell-output-stderr}\n\n```\nWarning: package 'stringr' was built under R version 4.4.1\n```\n\n\n:::\n\n::: {.cell-output .cell-output-stderr}\n\n```\nWarning: package 'forcats' was built under R version 4.4.1\n```\n\n\n:::\n\n::: {.cell-output .cell-output-stderr}\n\n```\nWarning: package 'lubridate' was built under R version 4.4.1\n```\n\n\n:::\n\n::: {.cell-output .cell-output-stderr}\n\n```\n── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──\n✔ dplyr     1.1.4          ✔ readr     2.1.5     \n✔ forcats   1.0.1          ✔ stringr   1.5.2     \n✔ ggplot2   4.0.0          ✔ tibble    3.3.0     \n✔ lubridate 1.9.4          ✔ tidyr     1.3.1.9000\n✔ purrr     1.1.0          \n── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──\n✖ dplyr::filter() masks stats::filter()\n✖ dplyr::lag()    masks stats::lag()\nℹ Use the conflicted package (<http://conflicted.r-lib.org/>) to force all conflicts to become errors\n```\n\n\n:::\n\n```{.r .cell-code}\ntuesdata <- tidytuesdayR::tt_load(2023, week = 22)\n```\n\n::: {.cell-output .cell-output-stderr}\n\n```\n---- Compiling #TidyTuesday Information for 2023-05-30 ----\n--- There is 1 file available ---\n\n\n── Downloading files ───────────────────────────────────────────────────────────\n\n  1 of 1: \"centenarians.csv\"\n```\n\n\n:::\n:::\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "hash": "ea3a1238525b8b4216de30440d2c6426",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: 'Good bad'\nsubtitle: 'Welcome to #30DayChartChallenge 2023 day 27'\ndate: '2023-04-27'\nimage: 'day27_good_bad.png'\nimage-alt: ''\ndescription: 'Networks'\noutput: html_document\nexecute: \n   eval: false\n---\n\n\n> Gazzelloni F. (2023), Data Visualization: Wordcloud Good/Bad\n\n\n::: {.cell}\n\n```{.r .cell-code}\n# Load the required packages\nlibrary(wordcloud)\nlibrary(tm)\nlibrary(tidyverse)\nlibrary(tidytext)\n\n# sample text dataset\nload(\"text.RData\")\n\n# Create a corpus from the text dataset\ncorpus <- Corpus(VectorSource(text))\n\n# Clean the corpus by removing stopwords and punctuation\ncorpus <- tm_map(corpus, removePunctuation)\ncorpus <- tm_map(corpus, removeWords, stopwords(\"english\"))\n\n\n\n# Create a term-document matrix from the corpus\ntdm <- TermDocumentMatrix(corpus)\n\n# Convert the term-document matrix to a matrix\nm <- as.matrix(tdm)\n\n# Get the frequency of each term in the matrix\nv <- sort(rowSums(m), decreasing = TRUE)\n\n# Create a data frame with the terms and their frequency\nset.seed(1111)\ndf <- data.frame(word = names(v), freq = v) %>%\n  inner_join(get_sentiments(\"bing\"), by = \"word\") %>% #count(sentiment)\n  filter(sentiment %in% c(\"positive\",\n                          \"negative\")) %>%\n  mutate(\n    color = ifelse(sentiment == \"positive\",\n                   \"#250c5f\", \"#cf5f26\")) %>%\n  sample_n(300)\n  \n                 \n#summary(colors$freq)\npng(\"wordcloud.png\", res = 180)\nwordcloud(df$word, \n          freq = df$freq, \n          ordered.colors = TRUE,\n          random.color = FALSE,\n          min.freq = 1,\n          scale = c(5, 0.5), \n          colors = df$color)\ndev.off()\n```\n:::\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

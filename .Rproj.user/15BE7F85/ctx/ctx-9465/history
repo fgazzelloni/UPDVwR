@@ -1,0 +1,512 @@
+im <- purrr::map(imgs,load.image)
+thmb <- resize(im,round(width(im)/10),round(height(im)/10))
+th<- purrr:map(im,resize)
+th<- purrr::map(im,resize)
+imgs <- imgs$url
+x <- purrr::map(.x = imgs,.f = readImage)
+y <- purrr::map(.x = x, \(x) resize(x,w = 200, h = 100))
+## list file names and read in
+imgs <- data.frame(plate=c("plate1","plate1_2","plate14","plate25","plate6","plate12","plate19"),
+url=c("https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2021/w25_du_bois/w25_du_bois.png",
+"https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2022/w6_airforce/w6_airforce.png",
+"https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2022/w7_dubois/w7_number6.png",
+"https://raw.githubusercontent.com/Fgazzelloni/30DayChartChallenge/main/data/Edition_2022/day3_historical/day3_historical.png",
+"https://raw.githubusercontent.com/Fgazzelloni/DuboisChallenge2024_FG/main/2024/challenge01/challenge01.png",
+"https://raw.githubusercontent.com/Fgazzelloni/DuboisChallenge2024_FG/main/2024/challenge02/challenge02.png",
+"https://raw.githubusercontent.com/Fgazzelloni/DuboisChallenge2024_FG/main/2024/challenge03/challenge03.png"))
+imgs <- imgs$url
+imgs
+# Resize images
+# source: https://stackoverflow.com/questions/35786744/resizing-image-in-r
+library("EBImage")
+x <- purrr::map(.x = imgs,.f = readImage)
+x
+y <- purrr::map(.x = x, \(x) resize(x,w = 200, h = 100))
+# scale by 50%; the height is determined automatically so that
+# the aspect ratio is preserved
+y1 <- purrr::map(.x = y, \(y) resize(y, dim(y)[1]/2))
+display(y1[[3]])
+# show the scaled image
+display(y[[2]])
+# scale by 50%; the height is determined automatically so that
+# the aspect ratio is preserved
+y1 <- purrr::map(.x = y, \(y) resize(y, dim(x)[1]/2))
+## list file names and read in
+imgs <- data.frame(plate=c("plate1","plate1_2","plate14","plate25","plate6","plate12","plate19"),
+url=c("https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2021/w25_du_bois/w25_du_bois.png",
+"https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2022/w6_airforce/w6_airforce.png",
+"https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2022/w7_dubois/w7_number6.png",
+"https://raw.githubusercontent.com/Fgazzelloni/30DayChartChallenge/main/data/Edition_2022/day3_historical/day3_historical.png",
+"https://raw.githubusercontent.com/Fgazzelloni/DuboisChallenge2024_FG/main/2024/challenge01/challenge01.png",
+"https://raw.githubusercontent.com/Fgazzelloni/DuboisChallenge2024_FG/main/2024/challenge02/challenge02.png",
+"https://raw.githubusercontent.com/Fgazzelloni/DuboisChallenge2024_FG/main/2024/challenge03/challenge03.png"))
+imgs <- imgs$url
+# Resize images
+# source: https://stackoverflow.com/questions/35786744/resizing-image-in-r
+library("EBImage")
+x <- purrr::map(.x = imgs,.f = readImage)
+y <- purrr::map(.x = x, \(x) resize(x,w = 400, h = 400))
+# show the scaled image
+display(y[[2]])
+?resize
+x <- purrr::map(.x = imgs,.f = readImage)
+y <- purrr::map(.x = x, \(x) resize(x,w = 400))
+# show the scaled image
+display(y[[2]])
+# show the scaled image
+display(y[[1]])
+# Replace "image_paths" with a vector of paths to your images
+## list file names and read in
+imgs <- data.frame(plate=c("plate1","plate1_2","plate14","plate25","plate6","plate12","plate19"),
+url=c("https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2021/w25_du_bois/w25_du_bois.png",
+"https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2022/w6_airforce/w6_airforce.png",
+"https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2022/w7_dubois/w7_number6.png",
+"https://raw.githubusercontent.com/Fgazzelloni/30DayChartChallenge/main/data/Edition_2022/day3_historical/day3_historical.png",
+"https://raw.githubusercontent.com/Fgazzelloni/DuboisChallenge2024_FG/main/2024/challenge01/challenge01.png",
+"https://raw.githubusercontent.com/Fgazzelloni/DuboisChallenge2024_FG/main/2024/challenge02/challenge02.png",
+"https://raw.githubusercontent.com/Fgazzelloni/DuboisChallenge2024_FG/main/2024/challenge03/challenge03.png"))
+imgs <- imgs$url
+# Define the target width and height for resizing
+target_width <- 800
+target_height <- 600
+#################################
+library(magick)
+# Replace "image_paths" with a vector of paths to your images
+## list file names and read in
+imgs <- data.frame(plate=c("plate1","plate1_2","plate14","plate25","plate6","plate12","plate19"),
+url=c("https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2021/w25_du_bois/w25_du_bois.png",
+"https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2022/w6_airforce/w6_airforce.png",
+"https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2022/w7_dubois/w7_number6.png",
+"https://raw.githubusercontent.com/Fgazzelloni/30DayChartChallenge/main/data/Edition_2022/day3_historical/day3_historical.png",
+"https://raw.githubusercontent.com/Fgazzelloni/DuboisChallenge2024_FG/main/2024/challenge01/challenge01.png",
+"https://raw.githubusercontent.com/Fgazzelloni/DuboisChallenge2024_FG/main/2024/challenge02/challenge02.png",
+"https://raw.githubusercontent.com/Fgazzelloni/DuboisChallenge2024_FG/main/2024/challenge03/challenge03.png"))
+imgs <- imgs$url
+# Define the target width and height for resizing
+target_width <- 800
+target_height <- 600
+# Resize each image to the target size
+resized_images <- lapply(image_paths, function(path) {
+image_read(path) %>%
+image_scale(paste(target_width, "x", target_height, sep = ""))
+})
+#################################
+library(magick)
+# Replace "image_paths" with a vector of paths to your images
+## list file names and read in
+imgs <- data.frame(plate=c("plate1","plate1_2","plate14","plate25","plate6","plate12","plate19"),
+url=c("https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2021/w25_du_bois/w25_du_bois.png",
+"https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2022/w6_airforce/w6_airforce.png",
+"https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2022/w7_dubois/w7_number6.png",
+"https://raw.githubusercontent.com/Fgazzelloni/30DayChartChallenge/main/data/Edition_2022/day3_historical/day3_historical.png",
+"https://raw.githubusercontent.com/Fgazzelloni/DuboisChallenge2024_FG/main/2024/challenge01/challenge01.png",
+"https://raw.githubusercontent.com/Fgazzelloni/DuboisChallenge2024_FG/main/2024/challenge02/challenge02.png",
+"https://raw.githubusercontent.com/Fgazzelloni/DuboisChallenge2024_FG/main/2024/challenge03/challenge03.png"))
+image_paths <- imgs$url
+# Define the target width and height for resizing
+target_width <- 800
+target_height <- 600
+# Resize each image to the target size
+resized_images <- lapply(image_paths, function(path) {
+image_read(path) %>%
+image_scale(paste(target_width, "x", target_height, sep = ""))
+})
+# Replace "output_path.gif" with the desired path and filename for the output GIF
+output_path <- "output.gif"
+# Create the GIF from the resized images
+image_write(resized_images, path = output_path)
+resized_images
+img_list
+img_joined <- image_join(resized_images)
+img_animated <- image_animate(img_joined, fps = 2)
+## save to disk
+image_write(image = img_animated,
+path = "plates.gif")
+quarto::quarto_preview()
+quarto::quarto_render()
+# Replace "image_paths" with a vector of paths to your images
+## list file names and read in
+imgs <- data.frame(plate=c("plate1","plate1_2","plate14","plate25","plate6","plate12","plate19"),
+url=c("https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2021/w25_du_bois/w25_du_bois.png",
+"https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2022/w6_airforce/w6_airforce.png",
+"https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2022/w7_dubois/w7_number6.png",
+"https://raw.githubusercontent.com/Fgazzelloni/30DayChartChallenge/main/data/Edition_2022/day3_historical/day3_historical.png",
+"https://raw.githubusercontent.com/Fgazzelloni/DuboisChallenge2024_FG/main/2024/challenge01/challenge01.png",
+"https://raw.githubusercontent.com/Fgazzelloni/DuboisChallenge2024_FG/main/2024/challenge02/challenge02.png",
+"https://raw.githubusercontent.com/Fgazzelloni/DuboisChallenge2024_FG/main/2024/challenge03/challenge03.png"))
+imgs
+# install.packages("tidyverse")
+# remotes::install_github("coolbutuseless/ggpattern")
+suppressPackageStartupMessages({
+library(tidyverse)
+library(ggpattern)
+})
+dat <- read.csv("https://raw.githubusercontent.com/ajstarks/dubois-data-portraits/master/challenge/2024/challenge05/data.csv")
+dat
+colors_ch5 <- c("#1C1C1Bff","#2A1A12ff","#FDBA00ff")
+bistre= "#2A1A12ff"
+almond= "#E6D7C6ff"
+eerie_black= "#1C1C1Bff"
+selective_yellow= "#FDBA00ff"
+beaver= "#A49689ff"
+red="#dc143c"
+library(showtext)
+library(sysfonts)
+sysfonts::font_add_google(name="Public Sans",
+family = "Public Sans",
+regular.wt = 100)
+sysfonts::font_add_google(name="Public Sans",
+family = "Public Sans-med",
+regular.wt = 200)
+showtext_auto()
+showtext::showtext_opts(dpi=320)
+dat%>%
+ggplot(aes(x=Category,y=Percentage,fill=Category))+
+geom_col()+
+scale_fill_manual(values=colors_ch5)+
+theme_minimal()
+dat%>%
+ggplot(aes(x=1,y=Percentage,
+group=Category,
+fill=Category))+
+geom_col()+
+scale_fill_manual(values=colors_ch5)+
+theme_minimal()
+plot1 <- dat%>%
+ggplot(aes(x=1,y=Percentage,
+group=Category))+
+geom_col_pattern(
+aes(pattern_fill = Category,fill=Category),
+width=0.8,
+show.legend = F,
+pattern       = 'plasma',
+colour        = 'black',
+linewidth=0.1,
+) +
+scale_pattern_fill_manual(values=colors_ch5)+
+geom_text(y=c(dat$Percentage[3]+dat$Percentage[2]+dat$Percentage[1]/2,
+dat$Percentage[3]+dat$Percentage[2]/2,
+dat$Percentage[3]/2),
+aes(label=paste0(Percentage,"%")),
+color=c("#E6D7C6ff","#dc143c","#1C1C1Bff"),
+position = "identity",
+family="Public Sans-med")+
+coord_cartesian(xlim = c(0.5,1.5))+
+theme_minimal(base_family = "Public Sans")
+plot1
+plot1 + patchwork::plot_layout(ncol = 2)
+plot2 <- dat %>%
+ggplot(aes(x=1,y= Percentage-5))+
+geom_text(aes(label=Category))+
+xlim(0.8,1.2)+
+ylim(0,max(dat$Percentage))+
+theme_minimal()
+plot2
+(plot2 + plot1) +
+plot_annotation(
+title="RACE AMALGAMATION IN GEORGIA .",
+subtitle = "BASED ON A STUDY OF 40,000 INDIVIDUALS OF NEGRO DESCENT.")+
+patchwork::plot_layout(ncol = 2,widths = c(1/3,1)) &
+theme_void() &
+theme(plot.title = element_text(hjust=0.5,
+family="Public Sans-med"),
+plot.subtitle = element_text(hjust=0.5,
+family="Public Sans"))
+library(patchwork)
+(plot2 + plot1) +
+plot_annotation(
+title="RACE AMALGAMATION IN GEORGIA .",
+subtitle = "BASED ON A STUDY OF 40,000 INDIVIDUALS OF NEGRO DESCENT.")+
+patchwork::plot_layout(ncol = 2,widths = c(1/3,1)) &
+theme_void() &
+theme(plot.title = element_text(hjust=0.5,
+family="Public Sans-med"),
+plot.subtitle = element_text(hjust=0.5,
+family="Public Sans"))
+grid::grid.locator()
+?grid::grid.locator()
+# install.packages("tidyverse")
+# remotes::install_github("coolbutuseless/ggpattern")
+suppressPackageStartupMessages({
+library(tidyverse)
+library(ggpattern)
+})
+dat <- read.csv("https://raw.githubusercontent.com/ajstarks/dubois-data-portraits/master/challenge/2024/challenge05/data.csv")
+dat
+dev.new(width=5,height=6.25,unit="in", noRStudioGD = TRUE)
+colors_ch5 <- c("#1C1C1Bff","#2A1A12ff","#FDBA00ff")
+library(showtext)
+library(sysfonts)
+sysfonts::font_add_google(name="Public Sans",
+family = "Public Sans",
+regular.wt = 100)
+sysfonts::font_add_google(name="Public Sans",
+family = "Public Sans-med",
+regular.wt = 200)
+showtext_auto()
+showtext::showtext_opts(dpi=320)
+dat%>%
+ggplot(aes(x=Category,y=Percentage,fill=Category))+
+geom_col()+
+scale_fill_manual(values=colors_ch5)+
+theme_minimal()
+dat%>%
+ggplot(aes(x=1,y=Percentage,
+group=Category,
+fill=Category))+
+geom_col()+
+scale_fill_manual(values=colors_ch5)+
+theme_minimal()
+plot1 <- dat%>%
+ggplot(aes(x=1,y=Percentage,
+group=Category))+
+geom_col_pattern(
+aes(pattern_fill = Category,fill=Category),
+width=0.8,
+show.legend = F,
+pattern       = 'plasma',
+colour        = 'black',
+linewidth=0.1,
+) +
+scale_pattern_fill_manual(values=colors_ch5)+
+geom_text(y=c(dat$Percentage[3]+dat$Percentage[2]+dat$Percentage[1]/2,
+dat$Percentage[3]+dat$Percentage[2]/2,
+dat$Percentage[3]/2),
+aes(label=paste0(Percentage,"%")),
+color=c("#E6D7C6ff","#dc143c","#1C1C1Bff"),
+position = "identity",
+family="Public Sans-med")+
+coord_cartesian(xlim = c(0.5,1.5))+
+theme_minimal(base_family = "Public Sans")
+plot1
+plot1 + patchwork::plot_layout(ncol = 2)
+plot2 <- dat %>%
+ggplot(aes(x=1,y= Percentage-5))+
+geom_text(aes(label=Category))+
+xlim(0.8,1.2)+
+ylim(0,max(dat$Percentage))+
+theme_minimal()
+plot2
+library(patchwork)
+(plot2 + plot1) +
+plot_annotation(
+title="RACE AMALGAMATION IN GEORGIA .",
+subtitle = "BASED ON A STUDY OF 40,000 INDIVIDUALS OF NEGRO DESCENT.")+
+patchwork::plot_layout(ncol = 2,widths = c(1/3,1)) &
+theme_void() &
+theme(plot.title = element_text(hjust=0.5,
+family="Public Sans-med"),
+plot.subtitle = element_text(hjust=0.5,
+family="Public Sans"))
+ggsave(filename = "challenge05.png",
+height=6.25, width=5, unit="in")
+plot1 <- dat%>%
+ggplot(aes(x=1,y=Percentage,
+group=Category))+
+geom_col_pattern(
+aes(pattern_fill = Category,fill=Category),
+width=0.8,
+show.legend = F,
+pattern       = 'plasma',
+colour        = 'black',
+linewidth=0.1,
+) +
+scale_pattern_fill_manual(values=colors_ch5)+
+geom_text(y=c(dat$Percentage[3]+dat$Percentage[2]+dat$Percentage[1]/2,
+dat$Percentage[3]+dat$Percentage[2]/2,
+dat$Percentage[3]/2),
+aes(label=paste0(Percentage,"%")),
+color=c("#E6D7C6ff","#dc143c","#1C1C1Bff"),
+position = "identity",
+family="Public Sans-med")+
+coord_cartesian(xlim = c(0.8,1.2))+
+theme_minimal(base_family = "Public Sans")
+plot1
+plot1 + patchwork::plot_layout(ncol = 2)
+plot2 <- dat %>%
+ggplot(aes(x=1,y= Percentage-5))+
+geom_text(aes(label=Category))+
+xlim(0.8,1.2)+
+ylim(0,max(dat$Percentage))+
+theme_minimal()
+plot2
+library(patchwork)
+(plot2 + plot1) +
+plot_annotation(
+title="RACE AMALGAMATION IN GEORGIA .",
+subtitle = "BASED ON A STUDY OF 40,000 INDIVIDUALS OF NEGRO DESCENT.")+
+patchwork::plot_layout(ncol = 2,widths = c(1/3,1)) &
+theme_void() &
+theme(plot.title = element_text(hjust=0.5,
+family="Public Sans-med"),
+plot.subtitle = element_text(hjust=0.5,
+family="Public Sans"))
+ggsave(filename = "challenge05.png",
+height=6.25, width=5, unit="in")
+# install.packages("tidyverse")
+# remotes::install_github("coolbutuseless/ggpattern")
+suppressPackageStartupMessages({
+library(tidyverse)
+library(ggpattern)
+})
+dat <- read.csv("https://raw.githubusercontent.com/ajstarks/dubois-data-portraits/master/challenge/2024/challenge05/data.csv")
+dat
+dev.new(width=5,height=6.25,unit="in", noRStudioGD = TRUE)
+colors_ch5 <- c("#1C1C1Bff","#2A1A12ff","#FDBA00ff")
+bistre= "#2A1A12ff"
+almond= "#E6D7C6ff"
+eerie_black= "#1C1C1Bff"
+selective_yellow= "#FDBA00ff"
+beaver= "#A49689ff"
+red="#dc143c"
+library(showtext)
+library(sysfonts)
+sysfonts::font_add_google(name="Public Sans",
+family = "Public Sans",
+regular.wt = 100)
+sysfonts::font_add_google(name="Public Sans",
+family = "Public Sans-med",
+regular.wt = 200)
+showtext_auto()
+showtext::showtext_opts(dpi=320)
+dat%>%
+ggplot(aes(x=Category,y=Percentage,fill=Category))+
+geom_col()+
+scale_fill_manual(values=colors_ch5)+
+theme_minimal()
+dat%>%
+ggplot(aes(x=1,y=Percentage,
+group=Category,
+fill=Category))+
+geom_col()+
+scale_fill_manual(values=colors_ch5)+
+theme_minimal()
+plot1 <- dat%>%
+ggplot(aes(x=1,y=Percentage,
+group=Category))+
+geom_col_pattern(
+aes(pattern_fill = Category,fill=Category),
+width=0.8,
+show.legend = F,
+pattern       = 'plasma',
+colour        = 'black',
+linewidth=0.1,
+) +
+scale_pattern_fill_manual(values=colors_ch5)+
+geom_text(y=c(dat$Percentage[3]+dat$Percentage[2]+dat$Percentage[1]/2,
+dat$Percentage[3]+dat$Percentage[2]/2,
+dat$Percentage[3]/2),
+aes(label=paste0(Percentage,"%")),
+color=c("#E6D7C6ff","#dc143c","#1C1C1Bff"),
+position = "identity",
+family="Public Sans-med")+
+coord_cartesian(xlim = c(0.5,1.5))+
+theme_minimal(base_family = "Public Sans")
+plot1
+plot1 + patchwork::plot_layout(ncol = 2)
+plot2 <- dat %>%
+ggplot(aes(x=1,y= Percentage-5))+
+geom_text(aes(label=Category))+
+xlim(0.8,1.2)+
+ylim(0,max(dat$Percentage))+
+theme_minimal()
+plot2
+library(patchwork)
+(plot2 + plot1) +
+plot_annotation(
+title="RACE AMALGAMATION IN GEORGIA .",
+subtitle = "BASED ON A STUDY OF 40,000 INDIVIDUALS OF NEGRO DESCENT.")+
+patchwork::plot_layout(ncol = 2,widths = c(1/3,1)) &
+theme_void() &
+theme(plot.title = element_text(hjust=0.5,
+family="Public Sans-med"),
+plot.subtitle = element_text(hjust=0.5,
+family="Public Sans"))
+library(patchwork)
+(plot2 + plot1) +
+plot_annotation(
+title="RACE AMALGAMATION IN GEORGIA .",
+subtitle = "BASED ON A STUDY OF 40,000 INDIVIDUALS OF NEGRO DESCENT.")+
+patchwork::plot_layout(ncol = 2,widths = c(1/3,1)) &
+#theme_void() &
+theme(plot.title = element_text(hjust=0.5,
+family="Public Sans-med"),
+plot.subtitle = element_text(hjust=0.5,
+family="Public Sans"))
+dat
+plot2 <- dat %>%
+ggplot(aes(x=1,y=c(12,35,40)))+
+geom_text(aes(label=Category))+
+xlim(0.8,1.2)+
+ylim(0,max(dat$Percentage))+
+theme_minimal()
+plot2
+library(patchwork)
+(plot2 + plot1) +
+plot_annotation(
+title="RACE AMALGAMATION IN GEORGIA .",
+subtitle = "BASED ON A STUDY OF 40,000 INDIVIDUALS OF NEGRO DESCENT.")+
+patchwork::plot_layout(ncol = 2,widths = c(1/3,1)) &
+#theme_void() &
+theme(plot.title = element_text(hjust=0.5,
+family="Public Sans-med"),
+plot.subtitle = element_text(hjust=0.5,
+family="Public Sans"))
+plot2 <- dat %>%
+ggplot(aes(x=1,y=c(12,16+35,16+35+40)))+
+geom_text(aes(label=Category))+
+xlim(0.8,1.2)+
+ylim(0,max(dat$Percentage))+
+theme_minimal()
+plot2
+plot2 <- dat %>%
+ggplot(aes(x=1,y=c(12,16+35,16+35+40)))+
+geom_text(aes(label=Category))+
+xlim(0.8,1.2)+
+#ylim(0,max(dat$Percentage))+
+theme_minimal()
+plot2
+plot2 <- dat %>%
+ggplot(aes(x=1,y=rev(c(12,16+35,16+35+40))))+
+geom_text(aes(label=Category))+
+xlim(0.8,1.2)+
+#ylim(0,max(dat$Percentage))+
+theme_minimal()
+plot2
+library(patchwork)
+(plot2 + plot1) +
+plot_annotation(
+title="RACE AMALGAMATION IN GEORGIA .",
+subtitle = "BASED ON A STUDY OF 40,000 INDIVIDUALS OF NEGRO DESCENT.")+
+patchwork::plot_layout(ncol = 2,widths = c(1/3,1)) &
+#theme_void() &
+theme(plot.title = element_text(hjust=0.5,
+family="Public Sans-med"),
+plot.subtitle = element_text(hjust=0.5,
+family="Public Sans"))
+library(patchwork)
+(plot2 + plot1) +
+plot_annotation(
+title="RACE AMALGAMATION IN GEORGIA .",
+subtitle = "BASED ON A STUDY OF 40,000 INDIVIDUALS OF NEGRO DESCENT.")+
+patchwork::plot_layout(ncol = 2,widths = c(1/3,1)) &
+theme_void() &
+theme(plot.title = element_text(hjust=0.5,
+family="Public Sans-med"),
+plot.subtitle = element_text(hjust=0.5,
+family="Public Sans"))
+ggsave(filename = "challenge05.png",
+height=6.25, width=5, unit="in")
+library(patchwork)
+(plot2 + plot1) +
+plot_annotation(
+title="RACE AMALGAMATION IN GEORGIA .",
+subtitle = "BASED ON A STUDY OF 40,000 INDIVIDUALS OF NEGRO DESCENT.")+
+patchwork::plot_layout(ncol = 2,widths = c(1/3,0.9)) &
+theme_void() &
+theme(plot.title = element_text(hjust=0.5,
+family="Public Sans-med"),
+plot.subtitle = element_text(hjust=0.5,
+family="Public Sans"))
+ggsave(filename = "challenge05.png",
+height=6.25, width=5, unit="in")

@@ -1,0 +1,15 @@
+{
+  "hash": "5d63927fbba2d70fe86bad15770e78ea",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: 'Polygons Map'\nsubtitle: 'Welcome to #30DayMapChallenge 2024 Day 3'\ndate: '2024-11-03'\nimage: 'https://raw.githubusercontent.com/Fgazzelloni/30DayMapChallenge/master/2024/day3_polygons/day3_polygons.png'\nimage-alt: 'day3_polygons'\ndescription: 'Polygons Map'\noutput: html_document\nexecute: \n   eval: false\n---\n\n![Polygons Map](https://raw.githubusercontent.com/Fgazzelloni/30DayMapChallenge/master/2024/day3_polygons/day3_polygons.png)\n\n\n::: {.cell}\n\n```{.r .cell-code}\nlibrary(ggplot2)\nlibrary(rnaturalearth)\nlibrary(tidyterra)\nlibrary(ggthemes)\nlibrary(ggspatial)\n\n# Load polygon data (e.g., Europe shapefile)\neurope <- ne_countries(continent = \"Europe\", returnclass = \"sf\")\n\ninfection_data <- data.frame(\n  name = c(\"France\", \"Germany\", \"Italy\", \"Spain\", \"Poland\"),\n  infections = c(100000, 150000, 120000, 90000, 80000),\n  infections_per_100k = c(100, 150, 120, 90, 80)\n)\n\n# Merge polygon data with infection data\neurope_infections <- europe %>%\n  left_join(infection_data, by = \"name\")\n\n# Plot the map\nggplot(data = europe_infections) +\n  geom_sf(aes(fill = infections_per_100k)) +\n    scale_fill_whitebox_c(\n    palette = \"muted\",\n    n.breaks = 5,\n    guide = guide_legend(reverse = TRUE)\n  ) +\n  # Set coordinate reference system\n  coord_sf(xlim = c(-10, 30), ylim = c(35, 60), expand = FALSE) +  \n  labs(title = \"Epidemic X - Infections in Europe\", \n       subtitle = \"(values per 100K inhabitants)\",\n       caption = \"Data source: Sample Data & Natural Earth\\n#30DayMapChallenge 2024 Day3 | @fgazzelloni\",\n       fill = \"Infections\")+\n  ggthemes::theme_map() +\n  theme(legend.position = \"right\",\n        plot.title = element_text(hjust = 0.5, \n                                  face = \"bold\",\n                                  size = 20),\n        plot.subtitle = element_text(hjust = 0.5, size = 15),\n        plot.caption = element_text(hjust = 0.5, size = 10)) +\n  # add a north arrow and a scale bar\n  ggspatial::annotation_north_arrow(location = \"br\") +\n  ggspatial::annotation_scale(location = \"bl\", width_hint = 0.5)\n```\n:::\n\n\n::: {.cell}\n\n```{.r .cell-code}\n# save as png\nggsave(\"day3_polygons.png\", \n       bg = \"white\",\n       width = 8, height = 6.5, units = \"in\", dpi = 300)\n```\n:::\n\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

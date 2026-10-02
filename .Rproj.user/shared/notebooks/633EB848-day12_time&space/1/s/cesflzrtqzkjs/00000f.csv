@@ -1,0 +1,10 @@
+"0","ggplot() +"
+"0","  geom_sf(data = Africa, fill = ""lightblue"") +"
+"0","  geom_sf(data = europe, fill = ""lightgreen"") +"
+"0","  geom_sf(data = Asia, fill = ""lightyellow"") +"
+"0","  geom_sf(data = N.Amer, fill = ""lightpink"") +"
+"0","  geom_sf(data = S.Amer, fill = ""lightcoral"") +"
+"0","  geom_sf(data = Oceania, fill = ""lightgrey"") +"
+"0","  theme_void()"
+"2","Error: object 'europe' not found
+"
