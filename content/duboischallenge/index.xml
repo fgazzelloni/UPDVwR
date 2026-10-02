@@ -60,9 +60,19 @@
 <p>Assessed Value of Household and Kitchen Furniture Owned by Georgia Negroes (plate 25)</p>
 <div class="columns">
 <div class="column" style="width:50%;">
-<p><img src="https://raw.githubusercontent.com/Fgazzelloni/30DayChartChallenge/main/data/Edition_2022/day3_historical/day3_historical.png" class="img-fluid"></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://raw.githubusercontent.com/Fgazzelloni/30DayChartChallenge/refs/heads/main/data/Edition_2022/images/day3_historical.png" class="img-fluid figure-img"></p>
+<figcaption>Modern recreation of Du Bois Plate 8</figcaption>
+</figure>
+</div>
 </div><div class="column" style="width:50%;">
-<p><img src="https://raw.githubusercontent.com/Fgazzelloni/30DayChartChallenge/main/data/Edition_2022/day3_historical/original_n8.png" class="img-fluid"></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://raw.githubusercontent.com/ajstarks/dubois-data-portraits/master/plate08/original-plate-08.jpg" class="img-fluid figure-img"></p>
+<figcaption>Original Du Bois Plate 8</figcaption>
+</figure>
+</div>
 </div>
 </div>
 <p>Follow the code here: <a href="https://r4ds.github.io/bookclub-ggplot2/non-linear-coordinate-systems.html" class="uri">https://r4ds.github.io/bookclub-ggplot2/non-linear-coordinate-systems.html</a></p>
@@ -73,7 +83,7 @@
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
   <guid>https://fgazzelloni.github.io/UPDVwR/content/duboischallenge/plates/plate8/</guid>
   <pubDate>Sun, 31 Mar 2024 22:00:00 GMT</pubDate>
-  <media:content url="https://raw.githubusercontent.com/Fgazzelloni/30DayChartChallenge/main/data/Edition_2022/day3_historical/day3_historical.png" medium="image" type="image/png"/>
+  <media:content url="https://raw.githubusercontent.com/Fgazzelloni/30DayChartChallenge/refs/heads/main/data/Edition_2022/images/day3_historical.png" medium="image" type="image/png"/>
 </item>
 <item>
   <title>Challenge 05 - Plate 13</title>
@@ -5019,7 +5029,7 @@ font-style: inherit;">8.8</span>)</span></code></pre></div></div>
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
   <guid>https://fgazzelloni.github.io/UPDVwR/content/duboischallenge/talk.html</guid>
-  <pubDate>Fri, 02 Oct 2026 21:27:19 GMT</pubDate>
+  <pubDate>Fri, 02 Oct 2026 22:13:02 GMT</pubDate>
   <media:content url="https://fgazzelloni.github.io/UPDVwR/content/duboischallenge/slides/gif/plates.gif" medium="image" type="image/gif"/>
 </item>
 </channel>
