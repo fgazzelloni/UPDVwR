@@ -17,7 +17,7 @@
 <width>144</width>
 </image>
 <generator>quarto-1.8.27</generator>
-<lastBuildDate>Fri, 02 Oct 2026 22:10:36 GMT</lastBuildDate>
+<lastBuildDate>Fri, 02 Oct 2026 22:46:55 GMT</lastBuildDate>
 <item>
   <title>30DayMapChallenge 2021</title>
   <link>https://fgazzelloni.github.io/UPDVwR/content/mapchallenge/cases2021/</link>
@@ -146,7 +146,7 @@ Nov 28, 2021
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="3" data-listing-date-sort="1637967600000" data-listing-file-modified-sort="1790974728833" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="116">
+<div class="g-col-1" data-index="3" data-listing-date-sort="1637967600000" data-listing-file-modified-sort="1790979150097" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="116">
 <a href="../../../content/mapchallenge/cases2021/posts2021/day27_heatmap/day27_heatmap.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -157,7 +157,7 @@ Nov 28, 2021
 Heatmap
 </h5>
 <div class="card-text listing-description delink">
-<!-- desc(5A0113B34292)[max=175]:content/mapchallenge/cases2021/posts2021/day27_heatmap/day27_heatmap.html -->
+<p>A map-based heatmap of London cholera deaths in 1854, based on John Snow’s historic dataset.</p>
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -170,7 +170,7 @@ Nov 27, 2021
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="4" data-listing-date-sort="1637881200000" data-listing-file-modified-sort="1790974728833" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="719">
+<div class="g-col-1" data-index="4" data-listing-date-sort="1637881200000" data-listing-file-modified-sort="1790979150097" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="719">
 <a href="../../../content/mapchallenge/cases2021/posts2021/day26_choropleth/day26_choropleth.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -181,7 +181,7 @@ Nov 27, 2021
 Choropleth Map
 </h5>
 <div class="card-text listing-description delink">
-<!-- desc(5A0113B34292)[max=175]:content/mapchallenge/cases2021/posts2021/day26_choropleth/day26_choropleth.html -->
+<p>A world choropleth mapping population density per square mile alongside the number of people vulnerable in each area.</p>
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -194,7 +194,7 @@ Nov 26, 2021
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="5" data-listing-date-sort="1637794800000" data-listing-file-modified-sort="1790974728833" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="68">
+<div class="g-col-1" data-index="5" data-listing-date-sort="1637794800000" data-listing-file-modified-sort="1790979150097" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="68">
 <a href="../../../content/mapchallenge/cases2021/posts2021/day25_interactive/day25_interactive.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -205,7 +205,7 @@ Nov 26, 2021
 Interactive Map
 </h5>
 <div class="card-text listing-description delink">
-<!-- desc(5A0113B34292)[max=175]:content/mapchallenge/cases2021/posts2021/day25_interactive/day25_interactive.html -->
+<p>An interactive Leaflet map marking the author’s birthplace in Rome.</p>
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -218,7 +218,7 @@ Nov 25, 2021
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="6" data-listing-date-sort="1637708400000" data-listing-file-modified-sort="1790974728832" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="362">
+<div class="g-col-1" data-index="6" data-listing-date-sort="1637708400000" data-listing-file-modified-sort="1790979150097" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="362">
 <a href="../../../content/mapchallenge/cases2021/posts2021/day24_historical/day24_historical.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -229,7 +229,7 @@ Nov 25, 2021
 Historical Map
 </h5>
 <div class="card-text listing-description delink">
-<!-- desc(5A0113B34292)[max=175]:content/mapchallenge/cases2021/posts2021/day24_historical/day24_historical.html -->
+<p>A historical map of ocean shipping expeditions from 1781 to 1799 using the Climatological Database for the World’s Oceans.</p>
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -242,7 +242,7 @@ Nov 24, 2021
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="7" data-listing-date-sort="1637622000000" data-listing-file-modified-sort="1790974728832" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="439">
+<div class="g-col-1" data-index="7" data-listing-date-sort="1637622000000" data-listing-file-modified-sort="1790979150097" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="439">
 <a href="../../../content/mapchallenge/cases2021/posts2021/day23_ghsl_data/day23_ghsl_data.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -253,7 +253,7 @@ Nov 24, 2021
 Data Challenge 3: GHSL
 </h5>
 <div class="card-text listing-description delink">
-<!-- desc(5A0113B34292)[max=175]:content/mapchallenge/cases2021/posts2021/day23_ghsl_data/day23_ghsl_data.html -->
+<p>A 1-kilometer-resolution map of Italy showing 2015 population from the Global Human Settlement Layer.</p>
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -266,7 +266,7 @@ Nov 23, 2021
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="8" data-listing-date-sort="1637535600000" data-listing-file-modified-sort="1790974728832" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="224">
+<div class="g-col-1" data-index="8" data-listing-date-sort="1637535600000" data-listing-file-modified-sort="1790979150097" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="224">
 <a href="../../../content/mapchallenge/cases2021/posts2021/day22_boundaries/day22_boundaries.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -277,7 +277,7 @@ Nov 23, 2021
 Boundaries
 </h5>
 <div class="card-text listing-description delink">
-<!-- desc(5A0113B34292)[max=175]:content/mapchallenge/cases2021/posts2021/day22_boundaries/day22_boundaries.html -->
+<p>A world map outlining international boundaries with data from the rgeoboundaries package.</p>
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -290,7 +290,7 @@ Nov 22, 2021
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="9" data-listing-date-sort="1637449200000" data-listing-file-modified-sort="1790974728832" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="234">
+<div class="g-col-1" data-index="9" data-listing-date-sort="1637449200000" data-listing-file-modified-sort="1790979150097" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="234">
 <a href="../../../content/mapchallenge/cases2021/posts2021/day21_elevation/day21_elevation.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -301,7 +301,7 @@ Nov 22, 2021
 Elevation
 </h5>
 <div class="card-text listing-description delink">
-<!-- desc(5A0113B34292)[max=175]:content/mapchallenge/cases2021/posts2021/day21_elevation/day21_elevation.html -->
+<p>A map of surface elevation change in Alaska using measurements from the CPOM CryoSat project.</p>
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -314,7 +314,7 @@ Nov 21, 2021
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="10" data-listing-date-sort="1637362800000" data-listing-file-modified-sort="1790974728831" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="410">
+<div class="g-col-1" data-index="10" data-listing-date-sort="1637362800000" data-listing-file-modified-sort="1790979150097" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="410">
 <a href="../../../content/mapchallenge/cases2021/posts2021/day20_movement/day20_movement.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -325,7 +325,7 @@ Nov 21, 2021
 Movement
 </h5>
 <div class="card-text listing-description delink">
-<!-- desc(5A0113B34292)[max=175]:content/mapchallenge/cases2021/posts2021/day20_movement/day20_movement.html -->
+<p>A map of Alitalia flight routes across Italy using route data from OpenFlights.</p>
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -338,7 +338,7 @@ Nov 20, 2021
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="11" data-listing-date-sort="1637276400000" data-listing-file-modified-sort="1790974728831" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="510">
+<div class="g-col-1" data-index="11" data-listing-date-sort="1637276400000" data-listing-file-modified-sort="1790979149287" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="510">
 <a href="../../../content/mapchallenge/cases2021/posts2021/day19_islands/day19_islands.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -349,7 +349,7 @@ Nov 20, 2021
 Island(s)
 </h5>
 <div class="card-text listing-description delink">
-<!-- desc(5A0113B34292)[max=175]:content/mapchallenge/cases2021/posts2021/day19_islands/day19_islands.html -->
+<p>A map of Japanese islands and cities using city locations from the mapdata R package.</p>
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -362,7 +362,7 @@ Nov 19, 2021
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="12" data-listing-date-sort="1637190000000" data-listing-file-modified-sort="1790974728831" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="671">
+<div class="g-col-1" data-index="12" data-listing-date-sort="1637190000000" data-listing-file-modified-sort="1790979149284" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="671">
 <a href="../../../content/mapchallenge/cases2021/posts2021/day18_water/day18_water.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -373,7 +373,7 @@ Nov 19, 2021
 Water
 </h5>
 <div class="card-text listing-description delink">
-<!-- desc(5A0113B34292)[max=175]:content/mapchallenge/cases2021/posts2021/day18_water/day18_water.html -->
+<p>A map of John Snow data, recreating the historic cholera investigation with ocean-climate data from rtwilson.com.</p>
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -386,7 +386,7 @@ Nov 18, 2021
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="13" data-listing-date-sort="1637103600000" data-listing-file-modified-sort="1790974728830" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="185">
+<div class="g-col-1" data-index="13" data-listing-date-sort="1637103600000" data-listing-file-modified-sort="1790979149284" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="185">
 <a href="../../../content/mapchallenge/cases2021/posts2021/day17_land/day17_land.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -397,7 +397,7 @@ Nov 18, 2021
 Land
 </h5>
 <div class="card-text listing-description delink">
-<!-- desc(5A0113B34292)[max=175]:content/mapchallenge/cases2021/posts2021/day17_land/day17_land.html -->
+<p>A map of New York population created in Studio Unfolded AI and styled in R.</p>
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -410,7 +410,7 @@ Nov 17, 2021
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="14" data-listing-date-sort="1637017200000" data-listing-file-modified-sort="1790974728830" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="448">
+<div class="g-col-1" data-index="14" data-listing-date-sort="1637017200000" data-listing-file-modified-sort="1790979149284" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="448">
 <a href="../../../content/mapchallenge/cases2021/posts2021/day16_urban_rural/day16_urban_rural.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -421,7 +421,7 @@ Nov 17, 2021
 Urban / Rural
 </h5>
 <div class="card-text listing-description delink">
-<!-- desc(5A0113B34292)[max=175]:content/mapchallenge/cases2021/posts2021/day16_urban_rural/day16_urban_rural.html -->
+<p>A map of urban and rural areas in the Netherlands showing schools and nearby communities using CBS open data.</p>
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -434,7 +434,7 @@ Nov 16, 2021
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="15" data-listing-date-sort="1636930800000" data-listing-file-modified-sort="1790974728830" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="6">
+<div class="g-col-1" data-index="15" data-listing-date-sort="1636930800000" data-listing-file-modified-sort="1790979149284" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="6">
 <a href="../../../content/mapchallenge/cases2021/posts2021/day15_nopc/day15_nopc.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -445,7 +445,7 @@ Nov 16, 2021
 Map made without using a Computer
 </h5>
 <div class="card-text listing-description delink">
-<!-- desc(5A0113B34292)[max=175]:content/mapchallenge/cases2021/posts2021/day15_nopc/day15_nopc.html -->
+<p>A hand-drawn map of America made without a computer for the 30DayMapChallenge.</p>
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -458,7 +458,7 @@ Nov 15, 2021
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="16" data-listing-date-sort="1636844400000" data-listing-file-modified-sort="1790974728830" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="257">
+<div class="g-col-1" data-index="16" data-listing-date-sort="1636844400000" data-listing-file-modified-sort="1790979149284" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="257">
 <a href="../../../content/mapchallenge/cases2021/posts2021/day14_newtool/day14_newtool.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -469,7 +469,7 @@ Nov 15, 2021
 Map with a New Tool
 </h5>
 <div class="card-text listing-description delink">
-<!-- desc(5A0113B34292)[max=175]:content/mapchallenge/cases2021/posts2021/day14_newtool/day14_newtool.html -->
+<p>A map created with Studio Unfolded AI and styled in R for the new-tool theme of the 30DayMapChallenge.</p>
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -482,7 +482,7 @@ Nov 14, 2021
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="17" data-listing-date-sort="1636758000000" data-listing-file-modified-sort="1790974728829" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="837">
+<div class="g-col-1" data-index="17" data-listing-date-sort="1636758000000" data-listing-file-modified-sort="1790979149240" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="837">
 <a href="../../../content/mapchallenge/cases2021/posts2021/day13_naturalearth/day13_naturalearth.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -493,7 +493,7 @@ Nov 14, 2021
 Map Challenge 2: Natural Earth
 </h5>
 <div class="card-text listing-description delink">
-<!-- desc(5A0113B34292)[max=175]:content/mapchallenge/cases2021/posts2021/day13_naturalearth/day13_naturalearth.html -->
+<p>A Natural Earth map estimating gross domestic product across countries using the rnaturalearth package.</p>
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -506,7 +506,7 @@ Nov 13, 2021
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="18" data-listing-date-sort="1636671600000" data-listing-file-modified-sort="1790974728829" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="472">
+<div class="g-col-1" data-index="18" data-listing-date-sort="1636671600000" data-listing-file-modified-sort="1790979149240" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="472">
 <a href="../../../content/mapchallenge/cases2021/posts2021/day12_population/day12_population.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -517,7 +517,7 @@ Nov 13, 2021
 Population
 </h5>
 <div class="card-text listing-description delink">
-<!-- desc(5A0113B34292)[max=175]:content/mapchallenge/cases2021/posts2021/day12_population/day12_population.html -->
+<p>A world population map comparing the distribution in 1950 with a projection for 2030.</p>
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -530,7 +530,7 @@ Nov 12, 2021
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="19" data-listing-date-sort="1636585200000" data-listing-file-modified-sort="1790974728829" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="289">
+<div class="g-col-1" data-index="19" data-listing-date-sort="1636585200000" data-listing-file-modified-sort="1790979149240" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="289">
 <a href="../../../content/mapchallenge/cases2021/posts2021/day11_3D/day11_3D.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -541,7 +541,7 @@ Nov 12, 2021
 3d
 </h5>
 <div class="card-text listing-description delink">
-<!-- desc(5A0113B34292)[max=175]:content/mapchallenge/cases2021/posts2021/day11_3D/day11_3D.html -->
+<p>A 3D world map built from a satellite view captured at 8 a.m. on November 11, 2021, using bom.gov.au data.</p>
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -554,7 +554,7 @@ Nov 11, 2021
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="20" data-listing-date-sort="1636498800000" data-listing-file-modified-sort="1790974728829" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="683">
+<div class="g-col-1" data-index="20" data-listing-date-sort="1636498800000" data-listing-file-modified-sort="1790979148724" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="683">
 <a href="../../../content/mapchallenge/cases2021/posts2021/day10_raster/day10_raster.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -565,7 +565,7 @@ Nov 11, 2021
 Raster
 </h5>
 <div class="card-text listing-description delink">
-<!-- desc(5A0113B34292)[max=175]:content/mapchallenge/cases2021/posts2021/day10_raster/day10_raster.html -->
+<p>A raster map tracing population change across Africa from 2000 to 2020 using the afrilearndata dataset.</p>
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -578,7 +578,7 @@ Nov 10, 2021
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="21" data-listing-date-sort="1636412400000" data-listing-file-modified-sort="1790974728856" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="133">
+<div class="g-col-1" data-index="21" data-listing-date-sort="1636412400000" data-listing-file-modified-sort="1790979150104" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="133">
 <a href="../../../content/mapchallenge/cases2021/posts2021/day9_monochrome/day9_monochrome.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -589,7 +589,7 @@ Nov 10, 2021
 Monochrome
 </h5>
 <div class="card-text listing-description delink">
-<!-- desc(5A0113B34292)[max=175]:content/mapchallenge/cases2021/posts2021/day9_monochrome/day9_monochrome.html -->
+<p>A monochrome map artwork of Italy made with geographic data from the spData R package.</p>
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -626,7 +626,7 @@ Nov 8, 2021
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="23" data-listing-date-sort="1636239600000" data-listing-file-modified-sort="1790974728855" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="397">
+<div class="g-col-1" data-index="23" data-listing-date-sort="1636239600000" data-listing-file-modified-sort="1790979150097" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="397">
 <a href="../../../content/mapchallenge/cases2021/posts2021/day7_green/day7_green.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -637,7 +637,7 @@ Nov 8, 2021
 Green
 </h5>
 <div class="card-text listing-description delink">
-<!-- desc(5A0113B34292)[max=175]:content/mapchallenge/cases2021/posts2021/day7_green/day7_green.html -->
+<p>A map of Greater London combining cycle-hire locations with borough boundaries using TidyTuesday and spData.</p>
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -650,7 +650,7 @@ Nov 7, 2021
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="24" data-listing-date-sort="1636153200000" data-listing-file-modified-sort="1790974728835" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="592">
+<div class="g-col-1" data-index="24" data-listing-date-sort="1636153200000" data-listing-file-modified-sort="1790979150097" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="592">
 <a href="../../../content/mapchallenge/cases2021/posts2021/day6_red/day6_red.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -661,7 +661,7 @@ Nov 7, 2021
 Red
 </h5>
 <div class="card-text listing-description delink">
-<!-- desc(5A0113B34292)[max=175]:content/mapchallenge/cases2021/posts2021/day6_red/day6_red.html -->
+<p>An animated county-level map of US drought conditions from January through July 2021 using TidyTuesday data.</p>
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -674,7 +674,7 @@ Nov 6, 2021
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="25" data-listing-date-sort="1636066800000" data-listing-file-modified-sort="1790974728835" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="438">
+<div class="g-col-1" data-index="25" data-listing-date-sort="1636066800000" data-listing-file-modified-sort="1790979150097" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="438">
 <a href="../../../content/mapchallenge/cases2021/posts2021/day5_osm/day5_osm.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -685,7 +685,7 @@ Nov 6, 2021
 Data Challenge 1: OpenStreetMap
 </h5>
 <div class="card-text listing-description delink">
-<!-- desc(5A0113B34292)[max=175]:content/mapchallenge/cases2021/posts2021/day5_osm/day5_osm.html -->
+<p>An OpenStreetMap-based view of Berlin’s waterways using data from the osmdata package.</p>
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -698,7 +698,7 @@ Nov 5, 2021
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="26" data-listing-date-sort="1635980400000" data-listing-file-modified-sort="1790974728834" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="286">
+<div class="g-col-1" data-index="26" data-listing-date-sort="1635980400000" data-listing-file-modified-sort="1790979150097" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="286">
 <a href="../../../content/mapchallenge/cases2021/posts2021/day4_hexagons/day4_hexagons.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -709,7 +709,7 @@ Nov 5, 2021
 Hexagons
 </h5>
 <div class="card-text listing-description delink">
-<!-- desc(5A0113B34292)[max=175]:content/mapchallenge/cases2021/posts2021/day4_hexagons/day4_hexagons.html -->
+<p>A hexagon map of Boston built with geographic data from the spData R package.</p>
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -722,7 +722,7 @@ Nov 4, 2021
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="27" data-listing-date-sort="1635894000000" data-listing-file-modified-sort="1790974728834" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="443">
+<div class="g-col-1" data-index="27" data-listing-date-sort="1635894000000" data-listing-file-modified-sort="1790979150097" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="443">
 <a href="../../../content/mapchallenge/cases2021/posts2021/day3_polygons/day3_polygons.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -733,7 +733,7 @@ Nov 4, 2021
 Polygons
 </h5>
 <div class="card-text listing-description delink">
-<!-- desc(5A0113B34292)[max=175]:content/mapchallenge/cases2021/posts2021/day3_polygons/day3_polygons.html -->
+<p>A polygon map of the Åland Islands, a region transferred from Sweden to Russia in 1809 and now part of Finland.</p>
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -746,7 +746,7 @@ Nov 3, 2021
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="28" data-listing-date-sort="1635807600000" data-listing-file-modified-sort="1790974728834" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="219">
+<div class="g-col-1" data-index="28" data-listing-date-sort="1635807600000" data-listing-file-modified-sort="1790979150050" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="219">
 <a href="../../../content/mapchallenge/cases2021/posts2021/day2_lines/day2_lines.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -757,7 +757,7 @@ Nov 3, 2021
 Lines
 </h5>
 <div class="card-text listing-description delink">
-<!-- desc(5A0113B34292)[max=175]:content/mapchallenge/cases2021/posts2021/day2_lines/day2_lines.html -->
+<p>A line-based map of France created from geographic data in the maps R package.</p>
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -770,7 +770,7 @@ Nov 2, 2021
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="29" data-listing-date-sort="1635721200000" data-listing-file-modified-sort="1790974728831" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="9" data-listing-word-count-sort="1728">
+<div class="g-col-1" data-index="29" data-listing-date-sort="1635721200000" data-listing-file-modified-sort="1790979147968" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="9" data-listing-word-count-sort="1728">
 <a href="../../../content/mapchallenge/cases2021/posts2021/day1_points/day1_points.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -781,7 +781,7 @@ Nov 2, 2021
 Points
 </h5>
 <div class="card-text listing-description delink">
-<!-- desc(5A0113B34292)[max=175]:content/mapchallenge/cases2021/posts2021/day1_points/day1_points.html -->
+<p>A point map showing the geographic distribution of runners from the TidyTuesday 2021 Week 44 race dataset.</p>
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -799,7 +799,7 @@ Nov 1, 2021
 
 </div><a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
   <guid>https://fgazzelloni.github.io/UPDVwR/content/mapchallenge/cases2021/</guid>
-  <pubDate>Fri, 02 Oct 2026 22:10:36 GMT</pubDate>
+  <pubDate>Fri, 02 Oct 2026 22:46:55 GMT</pubDate>
   <media:content url="https://raw.githubusercontent.com/Fgazzelloni/30DayMapChallenge/master/2021/collage/collage2021.png" medium="image" type="image/png"/>
 </item>
 <item>
@@ -1347,7 +1347,7 @@ Nov 15, 2022
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="16" data-listing-date-sort="1668380400000" data-listing-file-modified-sort="1790974728861" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="816">
+<div class="g-col-1" data-index="16" data-listing-date-sort="1668380400000" data-listing-file-modified-sort="1790979150482" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="816">
 <a href="../../../content/mapchallenge/cases2022/posts2022/day14_hexagons/day14_hexagons.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -1358,7 +1358,7 @@ Nov 15, 2022
 Hexagons
 </h5>
 <div class="card-text listing-description delink">
-<!-- desc(5A0113B34292)[max=175]:content/mapchallenge/cases2022/posts2022/day14_hexagons/day14_hexagons.html -->
+<p>A hexagon map of US COVID-19 cases built with CDC and tidycensus data for the 30DayMapChallenge.</p>
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -1798,7 +1798,7 @@ Nov 1, 2022
 
 </div><a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
   <guid>https://fgazzelloni.github.io/UPDVwR/content/mapchallenge/cases2022/</guid>
-  <pubDate>Fri, 02 Oct 2026 22:10:36 GMT</pubDate>
+  <pubDate>Fri, 02 Oct 2026 22:46:55 GMT</pubDate>
   <media:content url="https://raw.githubusercontent.com/Fgazzelloni/30DayMapChallenge/master/2022/collage/collage2022.png" medium="image" type="image/png"/>
 </item>
 <item>
@@ -2814,7 +2814,7 @@ Nov 1, 2023
 
 </div><a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
   <guid>https://fgazzelloni.github.io/UPDVwR/content/mapchallenge/cases2023/</guid>
-  <pubDate>Fri, 02 Oct 2026 22:10:36 GMT</pubDate>
+  <pubDate>Fri, 02 Oct 2026 22:46:55 GMT</pubDate>
   <media:content url="https://raw.githubusercontent.com/Fgazzelloni/30DayMapChallenge/master/2023/collage/collage2023.png" medium="image" type="image/png"/>
 </item>
 <item>
@@ -3577,7 +3577,7 @@ Nov 1, 2024
 
 </div><a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
   <guid>https://fgazzelloni.github.io/UPDVwR/content/mapchallenge/cases2024/</guid>
-  <pubDate>Fri, 02 Oct 2026 22:10:36 GMT</pubDate>
+  <pubDate>Fri, 02 Oct 2026 22:46:55 GMT</pubDate>
   <media:content url="https://raw.githubusercontent.com/Fgazzelloni/30DayMapChallenge/master/2024/collage/collage2024.png" medium="image" type="image/png"/>
 </item>
 <item>
@@ -4435,7 +4435,7 @@ Nov 30, 2025
 
 </div><a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
   <guid>https://fgazzelloni.github.io/UPDVwR/content/mapchallenge/cases2025/</guid>
-  <pubDate>Fri, 02 Oct 2026 22:10:36 GMT</pubDate>
+  <pubDate>Fri, 02 Oct 2026 22:46:55 GMT</pubDate>
   <media:content url="https://raw.githubusercontent.com/Fgazzelloni/30DayMapChallenge/refs/heads/main/2025/collage/collage2025.png" medium="image" type="image/png"/>
 </item>
 </channel>

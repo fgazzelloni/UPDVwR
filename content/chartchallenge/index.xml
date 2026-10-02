@@ -17,7 +17,7 @@
 <width>144</width>
 </image>
 <generator>quarto-1.8.27</generator>
-<lastBuildDate>Fri, 02 Oct 2026 22:14:12 GMT</lastBuildDate>
+<lastBuildDate>Fri, 02 Oct 2026 22:55:11 GMT</lastBuildDate>
 <item>
   <title>30DayChartChallenge 2021</title>
   <link>https://fgazzelloni.github.io/UPDVwR/content/chartchallenge/cases2021/</link>
@@ -53,7 +53,7 @@
   </div>
 </div>
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-listing-date-sort="1619733600000" data-listing-file-modified-sort="1790974728715" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="325">
+<div class="g-col-1" data-index="0" data-listing-date-sort="1619733600000" data-listing-file-modified-sort="1790979295500" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="325">
 <a href="../../../content/chartchallenge/cases2021/posts2021/day30_3D/day30_3D.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -64,7 +64,7 @@
 3d
 </h5>
 <div class="card-text listing-description delink">
-<p>Networks</p>
+<p>A 3D comparison of US employment and weekly earnings by race, industry, sex, and occupation.</p>
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -77,7 +77,7 @@ Apr 30, 2021
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="1" data-listing-date-sort="1619647200000" data-listing-file-modified-sort="1790974728715" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="602">
+<div class="g-col-1" data-index="1" data-listing-date-sort="1619647200000" data-listing-file-modified-sort="1790979293337" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="602">
 <a href="../../../content/chartchallenge/cases2021/posts2021/day29_deviations/day29_deviations.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -88,7 +88,7 @@ Apr 30, 2021
 Deviations
 </h5>
 <div class="card-text listing-description delink">
-<p>Networks</p>
+<p>A comparison of global health metric deviations for three selected countries using IHME data.</p>
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -101,7 +101,7 @@ Apr 29, 2021
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="2" data-listing-date-sort="1619560800000" data-listing-file-modified-sort="1790974728715" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="736">
+<div class="g-col-1" data-index="2" data-listing-date-sort="1619560800000" data-listing-file-modified-sort="1790979291927" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="736">
 <a href="../../../content/chartchallenge/cases2021/posts2021/day28_future/day28_future.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -112,7 +112,7 @@ Apr 29, 2021
 Future
 </h5>
 <div class="card-text listing-description delink">
-<p>Networks</p>
+<p>A time-series chart of CEO departures from 1988 to 2021, with a forecast of dismissal trends.</p>
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -125,7 +125,7 @@ Apr 28, 2021
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="3" data-listing-date-sort="1619474400000" data-listing-file-modified-sort="1790974728714" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="315">
+<div class="g-col-1" data-index="3" data-listing-date-sort="1619474400000" data-listing-file-modified-sort="1790979290506" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="315">
 <a href="../../../content/chartchallenge/cases2021/posts2021/day27_educational/day27_educational.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -136,7 +136,7 @@ Apr 28, 2021
 Educational
 </h5>
 <div class="card-text listing-description delink">
-<p>Networks</p>
+<p>A country-level comparison of relative change in girls’ education between 1970 and 2010.</p>
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -149,7 +149,7 @@ Apr 27, 2021
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="4" data-listing-date-sort="1619388000000" data-listing-file-modified-sort="1790974728714" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="348">
+<div class="g-col-1" data-index="4" data-listing-date-sort="1619388000000" data-listing-file-modified-sort="1790979289029" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="348">
 <a href="../../../content/chartchallenge/cases2021/posts2021/day26_trends/day26_trends.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -160,7 +160,7 @@ Apr 27, 2021
 Trends
 </h5>
 <div class="card-text listing-description delink">
-<p>Networks</p>
+<p>A trend chart of drug-use surveys across 97 countries from 1992 to 2017.</p>
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -173,7 +173,7 @@ Apr 26, 2021
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="5" data-listing-date-sort="1619301600000" data-listing-file-modified-sort="1790974728714" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="620">
+<div class="g-col-1" data-index="5" data-listing-date-sort="1619301600000" data-listing-file-modified-sort="1790979287011" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="620">
 <a href="../../../content/chartchallenge/cases2021/posts2021/day25_demographic/day25_demographic.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -184,7 +184,7 @@ Apr 26, 2021
 Demographic
 </h5>
 <div class="card-text listing-description delink">
-<p>Networks</p>
+<p>An animated view of European Union population change from 2010 to 2019 using IHME demographic data.</p>
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -197,7 +197,7 @@ Apr 25, 2021
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="6" data-listing-date-sort="1619215200000" data-listing-file-modified-sort="1790974728714" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="231">
+<div class="g-col-1" data-index="6" data-listing-date-sort="1619215200000" data-listing-file-modified-sort="1790979285509" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="231">
 <a href="../../../content/chartchallenge/cases2021/posts2021/day24_monochrome/day24_monochrome.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -208,7 +208,7 @@ Apr 25, 2021
 Monochrome
 </h5>
 <div class="card-text listing-description delink">
-<p>Networks</p>
+<p>A monochrome comparison of disability-adjusted life years by cause across European countries from 2010 to 2019.</p>
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -221,7 +221,7 @@ Apr 24, 2021
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="7" data-listing-date-sort="1619128800000" data-listing-file-modified-sort="1790974728713" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="258">
+<div class="g-col-1" data-index="7" data-listing-date-sort="1619128800000" data-listing-file-modified-sort="1790979284338" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="258">
 <a href="../../../content/chartchallenge/cases2021/posts2021/day23_tiles/day23_tiles.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -232,7 +232,7 @@ Apr 24, 2021
 Tiles
 </h5>
 <div class="card-text listing-description delink">
-<p>Networks</p>
+<p>A tiled comparison of Netflix shows by format and duration using the Netflix titles dataset.</p>
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -245,7 +245,7 @@ Apr 23, 2021
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="8" data-listing-date-sort="1619042400000" data-listing-file-modified-sort="1790974728713" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="567">
+<div class="g-col-1" data-index="8" data-listing-date-sort="1619042400000" data-listing-file-modified-sort="1790979283155" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="567">
 <a href="../../../content/chartchallenge/cases2021/posts2021/day22_animation/day22_animation.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -256,7 +256,7 @@ Apr 23, 2021
 Animation
 </h5>
 <div class="card-text listing-description delink">
-<p>Networks</p>
+<p>An animation of life expectancy at birth in British Columbia from 1921 to 2016.</p>
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -269,7 +269,7 @@ Apr 22, 2021
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="9" data-listing-date-sort="1618956000000" data-listing-file-modified-sort="1790974728713" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="410">
+<div class="g-col-1" data-index="9" data-listing-date-sort="1618956000000" data-listing-file-modified-sort="1790979281933" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="410">
 <a href="../../../content/chartchallenge/cases2021/posts2021/day21_downwards/day21_downwards.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -280,7 +280,7 @@ Apr 22, 2021
 Downwards
 </h5>
 <div class="card-text listing-description delink">
-<p>Networks</p>
+<p>A flipped bar chart comparing Quebec exposure-to-risk by age and sex from 1921 to 2016.</p>
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -293,7 +293,7 @@ Apr 21, 2021
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="10" data-listing-date-sort="1618869600000" data-listing-file-modified-sort="1790974728713" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="378">
+<div class="g-col-1" data-index="10" data-listing-date-sort="1618869600000" data-listing-file-modified-sort="1790979280135" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="378">
 <a href="../../../content/chartchallenge/cases2021/posts2021/day20_upwards/day20_upwards.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -304,7 +304,7 @@ Apr 21, 2021
 Upwards
 </h5>
 <div class="card-text listing-description delink">
-<p>Networks</p>
+<p>A timeline of Netflix titles by release year, showing the growth of the catalog from 1925 onward.</p>
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -317,7 +317,7 @@ Apr 20, 2021
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="11" data-listing-date-sort="1618783200000" data-listing-file-modified-sort="1790974728712" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="859">
+<div class="g-col-1" data-index="11" data-listing-date-sort="1618783200000" data-listing-file-modified-sort="1790979278872" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="859">
 <a href="../../../content/chartchallenge/cases2021/posts2021/day19_global_change/day19_global_change.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -328,7 +328,7 @@ Apr 20, 2021
 Change
 </h5>
 <div class="card-text listing-description delink">
-<p>Networks</p>
+<p>A streamgraph tracking excess deaths across countries during the COVID-19 period using Our World in Data estimates.</p>
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -341,7 +341,7 @@ Apr 19, 2021
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="12" data-listing-date-sort="1618696800000" data-listing-file-modified-sort="1790974728712" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="317">
+<div class="g-col-1" data-index="12" data-listing-date-sort="1618696800000" data-listing-file-modified-sort="1790979277612" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="317">
 <a href="../../../content/chartchallenge/cases2021/posts2021/day18_connections/day18_connections.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -352,7 +352,7 @@ Apr 19, 2021
 Connections
 </h5>
 <div class="card-text listing-description delink">
-<p>Networks</p>
+<p>A geographic network connecting world countries by distance, built from a minimum spanning tree of country-distance data.</p>
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -365,7 +365,7 @@ Apr 18, 2021
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="13" data-listing-date-sort="1618610400000" data-listing-file-modified-sort="1790974728711" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1004">
+<div class="g-col-1" data-index="13" data-listing-date-sort="1618610400000" data-listing-file-modified-sort="1790979276654" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1004">
 <a href="../../../content/chartchallenge/cases2021/posts2021/day17_pop_culture/day17_pop_culture.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -376,7 +376,7 @@ Apr 18, 2021
 Culture
 </h5>
 <div class="card-text listing-description delink">
-<p>Networks</p>
+<p>A comparison of projected global COVID-19 infections alongside mask use and the easing of mask mandates.</p>
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -389,7 +389,7 @@ Apr 17, 2021
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="14" data-listing-date-sort="1618524000000" data-listing-file-modified-sort="1790974728711" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="407">
+<div class="g-col-1" data-index="14" data-listing-date-sort="1618524000000" data-listing-file-modified-sort="1790979275792" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="407">
 <a href="../../../content/chartchallenge/cases2021/posts2021/day16_tree/day16_tree.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -400,7 +400,7 @@ Apr 17, 2021
 Tree
 </h5>
 <div class="card-text listing-description delink">
-<p>Networks</p>
+<p>A tree-style view of estimated direct and indirect effects in relationship data using the medflex R package.</p>
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -413,7 +413,7 @@ Apr 16, 2021
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="15" data-listing-date-sort="1618437600000" data-listing-file-modified-sort="1790974728711" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="190">
+<div class="g-col-1" data-index="15" data-listing-date-sort="1618437600000" data-listing-file-modified-sort="1790979275121" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="190">
 <a href="../../../content/chartchallenge/cases2021/posts2021/day15_multivariate/day15_multivariate.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -424,7 +424,7 @@ Apr 16, 2021
 Multivariate
 </h5>
 <div class="card-text listing-description delink">
-<p>Networks</p>
+<p>A multivariate visualization of estimated direct and indirect effects in relationship data using the medflex R package.</p>
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -437,7 +437,7 @@ Apr 15, 2021
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="16" data-listing-date-sort="1618351200000" data-listing-file-modified-sort="1790974728711" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="501">
+<div class="g-col-1" data-index="16" data-listing-date-sort="1618351200000" data-listing-file-modified-sort="1790979274695" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="501">
 <a href="../../../content/chartchallenge/cases2021/posts2021/day14_space/day14_space.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -448,7 +448,7 @@ Apr 15, 2021
 Space
 </h5>
 <div class="card-text listing-description delink">
-<p>Networks</p>
+<p>A network map linking US post offices by stamp index and the average duration and distance between offices.</p>
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -461,7 +461,7 @@ Apr 14, 2021
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="17" data-listing-date-sort="1618264800000" data-listing-file-modified-sort="1790974728710" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="703">
+<div class="g-col-1" data-index="17" data-listing-date-sort="1618264800000" data-listing-file-modified-sort="1790979273912" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="703">
 <a href="../../../content/chartchallenge/cases2021/posts2021/day13_correlation/day13_correlation.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -472,7 +472,7 @@ Apr 14, 2021
 Correlation
 </h5>
 <div class="card-text listing-description delink">
-<p>Networks</p>
+<p>A correlation-focused view of intrinsic and non-intrinsic cancer risk factors and their interactions.</p>
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -485,7 +485,7 @@ Apr 13, 2021
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="18" data-listing-date-sort="1618178400000" data-listing-file-modified-sort="1790974728709" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="499">
+<div class="g-col-1" data-index="18" data-listing-date-sort="1618178400000" data-listing-file-modified-sort="1790979273176" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="499">
 <a href="../../../content/chartchallenge/cases2021/posts2021/day12_strips/day12_strips.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -496,7 +496,7 @@ Apr 13, 2021
 Strips
 </h5>
 <div class="card-text listing-description delink">
-<p>Networks</p>
+<p>An alluvial chart comparing COVID-19 cases, deaths, hospitalizations, intensive care, and recoveries across ten Italian regions.</p>
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -509,7 +509,7 @@ Apr 12, 2021
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="19" data-listing-date-sort="1618092000000" data-listing-file-modified-sort="1790974728709" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="295">
+<div class="g-col-1" data-index="19" data-listing-date-sort="1618092000000" data-listing-file-modified-sort="1790979272625" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="295">
 <a href="../../../content/chartchallenge/cases2021/posts2021/day11_circular/day11_circular.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -520,7 +520,7 @@ Apr 12, 2021
 Circular
 </h5>
 <div class="card-text listing-description delink">
-<p>Networks</p>
+<p>A circular chart of monthly COVID-19 deaths in Italy, with death counts normalized on a logarithmic scale.</p>
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -533,7 +533,7 @@ Apr 11, 2021
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="20" data-listing-date-sort="1618005600000" data-listing-file-modified-sort="1790974728708" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="606">
+<div class="g-col-1" data-index="20" data-listing-date-sort="1618005600000" data-listing-file-modified-sort="1790979271633" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="606">
 <a href="../../../content/chartchallenge/cases2021/posts2021/day10_abstract/day10_abstract.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -544,7 +544,7 @@ Apr 11, 2021
 Abstract
 </h5>
 <div class="card-text listing-description delink">
-<p>Networks</p>
+<p>A comparison of country-level population-density diversity, highlighting Seychelles, Antigua and Barbuda, and San Marino.</p>
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -557,7 +557,7 @@ Apr 10, 2021
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="21" data-listing-date-sort="1617919200000" data-listing-file-modified-sort="1790974728717" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="141">
+<div class="g-col-1" data-index="21" data-listing-date-sort="1617919200000" data-listing-file-modified-sort="1790979310034" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="141">
 <a href="../../../content/chartchallenge/cases2021/posts2021/day9_statistics/day9_statistics.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -568,7 +568,7 @@ Apr 10, 2021
 Statistics
 </h5>
 <div class="card-text listing-description delink">
-<p>Networks</p>
+<p>A bar chart comparing weekly COVID-19 deaths in ten selected countries during week 13 of 2021.</p>
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -581,7 +581,7 @@ Apr 9, 2021
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="22" data-listing-date-sort="1617832800000" data-listing-file-modified-sort="1790974728717" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="207">
+<div class="g-col-1" data-index="22" data-listing-date-sort="1617832800000" data-listing-file-modified-sort="1790979306703" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="207">
 <a href="../../../content/chartchallenge/cases2021/posts2021/day8_animals/day8_animals.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -592,7 +592,7 @@ Apr 9, 2021
 Animals
 </h5>
 <div class="card-text listing-description delink">
-<p>Networks</p>
+<p>A comparison of bat species density and their potential involvement in the COVID-19 outbreak.</p>
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -605,7 +605,7 @@ Apr 8, 2021
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="23" data-listing-date-sort="1617746400000" data-listing-file-modified-sort="1790974728717" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="222">
+<div class="g-col-1" data-index="23" data-listing-date-sort="1617746400000" data-listing-file-modified-sort="1790979300999" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="222">
 <a href="../../../content/chartchallenge/cases2021/posts2021/day7_physical/day7_physical.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -616,7 +616,7 @@ Apr 8, 2021
 Physical
 </h5>
 <div class="card-text listing-description delink">
-<p>Networks</p>
+<p>A soil-physics chart relating volumetric water content to penetration resistance and the least limiting water range.</p>
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -629,7 +629,7 @@ Apr 7, 2021
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="24" data-listing-date-sort="1617660000000" data-listing-file-modified-sort="1790974728717" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="396">
+<div class="g-col-1" data-index="24" data-listing-date-sort="1617660000000" data-listing-file-modified-sort="1790979298155" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="396">
 <a href="../../../content/chartchallenge/cases2021/posts2021/day6_experimental/day6_experimental.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -640,7 +640,7 @@ Apr 7, 2021
 Experimental
 </h5>
 <div class="card-text listing-description delink">
-<p>Networks</p>
+<p>A comparison of soybean production for human food and animal feed using Our World in Data.</p>
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -811,7 +811,7 @@ Apr 1, 2021
 
 </div><a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
   <guid>https://fgazzelloni.github.io/UPDVwR/content/chartchallenge/cases2021/</guid>
-  <pubDate>Fri, 02 Oct 2026 22:14:12 GMT</pubDate>
+  <pubDate>Fri, 02 Oct 2026 22:55:11 GMT</pubDate>
   <media:content url="https://fgazzelloni.github.io/UPDVwR/content/chartchallenge/cases2021/collage/chart_collage_2021.png" medium="image" type="image/png" height="115" width="144"/>
 </item>
 <item>
@@ -849,7 +849,7 @@ Apr 1, 2021
   </div>
 </div>
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-listing-date-sort="1651269600000" data-listing-file-modified-sort="1790976229906" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="819">
+<div class="g-col-1" data-index="0" data-listing-date-sort="1651269600000" data-listing-file-modified-sort="1790979459662" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="819">
 <a href="../../../content/chartchallenge/cases2022/posts2022/day30_un_pop/day30_UNPOP.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -860,7 +860,7 @@ Apr 1, 2021
 UN POP
 </h5>
 <div class="card-text listing-description delink">
-<p>Networks</p>
+<p>A time-series visualization of United Nations population estimates and projections by region from 1950 onward.</p>
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -873,7 +873,7 @@ Apr 30, 2022
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="1" data-listing-date-sort="1651183200000" data-listing-file-modified-sort="1790976229905" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="397">
+<div class="g-col-1" data-index="1" data-listing-date-sort="1651183200000" data-listing-file-modified-sort="1790979452470" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="397">
 <a href="../../../content/chartchallenge/cases2022/posts2022/day29_storytelling/day29_storytelling.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -884,7 +884,7 @@ Apr 30, 2022
 Storytelling
 </h5>
 <div class="card-text listing-description delink">
-<p>Networks</p>
+<p>A paired view of energy capacity and cost trends from 2014 to 2021, comparing growth in renewable and other power sources.</p>
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -897,7 +897,7 @@ Apr 29, 2022
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="2" data-listing-date-sort="1651096800000" data-listing-file-modified-sort="1790976229905" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="364">
+<div class="g-col-1" data-index="2" data-listing-date-sort="1651096800000" data-listing-file-modified-sort="1790979438719" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="364">
 <a href="../../../content/chartchallenge/cases2022/posts2022/day28_deviations/day28_deviations.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -908,7 +908,7 @@ Apr 29, 2022
 Deviations
 </h5>
 <div class="card-text listing-description delink">
-<p>Networks</p>
+<p>A boxplot comparison of word frequency in Kaggle Hidden Gems reviews, using notches to compare medians.</p>
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -921,7 +921,7 @@ Apr 28, 2022
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="3" data-listing-date-sort="1651010400000" data-listing-file-modified-sort="1790976229905" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="12" data-listing-word-count-sort="2231">
+<div class="g-col-1" data-index="3" data-listing-date-sort="1651010400000" data-listing-file-modified-sort="1790979422459" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="12" data-listing-word-count-sort="2231">
 <a href="../../../content/chartchallenge/cases2022/posts2022/day27_future/day27_future.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -932,7 +932,7 @@ Apr 28, 2022
 Future
 </h5>
 <div class="card-text listing-description delink">
-<p>Networks</p>
+<p>A time-series forecast of temperatures in the Boston area from January through April 2022 using Prophet.</p>
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -945,7 +945,7 @@ Apr 27, 2022
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="4" data-listing-date-sort="1650924000000" data-listing-file-modified-sort="1790976229905" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="375">
+<div class="g-col-1" data-index="4" data-listing-date-sort="1650924000000" data-listing-file-modified-sort="1790979418055" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="375">
 <a href="../../../content/chartchallenge/cases2022/posts2022/day26_interactive/day26_interactive.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -956,7 +956,7 @@ Apr 27, 2022
 Interactive
 </h5>
 <div class="card-text listing-description delink">
-<p>Networks</p>
+<p>An interactive Bitcoin value time series from 2013 to 2018, with annotations marking major events.</p>
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -1353,7 +1353,7 @@ Apr 10, 2022
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="21" data-listing-date-sort="1649455200000" data-listing-file-modified-sort="1790976229906" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="283">
+<div class="g-col-1" data-index="21" data-listing-date-sort="1649455200000" data-listing-file-modified-sort="1790979481383" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="283">
 <a href="../../../content/chartchallenge/cases2022/posts2022/day9_statistics/day9_statistics.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -1364,7 +1364,7 @@ Apr 10, 2022
 Statistics
 </h5>
 <div class="card-text listing-description delink">
-<p>Networks</p>
+<p>A normalized comparison of wage distributions by education from 2003 to 2009 using the ISLR2 Wage dataset.</p>
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -1377,7 +1377,7 @@ Apr 9, 2022
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="22" data-listing-date-sort="1649368800000" data-listing-file-modified-sort="1790976229906" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="226">
+<div class="g-col-1" data-index="22" data-listing-date-sort="1649368800000" data-listing-file-modified-sort="1790979466790" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="226">
 <a href="../../../content/chartchallenge/cases2022/posts2022/day8_mountains/day8_mountains.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -1388,7 +1388,7 @@ Apr 9, 2022
 Mountains
 </h5>
 <div class="card-text listing-description delink">
-<p>Networks</p>
+<p>A world map locating the highest mountain peaks, including Everest and other Himalayan summits.</p>
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -1611,7 +1611,7 @@ Apr 1, 2022
 
 </div><a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
   <guid>https://fgazzelloni.github.io/UPDVwR/content/chartchallenge/cases2022/</guid>
-  <pubDate>Fri, 02 Oct 2026 22:14:12 GMT</pubDate>
+  <pubDate>Fri, 02 Oct 2026 22:55:11 GMT</pubDate>
   <media:content url="https://fgazzelloni.github.io/UPDVwR/content/chartchallenge/cases2022/collage/chart_collage_2022.png" medium="image" type="image/png" height="115" width="144"/>
 </item>
 <item>
@@ -1649,7 +1649,7 @@ Apr 1, 2022
   </div>
 </div>
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-listing-date-sort="1682805600000" data-listing-file-modified-sort="1790974728805" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="590">
+<div class="g-col-1" data-index="0" data-listing-date-sort="1682805600000" data-listing-file-modified-sort="1790979570762" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="590">
 <a href="../../../content/chartchallenge/cases2023/posts2023/day30_data_day/day30_data_day.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -1660,7 +1660,7 @@ Apr 1, 2022
 Data day
 </h5>
 <div class="card-text listing-description delink">
-<p>Networks</p>
+<p>A world map of the World Bank multidimensional poverty index, grouped into five index ranges.</p>
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -1673,7 +1673,7 @@ Apr 30, 2023
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="1" data-listing-date-sort="1682719200000" data-listing-file-modified-sort="1790976229908" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="984">
+<div class="g-col-1" data-index="1" data-listing-date-sort="1682719200000" data-listing-file-modified-sort="1790979570762" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="984">
 <a href="../../../content/chartchallenge/cases2023/posts2023/day29_monochrome/day29_monochrome.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -1684,7 +1684,7 @@ Apr 30, 2023
 Monochrome
 </h5>
 <div class="card-text listing-description delink">
-<p>Networks</p>
+<p>A monochrome map of Lyme disease data from the US Centers for Disease Control and Prevention.</p>
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -1697,7 +1697,7 @@ Apr 29, 2023
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="2" data-listing-date-sort="1682632800000" data-listing-file-modified-sort="1790976229907" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="490">
+<div class="g-col-1" data-index="2" data-listing-date-sort="1682632800000" data-listing-file-modified-sort="1790979570762" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="490">
 <a href="../../../content/chartchallenge/cases2023/posts2023/day28_trend/day28_trend.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -1708,7 +1708,7 @@ Apr 29, 2023
 Trend
 </h5>
 <div class="card-text listing-description delink">
-<p>Networks</p>
+<p>A time-series view of Australian population and GDP per capita with an exponential-smoothing forecast.</p>
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -1721,7 +1721,7 @@ Apr 28, 2023
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="3" data-listing-date-sort="1682546400000" data-listing-file-modified-sort="1790976229907" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="256">
+<div class="g-col-1" data-index="3" data-listing-date-sort="1682546400000" data-listing-file-modified-sort="1790979570762" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="256">
 <a href="../../../content/chartchallenge/cases2023/posts2023/day27_good_bad/day27_good_bad.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -1732,7 +1732,7 @@ Apr 28, 2023
 Good bad
 </h5>
 <div class="card-text listing-description delink">
-<p>Networks</p>
+<p>A good-versus-bad word cloud comparing terms in the 30DayChartChallenge visualization.</p>
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -1745,7 +1745,7 @@ Apr 27, 2023
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="4" data-listing-date-sort="1682460000000" data-listing-file-modified-sort="1790974728804" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="837">
+<div class="g-col-1" data-index="4" data-listing-date-sort="1682460000000" data-listing-file-modified-sort="1790979570762" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="837">
 <a href="../../../content/chartchallenge/cases2023/posts2023/day26_local_change/day26_local_change.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -1756,7 +1756,7 @@ Apr 27, 2023
 Local change
 </h5>
 <div class="card-text listing-description delink">
-<p>Networks</p>
+<p>A chart comparing London Marathon charity fundraising with donation acceptance, scaled by standard deviation.</p>
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -1769,7 +1769,7 @@ Apr 26, 2023
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="5" data-listing-date-sort="1682373600000" data-listing-file-modified-sort="1790976229907" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="179">
+<div class="g-col-1" data-index="5" data-listing-date-sort="1682373600000" data-listing-file-modified-sort="1790979570762" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="179">
 <a href="../../../content/chartchallenge/cases2023/posts2023/day25_gobal_change/day25_gobal_change.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -1780,7 +1780,7 @@ Apr 26, 2023
 Gobal change
 </h5>
 <div class="card-text listing-description delink">
-<p>Networks</p>
+<p>An animation tracking changes in population face-covering use during COVID-19.</p>
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -1793,7 +1793,7 @@ Apr 25, 2023
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="6" data-listing-date-sort="1682287200000" data-listing-file-modified-sort="1790974728803" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="257">
+<div class="g-col-1" data-index="6" data-listing-date-sort="1682287200000" data-listing-file-modified-sort="1790979570735" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="257">
 <a href="../../../content/chartchallenge/cases2023/posts2023/day24_theme_day/day24_theme_day.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -1804,7 +1804,7 @@ Apr 25, 2023
 Theme day
 </h5>
 <div class="card-text listing-description delink">
-<p>Networks</p>
+<p>A chart of global births by five-year age group of the mother, with counts shown in thousands.</p>
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -1817,7 +1817,7 @@ Apr 24, 2023
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="7" data-listing-date-sort="1682200800000" data-listing-file-modified-sort="1790974728803" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="571">
+<div class="g-col-1" data-index="7" data-listing-date-sort="1682200800000" data-listing-file-modified-sort="1790979570735" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="571">
 <a href="../../../content/chartchallenge/cases2023/posts2023/day23_tiles/day23_tiles.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -1828,7 +1828,7 @@ Apr 24, 2023
 Tiles
 </h5>
 <div class="card-text listing-description delink">
-<p>Networks</p>
+<p>A tiled view of Neolithic founder crops, including wheat, barley, lentils, peas, chickpeas, vetch, and flax.</p>
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -1841,7 +1841,7 @@ Apr 23, 2023
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="8" data-listing-date-sort="1682114400000" data-listing-file-modified-sort="1790976229907" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="343">
+<div class="g-col-1" data-index="8" data-listing-date-sort="1682114400000" data-listing-file-modified-sort="1790979570735" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="343">
 <a href="../../../content/chartchallenge/cases2023/posts2023/day22_greenenergy/day22_greenenergy.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -1852,7 +1852,7 @@ Apr 23, 2023
 Greenenergy
 </h5>
 <div class="card-text listing-description delink">
-<p>Networks</p>
+<p>A visualization of renewable energy sources using Eurostat data for the Green Energy theme.</p>
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -1865,7 +1865,7 @@ Apr 22, 2023
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="9" data-listing-date-sort="1682028000000" data-listing-file-modified-sort="1790974728803" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="857">
+<div class="g-col-1" data-index="9" data-listing-date-sort="1682028000000" data-listing-file-modified-sort="1790979570735" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="857">
 <a href="../../../content/chartchallenge/cases2023/posts2023/day21_down_upwards/day21_down_upwards.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -1876,7 +1876,7 @@ Apr 22, 2023
 Down upwards
 </h5>
 <div class="card-text listing-description delink">
-<p>Networks</p>
+<p>A comparison of US egg production by hens and eggs from August 2016 to February 2021.</p>
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -1889,7 +1889,7 @@ Apr 21, 2023
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="10" data-listing-date-sort="1681941600000" data-listing-file-modified-sort="1790974728802" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="494">
+<div class="g-col-1" data-index="10" data-listing-date-sort="1681941600000" data-listing-file-modified-sort="1790979570727" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="494">
 <a href="../../../content/chartchallenge/cases2023/posts2023/day20_correlation/day20_correlation.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -1900,7 +1900,7 @@ Apr 21, 2023
 Correlation
 </h5>
 <div class="card-text listing-description delink">
-<p>Networks</p>
+<p>A correlation analysis of Premier League match statistics, including fouls, shots, and cards.</p>
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -1913,7 +1913,7 @@ Apr 20, 2023
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="11" data-listing-date-sort="1681855200000" data-listing-file-modified-sort="1790976229907" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="739">
+<div class="g-col-1" data-index="11" data-listing-date-sort="1681855200000" data-listing-file-modified-sort="1790979570727" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="739">
 <a href="../../../content/chartchallenge/cases2023/posts2023/day19_anthropocene/day19_anthropocene.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -1924,7 +1924,7 @@ Apr 20, 2023
 Anthropocene
 </h5>
 <div class="card-text listing-description delink">
-<p>Networks</p>
+<p>A chart of the declining Sierra Nevada yellow-legged frog population using GBIF observations.</p>
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -1937,7 +1937,7 @@ Apr 19, 2023
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="12" data-listing-date-sort="1681768800000" data-listing-file-modified-sort="1790974728802" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="392">
+<div class="g-col-1" data-index="12" data-listing-date-sort="1681768800000" data-listing-file-modified-sort="1790979570727" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="392">
 <a href="../../../content/chartchallenge/cases2023/posts2023/day18_data_day/day18_data_day.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -1948,7 +1948,7 @@ Apr 19, 2023
 Data day
 </h5>
 <div class="card-text listing-description delink">
-<p>Networks</p>
+<p>A comparison of healthy life years by sex in 2020 using Eurostat data.</p>
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -1985,7 +1985,7 @@ Apr 17, 2023
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="14" data-listing-date-sort="1681596000000" data-listing-file-modified-sort="1790976229906" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="665">
+<div class="g-col-1" data-index="14" data-listing-date-sort="1681596000000" data-listing-file-modified-sort="1790979570727" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="665">
 <a href="../../../content/chartchallenge/cases2023/posts2023/day16_family/day16_family.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -1996,7 +1996,7 @@ Apr 17, 2023
 Family
 </h5>
 <div class="card-text listing-description delink">
-<p>Networks</p>
+<p>A family-themed word cloud created for the 30DayChartChallenge.</p>
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -2009,7 +2009,7 @@ Apr 16, 2023
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="15" data-listing-date-sort="1681509600000" data-listing-file-modified-sort="1790974728801" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="383">
+<div class="g-col-1" data-index="15" data-listing-date-sort="1681509600000" data-listing-file-modified-sort="1790979570727" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="383">
 <a href="../../../content/chartchallenge/cases2023/posts2023/day15_positive_negative/day15_positive_negative.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -2020,7 +2020,7 @@ Apr 16, 2023
 Positive negative
 </h5>
 <div class="card-text listing-description delink">
-<p>Networks</p>
+<p>A coordinate-based view of time-zone locations, using positive and negative geographic coordinates.</p>
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -2033,7 +2033,7 @@ Apr 15, 2023
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="16" data-listing-date-sort="1681423200000" data-listing-file-modified-sort="1790974728800" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="105">
+<div class="g-col-1" data-index="16" data-listing-date-sort="1681423200000" data-listing-file-modified-sort="1790979570727" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="105">
 <a href="../../../content/chartchallenge/cases2023/posts2023/day14_new_tool/day14_new_tool.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -2044,7 +2044,7 @@ Apr 15, 2023
 New tool
 </h5>
 <div class="card-text listing-description delink">
-<p>Networks</p>
+<p>A visualization of programming-language creation dates, ranks, types, and user counts from the TidyTuesday dataset.</p>
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -2057,7 +2057,7 @@ Apr 14, 2023
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="17" data-listing-date-sort="1681336800000" data-listing-file-modified-sort="1790974728800" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="9" data-listing-word-count-sort="1790">
+<div class="g-col-1" data-index="17" data-listing-date-sort="1681336800000" data-listing-file-modified-sort="1790979570727" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="9" data-listing-word-count-sort="1790">
 <a href="../../../content/chartchallenge/cases2023/posts2023/day13_popculture/day13_popculture.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -2068,7 +2068,7 @@ Apr 14, 2023
 Popculture
 </h5>
 <div class="card-text listing-description delink">
-<p>Networks</p>
+<p>A pop-culture timeline of books, films, and shows addressing mental health, cancer, and opioid addiction.</p>
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -2081,7 +2081,7 @@ Apr 13, 2023
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="18" data-listing-date-sort="1681250400000" data-listing-file-modified-sort="1790974728800" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="433">
+<div class="g-col-1" data-index="18" data-listing-date-sort="1681250400000" data-listing-file-modified-sort="1790979570480" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="433">
 <a href="../../../content/chartchallenge/cases2023/posts2023/day12_theme_day/day12_theme_day.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -2092,7 +2092,7 @@ Apr 13, 2023
 Theme day
 </h5>
 <div class="card-text listing-description delink">
-<p>Networks</p>
+<p>A map of endangered numbat habitat and geographic distribution across Australia.</p>
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -2105,7 +2105,7 @@ Apr 12, 2023
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="19" data-listing-date-sort="1681164000000" data-listing-file-modified-sort="1790974728799" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="200">
+<div class="g-col-1" data-index="19" data-listing-date-sort="1681164000000" data-listing-file-modified-sort="1790979570493" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="200">
 <a href="../../../content/chartchallenge/cases2023/posts2023/day11_circular/day11_circular.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -2116,7 +2116,7 @@ Apr 12, 2023
 Circular
 </h5>
 <div class="card-text listing-description delink">
-<p>Networks</p>
+<p>A circular visualization of sentiment in African-language text using the TidyTuesday dataset.</p>
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -2129,7 +2129,7 @@ Apr 11, 2023
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="20" data-listing-date-sort="1681077600000" data-listing-file-modified-sort="1790974728799" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="152">
+<div class="g-col-1" data-index="20" data-listing-date-sort="1681077600000" data-listing-file-modified-sort="1790979570443" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="152">
 <a href="../../../content/chartchallenge/cases2023/posts2023/day10_hybrid/day10_hybrid.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -2140,7 +2140,7 @@ Apr 11, 2023
 Hybrid
 </h5>
 <div class="card-text listing-description delink">
-<p>Networks</p>
+<p>A hybrid chart comparing color variation across Bob Ross paintings from the TidyTuesday collection.</p>
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -2153,7 +2153,7 @@ Apr 10, 2023
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="21" data-listing-date-sort="1680991200000" data-listing-file-modified-sort="1790974728807" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="129">
+<div class="g-col-1" data-index="21" data-listing-date-sort="1680991200000" data-listing-file-modified-sort="1790979570786" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="129">
 <a href="../../../content/chartchallenge/cases2023/posts2023/day9_high_low/day9_high_low.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -2164,7 +2164,7 @@ Apr 10, 2023
 High low
 </h5>
 <div class="card-text listing-description delink">
-<p>Networks</p>
+<p>A comparison of average age gaps in Hollywood, showing age differences and counts.</p>
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -2177,7 +2177,7 @@ Apr 9, 2023
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="22" data-listing-date-sort="1680904800000" data-listing-file-modified-sort="1790974728807" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="579">
+<div class="g-col-1" data-index="22" data-listing-date-sort="1680904800000" data-listing-file-modified-sort="1790979570767" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="579">
 <a href="../../../content/chartchallenge/cases2023/posts2023/day8_humans/day8_humans.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -2188,7 +2188,7 @@ Apr 9, 2023
 Humans
 </h5>
 <div class="card-text listing-description delink">
-<p>Networks</p>
+<p>A time-series chart of Big Tech stock prices, showing price changes over time.</p>
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -2201,7 +2201,7 @@ Apr 8, 2023
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="23" data-listing-date-sort="1680818400000" data-listing-file-modified-sort="1790974728807" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="404">
+<div class="g-col-1" data-index="23" data-listing-date-sort="1680818400000" data-listing-file-modified-sort="1790979570765" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="404">
 <a href="../../../content/chartchallenge/cases2023/posts2023/day7_hazard/day7_hazard.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -2212,7 +2212,7 @@ Apr 8, 2023
 Hazard
 </h5>
 <div class="card-text listing-description delink">
-<p>Networks</p>
+<p>A Kaplan-Meier survival chart of pet cats in the United Kingdom using TidyTuesday data.</p>
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -2225,7 +2225,7 @@ Apr 7, 2023
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="24" data-listing-date-sort="1680732000000" data-listing-file-modified-sort="1790974728806" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="516">
+<div class="g-col-1" data-index="24" data-listing-date-sort="1680732000000" data-listing-file-modified-sort="1790979570765" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="516">
 <a href="../../../content/chartchallenge/cases2023/posts2023/day6_data_day/day6_data_day.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -2236,7 +2236,7 @@ Apr 7, 2023
 Data day
 </h5>
 <div class="card-text listing-description delink">
-<p>Networks</p>
+<p>A comparison of Canadian Alone TV viewership and Our World in Data COVID-19 case counts during 2020.</p>
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -2249,7 +2249,7 @@ Apr 6, 2023
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="25" data-listing-date-sort="1680645600000" data-listing-file-modified-sort="1790974728806" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="637">
+<div class="g-col-1" data-index="25" data-listing-date-sort="1680645600000" data-listing-file-modified-sort="1790979570762" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="637">
 <a href="../../../content/chartchallenge/cases2023/posts2023/day5_slope/day5_slope.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -2260,7 +2260,7 @@ Apr 6, 2023
 Slope
 </h5>
 <div class="card-text listing-description delink">
-<p>Networks</p>
+<p>A slope chart comparing how much space male Italian artists occupied in art-history textbooks.</p>
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -2273,7 +2273,7 @@ Apr 5, 2023
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="26" data-listing-date-sort="1680559200000" data-listing-file-modified-sort="1790974728806" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="557">
+<div class="g-col-1" data-index="26" data-listing-date-sort="1680559200000" data-listing-file-modified-sort="1790979570763" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="557">
 <a href="../../../content/chartchallenge/cases2023/posts2023/day4_historical/day4_historical.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -2284,7 +2284,7 @@ Apr 5, 2023
 Historical
 </h5>
 <div class="card-text listing-description delink">
-<p>Networks</p>
+<p>A historical chart of the maximum number of birds seen at one time during FeederWatch observations.</p>
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -2297,7 +2297,7 @@ Apr 4, 2023
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="27" data-listing-date-sort="1680472800000" data-listing-file-modified-sort="1790974728806" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="563">
+<div class="g-col-1" data-index="27" data-listing-date-sort="1680472800000" data-listing-file-modified-sort="1790979570762" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="563">
 <a href="../../../content/chartchallenge/cases2023/posts2023/day3_fauna_flora/day3_fauna_flora.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -2308,7 +2308,7 @@ Apr 4, 2023
 Fauna flora
 </h5>
 <div class="card-text listing-description delink">
-<p>Networks</p>
+<p>A map of Oregon spotted frogs showing their locations and density distributions by sex.</p>
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -2321,7 +2321,7 @@ Apr 3, 2023
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="28" data-listing-date-sort="1680386400000" data-listing-file-modified-sort="1790975359360" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="319">
+<div class="g-col-1" data-index="28" data-listing-date-sort="1680386400000" data-listing-file-modified-sort="1790979570735" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="319">
 <a href="../../../content/chartchallenge/cases2023/posts2023/day2_waffle/day2_waffle.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -2332,7 +2332,7 @@ Apr 3, 2023
 Waffle
 </h5>
 <div class="card-text listing-description delink">
-<p>Networks</p>
+<p>A waffle chart of Star Trek book, story, and episode series using the TidyTuesday 2022 dataset.</p>
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -2345,7 +2345,7 @@ Apr 2, 2023
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="29" data-listing-date-sort="1680300000000" data-listing-file-modified-sort="1790974728802" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="835">
+<div class="g-col-1" data-index="29" data-listing-date-sort="1680300000000" data-listing-file-modified-sort="1790979570429" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="835">
 <a href="../../../content/chartchallenge/cases2023/posts2023/day1_part-to-whole/day1_part-to-whole.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -2356,7 +2356,7 @@ Apr 2, 2023
 Part-To-Whole
 </h5>
 <div class="card-text listing-description delink">
-<p>Networks</p>
+<p>A comparison of US weather forecast accuracy, connecting annual precipitation and monthly temperature patterns using TidyTuesday data.</p>
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -2374,7 +2374,7 @@ Apr 1, 2023
 
 </div><a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
   <guid>https://fgazzelloni.github.io/UPDVwR/content/chartchallenge/cases2023/</guid>
-  <pubDate>Fri, 02 Oct 2026 22:14:12 GMT</pubDate>
+  <pubDate>Fri, 02 Oct 2026 22:55:11 GMT</pubDate>
   <media:content url="https://fgazzelloni.github.io/UPDVwR/content/chartchallenge/cases2023/collage/chart_collage_2023.png" medium="image" type="image/png" height="115" width="144"/>
 </item>
 </channel>
