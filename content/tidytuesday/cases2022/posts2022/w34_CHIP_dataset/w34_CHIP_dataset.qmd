@@ -9,6 +9,7 @@ output: html_document
 execute: 
    eval: false
 ---
+![CHIP dataset visualization](<https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2022/w34_chips/w34_chips.png>)
 
 
 ```{r}

@@ -9,6 +9,7 @@ output: html_document
 execute: 
    eval: false
 ---
+![Oregon Spotted Frog visualization](<https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2022/w31_frogs/w31_frogs.png>)
 
 
 This is the final code for assembling all plots saved in the container images folder using {cowplot} package. In addition, some annotations and grobs are included.

@@ -8,6 +8,7 @@ output: html_document
 execute: 
   eval: false
 ---
+![Ask a Manager Survey visualization](<https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/ab924a20bbe270bab306f4b13df0daaa6e53ffeb/data/2021/w21_ask_a_manager_survey/w21_ask_a_manager_survey.png>)
 
 
 # Ask a Manager Survey

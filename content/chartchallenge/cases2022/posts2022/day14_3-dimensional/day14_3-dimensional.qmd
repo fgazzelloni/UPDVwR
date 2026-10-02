@@ -9,6 +9,7 @@ output: html_document
 execute: 
    eval: false
 ---
+![3-dimensional visualization](<https://raw.githubusercontent.com/Fgazzelloni/30DayChartChallenge/refs/heads/main/data/Edition_2022/images/day14_3-dimensional.png>)
 
 
 

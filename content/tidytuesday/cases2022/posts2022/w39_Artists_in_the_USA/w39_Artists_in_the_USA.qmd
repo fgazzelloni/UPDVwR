@@ -9,6 +9,7 @@ output: html_document
 execute: 
    eval: false
 ---
+![Artists in the USA visualization](<https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2022/w39_us_artists/w39_us_artists.png>)
 
 
 

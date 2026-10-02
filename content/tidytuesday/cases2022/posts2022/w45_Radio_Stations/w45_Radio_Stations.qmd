@@ -9,6 +9,7 @@ output: html_document
 execute: 
    eval: false
 ---
+![Radio Stations visualization](<https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2022/w45_radio_stations/w45_radio_stations.png>)
 
 
 

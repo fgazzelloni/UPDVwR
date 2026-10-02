@@ -9,6 +9,7 @@ output: html_document
 execute: 
    eval: false
 ---
+![UK Gender pay gap visualization](<https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2022/w26_paygap/w26_paygap.png>)
 
 
 

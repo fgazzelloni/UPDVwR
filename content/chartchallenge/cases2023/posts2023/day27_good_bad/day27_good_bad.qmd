@@ -2,13 +2,14 @@
 title: 'Good bad'
 subtitle: 'Welcome to #30DayChartChallenge 2023 day 27'
 date: '2023-04-27'
-image: 'day27_good_bad.png'
+image: 'https://raw.githubusercontent.com/Fgazzelloni/30DayChartChallenge/refs/heads/main/data/Edition_2023/images/day27_good_bad.png'
 image-alt: ''
 description: 'Networks'
 output: html_document
 execute: 
    eval: false
 ---
+![Good bad visualization](<https://raw.githubusercontent.com/Fgazzelloni/30DayChartChallenge/refs/heads/main/data/Edition_2023/images/day27_good_bad.png>)
 
 
 > Gazzelloni F. (2023), Data Visualization: Wordcloud Good/Bad

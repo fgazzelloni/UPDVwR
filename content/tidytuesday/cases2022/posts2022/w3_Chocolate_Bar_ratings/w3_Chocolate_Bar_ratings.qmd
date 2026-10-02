@@ -9,6 +9,7 @@ output: html_document
 execute: 
    eval: false
 ---
+![Chocolate Bar ratings visualization](<https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2022/w3_chocolate/w3_chocolate.png>)
 
 
 Here is a short tutorial for making a **flow map**: https://github.com/rafapereirabr/flow-map-in-r-ggplot

@@ -9,6 +9,7 @@ output: html_document
 execute: 
    eval: false
 ---
+![Collegiate Sports Budgets visualization](<https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2022/w13_sports/w13_sports.png>)
 
 
 ```{r}

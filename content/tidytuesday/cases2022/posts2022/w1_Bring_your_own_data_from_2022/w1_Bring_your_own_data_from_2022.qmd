@@ -9,6 +9,7 @@ output: html_document
 execute: 
    eval: false
 ---
+![Bring your own data from 2022 visualization](<https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2022/w1_your_own_data/your_own_data.png>)
 
 
 ## OMICRON INCREASE FROM 1 December 2021 TO 7 January 2022

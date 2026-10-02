@@ -9,6 +9,7 @@ output: html_document
 execute: 
    eval: false
 ---
+![African Language Sentiment visualization](<https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2023/w9_AfLS/w9_AfLS.png>)
 ```{r}
 library(tidyverse)
 tuesdata <- tidytuesdayR::tt_load(2023, week = 09)

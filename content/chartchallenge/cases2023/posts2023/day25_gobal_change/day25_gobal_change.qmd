@@ -2,13 +2,14 @@
 title: 'Gobal change'
 subtitle: 'Welcome to #30DayChartChallenge 2023 day 25'
 date: '2023-04-25'
-image: 'day25_gobal_change.gif'
+image: 'https://raw.githubusercontent.com/Fgazzelloni/30DayChartChallenge/refs/heads/main/data/Edition_2023/images/day25_GlobalChange.gif'
 image-alt: ''
 description: 'Networks'
 output: html_document
 execute: 
    eval: false
 ---
+![Gobal change visualization](<https://raw.githubusercontent.com/Fgazzelloni/30DayChartChallenge/refs/heads/main/data/Edition_2023/images/day25_GlobalChange.gif>)
 
 
 > Gazzelloni F. (2023), Data Visualization: Global Change

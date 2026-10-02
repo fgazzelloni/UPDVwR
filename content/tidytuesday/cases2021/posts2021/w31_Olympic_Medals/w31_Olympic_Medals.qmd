@@ -8,6 +8,7 @@ output: html_document
 execute: 
   eval: false
 ---
+![Olympic Medals visualization](<https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/ab924a20bbe270bab306f4b13df0daaa6e53ffeb/data/2021/w31_olympic_medals/w31_olympic_medals.png>)
 
 35 Years of Olympic Games
 

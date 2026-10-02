@@ -8,6 +8,7 @@ output: html_document
 execute: 
   eval: false
 ---
+![Lemurs visualization](<https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/ab924a20bbe270bab306f4b13df0daaa6e53ffeb/data/2021/w35_lemurs/w35_lemurs.png>)
 
 
 # inspired by https://github.com/cararthompson/30DayChartChallenge/blob/main/scripts/2.2_animals.R

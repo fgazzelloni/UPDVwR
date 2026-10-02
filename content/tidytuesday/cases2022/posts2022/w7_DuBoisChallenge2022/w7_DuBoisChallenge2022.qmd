@@ -9,6 +9,7 @@ output: html_document
 execute: 
    eval: false
 ---
+![DuBoisChallenge2022 visualization](<https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2022/w7_dubois/w7_number6.png>)
 
 
 This week is all about **#DuBoisChallenge2022**, I choose plate number 6.

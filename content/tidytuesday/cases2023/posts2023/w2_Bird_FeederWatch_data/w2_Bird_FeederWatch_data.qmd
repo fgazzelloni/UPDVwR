@@ -8,6 +8,7 @@ output: html_document
 execute: 
    eval: false
 ---
+![Bird FeederWatch data visualization](<https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2023/w2_BFWd/w2_BFWd.png>)
 Resources: 
 
 - [https://github.com/rfordatascience/tidytuesday/tree/master/data/2023/2023-01-10](https://github.com/rfordatascience/tidytuesday/tree/master/data/2023/2023-01-10)

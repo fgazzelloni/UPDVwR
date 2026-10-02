@@ -9,6 +9,7 @@ output: html_document
 execute: 
    eval: false
 ---
+![Kaggle Hidden Gems visualization](<https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2022/w17_hidden_gems/day28_deviations.png>)
 
 
 

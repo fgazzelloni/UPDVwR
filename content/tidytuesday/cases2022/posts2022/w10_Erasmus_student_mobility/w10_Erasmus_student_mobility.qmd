@@ -9,6 +9,7 @@ output: html_document
 execute: 
    eval: false
 ---
+![Erasmus student mobility visualization](<https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2022/w10_erasmus/er-network.png>)
 
 ```{r}
 

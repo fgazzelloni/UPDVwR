@@ -8,6 +8,7 @@ output: html_document
 execute: 
    eval: false
 ---
+![Art history data visualization](<https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2023/w3_Arhd/w3_Arhd.png>)
 
 Looking at making **slopes** for the **#30DayCahrtChallenge 2023 - day 5**
 ```{r}

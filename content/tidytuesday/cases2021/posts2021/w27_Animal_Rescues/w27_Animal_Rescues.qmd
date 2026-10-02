@@ -8,6 +8,7 @@ output: html_document
 execute: 
   eval: false
 ---
+![Animal Rescues visualization](<https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/ab924a20bbe270bab306f4b13df0daaa6e53ffeb/data/2021/w27_animal_rescues/w27_animal_rescues.png>)
 
 # Week 27 TidyTuesday Animal Rescues
 

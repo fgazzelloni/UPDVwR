@@ -9,6 +9,7 @@ output: html_document
 execute: 
    eval: false
 ---
+![Programming Languages visualization](<https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2023/w12_PrgL/w12_PrgL.png>)
 ```{r}
 library(tidyverse)
 tuesdata <- tidytuesdayR::tt_load(2023, week = 12)

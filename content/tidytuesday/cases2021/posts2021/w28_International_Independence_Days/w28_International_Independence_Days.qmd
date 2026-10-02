@@ -8,6 +8,7 @@ output: html_document
 execute: 
   eval: false
 ---
+![International Independence Days visualization](<https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/ab924a20bbe270bab306f4b13df0daaa6e53ffeb/data/2021/w28_independence_days/w28_independence_days.png>)
 
 
 ```{r message=FALSE, warning=FALSE}

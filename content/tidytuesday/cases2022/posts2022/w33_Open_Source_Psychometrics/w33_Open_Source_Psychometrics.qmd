@@ -9,6 +9,7 @@ output: html_document
 execute: 
    eval: false
 ---
+![Open Source Psychometrics visualization](<https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2022/w33_psychometrics/w33_psychometrics.png>)
 
 
 ```{r setup, include=FALSE}

@@ -8,6 +8,7 @@ output: html_document
 execute: 
   eval: false
 ---
+![US Broadband visualization](<https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/ab924a20bbe270bab306f4b13df0daaa6e53ffeb/data/2021/w20_us_broadband/w20_us_broadband.png>)
 
 ```{r}
 

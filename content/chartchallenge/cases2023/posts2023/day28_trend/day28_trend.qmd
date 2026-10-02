@@ -2,13 +2,14 @@
 title: 'Trend'
 subtitle: 'Welcome to #30DayChartChallenge 2023 day 28'
 date: '2023-04-28'
-image: 'day28_trend.gif'
+image: 'https://raw.githubusercontent.com/Fgazzelloni/30DayChartChallenge/refs/heads/main/data/Edition_2023/images/day28_trend.gif'
 image-alt: ''
 description: 'Networks'
 output: html_document
 execute: 
    eval: false
 ---
+![Trend visualization](<https://raw.githubusercontent.com/Fgazzelloni/30DayChartChallenge/refs/heads/main/data/Edition_2023/images/day28_trend.gif>)
 
 
 > Gazzelloni F. (2023), Data Visualization: Australia GDP per capita Trend

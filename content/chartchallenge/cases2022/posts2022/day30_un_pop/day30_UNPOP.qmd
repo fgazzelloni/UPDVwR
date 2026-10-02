@@ -9,6 +9,7 @@ output: html_document
 execute: 
    eval: false
 ---
+![UN POP visualization](<https://raw.githubusercontent.com/Fgazzelloni/30DayChartChallenge/refs/heads/main/data/Edition_2022/images/day30_dataday_un.png>)
 
 
 ```{r}

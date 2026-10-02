@@ -8,6 +8,7 @@ output: html_document
 execute: 
   eval: false
 ---
+![Scoobydoo visualization](<https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/ab924a20bbe270bab306f4b13df0daaa6e53ffeb/data/2021/w29_scoobydoo/w29_scoobydoo.png>)
 
 
 - [scooby doo font](https://fonts2u.com/scooby-doo.font)

@@ -9,6 +9,7 @@ output: html_document
 execute: 
    eval: false
 ---
+![Bring your own data to start 2023! visualization](<https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2023/w1_byod/w1_byo.png>)
 
 
 [#TidyTuesday - Edition 2023](https://github.com/rfordatascience/tidytuesday/tree/master/data/2023)

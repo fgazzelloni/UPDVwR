@@ -9,6 +9,7 @@ output: html_document
 execute: 
    eval: false
 ---
+![Company reputation poll visualization](<https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2022/w22_reputation/w22_reputation.png>)
 
 
 Axios and Harris Poll to gauge the reputation of the most visible brands in America, based on 20 years of Harris Poll research. 

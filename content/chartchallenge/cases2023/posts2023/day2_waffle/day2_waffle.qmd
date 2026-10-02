@@ -13,23 +13,22 @@ execute:
 
 
 Load the libraries
-```{r eval=TRUE}
+```{r eval=FALSE}
 library(tidyverse)
 ```
 
 
 
-```{r eval=TRUE}
-tuesdata <- tidytuesdayR::tt_load(2022, week = 52)
-tlBooks <- tuesdata$tlBooks
-tlFootnotes<-tuesdata$tlFootnotes
+```{r eval=FALSE}
+tlBooks <- readr::read_csv("https://raw.githubusercontent.com/rfordatascience/tidytuesday/main/data/2022/2022-12-27/tlBooks.csv")
+tlFootnotes <- readr::read_csv("https://raw.githubusercontent.com/rfordatascience/tidytuesday/main/data/2022/2022-12-27/tlFootnotes.csv")
 ```
 
-```{r eval=TRUE}
+```{r eval=FALSE}
 tlBooks%>%names
 ```
 
-```{r eval=TRUE}
+```{r eval=FALSE}
 tlFootnotes%>%names
 ```
 
@@ -38,7 +37,7 @@ Join the two sets by `footnote`
 The new dataset combines, year, title, ... with the footnote of the `Star Trek Timelines`.
 The data comes from the {rtrek} package by Georgios Karamanis.
 
-```{r eval=TRUE}
+```{r eval=FALSE}
 df <- tlBooks %>%
   inner_join(tlFootnotes,by="footnote")
 
@@ -49,7 +48,7 @@ df%>%DataExplorer::profile_missing()%>%arrange(pct_missing)
 
 This is a little example from: [https://r-charts.com/part-whole/waffle-chart-ggplot2/](https://r-charts.com/part-whole/waffle-chart-ggplot2/)
 
-```{r eval=TRUE}
+```{r eval=FALSE}
 # install.packages("waffle", repos = "https://cinc.rud.is")
 library(waffle)
 
@@ -72,7 +71,7 @@ df%>%
 
 This `Waffle` is made of 12 different colors for identifying the `SSeries`. Here are used many colors from the `trekcolors` package for coloring the `series` of different colors. 
 
-```{r eval=TRUE}
+```{r eval=FALSE}
 # install.packages("trekcolors")
 library(trekcolors)
 # trekcolors::lcars_colors()
@@ -81,7 +80,7 @@ library(trekcolors)
 
 The fonts are from the `trekfont` package.
 
-```{r eval=TRUE}
+```{r eval=FALSE}
 # install.packages("trekfont")
 library(trekfont)
 # trekfont::show_trekfonts()
@@ -95,7 +94,7 @@ showtext_auto(enable = TRUE)
 
 
 
-```{r eval=TRUE}
+```{r eval=FALSE}
 library(waffle)
 df%>%
   count(series)%>%

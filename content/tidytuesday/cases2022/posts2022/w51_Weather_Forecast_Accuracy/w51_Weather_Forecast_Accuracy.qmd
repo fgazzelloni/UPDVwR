@@ -9,6 +9,7 @@ output: html_document
 execute: 
    eval: false
 ---
+![Weather Forecast Accuracy visualization](<https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2022/w51_weather_forecast_accuracy/w51_weather_forecast_accuray.png>)
 
 
 

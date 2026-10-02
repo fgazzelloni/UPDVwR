@@ -8,6 +8,7 @@ output: html_document
 execute: 
    eval: false
 ---
+![NBER Papers visualization](<https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/ab924a20bbe270bab306f4b13df0daaa6e53ffeb/data/2021/w40_NBER_papers/w40_NBER_papers.png>)
 
 # Title: "TidyTuesday Week 40 - NBER Programs Category"
 # Author: "Federica Gazzelloni"

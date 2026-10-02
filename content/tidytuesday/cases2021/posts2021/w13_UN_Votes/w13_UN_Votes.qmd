@@ -8,6 +8,7 @@ output: html_document
 execute: 
   eval: false
 ---
+![UN Votes visualization](<https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/ab924a20bbe270bab306f4b13df0daaa6e53ffeb/data/2021/w13_UN_votes/w13_UN_votes.png>)
 
 
 Libraries

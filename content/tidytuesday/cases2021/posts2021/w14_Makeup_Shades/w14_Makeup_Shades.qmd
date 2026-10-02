@@ -10,6 +10,7 @@ output: html_document
 execute: 
   eval: false
 ---
+![The Pudding visualization](<https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/ab924a20bbe270bab306f4b13df0daaa6e53ffeb/data/2021/w14_the_pudding/w14_the_pudding.png>)
 
 
 

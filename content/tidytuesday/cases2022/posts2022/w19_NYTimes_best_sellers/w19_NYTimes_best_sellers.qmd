@@ -9,6 +9,7 @@ output: html_document
 execute: 
    eval: false
 ---
+![NYTimes best sellers visualization](<https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2022/w19_nyt/w19_nyt.png>)
 
 
 

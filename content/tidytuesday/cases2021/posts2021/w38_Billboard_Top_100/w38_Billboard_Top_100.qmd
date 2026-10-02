@@ -8,6 +8,7 @@ output: html_document
 execute: 
   eval: false
 ---
+![Billboard visualization](<https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/ab924a20bbe270bab306f4b13df0daaa6e53ffeb/data/2021/w38_billboard/w38_billboard.png>)
 
 Load libraries:
 

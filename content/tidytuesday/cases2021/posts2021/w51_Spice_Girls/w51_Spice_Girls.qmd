@@ -8,6 +8,7 @@ output: html_document
 execute: 
    eval: false
 ---
+![Spice Girls visualization](<https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/ab924a20bbe270bab306f4b13df0daaa6e53ffeb/data/2021/w51_spice_girls/w51_spice_girls.png>)
 
 
 

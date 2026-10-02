@@ -9,6 +9,7 @@ output: html_document
 execute: 
    eval: false
 ---
+![San Francisco Rentals visualization](<https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2022/w27_rentals/w27_rentals.png>)
 
 
 

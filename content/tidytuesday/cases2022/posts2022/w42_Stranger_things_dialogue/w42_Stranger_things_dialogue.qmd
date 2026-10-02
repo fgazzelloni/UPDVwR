@@ -9,6 +9,7 @@ output: html_document
 execute: 
    eval: false
 ---
+![Stranger things dialogue visualization](<https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2022/w42_stranger_things_dialogue/w42_stranger_things_dialogue.png>)
 
 
 

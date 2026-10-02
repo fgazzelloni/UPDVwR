@@ -2,13 +2,14 @@
 title: 'Monochrome'
 subtitle: 'Welcome to #30DayChartChallenge 2023 day 29'
 date: '2023-04-29'
-image: 'day29_monochrome.png'
+image: 'https://raw.githubusercontent.com/Fgazzelloni/30DayChartChallenge/refs/heads/main/data/Edition_2023/images/day29_monochrome.png'
 image-alt: ''
 description: 'Networks'
 output: html_document
 execute: 
    eval: false
 ---
+![Monochrome visualization](<https://raw.githubusercontent.com/Fgazzelloni/30DayChartChallenge/refs/heads/main/data/Edition_2023/images/day29_monochrome.png>)
 
 
 > Gazzelloni F. (2023), Data Visualization: Lyme Disease Map

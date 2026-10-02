@@ -9,6 +9,7 @@ output: html_document
 execute: 
    eval: false
 ---
+![Mountains visualization](<https://raw.githubusercontent.com/Fgazzelloni/30DayChartChallenge/refs/heads/main/data/Edition_2022/images/day8_mountains.png>)
 
 
 ### Source for making a mountains.csv dataset

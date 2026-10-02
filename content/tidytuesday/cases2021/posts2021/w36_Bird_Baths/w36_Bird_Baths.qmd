@@ -8,6 +8,7 @@ output: html_document
 execute: 
   eval: false
 ---
+![Bird Baths visualization](<https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/ab924a20bbe270bab306f4b13df0daaa6e53ffeb/data/2021/w36_bird_baths/w36_bird_baths.png>)
 
 
 ```{r}

@@ -2,13 +2,14 @@
 title: 'Greenenergy'
 subtitle: 'Welcome to #30DayChartChallenge 2023 day 22'
 date: '2023-04-22'
-image: 'day22_greenenergy.png'
+image: 'https://raw.githubusercontent.com/Fgazzelloni/30DayChartChallenge/refs/heads/main/data/Edition_2023/images/day22_greenenergy.png'
 image-alt: ''
 description: 'Networks'
 output: html_document
 execute: 
    eval: false
 ---
+![Greenenergy visualization](<https://raw.githubusercontent.com/Fgazzelloni/30DayChartChallenge/refs/heads/main/data/Edition_2023/images/day22_greenenergy.png>)
 
 
 > Gazzelloni F. (2023), Data Visualization: Green energy

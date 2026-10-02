@@ -8,6 +8,7 @@ output: html_document
 execute: 
    eval: false
 ---
+![Big Tech Stock Prices visualization](<https://raw.githubusercontent.com/Fgazzelloni/TidyTuesday/main/data/2023/w6_BTSP/w6_BTSP.png>)
 
 ```{r}
 library(tidyverse)

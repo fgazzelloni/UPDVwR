@@ -2,13 +2,14 @@
 title: 'Connections'
 subtitle: 'Welcome to #30DayChartChallenge 2022 day 17'
 date: '2022-04-17'
-image: 'https://raw.githubusercontent.com/Fgazzelloni/30DayChartChallenge/refs/heads/main/data/Edition_2022/images/day17_bird-network.png'
+image: 'https://raw.githubusercontent.com/Fgazzelloni/30DayChartChallenge/refs/heads/main/data/Edition_2022/images/day17_connections.png'
 image-alt: ''
 description: 'Networks'
 output: html_document
 execute: 
    eval: false
 ---
+![Connections visualization](<https://raw.githubusercontent.com/Fgazzelloni/30DayChartChallenge/refs/heads/main/data/Edition_2022/images/day17_connections.png>)
 
 
 

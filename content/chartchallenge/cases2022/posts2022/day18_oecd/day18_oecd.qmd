@@ -9,6 +9,7 @@ output: html_document
 execute: 
    eval: false
 ---
+![OECD visualization](<https://raw.githubusercontent.com/Fgazzelloni/30DayChartChallenge/refs/heads/main/data/Edition_2022/images/day18_oecd.png>)
 
 
 
