@@ -5,7 +5,7 @@ website:
   twitter-card:
     site: "@fgazzelloni"
   open-graph: true
-  site-url: https://bookdown.org/fede_gazzelloni/UPDVwR/
+  site-url: https://fgazzelloni.github.io/UPDVwR/
   repo-url: https://github.com/Fgazzelloni/UPDVwR
   repo-actions: [edit, issue]
   cookie-consent:
@@ -97,8 +97,5 @@ website:
       - href: https://www.linkedin.com/in/federicagazzelloni
         icon: linkedin
         aria-label: LinkedIn
-      - href: index.xml
-        icon: rss
-        aria-label: UPDVwR rss
     right: |
       [Terms & Conditions](/ts-and-cs.qmd)

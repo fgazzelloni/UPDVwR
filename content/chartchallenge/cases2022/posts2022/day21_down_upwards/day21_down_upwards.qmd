@@ -2,7 +2,7 @@
 title: 'Down upwards'
 subtitle: 'Welcome to #30DayChartChallenge 2022 day 21'
 date: '2022-04-21'
-image: 'https://raw.githubusercontent.com/Fgazzelloni/30DayChartChallenge/refs/heads/main/data/Edition_2022/images/day1_part_to_whole.qmd'
+image: 'https://raw.githubusercontent.com/Fgazzelloni/30DayChartChallenge/refs/heads/main/data/Edition_2022/images/day21_down_upwards.png'
 image-alt: ''
 description: 'Networks'
 output: html_document

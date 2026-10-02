@@ -10,7 +10,7 @@ execute:
    eval: false
 ---
 
-<center>![](NA)</center>
+<center>![](https://raw.githubusercontent.com/Fgazzelloni/30DayMapChallenge/master/2021/day15_nopc/IMG_1518.JPG)</center>
 
 
 # Overview

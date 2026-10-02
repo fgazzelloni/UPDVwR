@@ -2,7 +2,7 @@
 title: 'Storytelling'
 subtitle: 'Welcome to #30DayChartChallenge 2022 day 29'
 date: '2022-04-29'
-image: 'https://raw.githubusercontent.com/Fgazzelloni/30DayChartChallenge/refs/heads/main/data/Edition_2022/images/day1_part_to_whole.qmd'
+image: 'https://raw.githubusercontent.com/Fgazzelloni/30DayChartChallenge/refs/heads/main/data/Edition_2022/images/day29_storytelling.png'
 image-alt: ''
 description: 'Networks'
 output: html_document
